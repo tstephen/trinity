@@ -17,12 +17,13 @@ enableRobotsTXT = true
   body_classes = "sans-serif bg-mid-gray"
   post_content_classes = "sans-serif"
   text_color = "near-white"
+  secondary_text_color = "light-silver"
   author = ""
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-blue"
+  background_color_class = "bg-dark-blue"
   #featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
 
