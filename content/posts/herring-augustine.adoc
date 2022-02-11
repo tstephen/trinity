@@ -1,0 +1,851 @@
+---
+title: The African Pilgrim
+author: "George Herring"
+description: ""
+date: 2022-02-11T01:19:32Z
+categories: 
+  - St Augustine of Hippo
+  - Introduction to church history
+  - Introduction to the history of Christianity
+tags:
+  - Trinity College, Bristol and Bristol Baptist College
+  - Augustine
+draft: true
+---
+
+## 4 - The African Pilgrim
+
+We speak God’s wisdom, secret and hidden, which God decreed before
+the ages for our glory. (1 Cor. 2:7)
+
+One summer's evening in the year 386 a man sat in a garden in Milan. From
+Eden to Gethsemane, gardens had been the settings for some of the greatest of
+spiritual dramas. Now once again the scene was set for the climax and resolution of another, but this time intensely personal, conflict. Having asked his
+friends to leave him in solitude, this man, in his early thirties, his body
+wracked with emotions and tears pouring from his eyes, seemed to be on the
+verge of what we would now call a nervous breakdown. What had brought
+him to this place in such a condition? And why was this small personal drama
+to be of such significance not only for early Christianity but also for the future
+history of the Latin West?
+
+### The Restless Heart
+
+Thagaste was a small provincial town in Roman north Africa, now called Souk
+Ahras and in modern Algeria. About 200 miles from the Mediterranean, it was
+on the southern fringes of the fertile belt whose produce helped to feed the
+great city of Rome. Here in the mid-fourth century a minor pagan landowner,
+Patricius, married a Christian wife, Monica, and subsequently produced three
+children, two boys and a girl. One of these sons, Aurelius Augustinus, born in
+354, was clearly a boy of some intellectual promise. Educated in Thagaste itself,
+and subsequently in the somewhat more prominent nearby town of Madauros,
+at the age of fifteen this academic progress was temporarily halted for about a
+year while his father sought for the funds to continue it in the far more prestigious, but expensive, Carthage. During these months of relative idleness the
+boy had his first serious encounter with a garden. As part of a gang of youths he
+stole pears from the orchard of one of his father’s neighbours. This adolescent
+exploit was later to cause the mature man much spiritual questioning; he saw it
+as a parable of original sin, his theft of the inedible pears a minor repetition of
+the stolen fruit of paradise. But eventually the greatest landowner in Thagaste,
+Romanianus, supplemented his father’s meagre means, and in 370 at the age
+of sixteen he at last set out for Carthage, the great port and regional capital
+of north Africa, the only city in the West that could even begin to rival the
+magnificence of Rome or xref:/pages/places.adoc#Alexandria[Alexandria,role=place].
+
+Here over the next few years he was to make his first lifelong friendships,
+engage in his first sexual exploits culminating in the taking of a concubine and
+the birth of a son, Adeodatus, to discover xref:/pages/people.adoc#xref:/pages/people.adoc#Cicero[Cicero,role=person][xref:/pages/people.adoc#Cicero[Cicero,role=person],role=person], and lose one religious faith
+and find another. Technically a catechumen, he had almost been baptized
+when his life seemed to be in danger from a childhood disease, and he had
+continued to attend the first part of the Christian Eucharist. His reading of
+xref:/pages/people.adoc#Cicero[Cicero,role=person]’s _Hortensius_, however, both turned his mind to a more serious pursuit
+of philosophy and reawakened his religious instincts. But, as he returned to
+reading the Christian scriptures, his profound disappointment with their poor
+style in comparison to the great classical authors, especially in the abysmal
+Latin translations then available to him, led to disillusionment with the faith of
+his mother. In 373 at the age of nineteen he experienced his first religious
+conversion: to xref:/pages/glossary.adoc#Manichaeism[Manichaeism,role=concept]. He was to remain a Hearer for nine years. The
+claims of the Manichees that their beliefs were founded on reason, their repudiation of the Jewish scriptures, and their dualistic explanation of the problem
+of evil, seemed to present better answers than Christianity to many of his
+pressing problems.
+
+By 376 he had completed his formal education and was now himself a
+teacher in Carthage. His continuing religious questionings, however, were
+leading to his first doubts about xref:/pages/glossary.adoc#xref:/pages/glossary.adoc#Manichaeism[Manichaeism,role=concept][xref:/pages/glossary.adoc#Manichaeism[Manichaeism,role=concept],role=concept] and its ability to answer not only
+his questions but also those of his closest friends Alypius and Nebridius. This
+fresh disillusionment was compounded when the famous Manichaean Bishop,
+Faustus, visited the city and was quite unable to satisfy these young intellectuals when confronted by their probing examination. Carthage in any case was
+proving to be too restricted a stage for the fulfilment of their ambitions, and so
+in 382 they set sail for Rome and wider horizons. Here in Italy he would find
+the patrons he needed among the wealthiest aristocrats of the Empire. One of
+these, the prominent pagan senator, Symmachus, arranged for him to be
+appointed as professor of rhetoric in the city of Milan, now effectively the
+main centre of government in the western half of the Empire. He moved
+there in the autumn of 384, eventually to be joined by Alypius, Nebridius, his
+concubine and son, and his mother, Monica.
+
+[#page-108]
+
+Milan was not only the residence of the Emperor, however; it was also the
+episcopal city of Ambrose. Never before had the African encountered a Christian like him. From a wealthy aristocratic family, he had been elected Bishop
+against his wishes in 373 while still an unbaptized provincial governor. Our
+young African went to the basilica to hear him preach, initially more out of
+secular interest, to experience a master of oratory, rather than for the religious
+content of the sermons. But what he heard had a profound effect on him. Here
+was a man of lofty social status, with an intellect and education to match his
+own, who for the first time presented to him a spiritual interpretation of the
+Jewish scriptures which not only satisfied him on an intellectual level but also
+offered an effective refutation of their dismissal by the xref:/pages/concept.adoc#Manichacans[Manichacans,role=concept]. Ambrose
+was also a thinker and orator who began to show him how the philosophy of
+the Platonists could be used in defence of his mother’s faith, Under Ambrose’s
+influence he returned again to a study of the great followers of xref:/pages/people.adoc#Plato[Plato,role=person], men like
+Plotinus and Porphyry. In comparison to their sophisticated religious thought
+the Manichaeans again appeared crude and inferior; God and evil began to seem
+far more sophisticated concepts than he had previously conceived. Once again
+he felt his imagination swept up into something far greater, just as he had done
+all those years before when he had first read xref:/pages/people.adoc#Cicero[Cicero,role=person]'s _Hortensius_.
+
+Now, at the beginning of 386, he was on the one hand withdrawing more
+and more into himself in an intense and emotional course of study; on the other
+hand the world and ambition were calling. He put aside his lover of sixteen
+years and became formally engaged to a girl of only twelve. Respectable
+marriage was essential if he was to find promotion in imperial service. However,
+sexual renunciation was not yet for him, and he quickly took another, if temporary, partner.
+
+But this absorption in philosophy was not his only intellectual pursuit. A
+prominent Christian priest, Simplicianus, eventually to succeed Ambrose as
+Bishop of Milan, introduced him. afresh to the Christian scriptures, which he
+now read in the light of Platonist philosophy; and indeed in the person of
+Jesus the Logos made man, the ultimate goal and fulfilment of philosophy. Just
+like Justin Martyr more than two centuries earlier, he was now being led
+ineluctably towards an acknowledgement of Christ as the final end in which
+Hellenistic as well as Jewish thought ultimately culminated. Simplicianus also
+told him of others who had taken this route before him, especially the great
+intellectual Marius Victorinus, the translator of Plotinus and the leading light
+of the Platonism of his day. In old age he too had read the scriptures and had
+become convinced of the truth of Christianity, had humbly gone through the
+preparation of a catechumen and had been baptized.
+
+His friend, Alypius, was also coming to a similar conclusion, if by a
+somewhat different route. One day a fellow African had introduced him to
+
+[#page-109]
+
+xref:/pages/people.adoc#xref:/pages/people.adoc#Athanasius[Athanasius,role=person][xref:/pages/people.adoc#Athanasius[Athanasius,role=person],role=person]’s Life of Antony, and told him that such a monastic community
+actually existed just outside Milan, and further reported to him that others
+who had abandoned the prospect of bright worldly careers had joined another
+community in Trier. The friends were shaken by the concept of these men,
+learned and unlettered alike, taking heaven by storm. His intellect now convinced, still our African resisted. By the summer of 386 the two parts of him,
+his intellect and his will, were at war with each other. Like rising waters slowly
+building behind a great dam, everything told him that a final abandonment of
+his will to Christ was the only answer. That dam must break, but still it held,
+though under intense and increasing pressure. The psychological strain of this
+inner conflict led to even his physical health deteriorating, and he began to
+experience repeated difficulty with his breathing. Would he ever find release
+from this growing torment?
+
+And so we come to the garden in Milan. Here, sitting under a fig tree that
+again echoed not only the distant tree of Eden, but also the pear orchard of his
+youth as well, he sat in an agony of mind and body, nearing the point of
+complete breakdown, and seriously contemplating suicide as the only possible
+release. And then, suddenly, as if floating on the air itself, he heard a voice
+singing, the sweet, innocent voice of a child, associated by everyone in the
+ancient world with the pronouncements of oracles. He heard this angelic
+voice gently chanting: ‘Pick up and read, pick up and read.’ The random
+opening of a book, perhaps Virgil for a Latin pagan, the Bible for a Christian,
+and reading the first sentence that the eye fell on was a common practice in
+antiquity for finding miraculous words that would answer or resolve a
+problem. Perhaps this was what he was now meant to do. He recalled how
+Antony himself had resolved upon the ascetic life after hearing the words of
+Christ in the Gospel, seemingly addressed precisely to himself.
+
+Quickly he rose, brushed away his tears, and walked over to where Alypius
+was sitting. Here he had left a copy of the letters of Paul. He opened the book,
+and looked. Immediately his eye fell on two verses from the letter to the
+Romans: ‘Ict us live honourably as in the day, not in revelling and drunkenness, not in debauchery and licentiousness, not in quarrelling and jealousy.
+Instead, put on the Lord Jesus Christ, and make no provision for the flesh, to
+gratify its desires’ (Rom. 13:13-14).
+
+At the reading of those words the dam finally burst and the waters flowed
+into his soul and all doubts were washed away, and he had his first glimpse of
+the great truth of the Christian God, that our hearts are restless till they rest in
+him. Then Alypius followed his example and he too picked up the book and
+read the next verse: ‘Welcome those who are weak in faith’ (Rom. 14:1)
+and saw these words as directed to himself. In those few minutes their world
+had changed for ever. Alypius and the man we know as St Augustine had
+
+[#page-110]
+
+completed the first stage of their Christian pilgrimage. Now they could turn,
+to the next.
+
+‘That began with baptism. In the dark early hours of Easter Sunday, 387, the
+two friends and Adeodatus removed their clothes and walked down into the
+baptismal pool attached to the great basilica in Milan to hear Ambrose invoke
+the Holy Trinity over them. As they moved from death with Christ into his
+new life, they were anointed with oil and clothed in the symbolic purity of
+white garments. Then they were led with the other newly baptized Christians
+into the basilica itself to experience the eucharistic feast for the first time.
+Augustine would never forget the experience of being greeted by a shimmering sea of lighted candles held in the hands of the assembled faithful, as he too
+moved from darkness to light, nor the inexpressible beauty of the chanted
+hymns, a musical practice copied from the Greek East and introduced to
+Milan by Ambrose himself. By now all thoughts of respectable marriage or
+brilliant public career had been abandoned, and by September, 388, Augustine
+and his circle of friends were back in Africa, initially settling in Thagaste to
+begin the first experiment in monastic living on African soil.
+
+His mother had already died before he had left Italy. By 391 his son, Adeodatus, had followed her, as had his friend, Nebridius. Emotional bonds tying
+him to his past were snapping, which made the new ascetic life of his litdle
+community all the more appealing. But by now the site of this experiment had
+shifted to the port of xref:/pages/places.adoc#Hippo[Hippo,role=place] Regius. Here a preliminary foray to discuss the
+possibility of founding a community there took a surprising turn when the
+assembly at the Sunday Eucharist pushed Augustine forward and demanded
+his immediate ordination. Like Ambrose and others before him, the Christians
+of xref:/pages/places.adoc#Hippo[Hippo,role=place] knew a prestigious catch when they saw one! This was now the
+price he had to pay for a small house and another garden in which to re-found
+his community. By 395 he had been elected the unwilling assistant to the
+elderly bishop, and within a year had succeeded him upon the latter’s death.
+Here Augustine was to remain as Bishop of xref:/pages/places.adoc#Hippo[Hippo,role=place] for the rest of his life.
+
+‘We know so much about his life because he now composed what was to
+become his most read work, the Confessions. This told the story of his early life
+culminating in his conversion to Christianity. At the heart of this book was the
+idea that his own experiences were a paradigm of what was possible for the
+whole human race (Confessions Il, iii, 5), and that people find God only by
+truly finding themselves first. Or as Augustine was to express it in one of his
+sermons: ‘Our whole business in this life is to heal the heart’s eye by which
+God is seen’ (Document 10).
+
+Yet the Confessions is not a straightforward autobiography. It is unique in
+the literature of antiquity, both as a masterpiece of artistry and style that helped
+confound any lingering pagan doubts about the ability of Christianity to
+
+[#page-111]
+
+nurture great literature, and at the same time as a totally new and original conception. It was in part a description of that renewal and reformation in the
+new creation of Christ which Paul had first introduced and which Augustine
+encapsulated vividly in one of his letters: ‘Our Maker is our Re-maker’.’ But
+the Confessions also had some classical influences as well, most notably in the
+philosophical soliloquies such as that of the Emperor Marcus Aurelius, or in
+the epic poem the Aeneiad of Virgil telling the story of the journey of Aeneas
+from the ruins of Troy to the foundation of Rome. Augustine’s journey,
+however, was a spiritual one, and his agonizing over his separation from God
+was at a great emotional distance from philosophers who thought that reason
+alone could bring them near to the divine.’ Augustine was rather the prodigal
+son returning to a loving father, and his book owed as much to the Lives of the
+Christian ascetics as it did to pagan authors for its literary precedents. It is also
+a vast, extended prayer in which the reader, as it were, overhears a Christian
+soul in dialogue with his maker. In that sense it is more a work of theology
+than autobiography. Indeed, it can be read on so many levels that these
+multiple readings can give it a very modern feel. Its themes of memory,
+redeemed human nature and the grace of God working on individuals have
+found echoes in a wide variety of later works, from spiritual autobiographies
+like those of Teresa of Avila in the sixteenth century or John Henry Newman
+in the nineteenth, to novels such as that by Marcel Proust or Brideshead Revisited by Evelyn Waugh. Not surprisingly it has recently been described as ‘one
+of the most influential books of western European culture’.
+
+### Controversies
+
+In his own time, however, Augustine’s reputation was largely built on his
+lengthy career as an apologist for orthodox and catholic Christianity, forged in
+a series of disputes with opponents both outside and within the Christian fold.
+One of the first of these was the contest with the proponents of the faith of his
+first conversion, the Manichees. It was their explanation for the existence of
+evil, their claims to be a religion of reason, and their rejection of the Jewish
+scriptures which had initially attracted Augustine. What he gradually came to
+see was that their analysis not only of divinity but also of humanity was defective: far too simplistic and unable to offer explanations for the complexities
+and conflicts he felt within himself. ‘The Manichees had avoided the tensions
+of growth on all levels . . . With all their talk of “setting free”, the Manichees
+had no room, in their religious language, for the more subtle processes of
+growth — for “healing”, for “renewal”. It was a static faith in stark contrast to
+the potential dynamism of Christianity, one that left Augustine feeling
+trapped: ‘I had already lost hope of being able to advance higher in that false
+
+[#page-112]
+
+doctrine’ he wrote later of the Manichees in the Confessions, his own potential
+for spiritual progress thwarted (Confessions V, x, 18). As he was to discover,
+their boast of reason dissolved into a series of complex myths, and their criticisms of the Jewish scriptures were easily answered by Ambrose with the help
+of Platonism and the application of typology.
+
+At the heart of the problem, however, lay their account of creation and
+their explanation for evil. Their dualism, the idea that created matter was
+inherently evil because the product of darkness, effectively absolved the God
+of goodness and light of responsibility. But, as Augustine discovered, this did
+not really accord with reality as he had found it; creation contained much
+within it which was manifestly good. Again it was the Platonists who began to
+lead Augustine towards a solution. For them, evil was effectively non-being.
+From this he went on to argue that Christianity’s analysis was easily superior to
+the Manichaean one. In its origin all creation was good because made by the
+one supreme God of goodness. Evil had arisen not as a force in its own right,
+but as a corruption of what was originally good, and the ultimate cause of evil
+was sin, and the responsibility for sin rested with human beings, not with God.
+Evil thus had no existence of its own; it is literally nothing.
+
+Yet of their own free will human beings have chosen this path of corruption, and the only way back is to recognize that we are utterly dependent on
+the grace of God, even for that primary initiative of believing in him at all.
+Here Paul took over from the Platonists. What the grace of Christ offered
+Augustine was precisely that growth, that dynamic re-creation of his nature
+that he found so frustratingly lacking in the Manichees. And in a series of
+public disputations and in his many writings, Augustine presented them with a
+stream of counter arguments based on a much more sophisticated analysis of
+both God and humanity.*
+
+A far more potent foe within his north African church was represented by
+the xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s, however. By Augustine’s day they had become entrenched, and
+in some areas were probably in a majority. One of the reasons for his election
+as priest and then Bishop of xref:/pages/places.adoc#Hippo[Hippo,role=place] was that the non-xref:/pages/concept.adoc#Donatist[Donatist,role=concept] assembly in the
+city felt intimidated by a dominant xref:/pages/concept.adoc#Donatist[Donatist,role=concept] presence, and they looked to
+Augustine to use his intellectual skills to combat this. Both churches laid claim
+to the title ‘catholic’, and so the debates in which Augustine was to be heavily
+engaged have become fundamental for the history of the struggle to achieve
+the defining characteristics of that concept.
+
+The xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s presented one potential model of catholicity. In this they
+claimed to be the legitimate heirs of Tertullian and Cyprian, and thus appeared
+to have the advantage of appealing to local traditions and feelings. Their
+notion of catholicity was defined in terms of purity and exclusivity. They
+made no distinction between the present, historical Church, and the future
+
+[#page-113]
+
+eschatological one that would follow the parousia. Among other things, this
+view depended crucially on how certain passages of the New Testament were
+to be interpreted. ‘His winnowing-fork is in his hand, and he will clear his
+threshing-floor and will gather his wheat into the granary; but the chaff he
+will burn with unquenchable fire’ John the Baptist was reported as foretelling
+of the Messiah (Matt. 3:12). The problem was to decide when this ‘gathering’
+was to happen. For the xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s it was a present reality; they had already been
+formed into a ‘gathered’ Church. This idea originated in their rejection of
+those bishops and other clergy who had compromised with the imperial
+authorities during the Diocletian persecution, and was extended to those
+‘contaminated’ by succeeding them or collaborating with them, including
+those outside Africa. Thus their concept of catholicity extended to the sacraments celebrated by these two groups; sacraments too had to be ‘pure’ and
+uncontaminated by the sin of apostasy. A fullness of purity in clergy, people
+and sacraments was thus the defining mark of catholicity for the xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s.
+
+Augustine saw in such arguments that same essential flaw that he had previously isolated in the Manichaeans. xref:/pages/concept.adoc#xref:/pages/glossary.adoc#Donatism[Donatism,role=concept][xref:/pages/glossary.adoc#Donatism[Donatism,role=concept],role=concept] also left no room for growth,
+either individually or collectively. Its ideas led once again to a static view of
+the faith, deriving from its essentially defensive posture. xref:/pages/concept.adoc#xref:/pages/glossary.adoc#Donatism[Donatism,role=concept][xref:/pages/glossary.adoc#Donatism[Donatism,role=concept],role=concept] ‘was immobilized by anxiety to preserve its identity’.’ What was the Church? Was it a
+refuge, an alternative to the larger and impure society around it, or a vital part
+of that society seeking to transform and redeem it from the inside? Augustine
+took the latter view, and saw the Church as the vehicle through which
+humanity could strive to recover its lost sense of unity consequent upon the
+Fall. As such, the Church was inevitably going to be a mixture of saints and
+sinners; the wheat and the chaff had yet to be separated. In any case, as Augustine was frequently to observe, not all xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s were that holy or morally
+pure anyway.
+
+The Church on earth was never going to be a monolithic structure, but was
+rather in constant dynamic tension with itself and the world. For Augustine
+the imperative of catholicity that flowed from this was growth and expansion,
+both within the individual and in the wider community. People strove for
+moral purity aided by the grace of Christ, and the Church ever sought new
+members for itself. The xref:/pages/concept.adoc#Donatist[Donatist,role=concept] church was locked into the past and the
+present; Augustine’s Church was one forever looking to the future. The logic
+of the xref:/pages/concept.adoc#Donatist[Donatist,role=concept] argument was that catholicity would also be limited in space as
+well as time, confined to its African homeland. Augustine argued that that
+confounded the very command of Jesus to his followers to ‘make disciples of
+all nations’ (Matt. 28:19); catholicity by its very nature was universal in the
+sense of being international and not the unique preserve of one people or
+tegion of the world. In his own words: “The untroubled globe of the world
+
+[#page-114]
+
+judges those men not to be good, who separate themselves from the whole
+world, in a particular part of the world.”*
+
+‘And thus it also followed that if the Church was morally mixed, the validity
+and efficacy of its sacraments could not rest on the subjective purity of those
+administering them. Sacraments depended not upon the holiness of human
+beings, but upon that of their originator, Jesus himself, the only person
+without sin, who sanctifies the sacraments through his ministers. Thus the
+validity of the sacraments of baptism and Eucharist, and the ordination of
+those celebrating them, rested instead upon the objective holiness of Christ.
+Once given, they could never be removed; baptism or ordination remained
+valid whatever the precise ‘purity’ of the priest or bishop administering them.
+
+It was one thing, however, to challenge the xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s on the intellectual
+level, quite another to combat them on the ground. By the late fourth century
+they had long been a powerful and established alternative to the official, imperially approved Church in north Africa. Augustine preached sermons
+against them not only in xref:/pages/places.adoc#Hippo[Hippo,role=place] but also in Carthage and other cities, he issued
+a stream of writings, and engaged in public debate with their bishops, culminating in a great conference held in Carthage in 411, attended by 284 xref:/pages/concept.adoc#Donatist[Donatist,role=concept]
+bishops and 286 of their opponents. The problem, however, was not so much
+winning arguments as inducing xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s to return to the fold. As they were
+technically schismatics it was impossible to apply the imperial laws against
+heresy to them until an Edict of 405 equated schism with heresy. The crucial
+questions, however, were how far the imperial authorities should become
+involved in any process of persuasion or coercion, and what form or degree of
+coercion should be adopted. For many years Augustine was deeply reluctant
+to use even the mildest of physical force against the xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s. However, in
+the years after 405 he became convinced that mild coercion was not only
+morally permissible, but also appeared to work empirically in the sense of persuading xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s to abandon their church for his. Theologically he justified
+this on the grounds that humanity’s fallen state required restraint, and that
+biblical passages such as the one about compelling people to come in also
+seemed to condone some level of physical inducement such as fines or other
+economic sanctions (Luke 14:23). What he would never agree to, however,
+was the use of either torture or capital punishment. But his attitude, however
+mild in the context of his age, has not endeared him to later generations, and
+he has sometimes been seen as the ‘father’ of the medieval Inquisition, and
+selective quotations from his works were used as a justification for the torture
+and execution of religious opponents during the Reformation. What is now
+clear is that such accusations, or out-of-context employment of his ideas, are
+clearly anachronistic, and would undoubtedly have horrified him.”
+
+His combat with the xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s secured Augustine’s reputation as a theologian 
+
+[#page-115]
+
+and controversialist within north Africa; what was to expand that into
+international recognition was the controversy that was to occupy much of the
+last years of his life, that with the Pelagian. But here his legacy is even more
+mixed than that resulting from the xref:/pages/concept.adoc#Donatist[Donatist,role=concept] conflict. The issues at stake again
+raised fundamental questions about orthodoxy and catholicity, but this time
+centred on the moral condition of humanity, the degree to which our wills
+have been affected by original sin, and the consequent need for divine grace.
+Any reading of the Confessions makes it clear that Augustine viewed grace as
+the essential element in the healing process needed to begin to restore
+humanity to a right relationship with God. What did Augustine mean by this
+grace? As he conceived it, grace was ‘a supernatural aid personally granted to
+the Christian through the essential and exclusive mediation of Christ’."° This
+was a totally free and unmerited gift; as Augustine himself wrote: “The grace of
+God would in no way be grace if it were not in every way purely a gift.’
+
+The British theologian, Pelagius, had severe doubts about this line of
+argument. For him, human nature was nowhere near so corrupted and unable
+to fend for itself as he assumed Augustine to be implying. Genesis had
+described a human nature originally good in its essence; but clearly humanity's
+moral imperfections and failures could not be denied. Pelagius effectively
+argued that each human being was born into the same primal innocence as
+Adam, but that over time each individual was constricted by the weight of past
+habits and the corruption of society. Baptism restored the freedom of moral
+action and removed the necessity to follow the example of Adam. Thus grace
+was a useful aid in an individual’s moral progress, not the essential originator of
+it and accompaniment to it.” Augustine on the other hand argued that Adam’s
+sin was far more fundamental for the human condition. Where Pelagius saw
+Adam as providing his descendants with a bad example to follow, Augustine
+conceived of original sin as an inherited disease passed down the generations;
+in the graphic words of John Henry Newman in the nineteenth century, ‘the
+human race is implicated in some terrible aboriginal calamity’ from which no
+human beings can free themselves.'* For Augustine, the implication of the
+xref:/pages/concept.adoc#Pelagian[Pelagian,role=concept] argument was that we can attain moral perfection largely through our
+own efforts: ‘If God has made you man, and if you make yourself righteous,
+you are doing better than God has done!’ retorted Augustine in one of his
+sermons.'*
+
+In Augustine’s view, the initiative always lay with God, a God who ‘makes
+us righteous not through our own righteousness, but through his, so that our
+true righteousness is that which comes to us from him’. True freedom was
+not the state taken for granted so lightly by Pelagius, but only the final end of
+a long process; baptism put you on the road to convalescence, it did not cure
+you. ‘Men choose because they love; but Augustine had been certain for some
+
+[#page-116]
+
+twenty years, that they could not, of themselves, choose to love. The vital
+capacity to unite feeling and knowledge comes from an area outside man’s
+powers of self-determination.’ Or in Augustine’s own words: ‘From a depth
+that we do not see, comes everything that you can see.” This thing that we
+cannot see, but can experience, is grace which can ‘lift our being up to the
+Being of God, because it can lift our love’.”
+
+So far, so good. But further problems arise when considering Augustine’s
+doctrine of grace. To what extent is humanity free to resist the gracious initia—
+tives of God? If individuals are not able to choose to reject God’s advances,
+then what is left of human free will? To this Augustine then posed a counter
+question: what is free will for? Is the possession of free will the same as being
+free? By choosing evil, humanity has effectively rejected God’s gift of free will
+and it can itself only be recovered through the gracious action of God, for ‘if
+the Son makes you free, you will be free indeed’ (John 8:36). For Augustine,
+the ultimate liberty of the saints is to lose the freedom to sin. But in so arguing
+he remained clear that grace did not override human free will; humanity
+remained free to accept or refuse God’s grace, but ultimately cannot defeat
+God’s ends by so choosing. '®
+
+This leads on to the further question: what are God’s ends? What is the
+purpose and ultimate end of creation, above all of the creation of humanity?
+What does God will for humanity? Here we reach one of the most fiercely
+contested of Augustine’s ideas, that of predestination. Briefly, this asserts that
+God has selected, or elected, only certain individuals for ultimate salvation,
+endowing them with the gift of saving grace. As Peter Brown has commented,
+this was a concept well suited to its time and place. Its emergence could clearly
+be interpreted in the light of the exclusive nature of north African Christianity
+going back at least to Tertullian, and ironically seemed to echo the basic
+impulse of the xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s in this respect. And it also clearly spoke to the context
+of the early fifth century, a time of barbarian invasion and imperial disintegration in the West, where people would look for a sense of refuge, security and
+survival in a rapidly changing world. In this interpretation Brown presents
+perhaps one of the most favourable modern treatments of the origins of
+Augustine’s concept of this doctrine.”
+
+Other commentators are much mote critical. Serge Lancel, for instance,
+sees the doctrine emerging as an extreme reaction on the part of Augustine to
+the ideas of the prominent xref:/pages/concept.adoc#Pelagian[Pelagian,role=concept], Julian of Eclanum. And with it, he argues,
+Augustine placed himself ‘on the frontiers of heresy’.”” Gerald Bonner sees a
+paradox between Augustine’s concepts of divine love and divine predestination, one that he frankly admits he is unable to reconcile. As he remarks, few
+modern theologians would maintain Augustine’s concept of predestination in
+its full rigour." Bonner and John Burnaby are also in agreement in arguing
+
+[#page-117]
+
+that Augustine was too much influenced by another historical context, that of
+ancient notions of justice, punishment and retribution as practised by the
+secular legal authorities.” And several commentators have noted that there
+remained a fundamental scriptural stumbling-block to Augustine’s concept of
+predestination.
+
+In the first letter to Timothy, God is described as a saviour ‘who desires
+everyone to be saved and to come to the knowledge of the truth’ (1 Tim. 2:4).
+This idea of a divine desire for universal salvation seemed to contradict Augustine’s more pessimistic view of an elect only receiving the gift of saving grace,
+and even in his own day he was heavily criticized in these terms by John
+Cassian and other monastic writers from Gaul. Some modern authorities
+remain as convinced as Cassian that Augustine never succeeded in defending
+his views adequately in the light of this biblical passage.” But at the same time
+Gerald Bonner makes it clear that there is a distinction between this Augustinian doctrine and that of the Church; predestination, as understood by Augustine, never became the official teaching of the Latin Church of his day, nor of
+the Middle Ages, but remained no more than the opinion of a distinguished
+theologian.”
+
+A further distinction has to be drawn, however, between Augustine’s
+concept of predestination and that of the sixteenth-century Protestant theologian, John Calvin. Technically, Calvin is supralapsarian in asserting that God's
+decree of election, and by implication damnation, was made before Adams fall,
+while Augustine is infralapsarian, in that the decree is a consequence of the Fall
+which God foresaw but did not compel. In addition, Calvin was to stress the
+total and complete corruption of human nature as a result of the Fall, while
+Augustine had defended the more limited extent of the disaster, humanity in
+his view retaining something of the divine likeness in which it had originally
+been created. For Calvin, goodness had died in humanity with Adam; for
+Augustine, it was wounded but capable of convalescence.” Although at first
+sight these distinctions may appear somewhat trivial, the significance and
+implications are in fact far reaching and clearly set a gulf between the two
+theologians.
+
+### Two Loves
+
+For centuries, educated Romans had quoted the famous lines from Virgil’s
+epic poem the Aeneid reflecting the belief in the eternal destiny of their great
+city and Empire:
+
+To them no bounds of empire I assign,
+Nor term of years to their immortal line.?°
+
+[#page-118]
+
+As we have already scen, in 248 the Empire had celebrated the millennium of
+Rome’s foundation, again seeming to reinforce this everlasting destiny. Even
+when, in the fourth century, that Empire had shifted its religious allegiance to
+Christianity, Eusebius had, in a sense, done no more than reinterpret the old
+idea, He saw that destiny itself now subsumed into the larger picture of an
+earthly Empire reflecting the eternal kingdom of God himself. Perhaps the
+high-watermark of this concept of the eternal Christian Empire came in the
+reign of Theodosius I from 379 to 395. During these years paganism was
+finally and definitively outlawed, temples were destroyed or secularized into
+cultural monuments, the pagan revolt in reaction to these measures quashed,
+and orthodox Christianity proclaimed as the only official religion of the
+Empire. To many, even to Augustine himself, it seemed that the future of their
+Christian world looked bright.
+
+But Theodosius had come to power in the wake of a disaster, the humiliating defeat of a great Roman army at Adrianople, not at the hands of the
+military forces of another great Empire, but by the barbarian Goths. Their
+subsequent pacification by Theodosius seemed to have reversed this catastrophe. But barbarian pressure on the Empire's frontiers had been building for
+generations, and Adrianople can now be seen rather as the harbinger of further
+disasters to come. More and more barbarian groups were being settled inside
+the Empire, partly to offer protection to them from other barbarian peoples
+pressing them from the east, and partly to supplement a declining population
+in the Empire itself and so provide the legions with desperately needed troops.
+As the ethnic composition of the imperial army gradually shifted in favour of
+the barbarians, so more of their leaders attained high rank in that army. By the
+early fifth century the writing was on the wall for those with eyes to read it.
+Many of the western provinces of the Empire were now effectively at the
+mercy of barbarian tribes whether external or internal, and the situation was
+rapidly deteriorating from year to year.
+
+Then, finally, the unthinkable happened. In 410 the barbarian king, Alaric,
+at the head of a coalition of tribes supposedly in the service of the Empire,
+besieged and then broke into the eternal city of Rome itself, sacking and
+ravaging it and its inhabitants. Following that, his army moved south down
+the Italian peninsula driving further floods of refugees before it. The first ones
+to cross the sea and arrive in the relative safety of north Africa brought news
+that could scarcely be comprehended. It is almost impossible for us now to
+appreciate fully the sense of psychological trauma induced by these events.
+There is nothing in our more recent historical experience comparable to it;
+the fall of Singapore to the Japanese in 1942 undoubtedly damaged the presumption of British invincibility in the Far East, and the collapse of the Berlin
+‘Wall in 1989 heralded the end of Soviet domination in Eastern Europe. But
+
+[#page-119]
+
+these events are but pale and distant echoes of the catastrophe of 410. Rome
+was the symbolic heart of an Empire and culture that had lasted not for
+decades or generations but which had endured for a millennium. The fact that
+it was no longer the political capital of the Empire was not the issue; it was the
+living, vital heart of a whole world that, until 410, had seemed eternal and
+inviolable. Something sacred to all Romans, pagan or Christian, had now
+been violated, and that by those very barbarians who Rome had successfully
+kept at bay for centuries.
+
+Why had this happened? For many of the remaining pagans, the answer
+seemed clear. So long as the gods of Rome had protected their city, she had
+been secure. Their abandonment in favour of the alien religion of Christianity
+had directly led to this, the greatest of all disasters imaginable. Only with a
+return to the worship of the gods could it be repaired.
+
+Augustine shared with his fellow Romans that initial sense of shock when.
+the news first reached him in xref:/pages/places.adoc#Hippo[Hippo,role=place]. That other great Christian intellectual,
+Jerome (c. 345-420), had written of his own reaction: ‘If Rome can perish,
+what can be safe?” A few weeks after the sack, Augustine told his shaken
+congregation: “The world is dying, the world is growing old, the world is
+overcome with weakness, it has the gasping breath of old age’. But his
+analysis of the reasons for this calamity differed from the pagan one, and he
+believed there was an answer to Jerome’s question. Rome’s sack was a punishment for the sins of humanity; and in another sermon preached in its wake he
+compared humans to olives pressed to make oil, but with the spirit of
+humanity now turned to pure oil in this pressing. Even in the midst of disaster,
+he found reason for hope. ‘Do not lose heart brethren, there will be an end to
+every earthly kingdom.”
+
+In these revolutionary words lay the kernel of a great idea that had been
+brewing inside him for some years. The sack of Rome merely confirmed that
+growing disillusionment he had been increasingly feeling for the Theodosian
+concept of Christian Empire. In 412 he sat down to write what was to grow
+over the following fourteen years into 22 books that we collectively know
+as The City of God. Here Augustine not only answered the pagan critics of
+Christianity, but more significantly also presented a vast panorama, a vision of
+an alternative to the Eusebian concept of the relationship of the heavenly and
+earthly realms. For the Christian, argued Augustine, ultimate citizenship did
+not reside in any earthly state, even Rome itself; the destiny of humanity lay
+far beyond this, in the truly eternal citizenship of the kingdom of heaven. Our
+lives on earth are but a temporary existence in which we are never really at
+home, but aliens passing through, pilgrims in a foreign land. The only eternal
+city is the city of God himself.
+
+On one level there is, however, little that seems particularly original in
+
+[#page-120]
+
+Augustine’s thesis. The very title The City of God was itself taken from a theme
+that appears in a number of the Psalms (Ps. 46, 48 and 87), and is repeated
+again in the New Testament, especially in the book of Revelation (e.g. Rev.
+3:12, 21:2, 21:10), and at a number of other points (e.g. Heb. 12:22; Gal.
+4:24-6; Phil. 3:20). This concept of Christians as aliens with respect to earthly
+states was one also found in a number of early Christian writers; Tertullian, for
+instance, describing a Christian as ‘an alien in this world and a citizen of the
+city on high — Jerusalem’, a concept also repeated by xref:/pages/people.adoc#Origen[Origen,role=person], Clement of
+xref:/pages/places.adoc#Alexandria[Alexandria,role=place], Hilary of Poitiers (c. 315-68), Jerome and Ambrose.” In addition,
+while we have seen that there was a Christian tradition of interpreting the
+Empire in a positive light even before the conversion of xref:/pages/people.adoc#Constantine[Constantine,role=person], always
+alongside that was also a continuing counter tradition of seeing it in a very dif
+ferent light. This began again in Revelation with the presumed identification
+of a persecuting Rome with the beast of chapter 13, or the harlot of chapter
+17. This view also had its later proponents, such as xref:/pages/places.adoc#Hippo[Hippo,role=place]lytus, who interpreted the Empire as a satanic imitation of the universal and eternal kingdom
+of Christ." Indeed, Augustine’s very use of the terminology of the two cities
+probably came from a renegade xref:/pages/concept.adoc#Donatist[Donatist,role=concept], Tyconius, a strange individual who
+broke with his former xref:/pages/concept.adoc#Donatist[Donatist,role=concept] allies but never joined their opponents.”
+However, The City of God is far more than just a re-presentation of old
+ideas. Its breadth, detail and sense of vision, all informed by the urgent necessity of responding to the events of 410 and the escalating collapse of an entire
+world, lift The City of God onto an altogether more elevated plane. Never
+before had a Christian writer scrutinized the historical records of both Judaism
+and Rome in such critical detail, and used them to construct and justify a vast
+thematic interpretation of the human spiritual and moral condition. The City
+of God goes beyond any supposed philosophies of history or politics to explore
+the fundamental human conditions upon which such philosophies themselves
+ultimately founder in their failure to recognize humanity’s ultimate destiny.
+For at the heart of his concept, and lying behind the terminology of the two
+cities itself, Augustine identified two contrasting dispositions in humanity,
+which he characterized as two loves; ‘self love reaching the point of contempt
+of God . . . the love of God carried as far as contempt of self (The City of God,
+XIV, 28). For him, the whole of history, sacred or secular, and the construction of all political systems, took their starting points from, and were the
+ineluctable developments of, these two primary loves (Document 11).
+Augustine identifies the origins of this fractured humanity as commencing
+at the very inception of both Jewish and Roman history. For him, it is no
+accident that both begin with acts of fratricide. In chapter 4 of Genesis, Cain is
+described as murdering his brother, Abel, and then, significantly for Augustine, as founding the first earthly city (The City of God, XV, 1). Later, he sees
+
+[#page-121]
+
+this initial crime reflected in the murder of Remus by Romulus, and the subsequent foundation of the city of Rome by the latter (The City of God, XV, 5).
+For him this new city of Rome was but a further manifestation of the great
+city of Babylon and the Empire of Assyria (The City of God, XVI, 17; XVIIL,
+22). Thus at a stroke Augustine challenges the widely held beliefs in the
+eternal and unique destiny of Rome and its Empire. History is dynamic and
+God is its author. Rome, like all other empires or states, has had its failures,
+military defeats and catastrophes; the sack of 410 was thus placed within a
+broader historical context, and Christians clearly absolved from the blame for
+its misfortunes.”
+
+Augustine’s answer to Jerome’s question about where safety and peace are
+to be found was simple. Anyone looking for these in the ever-changing and
+impermanent fortunes of earthly states he calls a fool, for:
+
+such is the instability of human affairs that no people has ever been
+allowed such a degree of tranquillity as to remove all dread of hostile
+attacks on their life in this world. That place, then, which is promised as
+a dwelling of such peace and security is eternal, and reserved for eternal
+beings, in ‘the mother, the Jerusalem which is free’ (Gal. 4:26)... Itisin
+the longing for this reward that we must lead devout lives, guided by
+faith, during this troublesome pilgrimage. (The City of God, XVII, 13)
+
+And here Augustine enfolds one of the central themes of the Confessions, the
+idea that the human heart will be for ever restless in this life on earth, into that
+of the The City of God, where the only rest is conceived as eternal, in the true
+city of God, the heavenly Jerusalem. On earth those true lovers of this eternal
+destiny will remain as aliens and pilgrims in a foreign land.
+
+From his protracted conflict with the xref:/pages/concept.adoc#Donatist[Donatist,role=concept]s emerged other ideas that are
+also further developed in the The City of God. One of those was that the
+citizens of the earthly and heavenly cities are not clearly differentiated until the
+end of time and the final judgement. Augustine never identified the heavenly
+city with any earthly institution, not even the Church. ‘In this situation, many
+reprobates are mingled in the Church with the good, and both sorts are collected as it were in the dragnet of the gospel; and in this world, as in a sea, both
+kinds swim without separation, enclosed in nets until the shore is reached’
+(The City of God, XVII, 49). It is in this inevitable mixing that Augustine sees
+the origins of states and empires, in their reversal of the heavenly principles of
+love, unity and mutual tolerance: ‘hence human society is generally divided
+against itself, and one part of it oppresses another, when it finds itself the
+stronger . . . The result has been . . . that some nations have been entrusted
+with empire, while others have been subdued to alien domination’ (The City
+
+[#page-122]
+
+of God, XVIII, 2). The one exception to this pattern of mixture, domination
+and subjection was the monastic life, where individuals could choose freely to
+associate with one another in a new type of community which sought to
+reverse these, and establish a rule based on love. But Augustine was also clear
+that while monastic communities might to some degree prefigure the
+heavenly city more than any other human institutions, they certainly did not
+constitute a viable model to be imitated, but rather their very existence discomforted conventional society by presenting a fundamental challenge to it.*
+
+But this did not mean that the citizens of the heavenly Jerusalem should
+stand aloof from the affairs of this world. However, it was equally clear that
+Augustine conceived the role of the secular state in much more limited terms
+than was usual in ancient society. Basically he saw the role of the state as one of
+minimizing social disorder through its laws and their agencies. Yet these in
+their turn had to be just, for if justice is removed from the state ‘what are
+kingdoms but gangs of criminals on a large scale?” (The City of God, IV, 4). The
+Christianity that Augustine envisaged was a fundamentally questioning, not to
+say revolutionary, force in that it rejected all forms of utopia based upon
+worldly hopes, and was quite clear that ‘the quest for perfection and happiness
+through politics is doomed’.**
+
+In this latter point The City of God represented a fundamental and final
+abandonment of a concept that went back at least to the writings of xref:/pages/people.adoc#Plato[Plato,role=person], that
+the polis, the earthly city, was the place where humanity would find its happiness and fulfilment, an idea that had expanded from encompassing a single city
+to the whole Roman world. The concept of the Empire as a divinely instituted and blessed institution, whether by pagan divinities or the Christian God
+through his imperial vice-regent on earth, the Emperor, was replaced by the
+more limited and modern-sounding concept of states as purely human institutions which were, in religious terms, neutral. To the question of whether or
+not the Empire could be re-formed into the image of God and heaven on
+earth, Augustine’s answer was clear; that reformation happened in the human
+heart, where the only true recreation into the image of God could happen.
+
+This disengagement of the secular state from divinity in any form was to be
+one of Augustine’s greatest legacies for the future of the West. It gave Latin
+Christianity an essential counterweight to the Eusebian conception of the
+divinely ordained Empire. However close the Latin Church came to identifying
+itself with the barbarian or feudal kingdoms that eventually succeeded the
+Roman Empire in the West, there always remained the warnings implicit in The
+City of God. In the 1140s, for instance, one Otto of Freising took up many of
+Augustine’s themes and even entitled his universal history The Two Cities.*°
+
+As Augustine lay dying in 430, however, it seemed that his life’s work was
+now going up in flames. Two years earlier a vast army of barbarian Vandals
+
+[#page-123]
+
+had crossed the straits of Gibraltar from Spain and entered north Africa. For so
+long secure from these hordes, now these last provinces too began to succumb
+to the ravages that had afflicted so much of the West for so many decades.
+Encountering little resistance as they marched and plundered their way eastwards, by 430 the city of xref:/pages/places.adoc#Hippo[Hippo,role=place] itself was now besieged, and Augustine was to
+die literally with the barbarians at the gates. Yet his work was to survive. The
+great bulk of his writings were preserved from destruction as the Empire in
+the West disintegrated, culminating with the formal abdication of the last
+Emperor in 476. He was to emerge as not only one of the most revered
+thinkers in medieval Christendom, but was also to become one of the great
+inspirations of the Reformation through his influence on Martin Luther.
+Even today his voice remains strong; Pope Benedict XVI has acknowledged
+Augustine as his greatest teacher. In a real sense our world too changed with
+Augustine’s in that garden in Milan.
+
+Indeed, if we review the history of the last century with all the political,
+economic and social ‘isms’ that so attracted so many people, whether, at their
+most extreme, the lure of the promise of a thousand-year Reich, or the
+inevitability of the dictatorship of the proletariat, and then see the scale of the
+consequent misery, destruction and death that followed in their wake, can we
+say that Augustine does not have a message for our times across the sixteen
+centuries that separate him from us? His analysis of the restless human heart
+and the divided self, reflected in a divided humanity that flows from it, and his
+consequent assertion that our ultimate hope can never be fulfilled in this
+world, least of all by political ideologies and the states they create, remains a
+timeless one.
+
+### Suggested Further Reading
+
+Augustine was one of the most prolific writers of the early Church, and a vast amount
+of that writing has survived into modern times, including dozens of substantial
+treatises, commentaries and other major works, along with hundreds of sermons and
+letters, some of which are themselves the length of minor works. Consequently we
+have only been able to concentrate on two of those major works, albeit probably the
+most widely read and influential, in this chapter.
+
+‘An excellent introduction to both the life and thought of Augustine is provided by
+Henry Chadwick's Augustine: A Very Short Introduction (Oxford University Press,
+2001). Originally published in the Oxford ‘Past Masters’ series, it has now been
+reprinted under this new title with an updated bibliography and the addition of some
+illustrations. It is written with great clarity and a simplicity that somewhat belies the
+massive learning behind it.
+
+‘Also recently reissued is what has for many years been regarded as the standard
+biographical study of Augustine in English. Peter Brown's Augustine of xref:/pages/places.adoc#Hippo[Hippo,role=place]: A Biography was first published in 1967, the revised edition of 2000 published by Faber and
+
+[#page-124]
+
+Faber wisely leaves the original text unamended, but adds an extensive epilogue which
+takes account of more recent specialist scholarship, and especially the discoveries in
+1975 and 1990 respectively of previously unknown letters and sermons by Augustine.
+This is an elegantly written and scholarly life of Augustine, which deals both with his
+interior intellectual and spiritual development, and attempts to place them within the
+broader historical context of his times. Although not a study of his theology as such, it
+does make quite a few assumptions about the reader’s prior theological knowledge.
+
+More recently the French scholar Serge Lancel has produced an even more detailed
+study. First published in France in 1999, and subsequently in an English translation by
+Antonia Nevill for SCM Press in 2002 that is not only very clear but also at times quite
+lyrical, Lancel’s Augustine does incorporate the newly discovered letters and sermons as
+well as the most up-to-date research in the main text. It complements rather than
+replaces Peter Brown's biography, however, partly by presenting a Gallic rather than
+Anglo-Saxon interpretation. It too deals with both Augustine's life and ideas in a
+broadly chronological order; the drawback with this is that because so many of Augustine’s ideas overlap from work to work, it can lead to some repetition.
+
+‘Among those studies dealing more specifically with Augustine’s theology, the one
+by Gerald Bonner, St Augustine of xref:/pages/places.adoc#Hippo[Hippo,role=place]: Life and Controversies (Canterbury Press, third
+edition, 2002) has become something of a standard starting place since its first publication in 1963. It has stood the test of time well. Insightful and written with clarity when
+dealing with highly complex and sophisticated issues, it is largely constructed around
+extensive quotations from, and references to, the writings of Augustine himself. For
+those who have already familiarized themselves with the basic outline of Augustine’s
+life from other sources, the initial biographical chapters could be safely skipped.
+
+Perhaps the ‘classic’ English study of Augustine’s thought, however, is by John
+Burnaby, Amor Dei: A Study of the Religion of St Augustine (Hodder and Stoughton,
+1938). For obvious reasons somewhat dated in style, and written at a time when its
+author could assume a more extensive knowledge of Latin than now prevails, it is not
+only extraordinarily perceptive but also a surprisingly easy read. In the view of Henry
+Chadwick it remains the greatest intellectual biography of Augustine, but is not so
+overwhelmed by the eminence of its subject as to avoid criticism or disagreement
+where that is deemed appropriate by the author.
+
+Of the two works by Augustine himself introduced in this chapter, there is an
+excellent modern translation of the Confessions published by the Oxford University
+Press in its ‘World’s Classics’ series in 1991, beautifully accomplished by Henry
+Chadwick with an introduction and wealth of useful footnotes. There is also a good,
+short, modern commentary by Gillian Clark, Augustine: The Confessions (Bristol
+Phoenix Press, 2005). This contains a very useful up-to-date bibliography that goes
+beyond this one work in its scope. For The City of God there are two very good
+modern translations. The one by Henry Bettenson, originally published by Penguin in
+1972, was reissued in 2003; and Cambridge University Press published an alternative
+by R. W. Dyson in 1999. There is also a commentary by Gerard O'Daly, Augustine’s
+City of God: A Reader's Guide (Oxford University Press, 1999) which contains a
+detailed book-by-book analysis with surrounding chapters of discussion. While excellent, it can prove a little dry to read, given its approach and level of detail.
+
+Finally, R. A. Markus, Saeculum: History and Society in the Theology of St Augustine,
+
+[#page-125]
+
+first published by Cambridge University Press in 1970 and reissued in 1988, is a
+brilliant study of Augustine’s evolving views on the Roman Empire and the general
+relationship between the secular and the sacred. Heavily based on The City of God,
+there is again some almost inevitable repetition of ideas, and sometimes it does not
+translate Latin words and phrases; however, it traces the growth of Augustine’s
+thoughts in this area quite thoroughly, and also argues for their continuing relevance.
+
