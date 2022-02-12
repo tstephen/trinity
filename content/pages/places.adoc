@@ -1,0 +1,33 @@
+---
+title: "Places"
+author: "Tim Stephenson"
+date: 2022-02-11T18:24:58Z
+draft: true
+---
+
+## A glossary of places
+
+### Alexandria
+
+### Antioch
+
+### Caesarea
+
+### Carthage
+
+### Constantinople
+
+### Ephesus
+
+[#_hippo]
+### Hippo or Hippo Regius
+
+Best known simply as Hippo, where St Augustine was Bishop. https://en.wikipedia.org/wiki/Hippo_Regius[Wikipedia entry] it is situated on the Mediterannean coast of Algeria.
+
+### Milan
+
+### Nicaea
+
+### Rome
+
+### Serdica

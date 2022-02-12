@@ -1,164 +1,192 @@
 ---
-title: An Introducton to St Augustne of Hippo
+title: An Introducton to St link:/pages/people#_augustine[Augustine,role=person] of Hippo
 author: "Paul Roberts"
 description: ""
 date: 2022-02-11T00:39:32Z
 categories: 
-  - St Augustine of Hippo
+  - St link:/pages/people#_augustine[Augustine,role=person] of Hippo
   - Introduction to church history
 tags:
-  - Trinity College, Bristol and Bristol Baptst College
+  - Trinity College, Bristol and Bristol Baptist College
 draft: true
 ---
 
-## An Introducton to St Augustne of Hippo
+## An Introduction to St link:/pages/people#_augustine[Augustine,role=person] of Hippo
 
-(Not to be confused with St Augustine of Canterbury!)
-Dates: 354 – 430. ie. All of his life was lived in the post-Constantnian world.
-A key source oor our knowledge oo his lioe was his Confessions, which is a spiritual autobiography
-and one oo the earliest examples oo this genre. It takes the oorm oo a long prayer to God.
-Key works: Augustne was a prolifc writer, with comoortably over a hundred surviving works. Oo
-note are: Confessions (see above), On the Trinity, City of God, exegetcal works, works against
-Pelagius and against the Donatsts.
-Augustne is a Christan Patristc author oo the eestern Church, so wrote in Latn.
-Brief Biography
-eas born to a Christan mother (Monica) and a pagan oather (Patricius) in Thagaste (in present-day
-Algeria). As a child, he was admited as a Christan catechumen, but not baptsed. e was educated
-in rhetoric – prepared oor a career oo public/civil responsibility. At university in Carthage, he
-abandoned his Christanity and took up Manichaeism.
-Manichaeism: After the Persian teacher Mani (c. 21h6 – 276) – with roots in Zoroastrianism and
-Persian oolk religion. It was a radically dualisti religion: evil exists because God’s goodness is
-opposed by an entrely separate evil divine entty. The frst human beings, Adam and Eve, were
-created by this evil spiritual entty. uman beings become a batleground between the oorces oo
-good and evil: we can either oollow the good God, or be agents oo evil oorces – this is played out in
-both individual and global terms. As a newer religion than Christanity, Manichaeism took on
-various oeatures oo church organisaton orom Christanity.
-It seems as though in his twentes, Augustne was an efectve advocate oor Manichaeism, winning
-a number oo his peers over to the oaith. After teaching rhetoric in Carthage, he moved orom his
-natve Aorica to Rome in 3r3, during which he seems to have become disenchanted by the oaith.
-is interest moved to Neoplatonism. During this period, he also took a mistress by whom he had
+[NOTE]
+(Not to be confused with link:/pages/people#_augustine-of-canterbury[St link:/pages/people#_augustine[Augustine,role=person] of Canterbury,role=person]!)
+
+*Dates:* 354 – 430. ie. All of his life was lived in the post-Constantinian world.
+A key source for our knowledge of his life was his _Confessions_, which is a spiritual autobiography
+and one of the earliest examples of this genre. It takes the form of a long prayer to God.
+
+*Key works:* link:/pages/people#_augustine[Augustine,role=person] was a prolific writer, with comfortably over a hundred surviving works. Of
+note are: _Confessions_ (see above), _On the Trinity_, _City of God_, exegetcal works, works against link:/pages/people#_pelagius[Pelagius,role=person] and against the Donatists.
+Augustine is a Christian Patristic author of the Western Church, so wrote in Latin.
+
+### Brief Biography
+
+Was born to a Christian mother (Monica) and a pagan father (Patricius) in Thagaste (in present-day
+Algeria). As a child, he was admitted as a Christian link:/pages/glossary#_catechumen[catechumen,role=concept], but not baptised. He was educated
+in rhetoric – prepared for a career of public/civil responsibility. At university in link:/pages/places#_carthage[Carthage,role=place], he
+abandoned his Christianity and took up link:/pages/glossary#_manichaeism[Manichaeism,role=concept].
+
+#### Manichaeism
+
+After the Persian teacher Mani (c. 21h6 – 276) – with roots in Zoroastrianism and
+Persian folk religion. It was a radically dualistic religion: evil exists because God’s goodness is
+opposed by an entirely separate evil divine entity. The first human beings, Adam and Eve, were
+created by this evil spiritual entity. Human beings become a batleground between the forces of
+good and evil: we can either follow the good God, or be agents of evil forces – this is played out in
+both individual and global terms. As a newer religion than Christianity, link:/pages/glossary#_manichaeism[Manichaeism,role=concept] took on
+various features of church organisation from Christianity.
+It seems as though in his twentes, link:/pages/people#_augustine[Augustine,role=person] was an effective advocate for link:/pages/glossary#_manichaeism[Manichaeism,role=concept], winning
+a number of his peers over to the faith. After teaching rhetoric in link:/pages/places#_carthage[Carthage,role=place], he moved from his
+native Africa to link:/pages/places#_rome[Rome,role=place] in 383, during which he seems to have become disenchanted by the faith.
+His interest moved to Neoplatonism. During this period, he also took a mistress by whom he had
 a son.
-Neoplatonism: a oorm oo Platonism which emerged in the Christan Era (though not expressly
-Christan). Key thinkers: Plotnus (c. 205 – c. 270) and Porphyry (c. 233 – c. 309). Focus on the One
-(as an expression oo Platonic monotheism) as the Source and End oo all being. From the One derive
-all other beings through the Nous or Demiurge. The ooundaton oo creaton is Spiritual, which is
-then expressed in phenomenal terms. In human terms, these correspond frst to the human soul
-and thence to the physical body. This is close enough to certain expressions oo Christanity to make
-it ‘not exactly incompatble with’ a lot oo patristc thought. It was no surprise that a number oo
-neo-platonists were drawn to patristc Christanity, including Augustne, and that neoplatonism
-should exert an interpretatve infuence on Christan theological philosophy.
-After just a year in Rome, Augustne moved to become the prooessor oo rhetoric to the Imperial
-Court in Milan. Beoorehand, however, under the infuence oo his mother, Augustne dismissed his
-mistress and their son.ehile at Milan, he became infuenced by its bishop, Ambrose of Milan (c. 340 – 397). Ambrose
-was an outstanding intellectual and it was Ambrose’s intellectual approach, which allowed him to
-engage Augustne and others in philosophical discourse, together with Ambrose’s use oo allegory
-to interpret the Old Testament, which helped to turn Augustne back to Christanity. Augustne’s
-intellectual deoenses were beaten, but he prevaricated untl, while in a garden in Milan, he
-overheard children chantng ‘take up and read, take up and read’. e was studying Paul’s epistle to
-the Romans, and so he ‘took up and read’ the passage beoore him, Romans 1h3:1h2 – 1h4: The night is
+
+#### Neoplatonism
+
+A form of link:/pages/glossary#_platonism[Platonism,role=concept] which emerged in the Christian Era (though not expressly
+Christian). Key thinkers: Plotinus (c. 205 – c. 270) and link:/pages/people#_porphyry[Porphyry,role=person] (c. 233 – c. 309). Focus on the One
+(as an expression of Platonic monotheism) as the Source and End of all being. From the One derive
+all other beings through the Nous or Demiurge. The foundation of creation is Spiritual, which is
+then expressed in phenomenal terms. In human terms, these correspond first to the human soul
+and thence to the physical body. This is close enough to certain expressions of Christianity to make
+it ‘not exactly incompatible with’ a lot of patristic thought. It was no surprise that a number of
+neo-platonists were drawn to patristic Christianity, including link:/pages/people#_augustine[Augustine,role=person], and that neoplatonism
+should exert an interpretative influence on Christian theological philosophy.
+After just a year in link:/pages/places#_rome[Rome,role=place], link:/pages/people#_augustine[Augustine,role=person] moved to become the professor of rhetoric to the Imperial
+Court in link:/pages/places#_milan[Milan,role=place]. Beforehand, however, under the influence of his mother, link:/pages/people#_augustine[Augustine,role=person] dismissed his
+mistress and their son.
+
+While at link:/pages/places#_milan[Milan,role=place], he became influenced by its bishop, link:/pages/people#_ambrose[Ambrose,role=person] of link:/pages/places#_milan[Milan,role=place] (c. 340 – 397). link:/pages/people#_ambrose[Ambrose,role=person]
+was an outstanding intellectual and it was link:/pages/people#_ambrose[Ambrose,role=person]’s intellectual approach, which allowed him to
+engage link:/pages/people#_augustine[Augustine,role=person] and others in philosophical discourse, together with link:/pages/people#_ambrose[Ambrose,role=person]’s use of allegory
+to interpret the Old Testament, which helped to turn link:/pages/people#_augustine[Augustine,role=person] back to Christianity. link:/pages/people#_augustine[Augustine,role=person]’s
+intellectual defenses were beaten, but he prevaricated until, while in a garden in link:/pages/places#_milan[Milan,role=place], he
+overheard children chanting ‘take up and read, take up and read’. He was studying Paul’s epistle to
+the Romans, and so he ‘took up and read’ the passage before him, https://www.bible.com/en-GB/bible/2016/rom.13.12-14[Romans 12:13-14]: 
+
+> The night is
 far gone, the day is at hand. Let us then lay aside the works of darkness and put on the armour of
-light; let us live honourably as in the day, not in revelling or drunkenness, not in debauihery and
-liientousness, not in quarrelling and jealousy. Instead, put on the Lord eesus Christ and make no
-provision for the fesh.
-Augustne was baptsed by Ambrose in 3r7. e returned to Aorica, to the oamily home in ippo. In
-391h he was ordained priest and quickly became oamous oor his preaching (remember, he was a
-teacher oo rhetoric). In 395 he was made bishop and remained at ippo untl his death in 430.
-Key themes and Works
-Writings against thne Donnatists
-See previous lecture on Persecuton and the issue oo schism in North Aorica. The Donatsts had split
-orom the mainstream church over the issue oo rebaptsm oo heretcs and schismatcs. From the
-Donatst point oo view, the oly Spirit only is oound inside the true Church. Thereoore, the rites and
-sacraments oo heretcal or schismatc ‘churches’ do not have any efect, as a heretcal or schismatc
-bishop does not possess the gift oo the Spirit required oor a sacrament oo baptsm to be efectve.
-Ironically, the Donatsts ‘split’ on this issue orom the practce oo the wider Church.
-The Donatsts were partcularly successoul in Aorica, because their practce oo rebaptsing
-schismatcs and heretcs conoormed to the teaching oo Cyprian of Cathage (see earlier lecture).
-Cyprian had stated ‘outside the Church there is no salvaton’, and had commended rebaptsm oo
-heretcs and schismatcs. Cyprian was commended as a martyr by both Donatsts and Catholics
-alike, so Augustne had to step careoully in arguing against a practce Cyprian himselo had
-commended. Nevertheless, whatever Cyprian may have said, the wider Church outside Aorica
-tended not to rebaptse those who had been baptsed by schismatcal groups and had a variable
-policy in regard to heretcal baptsm. Augustne, as bishop oo the Catholic Church in Aorica, needed
-to deoend his positon theologically whilst honouring the memory oo Cyprian.
-Augustne argued that sacraments (like baptsm and the eucharist) had two parts: an inward
-(spiritual) part and an outward (visible) part – ie. the rite itselo. It was possible to have the outward
-part, without possessing the inward benefts. In the case oo a schismatc baptsm, those baptsed
-did genuinely get ‘outwardly’ baptsed, but were not in possession oo baptsm’s spiritual benefts
-(oorgiveness oo sins, new birth) because oo the sin oo schism in which the rite took part. For
-Augustne, the biggest sin oo schismatcs was the failure to love, in that they stood apart orom the
-rest oo the Church by separatng themselves of orom them. Since love is the ‘frst commandment’
-this was a serious sin, and the root problem in schismatc groups.
-The second part oo Augustne’s argument was that sacraments work by virtue oo Jesus’
-righteousness, not by the righteousness oo the person administering the sacrament. But
-schismatcs, by separatng themselves orom their brothers and sisters, also separated themselves
-orom Christ himselo. It was this which nullifed the inward power oo their sacraments, not merely
-that they were administered by ‘the wrong oranchise’.The conclusion oo Augustne’s argument was that the answer to the problem was oor the candidate
-to re-unite themselves to Christ by returning into oellowship with the rest oo the Church. This re-
-established the love connecton, and the inward benefts – which always relied on Christ’s
-righteousness – made their baptsm valid and efectve inwardly as well as outwardly. Augustne
-had succeeded in providing a theological justfcaton oor the widespread practce oo Catholic
-Christanity! owever, this emphasis on love did not stop him later using the law to persecute
-Donatsts in Aorica, as bishop oo the Empire-sponsored (Catholic) oaith!
-Augustine versus eeaagius
-Pelagius was a Celtc priest, who was shocked by hearing a reading oo Augustne’s Confessions.
-Augustne was vehement in ascribing to grace (and grace alone) the reason oor conversion. For
-Pelagius, this nullifed any human responsibility oor salvaton, good works and the need to obey
-God. It is arguable that Pelagius’ positon was closer to the Church’s liturgy than Augustne’s more
-abstract theology oo grace. As the debate between the two deepened, various polarites emerged:
-• Pelagius believed that all humans are born innocent and have exercise oo oree will to choose
+light; let us live honourably as in the day, not in revelling or drunkenness, not in debauchery and
+licentiousness, not in quarrelling and jealousy. Instead, put on the Lord Jesus Christ and make no
+provision for the flesh.
+
+Augustine was baptised by link:/pages/people#_ambrose[Ambrose,role=person] in 387. He returned to Africa, to the family home in Hippo. In
+391 he was ordained priest and quickly became famous for his preaching (remember, he was a
+teacher of rhetoric). In 395 he was made bishop and remained at Hippo until his death in 430.
+
+### Key themes and Works
+
+#### Writings against the Donatists
+
+See previous lecture on Persecution and the issue of schism in North Africa. The Donatists had split
+from the mainstream church over the issue of re-baptism of heretics and schismatics. From the
+Donatist point of view, the Holy Spirit only is found inside the true Church. Therefore, the rites and
+sacraments of heretical or schismatic ‘churches’ do not have any effect, as a heretical or schismatic
+bishop does not possess the gift of the Spirit required for a sacrament of baptism to be effective.
+Ironically, the Donatists ‘split’ on this issue from the practice of the wider Church.
+The Donatists were particularly successful in Africa, because their practice of re-baptising
+schismatics and heretics conformed to the teaching of link:/pages/people#_cyprian[Cyprian,role=person] of Carthage (see earlier lecture).
+Cyprian had stated ‘outside the Church there is no salvation’, and had commended re-baptism of
+heretics and schismatics. link:/pages/people#_cyprian[Cyprian,role=person] was commended as a martyr by both Donatists and Catholics
+alike, so link:/pages/people#_augustine[Augustine,role=person] had to step carefully in arguing against a practice link:/pages/people#_cyprian[Cyprian,role=person] himself had
+commended. Nevertheless, whatever link:/pages/people#_cyprian[Cyprian,role=person] may have said, the wider Church outside Africa
+tended not to re-baptise those who had been baptised by schismatical groups and had a variable
+policy in regard to heretical baptism. link:/pages/people#_augustine[Augustine,role=person], as bishop of the Catholic Church in Africa, needed
+to defend his position theologically whilst honouring the memory of link:/pages/people#_cyprian[Cyprian,role=person].
+Augustine argued that sacraments (like baptism and the eucharist) had two parts: an inward
+(spiritual) part and an outward (visible) part – ie. the rite itself. It was possible to have the outward
+part, without possessing the inward benefits. In the case of a schismatic baptism, those baptised
+did genuinely get ‘outwardly’ baptised, but were not in possession of baptism’s spiritual benefits
+(forgiveness of sins, new birth) because of the sin of schism in which the rite took part. For
+Augustine, the biggest sin of schismatics was the failure to love, in that they stood apart from the
+rest of the Church by separating themselves of from them. Since love is the ‘first commandment’
+this was a serious sin, and the root problem in schismatic groups.
+The second part of link:/pages/people#_augustine[Augustine,role=person]’s argument was that sacraments work by virtue of Jesus’
+righteousness, not by the righteousness of the person administering the sacrament. But
+schismatics, by separating themselves from their brothers and sisters, also separated themselves
+from Christ himself. It was this which nullified the inward power of their sacraments, not merely
+that they were administered by ‘the wrong franchise’.The conclusion of link:/pages/people#_augustine[Augustine,role=person]’s argument was that the answer to the problem was for the candidate
+to re-unite themselves to Christ by returning into fellowship with the rest of the Church. This re-
+established the love connection, and the inward benefits – which always relied on Christ’s
+righteousness – made their baptism valid and effective inwardly as well as outwardly. link:/pages/people#_augustine[Augustine,role=person]
+had succeeded in providing a theological justification for the widespread practice of Catholic
+Christianity! However, this emphasis on love did not stop him later using the law to persecute
+Donatists in Africa, as bishop of the Empire-sponsored (Catholic) faith!
+
+#### Augustine versus Pelagius
+
+Pelagius was a Celtic priest, who was shocked by hearing a reading of link:/pages/people#_augustine[Augustine,role=person]’s Confessions.
+Augustine was vehement in ascribing to grace (and grace alone) the reason for conversion. For
+Pelagius, this nullified any human responsibility for salvation, good works and the need to obey
+God. It is arguable that link:/pages/people#_pelagius[Pelagius,role=person]’ position was closer to the Church’s liturgy than link:/pages/people#_augustine[Augustine,role=person]’s more
+abstract theology of grace. As the debate between the two deepened, various polarities emerged:
+
+- link:/pages/people#_pelagius[Pelagius,role=person] believed that all humans are born innocent and have exercise of free will to choose
 God’s will;
-• Augustne believed that all humans are born sinoul and their will is damaged by sin so they
+- link:/pages/people#_augustine[Augustine,role=person] believed that all humans are born sinful and their will is damaged by sin so they
 cannot choose God’s will and be saved;
-• Pelagius believed the journey to salvaton involved an actve doing oo good works as part oo
-the process towards becoming a Christan and resultng salvaton (through baptsm);
-• Augustne believed the journey to salvaton depended uterly on grace alone, and was
-totally a gift orom God, without reoerence to any goodness within the convert;
-• Pelagius believed that human beings had an actve part to play over whether they received
+- link:/pages/people#_pelagius[Pelagius,role=person] believed the journey to salvation involved an active doing of good works as part of
+the process towards becoming a Christian and resulting salvation (through baptism);
+- link:/pages/people#_augustine[Augustine,role=person] believed the journey to salvation depended utterly on grace alone, and was
+totally a gift from God, without reference to any goodness within the convert;
+- link:/pages/people#_pelagius[Pelagius,role=person] believed that human beings had an active part to play over whether they received
 God’s grace or not – ie. they could choose whether to be saved or not;
-• Augustne believed that God had predestned a subset oo humanity to be saved and to
-these, and these alone, he gave grace which led inevitably to their salvaton through
-conversion and baptsm; the rest oo humanity had been elected by God not to be saved but
+- link:/pages/people#_augustine[Augustine,role=person] believed that God had predestined a subset of humanity to be saved and to
+these, and these alone, he gave grace which led inevitably to their salvation through
+conversion and baptism; the rest of humanity had been elected by God not to be saved but
 to die as sinners
-Along with the rest oo the Church oo the tme, both Augustne and Pelagius regarded baptsm as
-the principal channel to receiving Christ and salvaton. owever, since Augustne taught that even
-a new-born inoant was a sinner in need oo redempton, his teaching accelerated the take-up oo
-infant baptsm with a renewed sense oo urgency and necessity, since unbaptsed inoants had no
-hope oo salvaton.
-ehy did Augustne believe even new-born inoants were sinners in need oo redempton, when they
-had not commited actual sin oo their own? is answer is that at concepton all human beings
-inherit the sin oo Adam – original sin – orom their parents and that this is passed on because no act
-oo procreatve sex (by the parents) is entrely oree oo the sin oo lust. All humanity is, oor Augustne,
-naturally a lump oo sin – some scholars argue that this refects a return to his earlier attudes
+
+Along with the rest of the Church of the time, both link:/pages/people#_augustine[Augustine,role=person] and link:/pages/people#_pelagius[Pelagius,role=person] regarded baptism as
+the principal channel to receiving Christ and salvation. However, since link:/pages/people#_augustine[Augustine,role=person] taught that even
+a new-born infant was a sinner in need of redemption, his teaching accelerated the take-up of
+infant baptism with a renewed sense of urgency and necessity, since unbaptised infants had no
+hope of salvation.
+
+Why did link:/pages/people#_augustine[Augustine,role=person] believe even new-born infants were sinners in need of redemption, when they
+had not committed actual sin of their own? Is answer is that at conception all human beings
+inherit the sin of Adam – original sin – from their parents and that this is passed on because no act
+of procreative sex (by the parents) is entirely free of the sin of lust. All humanity is, for link:/pages/people#_augustine[Augustine,role=person],
+naturally a lump of sin – some scholars argue that this reflects a return to his earlier attitudes
 when he was a Manichaean.
-City onf Gond
-This book was triggered by the sack oo Rome by invading Visigoths. Sought to explain why the
-Christan Empire was less stable to collapse than the old Pagan empire had been. Augustne, in the
-book lays out an interpretaton oo all oo history as a batle between the ‘City oo God’ and the ‘Cityoo Man’. e distnguishes between these two cites in present history as well as past: thereoore,
-just because the Empire is now Christan does not imply that it is equal to the City oo God. Sin can
-stll cause the Empire to crumble, but the City oo God will never crumble – it will triumph. This
-helps avoid a simplistc assumpton that because an empire (or country) is ruled by a Christan, that
-that country will act any beter or oare any beter than a pagan empire or country. istory, oor
-Augustne, is a spiritual struggle, where the politcs don’t necessarily correspond to the spiritual
+
+#### _City of God_
+
+This book was triggered by the sack of link:/pages/places#_rome[Rome,role=place] by invading Visigoths. Sought to explain why the
+Christian Empire was less stable to collapse than the old Pagan empire had been. link:/pages/people#_augustine[Augustine,role=person], in the
+book lays out an interpretation of all of history as a battle between the ‘City of God’ and the ‘City of Man’. He distinguishes between these two cites in present history as well as past: therefore,
+just because the Empire is now Christian does not imply that it is equal to the City of God. Sin can
+still cause the Empire to crumble, but the City of God will never crumble – it will triumph. This
+helps avoid a simplistic assumption that because an empire (or country) is ruled by a Christian, that
+that country will act any better or fare any better than a pagan empire or country. History, for
+Augustine, is a spiritual struggle, where the politics don’t necessarily correspond to the spiritual
 world.
-By implicaton, the present Church as we ian perieive it (ie. the Visible Church) is not the City oo
-God either, as it may contain within itselo sinners and hypocrites. Only in the fnal, heavenly City, at
-the end oo history will the saved and purifed Church be equal to the City oo God. This was
-important reassurance oor Christans oo the eestern (Latn) Church in the midst oo the crumbling
-eestern Empire. The Eastern Empire did not oully collapse untl the oall oo Constantnople in 1h453.
-Thus Augustne’s work diferentated between the Visible and the Invisible Church, the Church
-Militant (on earth, stll struggling) and the Church Triumphant (in heaven, victorious at the end oo
-tme).
-Thne Trinity
-ee have seen in the previous session how the Councils struggled with terminology (Greek) in
-defning the nature oo the Christan God as Trinity. Augustne’s writng on the Trinity (De Trinitate)
-some tme after the Council oo Constantnople (3r1h) marks a move away orom the politcs oo the
-councils, with their prooos orom salvaton history, towards a more philosophical approach.
-Augustne’s De Trinitate provides a oundamental way oo understanding how God can be One and
-yet Three. e uses the Biblical asserton that God is love to describe, by way oo analogy, how the
-diferent persons oo the godhead can be one, yet relate in that oneness oo love. But Augustne, in
-providing a justfcaton oor Trinitarian language, goes on to relate the doctrine to the need oor
-reconciliaton to God (and hence oor the need oor salvaton) and also to provide a basis oor
-understanding the nature oo our humanity and hence to provide an interpretatve oramework oor
+
+By implication, the present Church as _we can perceive it_ (ie. the Visible Church) is not the City of
+God either, as it may contain within itself sinners and hypocrites. Only in the final, heavenly City, at
+the end of history will the saved and purified Church be equal to the City of God. This was
+important reassurance for Christians of the Western (Latin) Church in the midst of the crumbling
+Western Empire. The Eastern Empire did not fully collapse until the fall of Constantinople in 1453.
+Thus link:/pages/people#_augustine[Augustine,role=person]’s work differentiated between the Visible and the Invisible Church, the Church
+Militant (on earth, still struggling) and the Church Triumphant (in heaven, victorious at the end of time).
+
+#### The Trinity
+
+We have seen in the previous session how the Councils struggled with terminology (Greek) in
+defining the nature of the Christian God as Trinity. link:/pages/people#_augustine[Augustine,role=person]’s writing on the Trinity (_De Trinitate_)
+some time after the Council of Constantinople (381) marks a move away from the politics of the
+councils, with their proofs from salvation history, towards a more philosophical approach.
+Augustine’s _De Trinitate_ provides a fundamental way of understanding how God can be One and
+yet Three. He uses the Biblical assertion that God is love to describe, by way of analogy, how the
+different persons of the godhead can be one, yet relate in that oneness of love. But link:/pages/people#_augustine[Augustine,role=person], in
+providing a justification for Trinitarian language, goes on to relate the doctrine to the need for
+reconciliation to God (and hence for the need for salvation) and also to provide a basis for
+understanding the nature of our humanity and hence to provide an interpretative framework for
 spiritual growth.
-The work demonstrates the sophistcaton and power oo Augustne as a philosopher, and provided
-that basis oor philosophical theology in eestern thought oor centuries to come.
+
+The work demonstrates the sophistication and power of link:/pages/people#_augustine[Augustine,role=person] as a philosopher, and provided
+that basis for philosophical theology in Western thought for centuries to come.

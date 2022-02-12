@@ -37,7 +37,7 @@ ten siblings devoted themselves to the ecclesiastical or ascetic life: their old
 lives; Naucratius, who died in his younger years; and St. Peter, their youngest
 brother, who was bishop of Sebaste.
 
-The family of Gregory of Nazianzus likewise had been Christian for three
+The family of link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person] likewise had been Christian for three
 generations on his mother’s side. She owned estates in nearby Arianzus, and
 Gregory’s father, St. Gregory the elder, had preceded him as bishop of Nazianzus.
 The church also venerates his mother, Nonna, as well as two of his three siblings,
@@ -50,14 +50,14 @@ All three, however, were called to the episcopal office because, on the basis of
 background and education, they possessed the qualifications not only for political
 but also for ecclesiastical leadership, especially considering that, beginning with
 the second half of the fourth century, bishops increasingly also assumed public,
-administrative roles. All three of them gained their individually shaped importance: Basil as an outstanding ecclesiastical politician, Gregory of Nazianzus as a rhetor and theologian, and Gregory of Nyssa more as a philosophical thinker.
-The first two, together with Athanasius and John Chrysostom, have been reckoned among the “four great teachers of the Eastern church” since the Breviary of
-Pius V in 1568 and, together with Athanasius, are revered as the “three hierarchs”
+administrative roles. All three of them gained their individually shaped importance: Basil as an outstanding ecclesiastical politician, link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person] as a rhetor and theologian, and Gregory of Nyssa more as a philosophical thinker.
+The first two, together with link:/pages/people#_athanasius[Athanasius,role=person] and John Chrysostom, have been reckoned among the “four great teachers of the Eastern church” since the Breviary of
+Pius V in 1568 and, together with link:/pages/people#_athanasius[Athanasius,role=person], are revered as the “three hierarchs”
 for their pioneering work on the Trinitarian dogma. By contrast, Gregory of
 Nyssa is somewhat of an outsider.
 
 That the Cappadocians do not represent a regional phenomenon in the recruitment of leadership personalities in the church of the time can be seen in the
-Western church from the family of Ambrose, bishop of Milan, as well as Augustine
+Western church from the family of link:/pages/people#_ambrose[Ambrose,role=person], bishop of link:/pages/places#_milan[Milan,role=place], as well as link:/pages/people#_augustine[Augustine,role=person]
 and his mother, St. Monica, who attracted a circle of friends in the spirit of monasticism, which ultimately became a major source for the North African episcopate.
 
 
@@ -73,15 +73,15 @@ parts, and it is currently being discussed once again. He was born ca. 329/330 a
 the eldest son(?)footnote:[According to W.-D. Hauschild (TRE 5:302), contra J. Gribomont (EECh 1:114 and
 miscne F . wanes weet Was Kawa covene on] of ten siblings and initially was taught in the classical disciplines by his father, whereas he received his instruction in the Christian faith
 from his grandmother Macrina. As a student of Gregory Thaumaturgus, she embedded (Origen’s) Alexandrian theology in him. In keeping with the current custom of delaying baptism until adulthood, he did not receive baptism. After
-attending the school of rhetors at Caesarea (beginning in 343?), where he first
-met Gregory of Nazianzus, he sought out the most famous teachers and places
-of training, in keeping with his family’s status and financial ability. In Constantinople he was with Libanius (346-350?), with whom he later corresponded (Ep.
+attending the school of rhetors at link:/pages/places#_caesarea[Caesarea,role=place] (beginning in 343?), where he first
+met link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person], he sought out the most famous teachers and places
+of training, in keeping with his family’s status and financial ability. In link:/pages/places#_constantinople[Constantinople,role=place] he was with Libanius (346-350?), with whom he later corresponded (Ep.
 335-359); at the academy in Athens he heard the famous rhetors Prohairesius
 and Himerius, became acquainted with Julian, the later emperor, and met
 Gregory of Nazianzus again, with whom he enjoyed a lifelong friendship from
 this point on and whose life he was to influence significantly, both spiritually and
 in matters of ecclesiastical politics. After his return from Athens (3562), he briefly
-taught rhetoric in Caesarea, but he relinquished this occupation and devoted
+taught rhetoric in link:/pages/places#_caesarea[Caesarea,role=place], but he relinquished this occupation and devoted
 himself fully to a radical Christian, ascetic lifestyle. He was baptized, became a
 lector, sold all of his possessions, and used the proceeds to fund the support of the
 poor. The welfare of the “lowly person,” especially in the context of contacts with
@@ -93,13 +93,13 @@ Macrina, his sister; and Naucratius, his brother. There a monastic community
 gathered around him, serving as a model for the founding of future communities.
 He also developed there his ascetic program and wrote the first two rules laying
 the foundation for his work as the “father of Eastern monasticism” (cf. ch. 8.1.B).
-Together with Gregory of Nazianzus, he compiled the _Philocalia_, an anthology of
+Together with link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person], he compiled the _Philocalia_, an anthology of
 Origen’s writings, at this time. For the reasons outlined in the introduction, it was
 not to be Basil’s lot to conclude his life in monastic seclusion, all the more so
 since, from 364 on, both the Nicene and the Homoiousian churches were increasingly pressured by Emperor Valens’s Homoean religious policy (cf. part 3.I.D).
 These churches urgently needed highly qualified and influential church leaders,
 and so in 364 Basil yielded to his friends’ urging and was ordained a priest in
-Cappadocian Caesarea. In 359/360 he had already participated in a synod in Constantinople, but later on he had a falling out with Eusebius, bishop of Caesarea,
+Cappadocian link:/pages/places#_caesarea[Caesarea,role=place]. In 359/360 he had already participated in a synod in link:/pages/places#_constantinople[Constantinople,role=place], but later on he had a falling out with Eusebius, bishop of link:/pages/places#_caesarea[Caesarea,role=place],
 and returned to solitude.
 
 According to his theological conviction, Basil at that time belonged to the
@@ -109,14 +109,14 @@ assumed in practice the leadership of the bishopric because Bishop Eusebius was
 hardly up to the extremely difficult ecclesiastical-political situation. At the same
 time, he also began to pursue the two goals that were to determine the rest of his
 life: combating the Homoean policy of the state, and the reunification of the
-Eastern (Homoiousian) churches with Nicea and Rome. This was the purpose of
+Eastern (Homoiousian) churches with Nicea and link:/pages/places#_rome[Rome,role=place]. This was the purpose of
 the synods in Lampsacus (364) and Tyana (366), as well as of the resistance
-against Valens (365) by the city of Caesarea.
+against Valens (365) by the city of link:/pages/places#_caesarea[Caesarea,role=place].
 
-In the fall of 370 he succeeded Eusebius as bishop of Caesarea, which at the
+In the fall of 370 he succeeded Eusebius as bishop of link:/pages/places#_caesarea[Caesarea,role=place], which at the
 same time also made him metropolitan of the ecclesiastical province of Cappadocia and exarch of the political diocese of Pontus. The authorities, who had
 already opposed his election because of his public anti-Homoean position, continued their pursuit to force him to align himself with them, in 372 even with the
-personal efforts of Emperor Valens, albeit without success. On the basis of a panegyric by Gregory of Nazianzus (_Or. Bas._ 43.46-53), this hagiographically noted
+personal efforts of Emperor Valens, albeit without success. On the basis of a panegyric by link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person] (_Or. Bas._ 43.46-53), this hagiographically noted
 resistance by Basil was brought to the emperor’s attention and cannot be denied
 as historical fact. It may have to be evaluated, however, in a completely different
 way, for Valens not only did not depose Basil but also in 372/373 assigned him to
@@ -126,12 +126,12 @@ the province of Cappadocia, but he responded by increasing the bishoprics and
 appointing brothers, relatives, and friends to be bishops (Gregory of Nazianzus in
 Sasima, his brother Gregory in Nyssa, and Amphilochius in Iconium).
 
-Especially after the death of Athanasius (373), his main concern continued to be the strengthening of ecclesiastical communion with Rome, particularly by ending the Antiochene schism. Even if he was not entirely successful
+Especially after the death of link:/pages/people#_athanasius[Athanasius,role=person] (373), his main concern continued to be the strengthening of ecclesiastical communion with link:/pages/places#_rome[Rome,role=place], particularly by ending the Antiochene schism. Even if he was not entirely successful
 in these endeavors by the time he died on January 1, 379,footnote:[P.Maraval, "La date de la mort de Basile de Césarée," REAug3A.(1988) proposes August 377, agreed to by Roder 65 (cf bibliography on II'B'1); Pouchet: September 37?)] he nevertheless contributed substantially, in the few years of his episcopate, as an outstanding and
 renowned leader of the Cappadocian church and far beyond, to the theological
 and ecclesiastical-political solution that emerged immediately after his death,
 because of the death of Valens (August 9, 378) and the assumption of power by
-Emperor Theodosius (January 19, 379)footnote:[Maraval, “La date de la mort de Basile de Césarée,” REAug 34 (1988): 25-38, proposes August 377, agreed to by Réder 65 (cf. bibliography on II.B.1); Pouchet: September 37?].
+Emperor link:/pages/people#_theodosius[Theodosius,role=person] (January 19, 379)footnote:[Maraval, “La date de la mort de Basile de Césarée,” REAug 34 (1988): 25-38, proposes August 377, agreed to by Réder 65 (cf. bibliography on II.B.1); Pouchet: September 37?].
 
 Basil has left behind an extensive wealth of writings, which is worth knowing as a whole. These works are consistently focused on practical ecclesiastical life
 and reflect his own life and work: the famous __Ad adolescentes__, to the young on
@@ -202,7 +202,7 @@ Fathers” (__argumentum patristicum__). Although the church from the beginning,
 and increasingly so during the dogmatic disputes of the fourth century, appealed
 to the well-established witness of tradition, Basil here adduces for the first time
 the opinions of a whole range of church fathers in support of his argumentation
-or, more specifically, of the use of συν in the doxology. Augustine and Cyril of Alexandria (at the Council of Ephesus in 431) continued this method; it has been
+or, more specifically, of the use of συν in the doxology. link:/pages/people#_augustine[Augustine,role=person] and Cyril of link:/pages/places#_alexandria[Alexandria,role=place] (at the Council of link:/pages/places#_ephesus[Ephesus,role=place] in 431) continued this method; it has been
 perpetuated since then until the present and continues to have validity by safeguarding a historically and dogmatically critical appreciation of the material.
 This method is not a mere stringing together of arbitrarily selected patristic citations without evidential value.
 
@@ -216,7 +216,7 @@ Basil’s collection of letters also contains fifteen or seventeen letters addre
 
 [#page-274]
 
-him, namely, by Libanius (336, 338, 340, 341, 345, 346, 349, 352, 354, 355, 357, 358), Apollinaris of Laodicea (362 and 364), Gregory of Nazianzus (367), and
+him, namely, by Libanius (336, 338, 340, 341, 345, 346, 349, 352, 354, 355, 357, 358), Apollinaris of Laodicea (362 and 364), link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person] (367), and
 Emperor Julian (39 and 40). The authenticity of the latter two is under discussion, however; in the case of __Ep__. 39, the question is whether it is addressed to
 Basil, and in the case of __Ep__. 40, whether Julian can be its author.
 
@@ -247,11 +247,11 @@ g. Liturgical letters: 93, 207.
 
 A list of Basil’s most important partners in correspondence, encompassing the entire Roman Empire, illustrate most impressively the scope and extent of his letter writing:
 
-- Bishop Ambrose of Milan (cf. ch. 7.III): 197;
+- Bishop link:/pages/people#_ambrose[Ambrose,role=person] of link:/pages/places#_milan[Milan,role=place] (cf. ch. 7.III): 197;
 
-- Bishop Amphilochius of Iconium, Basil’s friend and cousin of Gregory of Nazianzus: 150, 161, 176, 188, 190, 199-202, 217, 218, 231-236, 248;
+- Bishop Amphilochius of Iconium, Basil’s friend and cousin of link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person]: 150, 161, 176, 188, 190, 199-202, 217, 218, 231-236, 248;
 
-- Bishop Apollinaris of Laodicea (cf. 6.1): 361, 363; Patriarch Athanasius of Alexandria (cf. ch. 5.IV): 61, 66, 67, 69, 80, 82;
+- Bishop Apollinaris of Laodicea (cf. 6.1): 361, 363; Patriarch link:/pages/people#_athanasius[Athanasius,role=person] of link:/pages/places#_alexandria[Alexandria,role=place] (cf. ch. 5.IV): 61, 66, 67, 69, 80, 82;
 
 - Bishop Barses of Edessa: 264, 267;
 
@@ -265,17 +265,17 @@ A list of Basil’s most important partners in correspondence, encompassing the 
 
 - Bishop Eustathius of Sebaste: 79, 119, 223;
 
-- Bishop Gregory of Nazianzus, Basil’s university friend (cf. II.C): 2, 7, 14,19,71, 3685
+- Bishop link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person], Basil’s university friend (cf. II.C): 2, 7, 14,19,71, 3685
 
 - Bishop Gregory of Nyssa, Basil’s younger brother (cf. II.B): 38, 58;
 
 - Himerius, the famous rhetor under whom Basil studied in Athens: 274, 275(2);
 
-- Patriarch Meletius of Antioch (cf. part 3.II.A.2.b): 57, 68, 89, 120, 129, 216;
+- Patriarch Meletius of link:/pages/places#_antioch[Antioch,role=place] (cf. part 3.II.A.2.b): 57, 68, 89, 120, 129, 216;
 
-- Libanius, the famous rhetor under whom Basil studied in Constantinople: 335, 337, 339, 344, 350, 351, 353, 356, 359 (their correspondence involved a total of twenty-five letters [335-359], of which 342, 343, 347, and 348 are not authentic and 336, 338, 340, 341, 345, 346, 349, 352, 354, 355, 357, and 358 represent letters of Libanius addressed to Basil);
+- Libanius, the famous rhetor under whom Basil studied in link:/pages/places#_constantinople[Constantinople,role=place]: 335, 337, 339, 344, 350, 351, 353, 356, 359 (their correspondence involved a total of twenty-five letters [335-359], of which 342, 343, 347, and 348 are not authentic and 336, 338, 340, 341, 345, 346, 349, 352, 354, 355, 357, and 358 represent letters of Libanius addressed to Basil);
 
-- Patriarch Peter of Alexandria: 133, 266.
+- Patriarch Peter of link:/pages/places#_alexandria[Alexandria,role=place]: 133, 266.
 
 In addition, there are a number of letters addressed to unnamed bishops,
 priests, monks, magistrates, groups of them, and entire congregations; they demonstrate the extent to which Basil brought influence to bear not only upon particular situations but also structurally upon public life, ecclesiastical policy, and
@@ -286,7 +286,7 @@ teligious life:
  
 [#page-276]
 
-- presbyters of Tarsus (113), clerics in Neocaesarea (207), cleric of Samosata (219), cleric of Colonia (227), cleric of Nicopolis (229), presbyter of Nicopolis (238), presbyter of Antioch (253), cleric of Sozopolis (261);
+- presbyters of Tarsus (113), clerics in Neocaesarea (207), cleric of Samosata (219), cleric of Colonia (227), cleric of Nicopolis (229), presbyter of Nicopolis (238), presbyter of link:/pages/places#_antioch[Antioch,role=place] (253), cleric of Sozopolis (261);
 
 - community of Tarsus (114), Neocaesareans (204), men of Neocaesarea (210), Chalcidians (222), Occidentals (242, 263), Nicopolitans (246, 247), people of Evaesae (251);
 
@@ -297,7 +297,7 @@ teligious life:
 There is no addressee for the following letters: 35-37, 77, 78, 85, 87, 88, 101, 117, 165, 191, 209, 213, 249, 270, 273, 275, 285, 287-289, 298, 301, 305, 307-310, 314-320, 322, 326, 327, 330-332.
 
 This overview alone shows clearly what a treasure trove Basil’s letters offer regarding his person and personal relationships, his politics and ecclesiastical policies, his pastoral and social activities, and his theology and spirituality. Furthermore they also present excellent examples of fine epistolary form and exemplary
-style. His friend Gregory of Nazianzus praises him in __Ep__. 51 as an expert in the field,
+style. His friend link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person] praises him in __Ep__. 51 as an expert in the field,
 and his teacher Libanius considered him to be of even greater quality in epistolary
 skills than himself and wrote to him so (__Ep__. 338):
 
@@ -323,10 +323,10 @@ and to date there is no in-depth modern, scholarly biography of Gregory. What
 may be considered as certain is that his father died in Gregory's childhood and
 Basil, his older brother, assumed a certain leadership role. How much younger
 Gregory was and whether he had been his student in the technical sense when
-Basil was teaching in Caesarea ca. 356 have to remain open issues.
+Basil was teaching in link:/pages/places#_caesarea[Caesarea,role=place] ca. 356 have to remain open issues.
 
-It is generally assumed that Gregory was born between 335 and 340. Although he did not attend any of the famous schools in Caesarea, Constantinople,
-or Athens, as did his brother Basil and their friend Gregory of Nazianzus, he acquired a thorough familiarity with rhetoric, philosophy, and the general knowledge of his time, as his works indicate, to the extent that, after he had first become
+It is generally assumed that Gregory was born between 335 and 340. Although he did not attend any of the famous schools in link:/pages/places#_caesarea[Caesarea,role=place], link:/pages/places#_constantinople[Constantinople,role=place],
+or Athens, as did his brother Basil and their friend link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person], he acquired a thorough familiarity with rhetoric, philosophy, and the general knowledge of his time, as his works indicate, to the extent that, after he had first become
 a lector, he preferred to work as a public rhetor. Many passages in his writings give
 evidence of meticulous observation of his environment and human behavior patterns, as well as in-depth scientific, especially medical, knowledge. On the basis of
 
@@ -337,15 +337,15 @@ a remark in _De virginitate_ 3 stating that he could no longer be blessed with t
 fruits of virginity, it is generally assumed that Gregory was married (to Theosebeia?), although there is no further information to corroborate this.
 
 When the province of Cappadocia was divided in 372 and the ecclesiastical
-province over which Basil presided as metropolitan in Caesarea was thereby severely weakened, Basil, in order to strengthen the Nicene party, responded by
+province over which Basil presided as metropolitan in link:/pages/places#_caesarea[Caesarea,role=place] was thereby severely weakened, Basil, in order to strengthen the Nicene party, responded by
 increasing the number of bishoprics and appointing brothers and friends as bishops in the remaining province, Cappadocia Prima. Among these was Gregory,
-whom he appointed to Nyssa, an insignificant little place between Caesarea and
+whom he appointed to Nyssa, an insignificant little place between link:/pages/places#_caesarea[Caesarea,role=place] and
 Ancyra. The period of his episcopate divides conspicuously into two very different segments. The break came in 379, that is, the year in which Basil, his brother,
 and Macrina, his sister, died and in which the ecclesiastical-political situation
-radically changed in favor of the Nicenes when Emperor Theodosius took office.
+radically changed in favor of the Nicenes when Emperor link:/pages/people#_theodosius[Theodosius,role=person] took office.
 It remains unclear, however, what specific reasons account for the reversal. In any
 case, Gregory’s initial seven years as bishop were marked by many difficulties.
-Basil complained about Gregory’s naivete in ecclesiastical-political and interpersonal matters (__Ep__. 58 and 100) and in 375 refused to send him to Rome with a
+Basil complained about Gregory’s naivete in ecclesiastical-political and interpersonal matters (__Ep__. 58 and 100) and in 375 refused to send him to link:/pages/places#_rome[Rome,role=place] with a
 delegation to negotiate, because he was “completely inexperienced in ecclesiastical matters” (__Ep__. 215). Indeed, in these years Gregory appears to have been so
 inept that the Homoean opposition in Nyssa succeeded in deposing and exiling
 him in 376 under the pretence of misappropriation of church property and irregularities associated with his appointment as bishop. He was able to return only on
@@ -354,26 +354,26 @@ August 9, 378, after the death of Emperor Valens.
 In 379, however, the scene changed radically, Gregory suddenly emerged as
 a sought-after and influential ecclesiastical politician, as a significant theologian
 ‘on the current dogmatic issues, as a respected speaker, preacher, and exegete;
-until his life’s end, he maintained close relations with Constantinople, the capital,
-and with the imperial household. At synods in Antioch (379) and Constantinople
+until his life’s end, he maintained close relations with link:/pages/places#_constantinople[Constantinople,role=place], the capital,
+and with the imperial household. At synods in link:/pages/places#_antioch[Antioch,role=place] (379) and link:/pages/places#_constantinople[Constantinople,role=place]
 (381, 382, 383, and 394), he was among the most prominent participants. The
-synod of Antioch (379) appointed him to make a visitation to the diocese of
+synod of link:/pages/places#_antioch[Antioch,role=place] (379) appointed him to make a visitation to the diocese of
 Pontus; in Ibora and Sebaste he guided the selection of new bishops and, to his
 surprise, was himself elected as the metropolitan in Sebaste. He succeeded in regaining his mobility, however, by appointing Peter, his younger brother, as bishop.
-At the second (a later enumeration) ecumenical Council of Constantinople in
+At the second (a later enumeration) ecumenical Council of link:/pages/places#_constantinople[Constantinople,role=place] in
 381, he delivered an address entitled __De deitate adversus Evagrium__, important for
 dogmatics. After the death of Meletius, the chairman of the council, he was given
 the honorable task of delivering the funeral oration. After the council, according
 to the imperial law confirming the resolutions of the councils (__Codex theodosianus__ 16.1, 3), he was reckoned among the “regular bishops,” that is, among
 those who represented the standard of orthodoxy. In 381 he traveled to the
 Roman province of Arabia and to Jerusalem on behalf of the council in order to
-settle disputes there. To the synod in Constantinople of 383 he delivered the address __De deitate Filii et Spiritus Sancti__. The imperial court’s special appreciation of him can be seen in the invitation he received to deliver the funeral oration for
+settle disputes there. To the synod in link:/pages/places#_constantinople[Constantinople,role=place] of 383 he delivered the address __De deitate Filii et Spiritus Sancti__. The imperial court’s special appreciation of him can be seen in the invitation he received to deliver the funeral oration for
 Princess Pulcheria who died in 385 and for Empress Flacilla. The information
 
 [#page-279]
 
 about Gregory's life ends with his entry in the list of the participants at the synod
-in Constantinople in 394; from this it may well be assumed that he died shortly
+in link:/pages/places#_constantinople[Constantinople,role=place] in 394; from this it may well be assumed that he died shortly
 thereafter.
 
 NOTE: see original for references
@@ -401,7 +401,7 @@ f. the _Oratio catechetica_, a summation of the essential teachings of the Chris
 
 g. thirty letters, of which __Ep__. 21 and 26-28 do not belong to Gregory but to
 Basil and __Ep__. 30 is addressed to Gregory by his brother Peter; together with
-the letter corpora of Basil and Gregory of Nazianzus, they contain most of
+the letter corpora of Basil and link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person], they contain most of
 what, on the whole, is the scarce biographical information on Gregory.
 
 With a few exceptions, the chronology of his works cannot be determined
@@ -415,20 +415,20 @@ Basil’s methodology and each time cites the passages of the writing he is comb
 [#page-280]
 
 work was his own _refutatio_ of the creed Eunomius had presented at the Council
-of Constantinople in 381.
+of link:/pages/places#_constantinople[Constantinople,role=place] in 381.
 
-Gregory’s philosophy was shaped by middle Platonism and early Neoplatonism, which becomes most prominent in the form and content of the dialogue __De
-anima et resurrectione__, which he fashioned after Plato’s _Phaidon_ as a dialogue with
-Macrina, his dying sister. The particularity of Gregory’s Platonism consists in
+Gregory’s philosophy was shaped by middle link:/pages/glossary#_platonism[Platonism,role=concept] and early Neoplatonism, which becomes most prominent in the form and content of the dialogue __De
+anima et resurrectione__, which he fashioned after link:/pages/people#_plato[Plato,role=person]’s _Phaidon_ as a dialogue with
+Macrina, his dying sister. The particularity of Gregory’s link:/pages/glossary#_platonism[Platonism,role=concept] consists in
 using it for the purpose of effectively recasting the Christian body of thought—a
 characteristic that fundamentally distinguishes him from the other two Cappadocians and, over against them, has rightly earned him the reputation of a profound philosophical thinker.
 
 As in the case of the other two Cappadocians, his theology is based on the
-Alexandrian tradition of Philo and Origen. From Origen, whom he mentions by
+Alexandrian tradition of Philo and link:/pages/people#_origen[Origen,role=person]. From link:/pages/people#_origen[Origen,role=person], whom he mentions by
 name several times in his writings, he borrowed, for instance, the doctrine of the
 αποκαταστασις, the restoration of all things at the end of time into the blissful primordial state, including Satan and the demons (following 1 Cor 15:25, on which
-he wrote the tractate _Tunc et ipse filius_). The Second Council of Constantinople
-(553) later condemned this teaching in its anathemas against Origen, though not
+he wrote the tractate _Tunc et ipse filius_). The Second Council of link:/pages/places#_constantinople[Constantinople,role=place]
+(553) later condemned this teaching in its anathemas against link:/pages/people#_origen[Origen,role=person], though not
 Gregory of Nyssa. Rather, the Second Council of Nicea (787) still honored him
 with the honorary title “Father of Fathers.” In his ascetical and mystical theology,
 the `επεκτασις` (following Phil 3:13) played a significant part, as he explains in exemplary fashion in the _Vita Moysis_: after one puts off earthly passions, salvation
@@ -462,9 +462,9 @@ intervals.
 
 NOTE: see original for references
 
-## C. Gregory of Nazianzus
+## C. link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person]
 
-We are quite well informed about the chronology of his life and works because Gregory of Nazianzus wrote an extensive Carmen de vita sua, and his writings contain numerous references to his biography. He was born either in the
+We are quite well informed about the chronology of his life and works because link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person] wrote an extensive Carmen de vita sua, and his writings contain numerous references to his biography. He was born either in the
 small town of Nazianzus, where his father, Gregory the elder (d. 374 as a centenarian), was the bishop for forty-five years, or at the nearby family estate at
 Arianzus. Beyond this, however, Gregory remains deliberately silent about his
 childhood, so his date of birth has to be inferred. Traditionally he was thought to
@@ -475,21 +475,21 @@ have been about the same age as Basil (b. 329/330). Christoph Jungckfootnote:[C,
 Clémencet and Sinko, which fits quite well with some of Gregory's remarks in
 which he appears to be older than Basil. Justin Mossayfootnote:[J. Mossay, TRE 14:164f.], on the other hand, is of
 the opinion that Gregory had already been born ca. 300. But although this early
-date makes it very difficult to conceive that Gregory and Basil, despite the age difference of thirty years, jointly studied in Caesarea and Athens, Mossay’s arguments seem to me entirely compatible with a date of birth in 326: Gregory’s claim
-to be older; that in Constantinople (381) he was considered an “old man’; and
+date makes it very difficult to conceive that Gregory and Basil, despite the age difference of thirty years, jointly studied in link:/pages/places#_caesarea[Caesarea,role=place] and Athens, Mossay’s arguments seem to me entirely compatible with a date of birth in 326: Gregory’s claim
+to be older; that in link:/pages/places#_constantinople[Constantinople,role=place] (381) he was considered an “old man’; and
 that his mother, Nonna, who was of the same age as her husband according to _Or. Bas._ 18.41, must have been fifty years old when Gregory was bornfootnote:[Could it be that Gregory’s description of his mother as a “spiritual Sarah” points in the same direction?]. More likely
 the information of Suda (ca. 1000), that Gregory was ninety years old when he
 died in 390 ought to be viewed with suspicion.
 
 Gregory enjoyed an outstanding education equal to that of Basil the Great,
-first in Cappadocian Caesarea, where he probably met the latter for the first
-timefootnote:[The statement of earlier patrologists that Gregory had met Basil first in Athens needs to be corrected accordingly, especially by J. Mossay (TRE 14:165), who erroneously appeals to Or. Bas. 43.13.], then in Caesarea in Palestine, in Alexandria, and at the academy in Athens, where he became acquainted with Julian, the later emperor, and again saw
+first in Cappadocian link:/pages/places#_caesarea[Caesarea,role=place], where he probably met the latter for the first
+timefootnote:[The statement of earlier patrologists that Gregory had met Basil first in Athens needs to be corrected accordingly, especially by J. Mossay (TRE 14:165), who erroneously appeals to Or. Bas. 43.13.], then in link:/pages/places#_caesarea[Caesarea,role=place] in Palestine, in link:/pages/places#_alexandria[Alexandria,role=place], and at the academy in Athens, where he became acquainted with Julian, the later emperor, and again saw
 Basil, with whom he maintained a lifelong friendship from then on. According to
 Basil, Gregory returned to his home ca. 356 to teach rhetoric, as did Basil, but
 under the influence of his friend, he soon turned to the ascetic life and spent
 some time with him in his monastic community in Annesi on the river Iris (in the
 province of Pontus), where they jointly compiled the _Philocalia_, a collection of
-texts from the writings of Origen. He was baptized, and in 361 his father ordained
+texts from the writings of link:/pages/people#_origen[Origen,role=person]. He was baptized, and in 361 his father ordained
 him to the priesthood in order to assist him in the ministry in the diocese of
 Nazianzusfootnote:[Only Justin Mossay (“‘La date de loratio II de Grégoire de Nazianze et celle de son ordination,” Mus 77 1964: 175-86, and again in TRE 14:166) moves it to 365 or into the reign af Emporer Julian (361-363) or Valens (364-378).] Because he viewed the ordination as “forced,” however, he refused to
 assume his office and did not return until Easter 362, when, while preaching, he
@@ -514,24 +514,24 @@ Nicene community in the capital. Since the great majority of Christians in the
 capital belonged to the Arian confession under Bishop Demophilus, Gregory resided in a private residence (the later Anastasia Church), where he held the famous “five theological orations,” in which he explained the Nicene doctrine of
 the Trinity and which earned him the honorary title “the theologian” (attested for
 the first time in the council documents of Chalcedon in 451); Jerome was also
-among his audience. Immediately after his move to Constantinople on November
-24, 380, Theodosius forced Bishop Demophilus to leave the city and introduced
-Gregory as bishop of the capital. The Council of Constantinople (381) acknowledged him as such and, after the death of Meletius of Antioch, elected him as chairman of the council. He was not, however, successful in mediating an acceptable
+among his audience. Immediately after his move to link:/pages/places#_constantinople[Constantinople,role=place] on November
+24, 380, link:/pages/people#_theodosius[Theodosius,role=person] forced Bishop Demophilus to leave the city and introduced
+Gregory as bishop of the capital. The Council of link:/pages/places#_constantinople[Constantinople,role=place] (381) acknowledged him as such and, after the death of Meletius of link:/pages/places#_antioch[Antioch,role=place], elected him as chairman of the council. He was not, however, successful in mediating an acceptable
 agreement between the various parties of the council regarding both the Meletian
-schism in Antioch and the symbolum. Instead he came under fire to the extent
+schism in link:/pages/places#_antioch[Antioch,role=place] and the symbolum. Instead he came under fire to the extent
 that he was even accused of having been transferred illegitimately to the episcopal
-see of Constantinople because he already was bishop of Sasima. As a result,
+see of link:/pages/places#_constantinople[Constantinople,role=place] because he already was bishop of Sasima. As a result,
 Gregory submitted his resignation, which was accepted with approval. He took
 leave in his famous farewell address (__Or. Bas.__ 42) and returned to Nazianzus even
 before the council ended and there administered the bishopric until Eulalius, his
 cousin, was installed as bishop in 383. Subsequently he retreated to the family estate near Arianzus, where he presumably died in 390.
 
-The final part of his life, beginning with his call to Constantinople (379),
+The final part of his life, beginning with his call to link:/pages/places#_constantinople[Constantinople,role=place] (379),
 represents Gregory’s most prolific period of literary activity. During this time he
 wrote half of the forty-four extant sermons, most of the 249 letters, and the bulk
 of his poetry. His remains rested in the left front crossing pillar of St. Peter’s in
 Rome from June 11, 1580, until Pope John Paul II returned them, along with the
-remains of John Chrysostom, to Patriarch Bartholomew I of Constantinople on
+remains of John Chrysostom, to Patriarch Bartholomew I of link:/pages/places#_constantinople[Constantinople,role=place] on
 November 27, 2004.
 
 NOTE: see original for references
@@ -542,9 +542,9 @@ NOTE: see original for references
 
 ### 1. Poetry
 
-Although Gregory of Nazianzus was not the first to give poetic form to
+Although link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person] was not the first to give poetic form to
 theological material and Christian themes, he was the first to write a fully developed, extensive poetic oeuvre of 17,000 verses that is unmatched in Greek
-patristics. His __Carmina__, most of which he wrote after his return from Constantinople, in the secluded leisure that he enjoyed at Arianzus until his death, are composed of didactic poems, hymns, elegies, and epigrams in their traditional meters,
+patristics. His __Carmina__, most of which he wrote after his return from link:/pages/places#_constantinople[Constantinople,role=place], in the secluded leisure that he enjoyed at Arianzus until his death, are composed of didactic poems, hymns, elegies, and epigrams in their traditional meters,
 from which Gregory does not deviate on the whole, namely, the hexameter,
 distich, and iambic. He deals with dogmatic, moral, autobiographical, and lyrical
 themes, with the explicit intent (__Carmina__ 2.1.39) of using the poetic form to proclaim the Christian message more pleasantly and more attractively and to provide a
@@ -552,7 +552,7 @@ comparable Christian expression alongside Hellenistic poetry. With the quality
 of his poems, Gregory decisively refutes the former polemic charge that Christians lacked education and comparable literature.
 
 Recently _Christus patiens_, the drama handed down under Gregory’s name,
-has again been defended as authentic by André Tuilier and Francesco Trisogliofootnote:[Tuilier, ed. and trans., La passion du Christ (SC 149; Paris: Cerf, 1969), 11-18. F, Trisoglio, La passione di Cristo (CTePa 16; Rome: Citta Nuova, 1979), 13-16; the 1990 second edition did not take into account the critique by Wyss.],
+has again been defended as authentic by André Tuilier and Francesco Trisogliofootnote:[Tuilier, ed. and trans., La passion du Christ (SC 149; Paris: Cerf, 1969), 11-18. F, Trisoglio, La passione di Cristo (CTePa 16; link:/pages/places#_rome[Rome,role=place]: Citta Nuova, 1979), 13-16; the 1990 second edition did not take into account the critique by Wyss.],
 without sufficient reasons, to be sure, as Bernhard Wyssfootnote:[B, Wyss, RAC 12:812.] counters so aptly. It may be dated to the twelfth century.
 
 NOTE: see original for references
@@ -562,10 +562,10 @@ NOTE: see original for references
 #### 2. Orations
 
 The Maurist edition encompasses forty-five orations and sermons of Gregory; the thirty-fifth is not attributed to him, however. The time frame for
-their composition ranges from his consecration as bishop in 362 to his retirement in Arianzus in 383. Half of them are concentrated in the period beginning with his call to Constantinople in 379. Some are orally presented speeches that he himself prepared for publication, and some are literary works in oral form. The latter certainly applies to _Or. Bas._ 4 and 5, representing invectives against Julian the Apostate, the deceased emperor. All of Gregory’s orations stand out not only because of their masterly rhetoric but also, at the same time, because of their skill in presenting solutions to the difficult theological issues of his time clearly and persuasively. This is the case particularly in the five “theological orations” (27-31), which he himself identified as such (28.1) and which, in the main, brought him his honorary title of “theologian.” He delivered them during his time in Constantinople (379-381), probably in 380 in the private residence that later became the Anastasia Church, for the cathedral, the Church of the Apostles, still belonged to the Arian bishop. The terms “theological” and “theology” are to be construed in the strictly early-Christian sense of the “doctrine of God”; at issue is the presentation of the orthodox doctrine of the ‘Trinity in dispute with the Young Arians (Eunomians) and Macedonians (Pneumatomachians). Alongside the brilliant
+their composition ranges from his consecration as bishop in 362 to his retirement in Arianzus in 383. Half of them are concentrated in the period beginning with his call to link:/pages/places#_constantinople[Constantinople,role=place] in 379. Some are orally presented speeches that he himself prepared for publication, and some are literary works in oral form. The latter certainly applies to _Or. Bas._ 4 and 5, representing invectives against Julian the Apostate, the deceased emperor. All of Gregory’s orations stand out not only because of their masterly rhetoric but also, at the same time, because of their skill in presenting solutions to the difficult theological issues of his time clearly and persuasively. This is the case particularly in the five “theological orations” (27-31), which he himself identified as such (28.1) and which, in the main, brought him his honorary title of “theologian.” He delivered them during his time in link:/pages/places#_constantinople[Constantinople,role=place] (379-381), probably in 380 in the private residence that later became the Anastasia Church, for the cathedral, the Church of the Apostles, still belonged to the Arian bishop. The terms “theological” and “theology” are to be construed in the strictly early-Christian sense of the “doctrine of God”; at issue is the presentation of the orthodox doctrine of the ‘Trinity in dispute with the Young Arians (Eunomians) and Macedonians (Pneumatomachians). Alongside the brilliant
 
 [#page-290]
-defense of the traditional Nicene doctrine of God, he finds the forward-looking formulation of the “procession” (`έκπορενσις`) of the Spirit from the Father, in distinction to the “generation” (`ϒεννησις`) of the Son, and for the first time insists on transferring consubstantility (`όμοουσιος`) to the Holy Spirit. Thus he goes beyond Basil and, by means of a more precise terminology, not only sharpens the understanding of the Holy Spirit within the Trinity but also prepares for the pneumatological amendments to the Nicene creed at the Council of Constantinople (381), which followed shortly.
+defense of the traditional Nicene doctrine of God, he finds the forward-looking formulation of the “procession” (`έκπορενσις`) of the Spirit from the Father, in distinction to the “generation” (`ϒεννησις`) of the Son, and for the first time insists on transferring consubstantility (`όμοουσιος`) to the Holy Spirit. Thus he goes beyond Basil and, by means of a more precise terminology, not only sharpens the understanding of the Holy Spirit within the Trinity but also prepares for the pneumatological amendments to the Nicene creed at the Council of link:/pages/places#_constantinople[Constantinople,role=place] (381), which followed shortly.
 
 NOTE: See original for references
 
@@ -577,13 +577,13 @@ them are literary letters, but in content, they are largely the day-to-day corre
 orations,” namely __Ep__. 101 and 102, dated summer 382 and addressed to the presbyter Cledonius, who led the diocese during the vacancy in the see of Nazianzus
 following the death of Gregory the elder (374), and __Ep__. 202, addressed to
 Nectarius (ca. 387), the successor of Gregory and the predecessor of John
-Chrysostom as patriarch of Constantinople (381-397). Nectarius was not a theologian but at his consecration had been a senator and a catechumen. He accordingly dealt little with the urgent theological questions of his time, although, in
+Chrysostom as patriarch of link:/pages/places#_constantinople[Constantinople,role=place] (381-397). Nectarius was not a theologian but at his consecration had been a senator and a link:/pages/glossary#_catechumen[catechumen,role=concept]. He accordingly dealt little with the urgent theological questions of his time, although, in
 contrast to his predecessor and his successor, he successfully avoided disputes
 with the people of the church and with the imperial household. Gregory sent __Ep__. 202 to him as an admonition to be cautious with the ongoing machinations of the Arians, Macedonians, and Apollinarians, but also as a bit of theological assistance.
 
 If the five theological orations had clarified the one major theological issue
 of the time of Gregory, namely, the doctrine of the Trinity in dispute with the Arians and Pneumatomachians, the three theological letters address mainly the
-other issue, namely, Christology in the discussion against Apollinaris. In a decisive and forward-looking way, __Ep__. 101.32 defines the completeness of the two natures in Christ: “For that which he has not assumed he has not healed, but that which is united to his Godhead is also saved” (`Greek`). The differentiation of the natures as `greek` in distinction to the three persons in the Trinity as `greek` (101.20-21) supplements the formula. Subsequently the Council of Ephesus (431) appealed to a lengthy paragraph from __Ep__. 101, and in its documents the Council of Chalcedon (451) appropriated it in its entirety.
+other issue, namely, Christology in the discussion against Apollinaris. In a decisive and forward-looking way, __Ep__. 101.32 defines the completeness of the two natures in Christ: “For that which he has not assumed he has not healed, but that which is united to his Godhead is also saved” (`Greek`). The differentiation of the natures as `greek` in distinction to the three persons in the Trinity as `greek` (101.20-21) supplements the formula. Subsequently the Council of link:/pages/places#_ephesus[Ephesus,role=place] (431) appealed to a lengthy paragraph from __Ep__. 101, and in its documents the Council of Chalcedon (451) appropriated it in its entirety.
 
 Generally, Gregory’s works and theology have been very widely disseminated and have exerted great influence, as shown by the more than twelve hundred extant Greek manuscripts of his orations, the translations into Latin and some Eastern languages, and the numerous scholia. Alongside individual editions and _editiones minores_ of Gregory’s writings, the poems and orations have been emerging since 1977 as _editiones maiores_ under the patronage of the Gérres-Gesellschaft, led by Justin Mossay (Louvain) and Martin Sicherl (Münster) and
 including numerous international collaborators.
@@ -594,10 +594,10 @@ NOTE: See original for references
 
 ## II. COUNCIL OF CONSTANTINOPLE (381)
 
-On January 19,379, Emperor Theodosius assumed power, and on August 3
+On January 19,379, Emperor link:/pages/people#_theodosius[Theodosius,role=person] assumed power, and on August 3
 of the same year, he issued the order that only the Nicene creed was accepted
-empire-wide. When he further called on the entire empire on February 27,380, to adhere to the Nicene expression of Christianity and replaced Demophilus, the Arian patriarch of Constantinople, with Gregory of Nazianzus immediately after his move to the capital. On November 24,380, the victory of the faith of Nicea, after more than fifty years of battle for its reception, was sealed. Granted, what was still lacking was its ecclesiastical sanctioning, for according to early Christian opinion, neither an emperor nor a bishop nor even a patriarch was able to lay down valid norms of faith for the entire church by his own absolute power; only a council that is as inclusive as possible-in other words, "ecumenical"-could do this. (This principle also applies to the Council of Constantinople [381]. It did not describe itself as ecumenical, and it was composed exclusively of bishops from the Eastern church. Only the Council of Chalcedon [451] ushered in its recognition as ecumenical.) This was also the reason that after the Council of Nicea (325), confusingly many synods were held on all sides.
+empire-wide. When he further called on the entire empire on February 27,380, to adhere to the Nicene expression of Christianity and replaced Demophilus, the Arian patriarch of link:/pages/places#_constantinople[Constantinople,role=place], with link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person] immediately after his move to the capital. On November 24,380, the victory of the faith of Nicea, after more than fifty years of battle for its reception, was sealed. Granted, what was still lacking was its ecclesiastical sanctioning, for according to early Christian opinion, neither an emperor nor a bishop nor even a patriarch was able to lay down valid norms of faith for the entire church by his own absolute power; only a council that is as inclusive as possible-in other words, "ecumenical"-could do this. (This principle also applies to the Council of link:/pages/places#_constantinople[Constantinople,role=place] [381]. It did not describe itself as ecumenical, and it was composed exclusively of bishops from the Eastern church. Only the Council of Chalcedon [451] ushered in its recognition as ecumenical.) This was also the reason that after the Council of Nicea (325), confusingly many synods were held on all sides.
 
-Now, fifty-five years after the Council of Nicea, a simple confirmation of the Nicene creed was no longer sufficient; there had been too much development, both ecclesiastically-politically and theologically. Now Arianism had to be opposed in the form of Eunomianism, and the Meletian schism of Antioch had to be resolved. The resultant theological problems with the doctrine of the Trinity and, for the first time, with Christolog¡ called for a binding clarification: the question of the divinity of the Spirit (Macedonians/Pneumatomachians) and of the kind of unity between the two natures in Christ (Apollinaris). For this reason, Theodosius summoned a synod soon after he moved to Constantinople at the end of 380 or early 381, which met in Constantinople from May to July. One hundred fifty bishops participated, among them Meletius of Antioch as presiding officer; Gregory of Nazianzus; Gregory of Nyssa and Peter, his brother, of Sebaste; Cyril of Jerusalem; and Diodore of Tarsus.
+Now, fifty-five years after the Council of Nicea, a simple confirmation of the Nicene creed was no longer sufficient; there had been too much development, both ecclesiastically-politically and theologically. Now Arianism had to be opposed in the form of Eunomianism, and the Meletian schism of link:/pages/places#_antioch[Antioch,role=place] had to be resolved. The resultant theological problems with the doctrine of the Trinity and, for the first time, with Christolog¡ called for a binding clarification: the question of the divinity of the Spirit (Macedonians/Pneumatomachians) and of the kind of unity between the two natures in Christ (Apollinaris). For this reason, link:/pages/people#_theodosius[Theodosius,role=person] summoned a synod soon after he moved to link:/pages/places#_constantinople[Constantinople,role=place] at the end of 380 or early 381, which met in link:/pages/places#_constantinople[Constantinople,role=place] from May to July. One hundred fifty bishops participated, among them Meletius of link:/pages/places#_antioch[Antioch,role=place] as presiding officer; link:/pages/people#_gregory-of-nazianzus[Gregory of Nazianzus,role=person]; Gregory of Nyssa and Peter, his brother, of Sebaste; Cyril of Jerusalem; and Diodore of Tarsus.
 
 NOTE: See original for references

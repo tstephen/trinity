@@ -19,7 +19,7 @@ So far in this study something has been said about the lives and
 achievements of the three Cappadocian Fathers, and of their
 treatment of their cultural and theological heritage. Above all,
 attention has been concentrated upon their reworking of the legacy
-of Origen and their reaction to the challenge of Eunomius. But
+of link:/pages/people#_origen[Origen,role=person] and their reaction to the challenge of Eunomius. But
 apart from this last point little has been said about the specific
 contribution made by each separately and all together to the
 doctrine of the Trinity and to Christology. In both these areas, but
@@ -33,8 +33,8 @@ theology I now turn.
 
 ### 6.1. THE CAPPADOCIANS AND THE TRINITY
 
-On 19 June 325, in the presence of the Emperor Constantine, the
-‘318’ fathers of Nicaea produced the Nicene Creed, which affirmed
+On 19 June 325, in the presence of the Emperor link:/pages/people#_constantine[Constantine,role=person], the
+‘318’ fathers of link:/pages/places#_nicaea[Nicaea,role=place] produced the Nicene Creed, which affirmed
 in quite unequivocal language the full deity of the Son. In order to
 reinforce and expand its point the council introduced a word into
 the creed, the meaning of which was then unclear and caused
@@ -44,22 +44,22 @@ _homoousios_, or consubstantial, with the Father. But despite the
 [#page-102]
 
 apparent authority of the creed we hear no more about it until its
-reaffirmation at the Western Council of Serdica in 342/343, seventeen years later. In the intervening period the strongest supporters
+reaffirmation at the Western Council of link:/pages/places#_serdica[Serdica,role=place] in 342/343, seventeen years later. In the intervening period the strongest supporters
 of the creed had found themselves expelled from their sees and
-exiled to foreign parts, while the supporters of Arius flourished.
+exiled to foreign parts, while the supporters of link:/pages/people#_arius[Arius,role=person] flourished.
 Above all, Eusebius of Nicomedia became a favoured counsellor of
 the Emperor, whom he baptized on his deathbed in 337. Far from
 Nicaea being regarded as authoritative and as having said the last
 word, synod after synod produced creed after creed in order to
 secure some measure of unity in the Church. An impression of the
 doctrinal industry and disunity that mark the period between 325
-and 381, the date of the second ecumenical council, held at Constantinople, is afforded by the simple fact that it saw the production
+and 381, the date of the second ecumenical council, held at link:/pages/places#_constantinople[Constantinople,role=place], is afforded by the simple fact that it saw the production
 of at least twelve different and sometimes contradictory creeds.
 
 On the whole it can be said that the central aim of all parties was
-to steer some sort of middle course between the position of Arius
+to steer some sort of middle course between the position of link:/pages/people#_arius[Arius,role=person]
 on the one hand and that of Marcellus of Ancyra on the other. This
-means that though all agreed that Arius had been wrong, if he
+means that though all agreed that link:/pages/people#_arius[Arius,role=person] had been wrong, if he
 meant that the Son was not co-eternal with the Father, Marcellus
 was no less wrong in denying any real and eternal distinction
 between the Father and the Son. Cappadocian theology is an
@@ -68,7 +68,7 @@ insist on the full deity of the Son and of his eternal distinction from
 the Father.
 
 Basil’s own rise to theological consciousness can be dated with
-some accuracy to a council held at Constantinople in 360, when we
+some accuracy to a council held at link:/pages/places#_constantinople[Constantinople,role=place] in 360, when we
 find him associated with the party of his friend Eustathius of
 Sebaste, the so-called Homoiousians. The party had arisen in the
 middle of the previous decade and tried to form a common front
@@ -89,7 +89,7 @@ deity between the three persons. Indeed, much of Basil’s theological
 enterprise was to reconcile to the Nicene Creed those whose fears
 had been roused by the interpretation put upon it by Marcellus.
 
-For what did _homoousios_ mean? To the Fathers of Nicaea it had been a convenient tool for disposing of Arius, who would never
+For what did _homoousios_ mean? To the Fathers of link:/pages/places#_nicaea[Nicaea,role=place] it had been a convenient tool for disposing of link:/pages/people#_arius[Arius,role=person], who would never
 have dreamed of so defining the relation of Son to Father. It very
 clearly meant that whatever was affirmed about the Father must
 also be affirmed about the Son, Fatherhood alone excepted. But
@@ -98,24 +98,24 @@ what more was being stated. Marcellus of Ancyra, as we have seen,
 thought that the creed asserted identity of nature _and_ of person. In
 other words there was for him only one _nature_ (_ousia_) in the deity,
 but also only one _person_ (_hypostasis_) there. In other words the
-interpretation of Nicaea turned on what precise relation was
+interpretation of link:/pages/places#_nicaea[Nicaea,role=place] turned on what precise relation was
 assumed between the two terms _ousia_ and _hypostasis_.
 
 In 362 the Emperor Julian, in an attempt to disturb the peace of
-the Church, recalled from exile those bishops, among them Athanasius, who had been sent away from their dioceses by Julian’s
-predecessor Constantius. Athanasius seized the opportunity thus
-offered him by summoning a synod at Alexandria in 362. The
+the Church, recalled from exile those bishops, among them link:/pages/people#_athanasius[Athanasius,role=person], who had been sent away from their dioceses by Julian’s
+predecessor Constantius. link:/pages/people#_athanasius[Athanasius,role=person] seized the opportunity thus
+offered him by summoning a synod at link:/pages/places#_alexandria[Alexandria,role=place] in 362. The
 upshot of this was the _Tomus ad Antiochenos_ (_Letter to the Antiochenes_). It was a clever document, https://en.wikipedia.org/wiki/Irenicism[irenic] in tone and intention,
-endeavouring to rally all to the creed of Nicaea, but permitting a
+endeavouring to rally all to the creed of link:/pages/places#_nicaea[Nicaea,role=place], but permitting a
 certain diversity of interpretation in its meaning. It states: ‘We
-require nothing beyond the faith of Nicaea.’ As long as that is
-asserted, together with the condemnation of Arius, it appears to be
+require nothing beyond the faith of link:/pages/places#_nicaea[Nicaea,role=place].’ As long as that is
+asserted, together with the condemnation of link:/pages/people#_arius[Arius,role=person], it appears to be
 a matter of theological niceness whether it be affirmed that in the
 deity there are one _ousia_ and one _hypostasis_ or one _ousia_ and three
 _hypostaseis_. This highly ecumenical document was designed to
-teconcile the opposing factions in the Church of Antioch.
+teconcile the opposing factions in the Church of link:/pages/places#_antioch[Antioch,role=place].
 
-Basil of Caesarea’s central contribution to the theological debate
+Basil of link:/pages/places#_caesarea[Caesarea,role=place]’s central contribution to the theological debate
 was to clarify or to attempt to clarify the relation between these two
 terms. In his earlier work, the _Against Eunomius_ of about 364,
 Basil is shy of the word _homoousios_, using it on only one occasion
@@ -185,8 +185,8 @@ existence from the Father. But though admitting the place of taxis
 or order within the Trinity, Basil refuses to follow Eunomius in
 inferring from this order a lessening of essential being and Godhead. Though the Son comes from the Father he is not therefore
 any less than the Father. In holding this Basil set himself against
-what can be called a tenet of Platonism, namely that the cause is
-superior to the effectfootnote:[For the general axiom in Neoplatonism of the superiority of the cause to the effect cf. Plotinus, Ennead V.5.13.35; and for a discussion of the principle cf. Proclus, Elements of Theology (Oxford, 1933), p. 193 and E. R. Dodds ad loc.]. The pattern of descent from the Father as
+what can be called a tenet of link:/pages/glossary#_platonism[Platonism,role=concept], namely that the cause is
+superior to the effectfootnote:[For the general axiom in Neoplatonism of the superiority of the cause to the effect cf. link:/pages/people#_plotinus[Plotinus,role=person], Ennead V.5.13.35; and for a discussion of the principle cf. Proclus, Elements of Theology (Oxford, 1933), p. 193 and E. R. Dodds ad loc.]. The pattern of descent from the Father as
 source persists throughout the rest of Basil’s life, and flowers in his
 book _On the Holy Spirit_, where the Father is the first cause of
 everything, the Son the creator, and the Spirit, the perfecterfootnote:[Basil, On the Holy Spirit 16.38.].
@@ -253,11 +253,11 @@ change and time, and therefore he finally rejects them. A final
 model is that drawn from mental processes, and that also makes use
 of a descending model. In this model Father, Son and Holy Spirit
 are self-related even as mind, word and breathfootnote:[Gregory of Nazianzus, Oration 12.1.]. Such an analogy
-had appealed to a variety of Fathers from Tertullian to Gregory of
-Nyssa, and slightly later to Augustinefootnote:[The ‘mental’ analogy occurs in Tertullian, Against Praxeas 7; Athanasius, Against the Arians 2.2; Gregory of Nyssa, Catechetical Oration 2; Augustine, On the Trinity IX and X.]. It had the great advantage
+had appealed to a variety of Fathers from link:/pages/people#_tertullian[Tertullian,role=person] to Gregory of
+Nyssa, and slightly later to Augustinefootnote:[The ‘mental’ analogy occurs in link:/pages/people#_tertullian[Tertullian,role=person], Against Praxeas 7; link:/pages/people#_athanasius[Athanasius,role=person], Against the Arians 2.2; Gregory of Nyssa, Catechetical Oration 2; link:/pages/people#_augustine[Augustine,role=person], On the Trinity IX and X.]. It had the great advantage
 over the stream and sun models of not depending for its effectiveness upon spatial imagery.
 
-To Gregory of Nazianzus we owe one particular idea that seems
+To link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person] we owe one particular idea that seems
 to be quite new. In his endeavour to evade the Arian charge that
 the ideas of Fatherhood must be descriptions either of the divine essence — which would exclude the Son — or of the divine attributes—which would import accidents into the simple essence of the Deity
 — Gregory produces in his third _Theological Oration_ (section 16) the
@@ -279,8 +279,8 @@ both to each other (immanent Trinity) and to the world (economic
 Trinity). This idea has been explored by John Zizioulas in _Being as Communion_,footnote:[John Zizioulas, Being as Communion (London, 1985).] in which he seems to see the nature of the deity as
 constituted by their mutual interrelationships. So helpful and so
 powerful was this solution to the problem of the Trinity that it is
-possible that the celebrated analogies of Augustine in his _On the
-Trinity_ owe something to it.footnote:[For Augustine’s possible dependence on Gregory of Nazianzus see On
+possible that the celebrated analogies of link:/pages/people#_augustine[Augustine,role=person] in his _On the
+Trinity_ owe something to it.footnote:[For link:/pages/people#_augustine[Augustine,role=person]’s possible dependence on link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person] see On
 the Trinity 15.20.38 and the note there in the Bibliothtque Augustinienne edition, p. 528.]
 
 Gregory of Nyssa’s discussion of the Trinity occurs in several
@@ -342,7 +342,7 @@ words, where there is only one action, there is only one agent.
 A third attempt to counter the charge of tritheism takes the form
 of an attempt to relate the three members of the Trinity together by
 means of internal relationships. It is not unlike a form of the
-argument already to be found in Gregory of Nazianzus and may
+argument already to be found in link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person] and may
 owe something to him.
 
 > Although we acknowledge the nature as undifferentiated, we do
@@ -359,18 +359,18 @@ second.
 
 Slightly later on this dependence is defined in terms of relationship.
 
-There is much here to remind the reader of Augustine’s analogies
+There is much here to remind the reader of link:/pages/people#_augustine[Augustine,role=person]’s analogies
 for the Trinity. Gregory and he are both dealing with the immanent
 Trinity. Gregory and he both use the notion of relation. Gregory
 and he both see the Spirit as coming in some way from both the
 Father and the Son. Where they differ is that Gregory lacks a
 _symmetrical_ understanding of the way this procession takes place.
-So Augustine can write in _On the Trinity_ XV.xiii.29 what Gregory
+So link:/pages/people#_augustine[Augustine,role=person] can write in _On the Trinity_ XV.xiii.29 what Gregory
 never did nor could write: the Spirit proceeds _principaliter_ from the
-Father, but also from the Son. Behind Augustine’s formulation lies
+Father, but also from the Son. Behind link:/pages/people#_augustine[Augustine,role=person]’s formulation lies
 his conviction of the equality of the Son with the Father in all except
 one feature, his Fatherhood. Apart from that they share all attributes equally, _including_ that of being the source of the Spirit. In _On
-the Trinity_ XV.xxvi.47 Augustine writes that the Spirit proceeds
+the Trinity_ XV.xxvi.47 link:/pages/people#_augustine[Augustine,role=person] writes that the Spirit proceeds
 from the Father _principaliter et communiter de utroque_. The Western form of the Nicene Creed, ‘the Holy Spirit, who proceeds from
 the Father and the Son’, is the direct child of Augustinian theology.
 Even so, despite the evident difference in emphasis, the two
@@ -385,7 +385,7 @@ justification or success.
 ### 6.2 THE CAPPADOCIANS AND THE PERSON OF CHRIST
 
 Attempts to understand and explore the mystery of Christ’s person
-had, up to the Council of Nicaea, largely concentrated on asserting
+had, up to the Council of link:/pages/places#_nicaea[Nicaea,role=place], largely concentrated on asserting
 what was meant by calling Jesus God. Little serious attempt had
 been made to examine what it meant to call him man, or how the
 two assertions about Christ, that he was divine and that he was
@@ -401,9 +401,9 @@ became flesh.’ The tendency of this school is either to deny that
 [#page-110]
 
 Christ possessed a human soul, or to admit that he had one, but to
-deny to it any independent power of action. By and large theologians who came from Alexandria held such opinions, among
-them Athanasius. On the other side there were members of the
-_logos-anthrõpos_ school, who came largely from Antioch and
+deny to it any independent power of action. By and large theologians who came from link:/pages/places#_alexandria[Alexandria,role=place] held such opinions, among
+them link:/pages/people#_athanasius[Athanasius,role=person]. On the other side there were members of the
+_logos-anthrõpos_ school, who came largely from link:/pages/places#_antioch[Antioch,role=place] and
 insisted that Christ was fully human and had become united with
 the Word at his baptism or resurrection or birth as a result of his
 virtue and obedience, either actual or foreseen. For the members of
@@ -416,7 +416,7 @@ Syria. He and his father had done much to create a Christian
 culture in the East in response to the attempt made by the Emperor
 Julian in 362 to drive the Christians back into a cultureless ghetto.
 The two, father and son, had produced classical versions of the
-books of the Bible. Plato formed the model for the gospels; Homer
+books of the Bible. link:/pages/people#_plato[Plato,role=person] formed the model for the gospels; Homer
 for the books of Kings and so on. In addition to these fairly
 harmless activities Apollinarius the younger produced a version of
 Christology which challenged the rest of the Church, and above all
@@ -480,7 +480,7 @@ has not been assumed has not been healed’ (_to aproslēpton, atherapeuton_). T
 virtue of touching it. The implications of this elegant formula are
 far reaching. To begin with there is some sort of identity assumed
 between Christ’s humanity and ours. Secondly salvation is assimilated to healing, an idea which, for all its attractiveness to the
-Greek mind,footnote:[The idea that punishment is essentially and solely therapeutic probably begins with Plato, Gorgias 477A and 480C; and is taken over by Origen, On Jeremiah 1.16; Against Celsus 4.72; On First Principles 2.10.4-6; it is Gregory of Nyssa’s persistent view in Catechetical Oration 8 and 26.] is not frequent in the Bible. Finally, the place of
+Greek mind,footnote:[The idea that punishment is essentially and solely therapeutic probably begins with link:/pages/people#_plato[Plato,role=person], Gorgias 477A and 480C; and is taken over by link:/pages/people#_origen[Origen,role=person], On Jeremiah 1.16; Against Celsus 4.72; On First Principles 2.10.4-6; it is Gregory of Nyssa’s persistent view in Catechetical Oration 8 and 26.] is not frequent in the Bible. Finally, the place of
 healing is assumed to be primarily the created spirit or mind. The
 mind is the place at which the union between the body of Christ and
 
@@ -488,9 +488,9 @@ mind is the place at which the union between the body of Christ and
 
 the deity occurs. ‘Mind is mingled with mind as nearer and more
 closely related, and through it with flesh, being a mediator between
-God and carnality.’ Here we are close to Origen’s belief that the
+God and carnality.’ Here we are close to link:/pages/people#_origen[Origen,role=person]’s belief that the
 human mind of Christ is the point of juncture between God and the
-body.footnote:[Origen, On First Principles 2.6.3.] In several respects, therefore, Gregory of Nazianzus is
+body.footnote:[Origen, On First Principles 2.6.3.] In several respects, therefore, link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person] is
 more Greek than is Apollinarius in his conception of the Incarnation, above all in his insistence on healing as the heart of divine
 salvation and on the need for the divine in Christ to be related to
 the bodily by means of something more spiritual.
@@ -547,18 +547,18 @@ for the Church to defend its particular mission and to expand and
 explore it in an alien culture. The vast majority of the leading
 bishops and thinkers of the Church came from Greek-speaking
 areas of the empire, and the most celebrated writers, especially
-those who came from Antioch and Alexandria, gave to the primitive Gospel a new complexion, if not a new substance. Whether
+those who came from link:/pages/places#_antioch[Antioch,role=place] and link:/pages/places#_alexandria[Alexandria,role=place], gave to the primitive Gospel a new complexion, if not a new substance. Whether
 this development amounted to a change or a continuity has been
 much disputed. The fact remains that by the fourth century the
 Church had at least two centuries of Hellenization behind it, and
-although, towards the beginning of this period, Tertullian in the
+although, towards the beginning of this period, link:/pages/people#_tertullian[Tertullian,role=person] in the
 West had protested against this alien wisdom, the majority of
 cultivated Christians took it for granted that the marriage between
 the Gospel and the Greeks was advantageous to the Church. It
 provided forms with which to express convictions. If the intention
 of the Lord was a worldwide mission (cf. Matt 28:19), then it is
 hardly surprising that the forms of the converted world entered into
-the life of the conqueror. When Rome conquered Greece, it soon
+the life of the conqueror. When link:/pages/places#_rome[Rome,role=place] conquered Greece, it soon
 found itself using the forms of the vanquished. The same was true
 with the Gospel.
 
@@ -577,7 +577,7 @@ Even so, the complacency with which they had all three regarded
 the alliance between Christianity and classical culture was rudely
 shaken by the School Law of 362, in which the Emperor Julian
 forbade Christians to instruct in schools. The marriage which had
-existed since the days of Justin and Clement of Alexandria was
+existed since the days of Justin and Clement of link:/pages/places#_alexandria[Alexandria,role=place] was
 suddenly threatened with divorce. All three Cappadocians reacted,
 with varying degrees of speed and vigour, to the challenge. Possibly
 the most outspoken, because the most threatened, of the three was
@@ -622,7 +622,7 @@ from his fellow Christians in the encounter with Julian he might
 have felt more secure, but the Christian tradition _vis-a-vis_ culture
 had never been monolithic. There had been many who had doubted
 the wisdom and the desirability of using the wisdom and culture of
-the Greeks. Tertullian in the second century, and Jerome in the
+the Greeks. link:/pages/people#_tertullian[Tertullian,role=person] in the second century, and Jerome in the
 fourth, had taken a very hostile stand on the subject.footnote:[Tertullian, Apologeticus 46; Jerome, Letter 22.]
 
 Gregory, therefore, was defending himself against a twofold
@@ -651,7 +651,7 @@ about 376 or 377. It lacks the bitterness of Gregory, and is very
 sententious. His treatment of Greek poetry, above all Homer, is
 highly moral. Homer is to be read only in so far as he is useful, and
 by ‘useful’ Basil means ‘profitable for the moral life’. Much of what
-Basil says owes a good deal to Plato’s treatment of the gods and of
+Basil says owes a good deal to link:/pages/people#_plato[Plato,role=person]’s treatment of the gods and of
 the poets in the _Republic_. He may also have known Plutarch’s _On Reading the Poets_. Basil’s attitude to Greek poetry is rather narrow
 and disappointing. The Christian, he thinks, must use only those
 parts of Homer which have a moral value, and leave the rest on one
@@ -681,7 +681,7 @@ irrational nature. This is a fleshly and alien foreskin.’ Further
 examples of discrimination follow, which evaluate the contribution
 of pagan philosophy, choosing some elements, not others. What
 Basil proposed as a way forward for the Christian when faced with
-Homer, Gregory does for Plato. The second example derives from
+Homer, Gregory does for link:/pages/people#_plato[Plato,role=person]. The second example derives from
 the spiritual exegesis of the spoils of the Egyptians (cf. Exod 12:35).
 The demand to rob the Egyptians of their valuable possessions
 
@@ -704,10 +704,10 @@ and content. All three of them used forms that they inherited from
 
 [#page-117]
 
-their education. Gregory of Nyssa used Plato’s dialogues the
+their education. Gregory of Nyssa used link:/pages/people#_plato[Plato,role=person]’s dialogues the
 _Symposium_ and _Phaedo_ as literary models for his treatises _On Virginity_ and _On the Soul and Resurrection._ His account of the
 creation of man in _On the Making of Man_ owes a good deal both to
-the _Symposium_ and to _Protagoras_. Gregory of Nazianzus owes a
+the _Symposium_ and to _Protagoras_. link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person] owes a
 considerable debt in his poetry to the didactic poems of Hesiod and
 Aratus, and in his style to the speeches of Himerius and, before
 him, to Polemo. Basil is less obviously dependent on any one
@@ -736,12 +736,12 @@ innovations within it are perhaps even more striking. The extent of
 the revision can be seen by looking at four main areas: (a) God, (b)
 the spiritual world, (c) anthropology and (d) evil.
 
-(a) __God__. For Plato and Plotinus the supreme principle is rarely
+(a) __God__. For link:/pages/people#_plato[Plato,role=person] and link:/pages/people#_plotinus[Plotinus,role=person] the supreme principle is rarely
 termed God. The Idea of the Good or of Beauty or Absolute Being
-is regularly ‘defined’ by Plato as neuter, while in _Timaeus_ the
+is regularly ‘defined’ by link:/pages/people#_plato[Plato,role=person] as neuter, while in _Timaeus_ the
 personal god looks at the impersonal Form as something superior
-to himself. For Plato, value was superior to being, and immobility
-to motion. Plato would probably have considered a personal absolute as a contradiction in terms. Plotinus, likewise, rarely applies
+to himself. For link:/pages/people#_plato[Plato,role=person], value was superior to being, and immobility
+to motion. link:/pages/people#_plato[Plato,role=person] would probably have considered a personal absolute as a contradiction in terms. link:/pages/people#_plotinus[Plotinus,role=person], likewise, rarely applies
 the term ‘god’ to the One;footnote:[Plotinus applies the word theos to the Absolute One at Ennead VI.8.21.9; VI.9.9.16.] to make the One personal would have
 meant a difficulty in applying any idea of absorption in it as the goal
 of the ascent of the finite spirit. For the Cappadocians, however,
@@ -753,7 +753,7 @@ Plato are still applied to God. This fusion of personal and Platonic
 occurs especially in the more ascetic writings. In the first of his
 __Longer Rules__, for example, Basil writes that the supreme beauty is
 the good: ‘the good is God. All desire the good [a possible reference
-to the opening sentence of Aristotle’s __Nicomachean Ethics__], therefore all desire God.’ Gregory of Nyssa, likewise, in his treatise __On Virginity__, identifies the abstract object of Plato’s quest in the
+to the opening sentence of Aristotle’s __Nicomachean Ethics__], therefore all desire God.’ Gregory of Nyssa, likewise, in his treatise __On Virginity__, identifies the abstract object of link:/pages/people#_plato[Plato,role=person]’s quest in the
 _Symposium_ with the God whose vision is promised to the pure of
 heart at https://www.bible.com/en-GB/bible/2016/mat.5.8[Matthew 5:8]. Gregory distinguishes himself from Basil by
 his greater reluctance to abandon the more impersonal language of
@@ -765,7 +765,7 @@ it, was in their Trinitarian doctrine. They all believed that in some
 sense the one God was not so simple as to exclude that one God
 being three persons. In other words absolute unity and simplicity
 were in their view compatible with threeness. Contrast this with the
-simplicity of Plato’s first principle, always the same without increase or diminution, or with the One of Plotinus, whose absolute
+simplicity of link:/pages/people#_plato[Plato,role=person]’s first principle, always the same without increase or diminution, or with the One of link:/pages/people#_plotinus[Plotinus,role=person], whose absolute
 simplicity exceeds our experience of unity. Something has already
 been said about the embarrassment felt by Gregory of Nyssa in the
 face of the apparent tritheism of his belief in __To Ablabius__.
@@ -785,25 +785,25 @@ deity. Here again, therefore, we are face to face with a strange
 phenomenon. Both sides to the debate are at one in admitting that
 in the divine world there exist three divine hypostases. Both sides
 admit that it is possible to order these three in point of cause and
-effect. But, while Plotinus clearly supposes that the One is not only
+effect. But, while link:/pages/people#_plotinus[Plotinus,role=person] clearly supposes that the One is not only
 
 [#page-119]
 
 the uncaused cause of all but also superior to all, the Cappadocians
 were at one in rejecting any subordinationism of this kind.
 
-(b) __The spiritual world__. For Plato the Idea of the Good was
+(b) __The spiritual world__. For link:/pages/people#_plato[Plato,role=person] the Idea of the Good was
 approached by means of a subordinate world of Forms, called
-__mathematica__. In other dialogues Plato assumes the existence of a
+__mathematica__. In other dialogues link:/pages/people#_plato[Plato,role=person] assumes the existence of a
 _kosmos noētos_ or intelligible world, which contained the ideal
 patterns of this world, in accordance with which in _Timaeus_ God
 had fashioned the temporal order. These forms were thought of as
 static, perfect and changeless. In comparison with this picture of
-the upper world, though not with that of Plotinus,footnote:[For Plotinus the upper world of Spirit, nous, is full of life and movement as at Ennead V.4.2.43.] the transformation wrought by the Cappadocians is remarkable. The divine world
+the upper world, though not with that of link:/pages/people#_plotinus[Plotinus,role=person],footnote:[For link:/pages/people#_plotinus[Plotinus,role=person] the upper world of Spirit, nous, is full of life and movement as at Ennead V.4.2.43.] the transformation wrought by the Cappadocians is remarkable. The divine world
 of Forms is replaced by the divine world of angels. The Forms in
 some ill-defined sense owe their existence to the Idea of the Good;
 the angels are most definitely creatures of God and, more importantly, they are full of life. This transformation is too consistent to
-be either freakish or accidental, and may go back to Origen, who
+be either freakish or accidental, and may go back to link:/pages/people#_origen[Origen,role=person], who
 identifies the ‘waters above the firmament’ with the angelic
 creation.
 
@@ -814,10 +814,10 @@ in them through the communion of the Spirit.’footnote:[Basil, On the Holy Spir
 Nazianzus is a little uncertain about the perfection of the angels,
 whom he describes in the second _Theological Oration_ as ‘pure
 natures, unalloyed, immovable to evil, or scarcely movable’.footnote:[Gregory of Nazianzus, Theological Oration 2.31 and Mason’s reference.] The
-reiterated affirmation of the mutable angelic nature makes Gregory’s difference from Plato clear enough. The angels know the
+reiterated affirmation of the mutable angelic nature makes Gregory’s difference from link:/pages/people#_plato[Plato,role=person] clear enough. The angels know the
 divine splendour, but are still with difficulty capable of deserting it
 in favour of something inferior. Although he does not make use in
-so many words of Origen’s doctrine of _koros_ or of boredom in the
+so many words of link:/pages/people#_origen[Origen,role=person]’s doctrine of _koros_ or of boredom in the
 presence of a finite God, he shares with him the conviction that to
 remain with God is at best precarious. Gregory of Nyssa also
 believes in the essential mutability of the angels, but for him there is
@@ -833,20 +833,20 @@ angels. This by itself does distinguish all three from the Platonic
 [#page-120]
 
 conception of a spiritual world of changeless Forms. For them as
-distinct from Plato the Forms have become living beings rather than
+distinct from link:/pages/people#_plato[Plato,role=person] the Forms have become living beings rather than
 static patterns of changeless perfection.
 
-(c) __Anthropology__. Plato’s conception of the human being is hard
+(c) __Anthropology__. link:/pages/people#_plato[Plato,role=person]’s conception of the human being is hard
 to define. He is popularly regarded as the archetypal dualist as a
 result of dialogues like _Phaedo_ and _Phaedrus_ in both of which the
 soul is regarded as having fallen from a state (and place) of
 contemplation of the Ideas, without a body, into a state of loss of
-contemplation, with a body. In other words popular Platonism
+contemplation, with a body. In other words popular link:/pages/glossary#_platonism[Platonism,role=concept]
 believes in both a radical distinction of soul and body _and_ the pre-existence of the soul. This fragile union of soul and body, though
-characteristic of much of Plato, is not the whole picture. In
+characteristic of much of link:/pages/people#_plato[Plato,role=person], is not the whole picture. In
 __Timaeus__, above all, a much closer union is postulated between
 body and soul; there is no doctrine of pre-existence, and human
-nature is treated as a sort of microcosm of the whole.footnote:[Compare Plato, Phaedo 80, 81 with Phaedrus 245ff. and Timaeus 81A, 88D.] This latter
+nature is treated as a sort of microcosm of the whole.footnote:[Compare link:/pages/people#_plato[Plato,role=person], Phaedo 80, 81 with Phaedrus 245ff. and Timaeus 81A, 88D.] This latter
 view is much more characteristic of the Cappadocians than is the
 more strictly dualist position. Even Gregory of Nyssa, who devotes
 the first part of _On the Soul and Resurrection_ to a highly Platonic
@@ -855,21 +855,21 @@ un-Platonic doctrine of the resurrection of the body. Further, as we
 have seen, his account of the creation of man in his _Catechetical
 Oration_ insists on the necessity of a body for human nature, and
 later on his doctrine of resurrection is closely linked to the idea that
-body and soul will eternally belong together. Gregory of Nazianzus, likewise, in his second __Theological Oration__, also speaks of man
+body and soul will eternally belong together. link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person], likewise, in his second __Theological Oration__, also speaks of man
 as a microcosm. There he speaks of the mingling of the mortal with
 the immortal, of the necessary connection of intellect, the divine
-part, and of sense.footnote:[Compare Plato, Phaedo 80, 81 with Phaedrus 245ff. and Timaeus 81A, 88D.] Finally, Basil, at least in his treatment of what
+part, and of sense.footnote:[Compare link:/pages/people#_plato[Plato,role=person], Phaedo 80, 81 with Phaedrus 245ff. and Timaeus 81A, 88D.] Finally, Basil, at least in his treatment of what
 constitutes the image of God in human nature, does not seem to
-follow his master, Origen.footnote:[Compare Origen, Dialogue with Heraclides 12 and 16 and Basil, Homilies on the Hexameron 8.6 and 9.5.] He locates the image of God in man
+follow his master, link:/pages/people#_origen[Origen,role=person].footnote:[Compare link:/pages/people#_origen[Origen,role=person], Dialogue with Heraclides 12 and 16 and Basil, Homilies on the Hexameron 8.6 and 9.5.] He locates the image of God in man
 rather in the power to control than in any particularly intellectual
-faculty. Doubtless the more populist version of Plato remains as an
+faculty. Doubtless the more populist version of link:/pages/people#_plato[Plato,role=person] remains as an
 undercurrent throughout the writings of all three Cappadocians;
 but the very fact that alongside that stress we also find a rather
 different picture, hard to reconcile with the more common version,
-even for a philosopher of the calibre of Plotinus,footnote:[Plotinus, Ennead IV.8.1, IV.8.8.] indicates a
-dissatisfaction with ‘school Platonism’. This greater sympathy for
+even for a philosopher of the calibre of link:/pages/people#_plotinus[Plotinus,role=person],footnote:[Plotinus, Ennead IV.8.1, IV.8.8.] indicates a
+dissatisfaction with ‘school link:/pages/glossary#_platonism[Platonism,role=concept]’. This greater sympathy for
 the body may have come about through reading the _Enneads_ of
-Plotinus, with whom the Cappadocians had some slight acquaintance,footnote:[For Gregory and the Cappadocian knowledge of Plotinus cf. J. Rist P. J. Fedwick (ed.), Basil of Caesarea: Christian, Humanist, Ascetic (Toronto, 1981), ch. 5.] but it is more probable that this revolution took place under
+Plotinus, with whom the Cappadocians had some slight acquaintance,footnote:[For Gregory and the Cappadocian knowledge of link:/pages/people#_plotinus[Plotinus,role=person] cf. J. Rist P. J. Fedwick (ed.), Basil of link:/pages/places#_caesarea[Caesarea,role=place]: Christian, Humanist, Ascetic (Toronto, 1981), ch. 5.] but it is more probable that this revolution took place under
 the influence of a deeper perception of the meaning for human life
 
 [#page-121]
@@ -877,7 +877,7 @@ the influence of a deeper perception of the meaning for human life
 of the doctrines of creation, Incarnation and resurrection of the
 body.
 
-(d) __Evil__. For Plato there was no Form of evil. It had no eternal
+(d) __Evil__. For link:/pages/people#_plato[Plato,role=person] there was no Form of evil. It had no eternal
 significance. He identified being with goodness and non-being with
 evil. It became an axiom, therefore, for Platonists that evil did not
 really exist and had therefore no place in the real or spiritual world.
@@ -886,7 +886,7 @@ _Ennead_ 1.8), argues that, though evil has some sort of existence, it
 does not exist in the upper world of his three hypostases and is both
 connected with turning away from the One and somehow connected to matter. It is not absolutely unreal but only relatively so.
 Much of this reduction of evil to unreality had found a ready home
-among Christian writers, above all Origen. Basil, also, in his
+among Christian writers, above all link:/pages/people#_origen[Origen,role=person]. Basil, also, in his
 sermon __That God Is Not the Author of Evils__,footnote:[PG 31, 329.] in his effort to
 remove the responsibility for the existence of evil from God,
 adopted a markedly Platonic stance. God is not the author of evil,
@@ -895,7 +895,7 @@ appearance. It results from no action of God, but from our perverted wills, that
 him. The word Basil uses to describe this mental condition is __koros__,
 boredom or satiety. It had been used by Origenfootnote:[Origen, On First Principles 2.8.3.] also to explain the
 sombre phenomenon of the fall of the soul from its state of
-primitive blessedness. In Origen’s case this sense of boredom had
+primitive blessedness. In link:/pages/people#_origen[Origen,role=person]’s case this sense of boredom had
 arisen, so he argued, from the inability of God to satisfy completely
 the finite spirit. And this ‘inability’ on God’s part was a direct
 consequence of the finite nature of God himself. It is instructive to
@@ -905,7 +905,7 @@ with that of the divine infinity, continuing to use a solution of
 Origen in order to account for evil in the heavenly places.footnote:[Brooks Otis, ‘Cappadocian thought as a coherent system’, Dumbarton Oaks Papers 12 (1958).]
 Although neither of the two Gregorys uses this device as a way of
 accounting for evil’s origin, Basil’s continuing use of Origenistic
-theodicy is an indication of both the strength of Origen’s system
+theodicy is an indication of both the strength of link:/pages/people#_origen[Origen,role=person]’s system
 even when severed from its roots and the difficulty of accounting
 for the rise of evil. Gregory of Nyssa, indeed, rejects the Origenistic doctrine of __koros__,footnote:[Gregory rejects the Origenistic idea of koros in Life of Moses 11.232.] but retains the general Greek idea that sin
 arises from ignorance.
@@ -925,11 +925,11 @@ ultimate salvation of all, even the devil. For Gregory, therefore,
 basing himself on https://www.bible.com/en-GB/bible/2016/1co.15.24-28[1 Corinthians 15:24-28], the only form of punishment is therapeutic. It is surprising that such teaching was not
 condemned, though attempts were later made to erase it from his
 writings. The doctrine of universalism was indeed condemned at a
-much later date by the Synod of Constantinople of 543;footnote:[For the canons of the Synod of 543, cf. H. Denzinger, rev. A.Schénmetzer, Enchiridion Symbolorum (34th edn; Freiburg: Herder, 1967), nos 403-411.] and the
+much later date by the Synod of link:/pages/places#_constantinople[Constantinople,role=place] of 543;footnote:[For the canons of the Synod of 543, cf. H. Denzinger, rev. A.Schénmetzer, Enchiridion Symbolorum (34th edn; Freiburg: Herder, 1967), nos 403-411.] and the
 slight suspicion that surrounded the name and works of Gregory of
 Nyssa doubtless reflects the unease felt at his unashamed maintenance of this doctrine.
 
-Basil and Gregory of Nazianzus were less wholehearted in their
+Basil and link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person] were less wholehearted in their
 universalism.footnote:[For a very useful conspectus of early Church teaching upon eschatology, cf. Brian E. Daley, The Hope of the Early Church (Cambridge,1991).] Basil, particularly, interprets the strictness of God’s
 demands and judgements so as, in the last analysis, to rule out
 the possibility of ultimate forgiveness. Both in the _Moralia_ and in
@@ -937,7 +937,7 @@ the _Shorter Rules_ the sin of disobedience is punished with unending
 penalties. Eternal punishment can no more come to an end than
 can eternal life. Compared with the austerities of Basil, Gregory of
 Nazianzus looks very mild indeed. In his discussion of https://www.bible.com/en-GB/bible/2016/1co.15.28[1 Corinthians 15:28], which had been used by Gregory of Nyssa to argue to
-universalism, Gregory of Nazianzus suggests the same conclusion,
+universalism, link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person] suggests the same conclusion,
 though neither so clearly, nor so philosophically. In his fourth
 _Theological Oration_ (section 6) he writes ‘But God will be all in all
 in the time of restitution; not in the sense that the Father alone will
@@ -947,13 +947,13 @@ God, ready to receive the whole God and him alone. This is the
 perfection to which we press on.’ His language is nothing like so
 clear as that of his namesake. He does not say outright that _all_ will
 be saved; that is only an inference we might draw from his language, simply because the subject of the sentence ‘we’ is unclear in
-its precise meaning. Basil and Gregory of Nazianzus, though
+its precise meaning. Basil and link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person], though
 following the general Platonic picture of evil as somehow unreal,
 are sufficiently loyal to the majority view of the Church as to insist
 on or not to deny the eternity of evil and therefore of punishment.
 
 The four topics chosen enable us to see at a glance what position
-the Cappadocians took towards their Hellenic heritage. With Plato
+the Cappadocians took towards their Hellenic heritage. With link:/pages/people#_plato[Plato,role=person]
 they shared the view that there exists a spiritual world, beyond the
 reach of the senses, into which all are invited once the victory over
 evil has been accomplished. If calling them Platonists is to say that
@@ -971,12 +971,12 @@ imprisonment of the soul in the body had by and large been
 replaced by a more unified version, in which the body was there
 from the outset and would be there at the end. The major area of
 disagreement among them is to be found in their treatment of the
-end of man and the fate of the devil and of other evildoers. Origen
-(and Plato) held to the view that punishment was essentially
+end of man and the fate of the devil and of other evildoers. link:/pages/people#_origen[Origen,role=person]
+(and link:/pages/people#_plato[Plato,role=person]) held to the view that punishment was essentially
 therapeutic and would not last for ever. Gregory of Nyssa shared
 this opinion, and his avowed universalism may explain his absence
 from among the four great doctors of the Greek Church. Basil,
-however, almost always holds the sterner view, believing in everlasting punishment. Gregory of Nazianzus is an uncertain candle
+however, almost always holds the sterner view, believing in everlasting punishment. link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person] is an uncertain candle
 set between the two brothers.
 
 ## EPILOGUE
@@ -985,7 +985,7 @@ The Cappadocians lived through a period during which the shape
 and attitudes of the Church were being forged, less in the crucible
 of persecution, though they had to endure a little of that, than
 beneath the smiles of imperial favour. By the time they were born
-the council and creed of Nicaea were already past events. Yet
+the council and creed of link:/pages/places#_nicaea[Nicaea,role=place] were already past events. Yet
 neither the meaning nor the authority of the creed was assured. By
 the year 381 not only had the creed become acceptable and
 accepted to the majority of Christians; its meaning had also been
@@ -993,7 +993,7 @@ clarified, by the distinction between _ousia_ and _hypostasis_. Further,
 the deity of the Holy Spirit had also been affirmed. For all these
 achievements the Cappadocians were largely responsible.
 
-The ‘domestication’ of the Church under Constantine and its
+The ‘domestication’ of the Church under link:/pages/people#_constantine[Constantine,role=person] and its
 consequent transformation into a department of state had also
 raised problems for the Cappadocians, especially when they saw
 quite clearly that, for some not totally obvious reason, the Arians
@@ -1014,13 +1014,13 @@ of Cyrene, the ‘Platonist in a mitre’, on the other.
 
 Much of this book has been devoted to an exploration of the
 spirituality of the Cappadocians, especially its modification of the
-heritage of Origen. How far Gregory of Nyssa, above all, modified
+heritage of link:/pages/people#_origen[Origen,role=person]. How far Gregory of Nyssa, above all, modified
 his inheritance has been fruitfully explored by Jean Daniélou and
 Henri Crouzel, who differ in their assessment of the revolutionary
 character of Gregory’s own contribution. One thing is certain.
-Gregory’s defence of Nicene orthodoxy made him stress the otherness of God in a more marked fashion than we find in Origen. In
+Gregory’s defence of Nicene orthodoxy made him stress the otherness of God in a more marked fashion than we find in link:/pages/people#_origen[Origen,role=person]. In
 this newly discovered ‘orthodoxy’, ‘faith’ plays a significantly larger
-role than it does in Origen. Gregory’s insistence on the divine
+role than it does in link:/pages/people#_origen[Origen,role=person]. Gregory’s insistence on the divine
 mystery made him less confident in the power of the human mind
 adequately to explore the nature of God. Finally, for Gregory, the
 life of moral perfection is never totally superseded. The demand to
@@ -1044,19 +1044,19 @@ NOTE: See original for correct references as they tend to scan badly.
 5. For examples of the Spirit as pre-eminently sanctifier (hagiazon) see
 Against Eunomius 1.2; Letter 214.4.
 
-6. For the general axiom in Neoplatonism of the superiority of the cause to the effect cf. Plotinus, Ennead V.5.13.35; and for a discussion of the principle cf. Proclus, Elements of Theology (Oxford, 1933), p. 193 and E. R. Dodds ad loc.
+6. For the general axiom in Neoplatonism of the superiority of the cause to the effect cf. link:/pages/people#_plotinus[Plotinus,role=person], Ennead V.5.13.35; and for a discussion of the principle cf. Proclus, Elements of Theology (Oxford, 1933), p. 193 and E. R. Dodds ad loc.
 
 7. Basil, On the Holy Spirit 16.38.
 
-8. Gregory of Nazianzus, third Theological Oration 2, 3.
+8. link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person], third Theological Oration 2, 3.
 
-9. Gregory of Nazianzus, Oration 12.1.
+9. link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person], Oration 12.1.
 
-10. The ‘mental’ analogy occurs in Tertullian, Against Praxeas 7; Athanasius, Against the Arians 2.2; Gregory of Nyssa, Catechetical Oration 2; Augustine, On the Trinity IX and X.
+10. The ‘mental’ analogy occurs in link:/pages/people#_tertullian[Tertullian,role=person], Against Praxeas 7; link:/pages/people#_athanasius[Athanasius,role=person], Against the Arians 2.2; Gregory of Nyssa, Catechetical Oration 2; link:/pages/people#_augustine[Augustine,role=person], On the Trinity IX and X.
 
 11. John Zizioulas, Being as Communion (London, 1985).
 
-12. For Augustine’s possible dependence on Gregory of Nazianzus see On
+12. For link:/pages/people#_augustine[Augustine,role=person]’s possible dependence on link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person] see On
 the Trinity 15.20.38 and the note there in the Bibliothtque Augustinienne edition, p. 528.
 
 13. G. L. Prestige, St Basil the Great and Apollinaris of Laodicea, ed. H.
@@ -1066,9 +1066,9 @@ Chadwick (London, 1956).
 
 15. Tbid., no. 220.
 
-16. The idea that punishment is essentially and solely therapeutic probably begins with Plato, Gorgias 477A and 480C; and is taken over by Origen, On Jeremiah 1.16; Against Celsus 4.72; On First Principles 2.10.4-6; it is Gregory of Nyssa’s persistent view in Catechetical Oration 8 and 26.
+16. The idea that punishment is essentially and solely therapeutic probably begins with link:/pages/people#_plato[Plato,role=person], Gorgias 477A and 480C; and is taken over by link:/pages/people#_origen[Origen,role=person], On Jeremiah 1.16; Against Celsus 4.72; On First Principles 2.10.4-6; it is Gregory of Nyssa’s persistent view in Catechetical Oration 8 and 26.
 
-17. Origen, On First Principles 2.6.3.
+17. link:/pages/people#_origen[Origen,role=person], On First Principles 2.6.3.
 
 18. J. F. Bethune Baker, Introduction to the Early History of Christian
 Doctrine (London, 1903), p. 251, regards Gregory as basically Nestorian in tendency, while J. R. Srawley thinks Gregory’s theology ‘crude
@@ -1077,11 +1077,11 @@ the sinlessness of Christ’, Journal of Theological Studies (1905/06).
 
 19. For humanity as a drop of vinegar in water, cf. Against Apollinarius: GNO II.1.126.
 
-20. Gregory of Nazianzus, Oration 7.13.
+20. link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person], Oration 7.13.
 
-21. Tertullian, Apologeticus 46; Jerome, Letter 22.
+21. link:/pages/people#_tertullian[Tertullian,role=person], Apologeticus 46; Jerome, Letter 22.
 
-22. Gregory of Nazianzus, Oration 4.102.
+22. link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person], Oration 4.102.
 
 23. St Basil on Greek Literature, ed. N. G. Wilson (London, 1975).
 
@@ -1092,7 +1092,7 @@ X.1.126.10.
 
 26. Peter Brown, The Body and Society (London, 1989), p. 300.
 
-27. Plotinus applies the word theos to the Absolute One at Ennead
+27. link:/pages/people#_plotinus[Plotinus,role=person] applies the word theos to the Absolute One at Ennead
 VI.8.21.9; VI.9.9.16.
 
 28. to theion as a designation for God is very frequent in Gregory: cf. On
@@ -1102,28 +1102,28 @@ Srawley’s edition of the Catechetical Oration.
 29. Cf. note 6 above; and Gregory of Nyssa, Against Eunomius 1.270.
 
 
-30. For Plotinus the upper world of Spirit, nous, is full of life and
+30. For link:/pages/people#_plotinus[Plotinus,role=person] the upper world of Spirit, nous, is full of life and
 movement as at Ennead V.4.2.43.
 
 31. Basil, On the Holy Spirit 16.38; On the Hexameron 2.5.
 
-32. Gregory of Nazianzus, Theological Oration 2.31 and Mason’s reference.
+32. link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person], Theological Oration 2.31 and Mason’s reference.
 
 33. Gregory of Nyssa, Life of Moses 11.163.
 
-34. Compare Plato, Phaedo 80, 81 with Phaedrus 245ff. and Timaeus 81A, 88D.
+34. Compare link:/pages/people#_plato[Plato,role=person], Phaedo 80, 81 with Phaedrus 245ff. and Timaeus 81A, 88D.
 
-35. Gregory of Nazianzus, second Theological Oration 22.
+35. link:/pages/people#_gregory of nazianzus[Gregory of Nazianzus,role=person], second Theological Oration 22.
 
-36. Compare Origen, Dialogue with Heraclides 12 and 16 and Basil, Homilies on the Hexameron 8.6 and 9.5.
+36. Compare link:/pages/people#_origen[Origen,role=person], Dialogue with Heraclides 12 and 16 and Basil, Homilies on the Hexameron 8.6 and 9.5.
 
-37. Plotinus, Ennead IV.8.1, IV.8.8.
+37. link:/pages/people#_plotinus[Plotinus,role=person], Ennead IV.8.1, IV.8.8.
 
-38. For Gregory and the Cappadocian knowledge of Plotinus cf. J. Rist P. J. Fedwick (ed.), Basil of Caesarea: Christian, Humanist, Ascetic (Toronto, 1981), ch. 5.
+38. For Gregory and the Cappadocian knowledge of link:/pages/people#_plotinus[Plotinus,role=person] cf. J. Rist P. J. Fedwick (ed.), Basil of link:/pages/places#_caesarea[Caesarea,role=place]: Christian, Humanist, Ascetic (Toronto, 1981), ch. 5.
 
 39. PG 31, 329.
 
-40. Origen, On First Principles 2.8.3.
+40. link:/pages/people#_origen[Origen,role=person], On First Principles 2.8.3.
 
 41. Brooks Otis, ‘Cappadocian thought as a coherent system’, Dumbarton Oaks Papers 12 (1958).
 
