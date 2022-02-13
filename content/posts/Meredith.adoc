@@ -2,12 +2,15 @@
 title: The Cappadocians
 author: "Anthony S. J. Meredeth"
 description: "Contribution of The Cappadocian Fathers to the formalisation of the doctrine of the trinity"
+# https://www.flickr.com/photos/dhedwards/5704935088
+# Public domain
+featured_image: /images/cappadocian-fathers-5704935088_9e9e2f8877_k.jpg
 date: 2022-02-09T12:22:32Z
 categories: 
-  - The Cappadocian Fathers
   - Introduction to church history
 tags:
-  - Trinity
+  - The Cappadocian Fathers
+  - Trinity College, Bristol and Bristol Baptist College
 draft: true
 ---
 
