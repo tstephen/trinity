@@ -1,6 +1,6 @@
 baseURL = "https://ministry.thestephensons.me.uk/"
 languageCode = "en-gb"
-title = "Resources for Christian ministry"
+title = "Resources for ministry"
 theme = "ananke"
 
 SectionPagesMenu = "main"
@@ -18,14 +18,18 @@ enableRobotsTXT = true
   post_content_classes = "sans-serif"
   text_color = "near-white"
   secondary_text_color = "light-silver"
-  author = ""
-  favicon = ""
-  site_logo = ""
+  cover_dimming_class = 40
+  author = "Tim Stephenson"
+  favicon = "favicon.svg"
+  site_logo = "/images/ministry-512x512.jpg"
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-dark-blue"
-  #featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+  # same color as background_color_class above, required for favicon use
+  theme_color = "00449E"
+  # https://pixabay.com/photos/men-mentor-help-climbing-mountain-3610255/ (Pixabay license)
+  featured_image = "/images/ministry-g35ac48216_1920.jpg"
+  recent_posts_number = 5
 
 [[params.ananke_socials]]
 #name = "twitter"

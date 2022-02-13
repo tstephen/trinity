@@ -1,0 +1,11 @@
+{
+    "name": "Resources for ministry",  
+    "short_name": "Ministry",  
+    "icons": [{  
+        "src": "google-touch-icon.png",  
+        "sizes": "512x512"  
+    }],  
+    "background_color": "#ffffff",  
+    "theme_color": "#00449e",  
+    "display": "fullscreen"  
+}
