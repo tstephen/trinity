@@ -14,7 +14,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  body_classes = "sans-serif bg-mid-gray"
+  body_classes = "sans-serif bg-dark-gray"
   post_content_classes = "sans-serif"
   text_color = "near-white"
   secondary_text_color = "light-silver"
