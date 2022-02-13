@@ -1,16 +1,17 @@
 ---
 title: The African Pilgrim
 author: "George Herring"
+# https://www.flickr.com/photos/paullew/4548414120/in/photostream/
+# https://creativecommons.org/licenses/by-nc-nd/2.0/
+featured_image: "/images/augustine-4548414120_2c05d11b61_k.jpg"
 description: ""
 date: 2022-02-11T01:19:32Z
 categories: 
-  - St link:/pages/people#_augustine[Augustine,role=person] of Hippo
   - Introduction to church history
-  - Introduction to the history of Christianity
 tags:
   - Trinity College, Bristol and Bristol Baptist College
-  - link:/pages/people#_augustine[Augustine,role=person]
-draft: true
+  - St link:/pages/people#_augustine[Augustine,role=person] of Hippo
+draft: !true
 ---
 
 ## 4 - The African Pilgrim
@@ -56,7 +57,7 @@ the birth of a son, Adeodatus, to discover link:/pages/people#_cicero[Cicero,rol
 and find another. Technically a link:/pages/glossary#_catechumen[catechumen,role=concept], he had almost been baptized
 when his life seemed to be in danger from a childhood disease, and he had
 continued to attend the first part of the Christian Eucharist. His reading of
-link:/pages/people#_cicero[Cicero,role=person]’s _Hortensius_, however, both turned his mind to a more serious pursuit
+link:/pages/people#_cicero[Cicero's,role=person] _Hortensius_, however, both turned his mind to a more serious pursuit
 of philosophy and reawakened his religious instincts. But, as he returned to
 reading the Christian scriptures, his profound disappointment with their poor
 style in comparison to the great classical authors, especially in the abysmal

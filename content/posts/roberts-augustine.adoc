@@ -1,20 +1,26 @@
 ---
-title: An Introducton to St link:/pages/people#_augustine[Augustine,role=person] of Hippo
+title: An Introduction to St Augustine of Hippo
 author: "Paul Roberts"
+# https://www.flickr.com/photos/paullew/4548414120/in/photostream/
+# https://creativecommons.org/licenses/by-nc-nd/2.0/
+featured_image: "/images/augustine-4548414120_2c05d11b61_k.jpg"
 description: ""
 date: 2022-02-11T00:39:32Z
 categories: 
-  - St link:/pages/people#_augustine[Augustine,role=person] of Hippo
   - Introduction to church history
 tags:
+  - St link:/pages/people#_augustine[Augustine,role=person] of Hippo
   - Trinity College, Bristol and Bristol Baptist College
-draft: true
+  - Schism
+  - Pelagianism
+  - Pre-destination
+draft: !true
 ---
 
-## An Introduction to St link:/pages/people#_augustine[Augustine,role=person] of Hippo
+## An Introduction to St Augustine of Hippo
 
 [NOTE]
-(Not to be confused with link:/pages/people#_augustine-of-canterbury[St link:/pages/people#_augustine[Augustine,role=person] of Canterbury,role=person]!)
+Not to be confused with link:/pages/people#_augustine-of-canterbury[Augustine of Canterbury,role=person]!
 
 *Dates:* 354 – 430. ie. All of his life was lived in the post-Constantinian world.
 A key source for our knowledge of his life was his _Confessions_, which is a spiritual autobiography
@@ -89,6 +95,7 @@ Donatist point of view, the Holy Spirit only is found inside the true Church. Th
 sacraments of heretical or schismatic ‘churches’ do not have any effect, as a heretical or schismatic
 bishop does not possess the gift of the Spirit required for a sacrament of baptism to be effective.
 Ironically, the Donatists ‘split’ on this issue from the practice of the wider Church.
+
 The Donatists were particularly successful in Africa, because their practice of re-baptising
 schismatics and heretics conformed to the teaching of link:/pages/people#_cyprian[Cyprian,role=person] of Carthage (see earlier lecture).
 Cyprian had stated ‘outside the Church there is no salvation’, and had commended re-baptism of
@@ -98,25 +105,27 @@ commended. Nevertheless, whatever link:/pages/people#_cyprian[Cyprian,role=perso
 tended not to re-baptise those who had been baptised by schismatical groups and had a variable
 policy in regard to heretical baptism. link:/pages/people#_augustine[Augustine,role=person], as bishop of the Catholic Church in Africa, needed
 to defend his position theologically whilst honouring the memory of link:/pages/people#_cyprian[Cyprian,role=person].
+
 Augustine argued that sacraments (like baptism and the eucharist) had two parts: an inward
 (spiritual) part and an outward (visible) part – ie. the rite itself. It was possible to have the outward
 part, without possessing the inward benefits. In the case of a schismatic baptism, those baptised
 did genuinely get ‘outwardly’ baptised, but were not in possession of baptism’s spiritual benefits
-(forgiveness of sins, new birth) because of the sin of schism in which the rite took part. For
+(forgiveness of sins, new birth) because of the sin of schism in which the rite took part. #For
 Augustine, the biggest sin of schismatics was the failure to love, in that they stood apart from the
 rest of the Church by separating themselves of from them. Since love is the ‘first commandment’
-this was a serious sin, and the root problem in schismatic groups.
+this was a serious sin, and the root problem in schismatic groups.#
+
 The second part of link:/pages/people#_augustine[Augustine,role=person]’s argument was that sacraments work by virtue of Jesus’
 righteousness, not by the righteousness of the person administering the sacrament. But
 schismatics, by separating themselves from their brothers and sisters, also separated themselves
 from Christ himself. It was this which nullified the inward power of their sacraments, not merely
-that they were administered by ‘the wrong franchise’.The conclusion of link:/pages/people#_augustine[Augustine,role=person]’s argument was that the answer to the problem was for the candidate
+that they were administered by ‘the wrong franchise’. The conclusion of link:/pages/people#_augustine[Augustine,role=person]’s argument was that the answer to the problem was for the candidate
 to re-unite themselves to Christ by returning into fellowship with the rest of the Church. This re-
 established the love connection, and the inward benefits – which always relied on Christ’s
 righteousness – made their baptism valid and effective inwardly as well as outwardly. link:/pages/people#_augustine[Augustine,role=person]
 had succeeded in providing a theological justification for the widespread practice of Catholic
-Christianity! However, this emphasis on love did not stop him later using the law to persecute
-Donatists in Africa, as bishop of the Empire-sponsored (Catholic) faith!
+Christianity! #However, this emphasis on love did not stop him later using the law to persecute
+Donatists in Africa, as bishop of the Empire-sponsored (Catholic) faith!#
 
 #### Augustine versus Pelagius
 
@@ -134,12 +143,12 @@ cannot choose God’s will and be saved;
 the process towards becoming a Christian and resulting salvation (through baptism);
 - link:/pages/people#_augustine[Augustine,role=person] believed the journey to salvation depended utterly on grace alone, and was
 totally a gift from God, without reference to any goodness within the convert;
-- link:/pages/people#_pelagius[Pelagius,role=person] believed that human beings had an active part to play over whether they received
-God’s grace or not – ie. they could choose whether to be saved or not;
-- link:/pages/people#_augustine[Augustine,role=person] believed that God had predestined a subset of humanity to be saved and to
+- link:/pages/people#_pelagius[Pelagius,role=person] #believed that human beings had an active part to play over whether they received
+God’s grace or not – ie. they could choose whether to be saved or not;#
+- link:/pages/people#_augustine[Augustine,role=person] #believed that God had predestined a subset of humanity to be saved and to
 these, and these alone, he gave grace which led inevitably to their salvation through
 conversion and baptism; the rest of humanity had been elected by God not to be saved but
-to die as sinners
+to die as sinners#
 
 Along with the rest of the Church of the time, both link:/pages/people#_augustine[Augustine,role=person] and link:/pages/people#_pelagius[Pelagius,role=person] regarded baptism as
 the principal channel to receiving Christ and salvation. However, since link:/pages/people#_augustine[Augustine,role=person] taught that even
@@ -150,15 +159,15 @@ hope of salvation.
 Why did link:/pages/people#_augustine[Augustine,role=person] believe even new-born infants were sinners in need of redemption, when they
 had not committed actual sin of their own? Is answer is that at conception all human beings
 inherit the sin of Adam – original sin – from their parents and that this is passed on because no act
-of procreative sex (by the parents) is entirely free of the sin of lust. All humanity is, for link:/pages/people#_augustine[Augustine,role=person],
+of procreative sex (by the parents) is entirely free of the sin of lust. #All humanity is, for link:/pages/people#_augustine[Augustine,role=person],
 naturally a lump of sin – some scholars argue that this reflects a return to his earlier attitudes
-when he was a Manichaean.
+when he was a Manichaean.#
 
 #### _City of God_
 
 This book was triggered by the sack of link:/pages/places#_rome[Rome,role=place] by invading Visigoths. Sought to explain why the
 Christian Empire was less stable to collapse than the old Pagan empire had been. link:/pages/people#_augustine[Augustine,role=person], in the
-book lays out an interpretation of all of history as a battle between the ‘City of God’ and the ‘City of Man’. He distinguishes between these two cites in present history as well as past: therefore,
+book lays out an interpretation of all of history as a battle between the ‘City of God’ and the ‘City of Man’. He distinguishes between these two ciites in present history as well as past: therefore,
 just because the Empire is now Christian does not imply that it is equal to the City of God. Sin can
 still cause the Empire to crumble, but the City of God will never crumble – it will triumph. This
 helps avoid a simplistic assumption that because an empire (or country) is ruled by a Christian, that
