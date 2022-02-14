@@ -1,0 +1,7 @@
+#!/bin/sh
+HOST=thestephensons.me.uk
+DIR=/var/www-ministry/   # the directory where your web site files should go
+
+hugo && rsync -avz --delete public/ ${HOST}:${DIR}
+
+exit 0
