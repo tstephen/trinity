@@ -1,11 +1,11 @@
 ---
 title: "The three great Capadoccians"
-author: "Drobner"
+author: "Hubertus R. Drobner"
 # https://www.flickr.com/photos/dhedwards/5704935088
 # Public domain
 featured_image: /images/cappadocian-fathers-5704935088_9e9e2f8877_k.jpg
 date: 2022-02-09T12:22:32Z
-description: "History and writings of the Cappadocian Fathers"
+summary: "History and writings of the Cappadocian Fathers: Basil the Great, his younger brother Gregory of Nyssa, and their friend Gregory of Nazianzus."
 date: 2022-02-09T12:22:32Z
 categories:
   - Introduction to church history

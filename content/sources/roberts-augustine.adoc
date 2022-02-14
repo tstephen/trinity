@@ -4,6 +4,7 @@ author: "Paul Roberts"
 # https://www.flickr.com/photos/paullew/4548414120/in/photostream/
 # https://creativecommons.org/licenses/by-nc-nd/2.0/
 featured_image: "/images/augustine-4548414120_2c05d11b61_k.jpg"
+summary: Handout from Paul Roberts as part of his 'Introduction to Church History' at Trinity College, Bristol, Easter Term, 2022
 description: ""
 date: 2022-02-11T00:39:32Z
 categories: 

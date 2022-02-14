@@ -5,6 +5,7 @@ author: "George Herring"
 # https://creativecommons.org/licenses/by-nc-nd/2.0/
 featured_image: "/images/augustine-4548414120_2c05d11b61_k.jpg"
 description: ""
+summary: Extract from "Introduction to Church History" by George Herring.
 date: 2022-02-11T01:19:32Z
 categories: 
   - Introduction to church history
