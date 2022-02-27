@@ -1,0 +1,99 @@
+---
+title: "A short introduction to the life and thought of St Augustine"
+author: "Tim Stephenson"
+summary: "TODO"
+date: 2022-02-26T00:02:51Z
+draft: true
+---
+
+## A short introduction to the life and thought of St Augustine
+
+### Outline
+
+- Early life
+- Manichaeism
+- Milan, Ambrose and conversion
+- Philosophy and ordination
+- Confessions
+- On the Trinity
+- Sack of Rome and City of God
+- Pelagius; The Spirit and the Letter
+- Retractions 
+
+
+### Early life
+
+Aurelius Augustine was born in 354 AD to a pagan father, Patricius, and a Christian mother, Monica. They lived as farmers in Thagaste, modern day Souk Ahras, Algeria footnote:[Braudel, Fernand (1995). A History of Civilizations. Penguin Books. p. 335. ISBN 9780140124897. "A Berber, born in 354 at Thagaste (now Souk-Ahras) in Africa..."]. From what Augustine tells us in Confessions they were of slender resources yet his father seeks his advancement through education first in Madaura and then in Carthage, by successfully seeking the help of a wealthy patron footnote:[Confessions, book 2, chapter 3].
+
+Augustine's reflections, albeit much later, on these aspirations remain a challenge to parents to this day: all around praise Patricius for his generosity but Augustine focuses on the neglect of his spiritual education, taking no account of the fact that his father is not even, at that stage, a Christian.  
+
+> Who did not extol my father, for that beyond the ability of his means, he would furnish his son with all necessaries for a far journey for his studies' sake? For many far abler citizens did no such thing for their children. But yet this same father had no concern how I grew towards Thee, or how chaste I were; so that I were but copious in speech, however barren I were to Thy culture, O God, who art the only true and good Lord of Thy field, my heart. footnote:[]
+
+Once in Carthage, Augustine wastes no time embracing all the big city has to offer
+
+>  But in those days in the theaters I sympathized with lovers when they sinfully enjoyed one another, although this was done fictitiously in the play. And when they lost one another, I grieved with them, as if pitying them, and yet had delight in both grief and pity. Nowadays I feel much more pity for one who delights in his wickedness than for one who counts himself unfortunate because he fails to obtain some harmful pleasure or suffers the loss of some miserable felicity. 
+
+footnote:[Confessions book 3 chapter 2]
+
+But in his search to impress with eloquence he also discovers Cicero's Hortensius - a book now lost to us that concluded seeking wisdom is the greatest use of one's time. That turns Augustine's head more even than the delights of the city.  
+
+> Now it was this book which quite definitely changed my whole attitude and turned my prayers toward thee, O Lord, and gave me new hope and new desires.
+
+Confessions book 3, chapter 4
+
+This search for wisdom drives him to search the scriptures but, he finds them 'quite unworthy to be compared with the dignity of Tully' (a familiar reference to Marcus Tulius Cicero). Augustine himself, in retrospect, puts this down to his own vanity though others have excused it as a reflection of the poor Latin of the available Scriptures.
+
+Instead he turns to the followers of Mani, founder of a pseudo-Christian cult in which he claimed to the Paraclete, promised by Jesus in John 14-16.
+
+In what must surely be a conscious reference to Lady Wisdom that he is seeking, Augustine recognises his actions as following instead The Foolish Woman of the second half of Proverbs 9 by whom he is both metaphorically and literally seduced at this time.
+
+Confessions book 3 chapter 6
+
+Augustine declares himself, at the time, attracted to the dualism - that God is Spirit and opposed by an entirely separate, and evil, being responsible for creation and indeed all matter.
+
+TODO: By the time he writes City of God he will clarify that eveil cannot have its own existence like this (City of God Book 11, Ch 22)
+
+>  as yet I knew not that evil was naught but a privation of good, until in the end it ceases altogether to be;
+
+https://ereader.perlego.com/1/book/1071715/2?element_plgo_uid=ch2__277&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego[Confessions book 3 chapter 7]
+
+Concluding his studies, Augustine returns to practice as a rhetoratician in his home town.
+
+A friend that he had grown up with and disuaded from Christianity to Manichaeism lies on what all believe is his death bed when he was baptised without his knowledge. 
+
+Augustine's comment betrays his firm dualism: 
+
+> myself meanwhile little caring, presuming that his soul would retain rather what it had imbibed from me, than what was done to his unconscious body.
+
+https://ereader.perlego.com/1/book/1071715/2?element_plgo_uid=ch2__722&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego[Confessions, Book 4, Chapter 4]
+
+Yet his friend, reviving and learning of the surreptitious baptism did not find Augustine's teasing funny and admonished him. Augustine was 'confounded and confused' but kept quiet thinking to revisit the subject when his friend was fully better. However, before this could happen the fever returned and he died.
+
+Augustine mourns his friend yet does not understand why - to the extent that he writes his tears succeeded his friend as dearest in his affections. 
+
+This and subsequent interrogation of Faustus, eminent bishop of the Manichaens, start to disillusion him and this leads him to Rome, now disavowing Manicheanism but still in the circle of that cult.
+
+TODO I find nothing in book 5 to see he follows Neoplatinists. Is this the a couple of passing comments about the Academics being persuasive?
+
+Book 5 concludes with him now in Milan via Rome deciding to break with the Manichaens even if he is unsure where to go instead and rejecting the Academics [known today as Neoplatinists TODO?] as they have no place for 'the saving name of Christ'. He resolves to be a catechumen of the Catholic church until something better comes along!
+
+Under Ambrose's influence Augustine finds himself drawn little by little by the Lord's gentle and most merciful hand. footnote:[book 6, chapter 5] but is reluctant to rush into Catholocism 'as one who has tried a bad physician fears to trust himself to a good one'.
+
+### Confessions
+
+As we have seen already this book provides a commentary on Augustine's life from the time he starts to become self-aware as a teenager to after his conversation and elevation to Bishop of Hippo.
+
+It is a history of a kind with some specific scenarios detailed but in all, specific or general, he explains how what he saw to be correct at the time he has come to see as folly. Throughout are scattered the frequent comments on the restraint and mercy of God in putting up with him.
+
+TODO: Who was the intended audience for sizable work?  Did he think a full account was needed to the God he freely acknowledges was there tolerantly and guiding him even in his follies? Was it cathartic as he looked back on fist biting humiliations? Perhaps in his pastoral role he understood that bearing his soul might allow his flock to recognise their own follies and lead them to similar confession?
+
+
+### The Spirit and the Letter
+
+- ch 5:
+
+> A man's free-will, indeed, avails for nothing except to sin, if he knows not the way of truth; and even after his duty and his proper aim shall begin to become known to him, unless he also take delight in and feel a love for it, he neither does his duty, nor sets about it, nor lives rightly.
+
+- ch 6
+
+> For that teaching which brings to us the command to live in chastity and righteousness is "the letter that kills," unless accompanied with "the spirit that gives life." For that is not the sole meaning of the passage, "The letter kills, but the spirit gives life," 2 Corinthians 3:6
