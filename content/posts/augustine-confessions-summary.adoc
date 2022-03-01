@@ -223,6 +223,7 @@ Whilst crediting God for guiding him he says his principal motivation was for be
 
 > But Thou, mysteriously counselling and hearing the real purpose of her desire, granted not what she then asked, in order to make me what she was ever asking.
 
+<<<<<<< HEAD
 https://ereader.perlego.com/1/book/1071715/3?element_plgo_uid=ch3__31&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego
 
 ### 9
@@ -317,3 +318,6 @@ Fear of death and judgement
 
 ### 1
 
+=======
+https://ereader.perlego.com/1/book/1071715/3?element_plgo_uid=ch3__31&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego
+>>>>>>> 8ccfbcb03c3e74a9a6c8b532714d0ac992a14a1f

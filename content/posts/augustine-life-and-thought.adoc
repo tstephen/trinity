@@ -57,6 +57,7 @@ TODO: By the time he writes City of God he will clarify that eveil cannot have i
 
 https://ereader.perlego.com/1/book/1071715/2?element_plgo_uid=ch2__277&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego[Confessions book 3 chapter 7]
 
+<<<<<<< HEAD
 Concluding his studies, Augustine returns to practice as a rhetoratician in his home town.
 
 A friend that he had grown up with and disuaded from Christianity to Manichaeism lies on what all believe is his death bed when he was baptised without his knowledge. 
@@ -79,6 +80,8 @@ Book 5 concludes with him now in Milan via Rome deciding to break with the Manic
 
 Under Ambrose's influence Augustine finds himself drawn little by little by the Lord's gentle and most merciful hand. footnote:[book 6, chapter 5] but is reluctant to rush into Catholocism 'as one who has tried a bad physician fears to trust himself to a good one'.
 
+=======
+>>>>>>> 8ccfbcb03c3e74a9a6c8b532714d0ac992a14a1f
 ### Confessions
 
 As we have seen already this book provides a commentary on Augustine's life from the time he starts to become self-aware as a teenager to after his conversation and elevation to Bishop of Hippo.
