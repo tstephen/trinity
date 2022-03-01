@@ -2,12 +2,12 @@
 # Convert PDF to Asciidoc
 # 
 # Place pdf in `static/pdfs` dir and supply filename without .pdf suffix
-# Asciidoc will be output to content/posts
+# Asciidoc will be output to content/sources
 #
 
 TMP=tmp
 INDIR=static/pdfs
-OUTDIR=content/posts
+OUTDIR=content/sources
 
 # make any dirs needed
 if [ ! -d $TMP ]; then

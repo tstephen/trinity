@@ -1,0 +1,422 @@
+---
+title: The Great Councils
+author: "Paul Roberts"
+# https://commons.wikimedia.org/wiki/File:Nikea-arius.png
+featured_image: "/images/Nikea-arius.png"
+summary: The Great Councils. Handout from Paul Roberts as part of his 'Introduction to Church History' at Trinity College, Bristol, Easter Term, 2022
+description: ""
+date: 2022-03-01T13:09:32Z
+categories: 
+  - Introduction to church history
+tags:
+  - Trinity College, Bristol and Bristol Baptist College
+  - Nicea
+  - Constantinople
+  - Ephesus
+  - Chalcedon
+draft: !true
+---
+
+## The Great Councils
+
+These are:
+
+* The Council of Nicea (325)
+* The Council of Constantnople (381)
+* The Council of Ephesus (431)
+* The Council of Chalcedon (451)
+
+These are all termed General Councils, or Ecumenical Councils, as they were attended by bishops
+from across the Christan world (East and West), rather than just one region or empire. Their
+decisions continue to be honoured by Eastern Orthodox and Roman Catholic Church. The Church
+of England’s position on the authority of General Councils can be found in Article 28 (of the 39
+Articles), however the Church of England agrees with the Creed of the Council of Nicea (as
+modified by the Council of Constantinople) as ‘thoroughly to be received and believed: for [it] may
+be proved by most certain warrants of holy Scripture’ (Article 3)
+
+### Arius
+
+Arius (256 — 336) was a presbyter in Alexandria. The Church in Alexandria, after the Diocletan
+persecution, was split between rigorist (Meletans) and less-rigorist factions. Arius was writer of
+song lyrics and his doctrine was mainly contained in a work called the Thallia. The influence of
+Origen remained strong in the city, particularly Logos theology — Jesus is the Logos, made flesh, for
+our salvation. Arius based his theology upon the Logos theology to make a key distinction between
+Jesus and the Father: the Father created the Logos albeit before the Logos then went on to create
+other things. The implicaton of this is that there was a time when there was only the Father, and
+when the Logos did not exist. This was the core distinction Arius wanted to make between the Son
+and the Father, but essentially this meant that Jesus, though Son of God, is not ‘God’ in the sense
+that the Father is. (This is broadly the same view as later sects, for example, the Jehovah’s
+Witnesses)
+
+### Son-Father Relationship in other thinkers
+
+#### Monarchianism
+
+‘Monarchianism’ means ‘single source of Godhead’ in the Greek Monarchianist writers/teachers
+(mainly in the 2nd and 3:acenturies AD) aimed to safeguard the unity of God, and to avoid bi-theism
+or tri-theism in various ways. It took two forms:
+
+* Dynamic Monarchianism (key teachers: Artemon, Theodotus, Paul of Samosata) — Jesus
+was God only in the sense that the God the Father’s power or influence rested on the Jesus.
+This is sometimes also called Adoptionism.
+
+* Modalist Monarchianism (key teachers: Sabellius, Noetus, Praxeas) God takes various
+forms or modes in the Christian gospel — God can act as Father, as Son or as Holy Spirit, but
+since there are not three gods, the distinction between Father, Son and Holy Spirit is only
+apparent in God’s mode of operation — there is no real distinction and not really ‘three’.
+This was to become known as Sabellianism after Sabellius
+
+Writers such as Tertullian had batled against these teachers in the early 3racentury
+
+The followers of Origen had no problem ‘seeing off’ Monarchianism with their Logos theories —
+which keep a distinction between Father and Son. The problem is that it can lead to
+subordinationism - in which the Son/Logos is somehow inferior, or created, by the Father and
+hence not God in the same sense. This is exactly what Arius did.
+
+### The Empire and the Church — an issue of Unity
+
+Constantine, like all emperors, wanted his empire to be united in order to be strong, however it
+became clear early on after his accession that his ‘preferred’ faith — Christianity — was riven with
+disagreements over doctrine and church practice. Bishops, in particular, were prone to get involved
+with the intrigues and politics of power, which could sometimes lead to violence and lynching if
+not by them, then on the part of their followers. Once persecution had ceased, these problems
+rose to the surface.
+
+It was therefore in Constantine’s interest to use his power and influence to help solve disputes in
+the Church. Although the Church had held councils since Acts 15, the idea of a single central
+council, bringing bishops together to solve a dispute, is the idea of Constantine and reflected his
+hope that Christianity would unite, not divide his Empire. The role of the Emperor, in calling
+together a council, remained a feature for centuries (It’s a bit like the emperor ‘knocking heads
+together’).
+
+### The Council of Nicea (325)
+
+This was called by Constantine in order to get an agreed statement about the relationship between
+Son and Father: was the Son created, or not? Was the Son equal to the Father, and if so, in what
+way? In what way were the Son and Father different?
+
+Over 300 bishops attended, mainly from the Eastern Church (which had been most affected by
+Arianism at that time) but also from the West. The approach taken by the Council was to approve a
+version of the Creed (originally a statement of faith in the Baptism service) which dealt with the
+issue at stake.
+
+The text agreed was as follows:
+
+[quote, The Nicean Creed]
+----
+We believe in one God,
+the Father almighty,
+maker of all things visible and invisible;
+
+And in one Lord, Jesus Christ,
+the Son of God,
+begotten from the Father, only-begotten, that is, from the substance of the Father,
+
+God from God, light from light,
+true God from true God,
+begotten not made,
+of one substance with the Father, (GREEK: homoousios tou patrou) through whom all things came into being,
+
+things in heaven and things on earth,
+Who because of us men and because of our saleaton came down,
+
+and became incarnate
+and became man,
+and suffered,
+and rose again on the third day,
+and ascended to the heavens,
+and will come to judge the living and dead,
+
+And in the Holy Spirit
+
+But as for those who say, There was when He was not
+and, Before being born He was not,
+and that He came into existence out of nothing,
+or who assert that the Son of God is of a different hypostasis or substance, or created,
+or is subject to alteration or change
+
+- these the Catholic and apostolic Church anathematizes.
+----
+
+This was a total defeat for Arius and his supporters. However, the creed had to use an unscriptural
+
+phrase, _*homousious*_, to describe the uniting divine principle which made both Son and Father
+
+ 
+
+God. This made a number of bishops unhappy and caused support for the Creed to wane after the
+death of Constantine (in 333).
+
+Of those who rejected _*homoousios*_, there were a set of various reasons why:
+
+a) Those who were really supporters of Arius and did not believe the Son was divine in the same
+way that the Father was;
+
+b) Those who were unhappy that an unscriptural term was used in the Creed;
+
+c) Those who felt it was too close to Sabellianism (modalism) and was capable of supporting a
+confusion between Son and Father. These lent their support to a compromise phrase, homoiouios
+- of similar substance to the Father. These included a number of bishops who were at the original
+Council of Nicea.
+
+But if _*ousia*_ is that which ‘makes something what it is’, by saying Christ was ‘similar’ to the Father
+isn’t the same thing. There was a confusion implicit in the Creed of Nicea as to whether ousia was
+referring to ‘godness’ or ‘fatherness’.
+
+### After Nicea: the Struggle for Homoousios
+
+This was both a political and a theological struggle. Politically, after the death of Constantine, the
+lack of convinced support for Nicea’s homoousios became more open. Many bishops favoured the
+compromise homoiousios, whereas others started to side more with Arius and accused the
+supporters of Nicea as being Sabellians. Rule of the Empire had been divided between
+Constantine’s sons: Constantius ruled the Eastern part of the Empire, the Balkans were given to
+Constans and the rest of the West were ruled by a third brother, Constantine II. The Nicene
+position was supported throughout the Latin-speaking Western church, whereas Arians and
+supporters of ‘homoiousios’ gained the upper hand in the East. The primary supporter of
+homoousios in the East was Athanasius of Alexandria, but he was exiled by Constantine for falling
+out with a neighbouring bishop. He returned to Alexandria just before Constantine died, only to be
+exiled again, this time to Rome in the West, where his influence was felt strongly and he was wellreceived.
+
+In the meantime, Constantine had waged war against his brother Constans and had lost, so the
+Western Empire was solely ruled by Constans, who remained a supporter of the homoousios of
+Nicea. Constantius initially vacillated and was primarily interested in church unity than the niceties
+of doctrine. With time, however, he needed the political support of Arians and semi-Arian bishops,
+so his policy increasingly became anti-Nicene.
+
+Athanasius eventually took up the See of Alexandria again in 346 and for ten years ensured that
+Egypt, at least, was cleared of Arian infuence. However, war broke out between East and West and
+Constantius successfully won control of the whole Empire. He tried to get the Western church to
+reject Nicea, which it obstinately refused to do.
+
+### Julian the Apostate (361 — 363)
+
+His policy never included persecution, although he did actively encourage the restoration and
+rebuilding of pagan temples. In regard to Christianity, his policy was to stop trying to control the
+Church, to release from exile all the competing factions (either orthodox, Arian or homoiousian) in
+the hope that Christianity would ‘eat itself’. It didn’t. In a chastened situation, they managed to
+avoid a split and the hand of the orthodox was gradually strengthened without the interference of
+homoiousian emperors.
+
+Besides the influence of Athanasius, the main supporter of Nicea in the East, his position was
+gradually strengthened by the writngs of three brilliant scholars: Gregory of Nazianzus (329 — 390),
+Basil of Caesarea (329 — 379) and Gregory of Nyssa (335 — 395). Together, these three are known
+as the Cappadocian Fathers.
+
+Basil argued for the divinity of the Holy Spirit within the Trinity against the so-called
+Pneumotomachi (Greek for ‘fighters against the Spirit’). These were Arians who were trying to fight
+a rear-guard action by denying the divinity of the Spirit (and so making nonsense of a Trinity where
+two persons were divine but the third was not). Basil and G of Nazianzus were good friends and
+effective debaters against Arianism. Basil and G of Nyssa were brothers.
+G of Nyssa greatly helped define how the three persons of the Godhead can be distinct yet be one
+God. The distinction lies in the roles and relationships with respect to each other and their work,
+although they remain united in will and therefore any action of one is the action of the Three (and
+therefore the One).
+
+### Council of Constantinople 381
+
+Called by Emperor Theodosius | (ruled 339 — 395), who was a supporter of Nicea. The council of
+Constantinople marks the final triumph of Nicene faith and also incorporates addition
+developments, especially that of the Cappadocian fathers. Like Nicea, it produced a creed (which
+most people today refer to — inaccurately — as the Nicene Creed):
+
+[quote, Creed of Constantinople]
+----
+We believe in one God,
+the Father almighty,
+maker of heaven and earth,
+ofall things visible and invisible;
+
+And in one Lord, Jesus Christ,
+the only begotten Son of God,
+begoten from the Father before all ages, light from light,
+true God from true God,
+begotten not made,
+of one substance with the Father, (Greek: Homoousios)
+through Whom all things came into existence,
+Who because of us men and because of our salvation came down from the heavens,
+and was incarnate from the Holy Spirit and the Virgin Mary
+and became man,
+and was crucified for us under Pontus Pilate,
+and suffered and was buried,
+and rose again on the third day according to the Scriptures
+and ascended to heaven, and sits on the right hand of the Father,
+and will come again with glory to judge living and dead,
+of Whose kingdom there will be no end;
+
+And in the Holy Spirit, the Lord and life-giver,
+Who proceeds from the Father,
+Who with the Father and the Son is together worshipped and together glorified,
+Who spoke through the prophets;
+
+And in one holy Catholic and apostolic Church
+We confess one baptism to the remission of sins;
+we look forward to the resurrection of the dead and the life of the world to come. Amen.
+----
+
+It is instructive to go through the text of the above creed and identify what has been changed
+(added, mainly) from that of Nicea and to identify the sources of these changes.
+
+### The Great Christological Controversies
+
+Once Constantinople had clarified that the Son is homoousios with the Father, a second debate
+came to the fore based on the relationship between the Son of God and the Man Jesus. In some
+ways, this reflected the classic tension in the Greek mindset between the qualities of divinity and
+the qualities of creation. Although Gnosticism and early docetism was in the past, there was still a
+tension in classic philosophy (and theology) between uniting God’s being with the created order.
+The controversy also reflected two approaches to biblical hermeneutics: the allegorical approach
+(associated with the Catechetical school of Alexandria — with its hero, Origen) and a more literal
+approach (associated with the Church of Antioch — which retained an essentially Rabbinic
+approach to biblical exegesis).
+
+The Gospels paint a picture of a very human Jesus: he weeps, he is deeply moved, he suffers and
+he dies. The Greek philosophy which guided the thought of early Christian writers believed that
+any God would be:
+
+* Immutable — not subject to being changed
+* Impassible — not subject to being moved by feelings and passions
+* Immortal — not subject to death or ceasing to exist
+
+The Jesus of the Gospels does not conform to these principles! This was why the initial docetist
+heresies tended to say that Jesus’ humanity was only an appearance.
+
+Once Jesus’ sonship is truly divine, how could the circle be squared with the philosophical
+understanding of divinity? The answer was to talk about Jesus having two natures: a divine nature
+and a human nature. The problem was how to explain how this could be possible without either
+implying two separate beings (a divine being and a human being — which is really a denial of the
+incarnation) or a confusion in which a third hybrid being, neither really divine nor really human,
+resulted.
+
+#### Nestorius (Archbishop of Constantinople, 428 — 431)
+
+Nestorius trained at Antioch under Theodore of Mopsuestia. As a pupil of Antioch, he would have
+taken a literal approach to gospel hermeutics, and emphasised the human aspect to the picture of
+Jesus which emerged. In the wake of the decision of 381, Nestorius was bound to speak of the Son
+as divine, but it is clear he sought to preserve the integrity of the human Jesus by speaking in stark
+terms of the division between the divine Son and the man Jesus. This caused consternation among
+clergy and bishops and he was accused of heresy. His principal opponent was Cyril of Alexandria,
+who worked actively to get Nestorius condemned. Cyril, besides being metropolitan of a rival see
+(Alexandria) was an inheritor of the rival scholarship (allegory) of Alexandria.
+
+#### Theotokos
+
+This Greek phrase means ‘God-bearer’ and was ascribed to Mary by many in the Church as an
+expression of Nicene faith — it is more about Jesus than Mary and expresses confidence in the full
+divinity of Jesus, born of Mary. Its use even predated Nicea, but after Nicea became increasingly
+used. However, for Nestorius and his supporters, it blurred a key distinction between the human
+nature and the divine nature of Christ. Nestorius proposed an alternative, christotokos, but this
+was felt to be weak on the divinity of Christ and didn’t command support.
+
+### The Council of Ephesus, 431
+
+Although Nestorius had an opportunity to defend his position at the Council, a majority of the
+bishops were in disagreement at the end of the debate and condemned Nestorius, affirmed
+Theotokos.
+
+The key term to refer to the Person of Christ was the Greek word hypostasis. By condemning
+Nestorius, and including two Epistles and 12 Anathemas which Cyril of Alexandria sent to
+Nestorius, the Council, allied itself to Cyril of Alexandria’s theology. This clarified that after the
+Incarnation, there can only be one hypostasis (person), not two. Theology has since called this
+doctrine the Hypostatic Union.
+
+[quote,  Epistle of Cyril to Nestorius, quoted in the Acts of the Council of Ephesus]
+----
+We, therefore, confess one Christ and Lord, not as worshipping a man with the Word (lest this expression “with the
+Word" should suggest to the mind the idea of division), but worshipping him as one and the same, forasmuch as the
+body of the Word, with which he sits with the Father, is not separated from the Word himself, not as if two sons
+were sitting with him, but one by the union with the flesh.
+
+If, however, we reject the personal union as impossible or unbecoming, we fall into the error of speaking of two
+sons, for it will be necessary to distinguish, and to say, that he who was properly man was honoured with the
+appellation of Son, and that he who is properly the Word of God, has by nature both the name and the reality of
+Sonship. We must not, therefore, divide the one Lord Jesus Christ into two Sons.
+
+Neither will it at all avail to a sound faith to hold, as some do, an union of persons; for the Scripture has not said that
+the Word united to himself the person of man, but that he was made flesh. This expression, however, "the Word was
+made flesh," can mean nothing else but that he partook of flesh and blood like to us; he made our body his own,
+and came forth man from a woman, not casting off his existence as God, or his generation of God the Father, but
+even in taking to himself flesh remaining what he was. This the declaration of the correct faith proclaims
+everywhere.
+----
+
+However, a group of late-arrivals from the Church of the East did not agree with the result (which
+had predated their arrival) and went into formal schism with the rest of the Church. This position
+was rectified about a century later, but there has always been a reputation, which is unfair, that the
+Church of Persia and East Syria is somehow ‘Nestorian’.
+
+The question which theology asks of the Council of Ephesus was ‘is this Incarnate Christ human, in
+the sense that we are human, and divine, in the sense that the Word is divine — or has some
+change occurred to God the Son (which is impossible), or some change occurred to the human
+nature Christ took on (which would make it different from our human nature)?’ This issue of
+whether the hypostatic union implies a change in either (or both) of the human and divine natures
+needed to be clarified twenty years later.
+
+### Eutyches and the Council of Chalcedon
+
+With Christianity as the official religion of the Empire, theological disputes were also political. The
+confusion of politics with theology tends to bring out the worst in Christians, and in this respect
+the 5" century is no different from the 21* century. Eutyches was an Egyptian monk and ardent
+supporter of his former bishop, Cyril, who had died in 444.
+Eutyches began to teach a kind of fundamentalist and derived version of the teaching of Cyril. In
+Eutyches’ terms, following the Incarnation of the Son of God, there was both one hypostasis and
+one physis (nature) which was both human and divine. The problem lay in Cyril’s earlier use of the
+Greek word physis to imply what the Latin word persona meant, whereas normally ‘persona’ is the
+Latin translation for hypostasis. A better translation of physis (Gk) is natura (Lat). Interestingly,
+here the use of Latin helps clarify the distinction of persona and natura, whereas their Greek
+equivalents, hypostasis and physis have overlapping meanings. (Sometimes the best way of
+working out theology is to try to translate it into another language! - which is what anyone
+involved in cross-cultural mission has to do.)
+
+Eutyches was influential because of his renoun as a holy man. As a result, his teaching was widely
+taken up in the East. The Western Church’s most influential voice in the controversy was that of
+Pope Leo I. Leo, while contradicting Eutyches’ position that there was one nature in Christ after
+the Incarnation, stated that it was due to misunderstanding rather than deliberate perversity.
+
+The Controversy rumbled on from 448 to 451, with Constantinople being a centre of opposition to
+Eutyches’ teaching, and Alexandria being a centre of support. A series of local synods were held,
+with each coming to competing conclusion and once again the spectre of Christianity causing
+political division emerged. This, again, forced the Emperor, Marcian, to convene the Council in 451.
+Pope Leo, who could not attend because of the problem with invasions from Attila the Hun, sent
+his legates together with a doctrinal letter, which he had written, which has subsquently been
+called Leo’s Tome. This proved very influential upon the Council and showed, again, how the West
+—and in particular Rome — had proven its influence by holding to a doctrinal position which
+subsequent history had proved to be orthodox (such as on the homoousios). Rome was also able
+to stand aside from the political rivalry of Constantinople and Alexandria.
+
+The Council concluded:
+
+[quote, ]
+----
+We, then, following the holy Fathers, all with one consent, teach people to confess one and the same Son, our Lord
+Jesus Christ, the same perfect in Godhead and also perfect in manhood; truly God and truly man, of a reasonable
+[rational] soul and body; consubstantial [co-essential] with the Father according to the Godhead, and consubstantial
+with us according to the Manhood; in all things like unto us, without sin; begotten before all ages of the Father
+according to the Godhead, and in these latter days, for us and for our salvation, born of the Virgin Mary, the Mother
+of God, according to the Manhood; one and the same Christ, Son, Lord, only begotten, to be acknowledged in two
+natures, without confusion, without change, without division, without separation; (év 540 dUceow aouyxdtws,
+arpErtwg, Aiarpétwe, €xwpiotwe the distinction of natures being by no means taken away by the union, but
+rather the property of each nature being preserved, and concurring in one Person (prosopon) and one Subsistence
+(hypostasis), not parted or divided into two persons, but one and the same Son, and only begotten God (yovoyevi
+e6v), the Word, the Lord Jesus Christ; as the prophets from the beginning [have declared] concerning Him, and the
+Lord Jesus Christ Himself has taught us, and the Creed of the holy Fathers has handed down to us.
+----
+
+This managed to mediate, and clarify the ‘thin line’ of orthodoxy between two opposite errors:
+* confusing the human and divine natures into some third thing (point against Eutyches)
+* changing the human and divine natures by the union so that they were no longer what we
+normally would understand by these terms (point against Eutyches)
+
+¢ dividing the one Person of the Incarnate Christ into two Persons, hence undoing the
+Incarnation (point against Nestorianism)
+* separating the one Person of the Incarnate Christ into two separate Persons — like one
+riding on the shoulders of the other (point against Nestorianism)
+
+With Chalcedon, a set of specific uses of words in Latin and Greek became the established
+language of orthodox Christian teaching:
+
+Christ is a union of two natures (Greek: physes, Latin: naturae) — human and divine, in one person
+(Greek: prosopon, hypostasis, Latin: persona).
+
+Trying to work out what we mean by nature and person is to go beyond the remit of this module,
+and is really quite complicated. However, behind this is the need to maintain the integrity of both
+divine and human in the one, united Person of Christ.
+
