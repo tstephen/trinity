@@ -1,0 +1,229 @@
+---
+title: British Christianity after AD 407
+author: Paul Roberts, Tim Stephenson
+# https://pixabay.com/photos/st-davids-st-david-s-cathedral-4041250/
+featured_image: images/st-davids-gb87fb130e_1920.jpg
+summary: The Medieval Church in the West. Handout from Paul Roberts as part of his 'Introduction to Church History' at Trinity College, Bristol, Easter Term, 2022
+description: ""
+date: 2022-03-01T19:15:32Z
+categories: 
+  - Introduction to church history
+tags:
+  - Trinity College, Bristol and Bristol Baptist College
+  - Celtic Christianity
+  - Anglo-Saxon
+  - St Patrick
+  - St Illtud
+  - St David
+  - St Columba
+  - St Aidan
+  - St Cuthbert
+  - 
+draft: !true
+--- 
+
+## The Medieval Church in the West
+
+### The collapse of the Roman Empire and the “Dark Ages”
+
+#### The Survival of Christianity in the British Isles
+
+Rome abandons the province of Britain in 407AD. Waves of Saxon/Jutes/Dane invaders arrive soon
+after. Romano-British culture and Christianity moves West into Wales and Cornwall. Wales
+becomes the first centre for monastic evangelisation:
+
+* St Patrick (trafficked to Ireland by pirates, escapes home, then returns as a missionary monk) c.400 - c.461.
+* St Illtud : mid 6^th^ century,
+  - Founded what is believed to the be the oldest monastery and centre of learning in Britain at Llantwit Major footnote:[Galilee Chapel Project, St. Iltud's Church, Llantwit Major.]
+  - At its height had over 1000 pupils and counts many famous alumni including St David
+  - https://www.llanilltud.org.uk/
+* St David: early 6^th^ century to 589.
+  - Monastery at Mynyw, now St Davids
+  - Synod / Council of ? 
+  - Roberts argues Perlagius truer to pre-Augistinian theology of early church whilst he rediscovered Pauline theology. (TODO) 
+Scotland had never been evangelised in the Roman era as it wasn’t part of the Empire.
+* St Columba (Columcille): In 563 arrived on the Isle of lona, just off the Scottish mainland and
+founded the Abbey there.
+
+#### Evangelisation of the Saxons
+
+.From the North:
+
+St Aidan sailed from lona to Lindesfarne (off the Northumbrian coast) at the invitation of the local
+king St Oswald (who had converted prior to inheriting the throne).
+
+St Cuthbert is a key leader and protagonist for Christianity in the North.
+
+.From the South:
+
+In 595AD, Pope Gregory | (Gregory the Great) initiated a mission to convert the Anglo-saxons, with
+Augustine (later, Augustine of Canterbury) at its helm. Augustine was successful in converting the
+local gentry of Kent and established Canterbury as his first cathedral.
+
+Christianity spreads north from Kent to meet Christianity in Northumbria. Two provinces exist,
+centred on York and Canterbury.
+
+Different practices between the old British Christian communities and Rome - due to historical
+isolation. Centred on Calculating the Date of Easter, Monastic Tonsure, and The Baptism Liturgy.
+The matter came to a head, and was formally resolved at the Synod of Whitby (664) where the
+Northumbrian church accepted the Roman practice.
+
+#### So-called ‘Celtic Christianity’
+
+WARNING: Now academically suspect as a concept:
+
+1. Not really restricted to ethnic Celts - which predate Roman occupation.
+2. Used by the Protestant cause in the English Reformation to suggest British Christianity was somehow ‘independent’ from Rome on principle - it wasn’t.
+3. Muddled with 19^th^ century romanticism and 20^th^ century new-age ideas to imply ‘closer to nature’ than other forms of Christianity. No evidence it was - some evidence from 19^th^ century sources was fabricated. (Alexander Carmichael - Carmina Gadelica)
+4. No mortification of the flesh or strong ascetic practice of the historical celtic christians
+
+#### The spread of Christianity among the tribes of Europe
+
+Britain was influential in helping to evangelise the tribes of the European mainland:
+
+##### St Columbanus (543 - 615)
+
+From North of Ireland, worked in Burgundy amongst the Franks, then
+his companion St Gall went into Switzerland while Columbanus went to Lombardy (Northern Italy)
+to evangelize there (and to correct their Arianism). Founded monastery at Bobbio and is buried there.
+
+##### St Boniface (657 - 754)
+
+Originally called ‘Winfrith’, born in Exeter. Left England in 716 to go to
+Frisia (Holland) to join work started by St Willibrord. Went to Rome and with papal blessing - appointed bishop to all Germans ahead of their evangelism (and renamed Boniface) travelled to Germany and evangelised local pagans - the cutting down of the
+sacred oak, dedicated to Woden.
+
+Boniface was also an excellent diplomat and organiser, helping plant the structure of the Church,
+not just the faith, amongst the German peoples. Made the first Archbishop of Mainz by the pope.
+
+Christianity in the West even with Imperial support at the end outlived the collapse and even became stronger than it had been in the 5th century.
+
+Driven out of monasteries that preserved learning and aimed at converting leaders and influencers as had happened earlier in the Roman Empire. 
+
+## The Carolingian Renaissance to the High Medieval Period
+
+The phrase ‘Carolingian’ is from the Latin for ‘Charles’ and relates to ‘Charles the Great’ or
+‘Charlemagne’, King of the Franks 742 - 814. Over his lifetime, Charlemagne successfully united
+most of Western Europe under his rule (including France, Germany, Switzerland and Northern Italy
+and Eastern Europe as far as the Slavic border). As a result, Pope Leo III crowned him as the first
+Holy Roman Emperor in 800.
+
+Big supporter of the rule of the papacy: the stability of his reign allowed theology to thrive in a way it hadn’t for centuries.
+
+  - unified liturgy
+  - unified canon law
+  - lead theologically by papal appointee: Alcuin of York https://en.wikipedia.org/wiki/Alcuin[Wikipedia]
+
+Charles’ empire did not survive him, with the Eastern borders most pressured. Nevertheless, his
+influence was lasting and felt throughout what became known as ‘Europe’. The later ‘Holy Roman
+Empire’ (from 962) was based on Charles’ title, though centred on Germany rather than France.
+Charlemagne’s rule effectively ensured an organised Church throughout Northern Europe.
+
+By the year 1000, Western Europe was essentially fully Christian: so by the time of the Norman
+Conquest of Britain in 1066, there was never again to be an issue of a conquest by a foreign faith.
+
+### The Conquest and Reconquest of Muslim Europe
+
+Mohammed lived between c570 and c632.
+
+[NOTE]
+a contemporary of Boniface
+
+In 711, Islamic forces from North Africa crossed into Spain, conquering the
+Goths and Visigoths who had settled there. The expansion continued until
+the Moors crossed the Pyrenees into Gaul but their advance north was
+stopped by Charles Martel, (c. 688-741) a frankish king and ancestor of
+Charlemagne. The Moor’s territory was reduced by degrees in the later
+medieval centuries. The last Moorish stronghold was Granada, which fell in
+1491 to the forces of Ferdinand and Isabella (they also known for sponsoring
+the journeys of Christopher Columbus).
+
+Before the Islamic expansion there had not been an emphasis on military force as the mechanism of Christian expansion. Then:
+
+- The crusades, 
+- the reconquest of the Iberian peninsula, and
+- the conquest of the Americas
+
+This opens the door to greater militarism and even use of force between Christian powers.
+
+Muslim intellectual thought thrived during the period of the moorish occupation, and in many
+ways Muslim Spain was further advanced in the area of science and technology than was Catholic
+Europe. Significant thinker: Averroes (Arabic: Ibn Rashd; 1126 - 1198) had drawn from Aristotelian texts which had been translated into Arabic in Baghdad in the 9^th^ century. With the reconquista,
+Averroes’ work reintroduced lost work by Aristotle into the intellectual life of medieval Europe.
+
+Contrast with the dominance of Augustinian thought with its heavy influence from Neoplatinism and behind that Platoism.
+
+### The Papacy
+
+The Bishop of Rome's significance had grown through the Patristic period. Rome had played a key role in the critical debates in the early Council, and its Western voice was key to the decisions of the Council of Chalcedon, with the influence of the Tome of Pope Leo.
+
+Two key popes helped grow the influence and claims of the Bishopric of Rome to be the mother church of the Western Church: Gregory the Great (540 - 604) was a monk, reformer and
+theologian who established the credibility of the papacy at a time of upheaval. Decline during 8^th^ century.
+
+In 1049, Pope Leo IX sought to reform the office, along with other bishoprics, by reform of
+Canon Law. Key roles of the papacy included:
+
+- approving the coronation of the Holy Roman emperor;
+- validate claims over the jurisdiction of kings.
+
+In the 14^th^ century, political and military struggles meant the papacy moved to Avignon, but this eventually led to schism (due to competing royal protection) eventually to the point when there were THREE popes:
+
+- in Avignon,
+- in Rome,
+- in Pisa, and
+- in Avignon.
+
+The schism was eventually resolved by the Council of Constance (1414). The
+Council was a great success and led a view (known as Conciliarism) that the Church may be best governed by General Councils, when there were disputes involving the Church and the papacy. This stance was later used by Martin Luther in appeal against the pope.
+
+### Heretics, Saints and Religious Movements
+
+#### Heretics
+
+The position of Christian heretics was perilous from the time of the conversion of Constantine. In the West, burning of heretics began in Spain in the 11^th^ century. In England, in the early 1400s Parliament passed the de heretico comburendo (on the burning of heretics), which was in force throughout the Reformation.
+
+The first heresies of the early medieval period were old ones: mainly from Arian Visigoths,
+Manichaeeans and Donatists. Example of Justinian approving burning of a Manichaen in the East. In the West it became common much later, led by the most militaristic part of the church, in Spain.
+
+However, in the high medieval period, periods of ecstatic religious activities gave rise to condemnations and burnings.
+The Cathars of the 12^th^ century held a dualism of good vs evil, and an anti-clerical attitude which was condemned. They were ruthlessly
+persecuted in southern France, and this led to a number of violent and bloody battles.
+
+#### Saints
+
+A number of key saints are associated with monasticism (see Reading Topic).
+St Benedict (c. 480 c. 547) of Nursia re-organised monasticism around his Rule.
+It was successful because it created stability, training and education, and promotion on merit in a way uncommon in human society.
+The outright success of this communal life paradoxically led to a decline in its demands upon its members, and a number of movements arose within monasticism to reform the laxity that came to Benedictine communities through their wealth.
+These included the Cluniac Reform based in Cluny, Burgundy. And the Cistercian Reform, based in Citeaux, south of Dijon.
+
+In the 12^th^ century, two saints, Dominic and Francis, each adopted a different approach to the religious life which surrendered the stability of the abbey in favour of a more peripatetic approach to ministry.
+Commonly known as friars. A significant source of education in the late medieval period.
+Dominic founded the Order of Preachers, in Castile, Spain in 1215.
+
+Francis had no particular religious affections until he was taken a prisoner of war, during which his faith was kindled.
+Whilst on pilgrimage to Rome, he joined some beggars at St Peter’s. On
+returning to Assisi, he had a vision whilst visiting a derelict chapel in which an icon of Christ spoke
+to him from the cross, asking him to rebuild his church. He established a small community,
+focussing on serving the needs of the poor, the sick and marginalised. Pope Innocent III recognised
+the order, even though its rejection of any wealth or possessions was regarded as suspicious by some.
+In contrast, the equivalent female order, the Poor Clares, lived an enclosed life.
+
+St Thomas Aquinas (1225 - 1274). He studied at the University of Paris where his teacher was the
+fellow Dominican Albertus Magnus, who had been influenced by the ‘new’ Aristotelian philosophy
+from Averroes (see above). Albert’s influence on Thomas was to set the trajectory of this theology,
+which sought to integrate Aristotle’s interest in the natural world with Christian faith. Thomas also
+inherited Aristotle’s practice of logical inquiry: which used dialectic to establish principles (Principal
+statement, Counter statement, interaction/conclusion).
+Permits theology to become effectively a theory of everything. 
+Thomas went on to follow Albertus to Cologne, then returned to Parish as a teacher at the university.
+Eventually, Thomas built up two large compendiums of theology, the first intended as apologetics for the Faith (_Summa Contra Gentiles_) and then the magisterial _Summa Theologica_ which was intended to be a complete
+theological curriculum. Thomas’ work still continues to strongly influence Catholic theology and
+doctrine to the present day.
+
+## Omissions
+
+- Crusades
+- Break with Eastern church
+- Doctrine of purgatory
+- Doctrine of salvation by merit 
