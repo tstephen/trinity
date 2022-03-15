@@ -1,0 +1,940 @@
+---
+title: Turning points, third edition, chapter 4
+author: MARK A.NOLL
+featured_image: /images/noll-turning-points-cover.png
+summary: Decisive Moments in the History of Christianity
+description: ""
+date: 2022-03-08T14:51:32Z
+categories: 
+  - Introduction to church history
+tags:
+  - Benedict
+  - Gregory I
+  - Trinity College, Bristol and Bristol Baptist College
+draft: !true
+---
+
+## The Monastic Rescue of the Church
+
+### Benedict's Rule (530)
+
+St. Benedict wrote his Rule in the first part of the sixth century in order to guide monks
+to holiness and correct the monastic abuses of his day. Five centuries later, Bernard of
+Clairvaux (1090-1153) was called to reform the Benedictine monasteries that had lapsed
+into worldliness. Contemporary issues propelled Bernard, a mystic passionately devoted to
+God, into playing a major role in politics and ecclesiastical renewal. A renowned preacher
+and writer, Bernard was so popular that many of the best medieval Latin hymns were
+ascribed to him, even though actual authorship is uncertain.
+
+One of these hymns, “O Sacred Head, Now Wounded,” exemplifies some of the finest
+aspects of continuity in the tradition of Christian devotion. The original Latin version dates
+from the twelfth century. The Lutheran hymnist Paul Gerhardt translated it into German in
+the seventeenth century, and in the next century Johann Sebastian Bach arranged it for
+his Passion Chorale. Then in the nineteenth century the Presbyterian scholar and pastor
+James W, Alexander translated it into English. The lyrics present a stirring contemplation
+of God's love displayed on the cross and the loving response that Christ's suffering calls
+forth, themes that were always prominent when monasticism was at its best.
+
+[quote]
+----
+O sacred Head, now wounded,
+
+With grief and shame weighed down;
+Now scornfully surrounded
+
+With thorns Thine only crown:
+
+How pale Thou art with anguish,
+
+[page 77]
+
+With sore abuse and scorn!
+How does that visage languish
+Which once was bright as morn!
+
+What Thou, my Lord, has suffered
+Was all for sinners’ gain;
+
+Mine, mine was the transgression,
+But Thine the deadly pain.
+
+Lo, here | fall, my Savior!
+
+‘Tis | deserve Thy place;
+
+Look on me with Thy favor,
+Vouchsafe to me Thy grace.
+
+What language shall | borrow
+To thank Thee, dearest Friend,
+For this Thy dying sorrow,
+Thy pity without end?
+
+O make me Thine forever;
+And should | fainting be,
+Lord, let me never, never
+Outlive my love to Thee.!
+----
+
+footnote:[Robert K. Brown and Mark R. Norton, eds., The One Year Book of Hymns (Wheaton: Tyndale, 1995), entry for March 28.]
+
+The rise of monasticism was, after Christ’s commission to his disciples,
+
+the most important—and in many ways the most beneficial—institutional event in the history of Christianity. For over a millennium, in the
+centuries between the reign of Constantine and the Protestant Reformation,
+almost everything in the church that approached the highest, noblest, and truest ideals of the gospel was done either by those who had chosen the monastic
+way or by those who had been inspired in their Christian life by the monks.
+If we remember that “the monastic way” included all who “separated” from
+the world and followed a “rule” of discipline—women as well as men—we
+can say much the same for the more recent centuries of the church’s history.
+The monastic contribution to “whatever is true, whatever is noble, whatever
+is right, whatever is pure, whatever is lovely, whatever is admirable” (Phil.
+4:8) may have shrunk in visibility over the past few centuries, but it still remains high. With reference to much more recent history, it is only necessary to
+
+mention Mother Teresa of Calcutta, founder of the Order of the Missionaries
+of Charity, to make the point.
+
+Even a Protestant who thinks monasticism is flawed in ways that will be
+suggested at the end of this chapter can make such claims on its behalf with a
+cleat conscience. Protestantism itself, we may well remember, began with the
+monastic experiences of Martin Luther. Once Luther, John Calvin, Thomas
+Cranmer, Menno Simons, and other leaders of the Reformation concluded
+it was necessary to break from the Roman Catholic Church, they drew support for their theology first from Scripture, but then immediately from the
+writings of monks. Luther and Calvin, especially, returned repeatedly to the
+work of Augustine (354-430), who had been not only a learned theologian,
+busy bishop, and energetic polemicist but also the founder of a monastic
+order, In fact, Luther began his biblical study and theological reflections as
+an _Augustinian_ monk.
+
+The breadth and depth of monastic influence in the church can be sketched
+quickly by observing the lineage of attitudes and actions that have been approved by almost all Christians everywhere. If we read the Scripture in our
+native languages, we benefit from a tradition of biblical translation inspired
+by the monk Jerome (circa 342-420). If we sing together the praises of Father,
+Son, and Holy Spirit, we follow where the hymn-writing monks Gregory
+(circa 540-604) and Bernard of Clairvaux led the way. If we pursue theology,
+we inevitably find ourselves indebted to the monks Augustine and Thomas
+Aquinas (circa 1225-74). If we pray for the success of Christian missions, we
+ask for blessing upon enterprises pioneered by the monks Patrick (circa 390-
+circa 460), Boniface (680-754), Cyril (826-69) and his brother Methodius (circa
+815-85), and Raymond Lull (circa 1233-circa 1315). If we are interested in the
+past record of Christianity in English-speaking areas of the world, we cultivate
+a historical concern begun by a monk, the Venerable Bede (circa 673-735). If
+we glory in the goodness that God imparted to the created world, we follow
+where the friar Francis of Assisi (1181/82-1226) blazed the trail. Monasticism
+was never a perfect answer to the question of how to live the Christian life.
+Its impact, nonetheless, cannot be underestimated. And that impact has been
+largely for the good.
+
+It is difficult to specify a single turning point at which monasticism began
+to influence the church decisively.
+footnote:[For the account that follows, I draw especially on W. H. C. Frend, The Rise of Christianity (Philadelphia: Fortress, 1984); F. F Bruce, The Spreading Flame: The Rise and Progress of Christianity from Its First Beginnings to the Conversion of the English (Grand Rapids: Eerdmans, 1958); and Christopher Dawson, The Foundation of Christendom (New York: Sheed & Ward, 1967), For a contemporary appreciation of the monastic tradition from an evangelical Protestant perspective, see Dennis L. Okholm, Monk Habits for Everyday People: Benedictine Spirituality for Protestants (Grand Rapids: Brazos, 2007).]
+ 
+For the most important turning point in the development of monasticism, there are in fact a number of prime candidates.
+It could be the first recorded monk, Antony, who left his family’s farm in Egypt
+sometime around 270 to go out by himself to the edge of the desert in order
+to find God. It might be his fellow Egyptian Pachomius, who around 320 established the first cenobitic (or communal) monastery under the guidance of a
+“rule” (or set of regulations) for a life of prayer. It could be Basil of Caesarea,
+one of the Cappadocian fathers, who did so much to define the Holy Spirit as
+a full member of the Trinity. About 370 Basil wrote a rule for the monasteries
+under his care in Cappadocia (modern eastern-central Turkey) that serves to this
+day as the basic guide for monastic life in the Orthodox Church. Athanasius,
+the great fourth-century defender of Christ’s divinity, could be singled out as
+a key figure in the rise of monasticism, since his biography of Antony both
+identified monasticism solidly with doctrinal orthodoxy and greatly expanded
+knowledge of monastic ways in both East and West. It could also be Martin of
+Tours, who in 360 founded the first monastery in what is now France, and so
+began the momentous career of monasticism as the primary bearer of Christianity into northern Europe. Or it could be John Cassian, who, living in the
+south of France early in the fifth century, wrote an influential book that distilled
+much of the monastic wisdom of the East for dissemination in the West.
+
+But as important as all these and many other early influences were for
+the emergence of monasticism, it is almost certainly Benedict of Nursia (in
+Italy) who gave the most decisive, and most beneficial, shape to monasticism.
+It is to Benedict and his famous Rule that the Christian church owes a series
+of invaluable gifts—for regulating a zealous spirit that had often bordered
+on fanaticism; for curbing a practice of asceticism that easily slid over into
+Gnosticism, Docetism, or worse;
+footnote:[Gnosticism and Docetism are related heresies that regard the physical world as inferior to the purely spiritual. The word “docetism” comes from the Greek dokeo, “seem”; Docetists believed that Jesus was a spiritual being who only seemed to be human. This devaluing of the human body sometimes led to ascetic extremes, which Benedict sought to curb. For example, hearing that a certain hermit had chained himself in his cave, the saint sent him this message: “If you are indeed a servant of God, do not chain yourself with chains of iron. But rather, let Christ be the chain that binds you.” Quoted in Esther de Waal, Seeking God: The Way of St. Benedict (Collegeville, MN: Liturgical Press, 1984), 22-23.]
+for preserving the centrality of Scripture
+in a movement that made much of inner spiritual illumination; for recalling
+prayer to the heart of the Christian life; for linking exalted religious experience
+with the basic realities of work, study, eating, and sleeping; and, not least, for
+providing an ideal of monastic life in which reformers have found inspiration
+and encouragement for fifteen hundred years.
+
+The magnitude of Benedict’s
+significance in the history of Christianity is not, however, matched by
+knowledge of his life. About forty
+
+oe years after his death (and the precise
+5 ae year of death is not even known),
+Pope Gregory I wrote a series of
+dialogues on noteworthy believers of previous eras; his account
+of Benedict contains almost all the
+solid biographical information we
+have about him.
+
+Benedict (circa 480—circa 550) was
+educated at Rome, where he found
+One of the many memorials of Benedict and his the prevailing standards so degenerate that he abandoned the city for a
+life of solitary religious devotion at
+Subiaco. Because of his growing reputation for spiritual insight, a number
+of others gathered around him. Eventually Benedict is said to have founded
+twelve separate monasteries with twelve monks each, but it is also reported
+that in these early years he was the object of jealous attacks by some who
+had originally come out to seek the life of prayer with him. Sometime around
+525 Benedict moved south of Rome to Monte Cassino,
+footnote:[Monte Cassino, the “cradle of the Benedictine Order,” has been destroyed and rebuilt several times, the most recent destruction coming in World War II when Allied commanders bombed the monastery in the mistaken belief that it was held by the Germans.]
+where he established
+a monastery that exists to this day. It was probably after arriving at Monte
+Cassino and as part of an effort to reform the general practice of monast
+cism that Benedict composed his regula. This Rule soon won nearly universal approval as providing the shape for monasticism in the West. Its only
+serious rival was the Celtic monasticism inspired by St. Patrick in the fifth
+century and spread by St. Columba (circa 521-97) from a famous monastery
+on the Isle of Iona off the coast of Scotland. Benedict’s Rule was read also
+with appreciation in the East; it became the norm for tens of thousands of
+new monastic communities in Europe, and it served as an inspiration for
+the slightly altered ideals that created the Mendicant Orders (or “friars”)
+in the twelfth and thirteenth centuries. Never in the recorded history of
+Christianity has a person whose own life remains so obscure done a deed
+with greater public consequences.
+
+
+In order to gain a better sense of how important Benedict's Rule was in
+shaping the course of monasticism, and also how pivotal monasticism became
+in shaping the course of Christianity, it is necessary to probe a little more
+deeply into the motives that led to the rise of monasticism as an institution.
+‘That exercise will, in turn, make it possible to see why Benedict and his Rule
+were so critical to the spread of monasticism throughout the Middle Ages,
+and it also will put us in a position to make an evaluation of the gifts (and
+problems) that monasticism bequeathed to the church.
+
+### Motives and Circumstances
+
+Conditions in the fourth and fifth centuries provided powerful motivations
+for the spread of monasticism. The persecutions under Decius in the mid-
+third century and under Diocletian in the early fourth century took place at
+the same time that economic difficulties disoriented traditional patterns of
+life throughout many parts of the Roman Empire, especially Egypt. The first
+monks, like Antony, who left Egyptian cities for the desert, were thus departing from a world where both spiritual and secular conditions lay in disarray.
+
+Much more important for the spread of monasticism, however, was reaction
+to the church’s greatest success. With the rise of the Constantinian church—
+state establishment, the life of a Christian “professional” offered considerable
+potential for worldly preferment. Although intraecclesiastical strife and strenuous differences of opinions with the emperors could make life precarious for bishops and priests, service in the church after Constantine could also offer
+stability, access to power, and a reasonable opportunity for wealth. Monasticism was a response, often inarticulate, that reflected spiritual concern about the church’s success. The self-denial and privations of the monks, although
+a result now of self-imposed decisions, were a way of recovering the ideals of
+martyrdom. To be sure, the monastic effort to seek out an existence of living
+martyrdom threatened to create a two-tiered picture of Christianity. Soon
+monks, or the “athletes of God,” seemed to be pursuing the true Christian
+faith, while ordinary people in ordinary human circumstances were consigned
+to a subordinate spiritual status. Yet even with the dangers posed by such a
+division (monks thinking of their spirituality more highly than they ought,
+ordinary people thinking too little of the spirituality within their daily life),
+the monastic response to the Constantinian situation proved effective. In order
+to save critical Christian ideals such as self-sacrifice and humility, as well as
+to promote Christian disciplines like prayer and study of the Scriptures, the
+monks became the conscience of Christendom.
+
+[page 83]
+
+Ironically, however, the monastic willingness to forsake all to follow only
+Christ eventually bequeathed its own form of worldly reward. Monks gave
+up the prospect of economic gain and the practices of married life, but they
+received in return considerable respect and at least some anchorage in turbulent
+times. It is probably not a coincidence that Antony began monastic practice
+shortly after the disruptive reign of Decius, or that Benedict’s Rule became so
+popular immediately after the final collapse of the Roman Empire in the West
+(the last Roman emperor was expelled from Italy in 476, less than a decade
+before Benedict’s birth). Monasticism did not hold out prospects of wealth or
+sensual enjoyment, but it did offer the western Mediterranean world a hope
+of stable Christian community at times of severe social disorder.
+
+If the growth of monasticism depended upon general conditions in the
+Roman-Christian world, it also drew on several important strands of spiritual,
+theological, and biblical tradition. What could be called the inner motivations
+of monasticism already enjoyed a vigorous heritage by the fourth and fifth
+centuries.
+
+The most important, and most enduring, of these inner motives was commitment to the Scriptures. Antony, the first of the monks, had gone into the
+desert after hearing Matthew 19:21 read during a Sunday service (“If you
+want to be perfect, go, sell your possessions and give to the poor, and you will
+have treasure in heaven. Then come, follow me”). Antony had only recently
+received a substantial inheritance of land from his parents. In these circumstances, the text so captured his attention that he went out and did exactly
+as the Gospel enjoined.
+
+In addition, the monks returned repeatedly to injunctions and models of
+living especially drawn from the New Testament. Paul’s discussion of 
+marriage from 1 Corinthians 7, for example, exerted a direct impact (“Now to
+the unmarried and the widows I say: It is good for them to stay unmarried,
+as do”). John the Baptist’s life in the desert as an unmarried seeker for God
+loomed just as large, but not as large as the example of Jesus, who forsook
+family and wealth to do his Father’s bidding and who sometimes went into
+the wilderness to pray. The ideal was to seek God single-mindedly—to pray
+without ceasing (1 Thess. 5:17). Monks believed this effort would be aided by
+removing worldly distractions. The life of prayer, in turn, would transform
+them into a charitable and hospitable people.
+
+Immersion in Scripture remained a permanent characteristic. Even if there
+came periods in monastic history when the use of Scripture grew perfunctory,
+preoccupation with the Bible was constant. Most early records of cenobitic
+monasticism in Egypt contain the stipulation that would-be novices memorize
+twenty psalms, two epistles, or a biblical passage of comparable length as a requirement to enter the monastery.
+[page 84]
+ Similarly, Benedict’s Rule is thickly studded
+with biblical quotations, and injunctions to constant reading (in Scripture and
+other Christian literature) make up a major part of his concern. Even in periods
+of modern church history when Protestants and Catholics had nothing good
+to say about each other, it is striking that Protestants continued to remember
+that they owed a great debt to the monastic houses that had preserved, copied,
+and studied the Scriptures throughout the Middle Ages. Monasticism, in brief,
+was built upon a foundation of Scripture.
+
+‘At the same time, the ascetic drift of early Christian spirituality strongly
+influenced the way that Scripture was applied in the formation of monasticism.
+In the West, where practical solutions were more important than theological
+speculation, the standard view of reconciliation with God exerted considerable influence on how the Bible was read. That view was being systematized by
+Tertullian at the end of the second century in a way that favored what would
+later emerge as monastic spirituality. Tertullian held that the one who sought
+reconciliation needed to pass through distinct stages: penitence (or active sorrow
+for sin), mortification (deadening of the flesh through ascetic practices), merit
+(securing of the right to be rewarded by God), and satisfaction (reparation by
+alms, fasting, or other good works for the damage done to God’s holiness). These
+stages were all dependent upon God’s grace displayed by Christ on the cross, but
+they had the effect of making conscientious human effort quite important. In
+terms growing from Tertullian’s formulations, monasticism represented serious,
+systematic, and full-time attention to the divine requirements for reconciliation.
+
+Eastern asceticism had other sources. During the third century, Clement
+and Origen had put Neoplatonic forms of thought to use in the church. Their
+foundational Christian convictions made such Greek thought relatively safe
+for use by believers, but the Neoplatonic tendency to treat the created realm
+as only a shadow of ultimate realities—which were located beyond the material realm—nonetheless remained to influence Christianity. Such teachings
+promoted a spirituality that tended to devalue ordinary physical existence
+and stress the purely spiritual.
+
+This Neoplatonic influence was strongest in the East, but it occurred in the
+‘West as well. Augustine’s pathbreaking autobiography, the Confessions (written 397-401), described in detail his passage through various philosophical
+and religious stages on the journey to Christian faith. Among those stages
+were a period of fascination with Platonism (with its hierarchy of forms) and
+another with Manichaeanism (with its conception of a universe sharply divided
+between forces of good and evil). Augustine’s conversion to Christianity meant
+his liberation from the toils of these religious systems, but it did not mean
+that their influence was entirely effaced. One of his characteristic metaphors
+
+[page 85]
+
+for serious Christian living remained a journey upward out of the materiality
+of day-to-day life into realms of pure spirituality. Thus, in the Confessions,
+Augustine’s Christian evaluation of his own struggle with sin was couched in
+language drawn from Neoplatonic thought: for example, “But I did not stay
+in the enjoyment of my God; I was swept away to you by your own beauty,
+and then I was torn away from you by my own weight and fell back groaning
+toward these lower things. Carnal habit was this weight.”
+footnote:[The Confessions of St. Augustine, trans. Rex Warner (New York: New American Library, 1963), 153.]
+
+These varied influences in the world of early Christianity—whether Neo-
+platonic, Platonic, or Manichacan—all moved in the same direction. They
+tended to view the ideal Christian life as passing from the ordinary, the 
+material, and the terrestrial into the extraordinary, the spiritual, and the celestial.
+When combined with the Scriptures’ repeated injunctions to, for example, “set
+your hearts on things above” (Col. 3:1) or to avoid worry “about your body,
+what you will wear” (Matt. 6:25 and Luke 12:22), these influences exerted a
+powerful motive for monasticism. By definition, the monastic way was designed
+precisely to allow creatures of the earth to rise toward a purer spirituality.
+
+The particular monastic renunciation of sexual practice flowed from this
+more general tendency. Paul’s injunction to remain unmarried, if possible,
+was the spark, but much of the shape for the monastic ideal of chastity was
+provided by the dualism—especially the dualism between spirit and matter—so prevalent in Greek thought. The physical world, as perceived by many
+early theologians, was the realm in which Satan exerted his greatest influence.
+Regulating that world as carefully as possible was a way of forsaking the ruler
+of this present darkness for the Lord of Light.
+
+This perception of the world as an active, ever-tumultuous scene of spiritual combat also fueled the monastic surge. Especially in the Egypt of early
+monasticism, but also throughout most of the early church, believers were
+deeply fascinated by demons, angels, and conflict between spiritual forces in
+high places. The way that monasticism deployed this largely biblical picture
+of the world was that monks, as full-time ascetics, were widely considered to
+be the only ones spiritually fit enough to contribute directly in that struggle.
+Early accounts of Antony featured his wrestling with demons and the ungodly
+passions they incited. Such emphases remained a potent spur to monasticism
+throughout its earliest centuries.
+
+The story of Simeon Stylites (circa 390-459) shows clearly how different the
+thought processes of early Christians could be from our own. Simeon, who lived
+out his life in the general vicinity of Antioch in Syria, became an anchorite (or
+solitary monk) in early adulthood. At some later stage he departed into a desert
+region where he began building a pillar as his place of abode. For the last decades
+of his life, he remained perpetually on this pillar, which he continued to construct
+until it reached a great height. Simeon obviously felt that this act of self-isolation
+allowed him to concentrate solely on spiritual realities and to prepare him for taking an active part in the supernatural warfare that enveloped the earth. Although
+moderns might consider Simeon more of an eccentric than a saint, it is important
+to realize why a relatively full account of Simeon has come down in history. His
+life was well recorded for the simple fact that Simeon’s contemporaries found
+him an immensely attractive figure. A steady stream of visitors presented itself
+to the pillar. Simeon’s direct influence led to conversions and to breakthroughs
+where warring church factions were reconciled. It is even reported that Simeon’s
+commendation of the Chalcedon Definition greatly assisted its acceptance in his
+region. Only when we realize how the account of a sunburned ascetic passing
+messages (and life’s meager necessities) up-and-down in a bucket from a lofty
+pillar could have struck such a responsive chord will we begin to understand why
+monasticism proved so satisfying to so many earnest Christians and exerted such
+a powerful force throughout the whole Christian world.
+
+One of the difficulties in presenting early monasticism is that the record is so
+varied. For every extreme ascetic like Simeon, many revered figures existed who
+were known for gentleness, moderation, wisdom, and extraordinary hospitality
+displayed toward the outcast and fallen. A danger in studying monasticism is
+that this equally significant strain can be overshadowed by the more bizarre, even
+if many desert fathers discouraged extreme practices. In general, what made
+the early monks so compelling was their reputation as great people of prayer.
+
+Monasticism grew, therefore, not only because it was a form of Christian
+organization and a collection of Christian ideals attractive during the time
+of transition to the public establishment of the church. Even more important
+for the growth of monasticism was its connection to some of the most basic
+theological tendencies and spiritual instincts of early Christian history. That
+combination of general conditions and inner spiritual propulsion, especially
+when it produced a remarkable array of spiritual and practical services, helps
+explain how monasticism emerged as such a potent force and why it remained
+so central for such a long stretch of the church’s history.
+
+### Benedict and His Rule
+
+The Rule of Benedict played a decisive role in the history of monasticism, and
+therefore in the history of Christianity, because it combined the zeal of earlier
+
+[page 87]
+
+monastic pioneers with a carefully balanced concern for stability. Benedict’s
+Rule is famous for codifying vows of obedience, stability, and conversatio
+morum (continual conversion) that led on to the more general vows of poverty, chastity, and obedience. But it was equally noteworthy for its farsighted
+concern for what it would take to keep individual monks and entire monastic
+communities on an even keel. The Rule, though a relatively long document
+of some eighty large-print pages in Timothy Fry’s English edition, was also
+intentionally flexible. It suggested how its own guidelines could be adapted to
+local conditions defined by different stages of the ecclesiastical year, different
+climates, different quantities of available food and drink depending on the
+monks’ health, age, and even degree of spiritual maturity.
+
+Benedict’s Rule was not a manual for slackers. It enshrined, for example,
+the wisdom of the first Christian centuries about higher spirituality in sternly
+forbidding personal possessions: “Above all, this evil practice [of private ownership] must be uprooted and removed from the monastery. We mean that without
+an order from the abbot [the leader], no one may presume to give, receive or
+retain anything as his own, nothing at all.”
+footnote:[The Rule of St. Benedict in English, ed. Timothy Fry, OSB (Collegeville, MN: Liturgical Press, 1981), 56. Subsequent page references in the text are to this edition.]
+The Rule also made it clear that
+even younger members were to join the search for perfection. It made provisions for older monks to sleep in the same rooms with the younger so that,
+when the bell was rung for prayers at midnight, all might “rise without delay
+when the signal is given; each will hasten to arrive at the Work of God before
+the others, yet with all dignity and decorum” (49). The reason for mixing old
+and young together was so that “on arising for the Work of God,” they might
+“quietly encourage each other, for the sleepy like to make excuses” (49).
+
+If the Rule was stern, however, it was stern for clear theological reasons.
+Many of the Rule’s most important provisions spelled out the theological
+justifications for important monastic practices, for example, the critical mandate to work: “Idleness is enemy of the soul. Therefore, the brothers should
+have specified periods for manual labor as well as for prayerful reading” (69).
+Benedict probably had more the “manual labor” in mind as a standard for
+work than the “prayerful reading,” but his grouping of physical and mental
+labor together opened the way to the monks’ great contribution to learning
+that would be sustained almost from the first.
+
+The Rule is marked throughout by a concentration on the spiritual realities
+that monasteries existed to embody. At the foundation was commitment to the
+practice of prayer: “Whenever we want to ask some favor of a powerful man,
+we do it humbly and respectfully, for fear of presumption. How much more
+
+
+important, then, to lay our petitions before the Lord God of all things with the
+utmost humility and sincere devotion. We must know that God regards our purity
+of heart and tears of compunction, not our many words. Prayer should therefore
+be short and pure” (48). The practice of prayer, moreover, was to mold a life of
+prayerfulness: “The life of a monk ought to beacontinuous Lent... . This we can
+do ina fitting manner by refusing to indulge evil habits and by devoting ourselves
+to prayer with tears, to reading, to compunction of heart and self-denial” (71).
+
+A life of prayer, however, was not to be artificially divorced from a life of
+service. It is doubtful that Benedict could have foreseen the myriad activities
+of practical godliness that later monks who followed his Rule pursued, but
+aspects of the Rule provided a basis for those later developments. Injunctions,
+for example, to care for strangers and for the sick contained the seeds for
+significant future charitable work: “All guests . . . are to be welcomed as Christ,
+for he himself will say: ‘I was a stranger and you welcomed me’ [Matt. 25:35]”
+(73); and “Care of the sick must rank above and before all else, so that they
+may truly be served as Christ, for he said: ‘I was sick and you visited me’ [Matt.
+25:36]” (59). From such beginnings would grow vast monastic enterprises
+attending to the body as well as to the soul.
+
+The concluding words of the Rule speak for its entire character; they are
+calm, judicious, and God-centered, yet also filled with hope for progress, by
+the grace of God, in the disciplined Christian life: “Are you hastening toward
+your heavenly home? Then with Christ’s help, keep this little rule that we
+have written for beginners. After that, you can set out for the loftier summits
+of the teaching and virtues we mentioned above, and under God’s protection
+you will reach them” (95-96).
+
+The ordinary daily round shaped by Benedict’s rule varied by place, era,
+personality of the abbot, and many other factors. Especially the relationship
+of a monastery’s abbot to the neighboring bishop (or bishops) became a major
+issue through much of the Middle Ages. When some monastic foundations
+grew large, and even prosperous, the reality of the abbot’s power, who might
+preside over a whole chain of daughter monasteries, was often much greater
+than thar of the local bishops. When such abbots fulfilled the ideals set out for
+their position in Benedict’s Rule, it could be a boon to the church. But when
+they fell prey to avarice or power-mongering, such abbots could be a disaster
+for general church affairs and a snare for the ordinary monks.
+
+For their part, the ordinary monks were usually not directly affected by
+the high politics involving abbots, bishops, and secular rulers. As a typical
+example, the Benedictine monastery of Durham in England was founded in 1083 through the cooperation of the archbishop of Canterbury, the king of
+England, the pope, and local church officials. A few centuries later, the daily
+round in summer of the monks at the Durham monastery looked like this: Up
+at six for prayers in the church, then a light breakfast, then work or reading.
+After nine o’clock a series of Masses and meetings were held in the monastic
+church. The afternoon saw an alternation of work and prayer, with supper
+at 6:00 p.m., followed by prayers and then an early bedtime. At midnight the
+monks arose for prayer again.
+footnote:[See Anne Boyd, The Monks of Durham (Cambridge: Cambridge University Press, 1975), 16-18]
+And so it went— _orare et laborare_ —praying
+and working, praying and working, throughout the passing of the seasons
+and the rolling of the years.
+
+
+Well before the Benedictine
+monastery was established in
+Durham, monastic establishments
+
+England (Fourteenth Century) for women had become common-place throughout Europe. Early praise for virginity played a part
+in the growth of female monastic
+orders. Cyprian in the third century
+had called virgins the flower of the
+church; especially after the Virgin
+Mary became more prominent in the church’s liturgy and theology. 
+
+the way that exceptional religious w
+
+ after the fourth and fifth centuries, bitte life for celib: en
+ cenobitic life for celibate women
+  became important as well.
+ Throughout the Middle Ages, the monastic life provided one of the
+ few venues where women were allowed (and sometimes even encouraged) to express publicly their
+ grasp of the Christian faith. Thus Hildegard of Bingen (1098-1179),
+ae founder and first abbess of the
+ Benedictine community at Ruperts-
+
+berg on the Rhine, was renowned
+not only for her mystical visions
+but also for a remarkable set of
+writings on scientific, theological,
+and musical subjects as well as for
+discerning correspondence with
+kings, bishops, and leaders of other
+monastic institutions. The histo-
+tian Caroline Walker Bynum has
+published a compelling account of
+
+omen in the thirteenth and fourteenth
+
+centuries won unusual hearing for their writings, dialogues, and prayers.
+footnote:[Caroline Walker Bynum, Holy Feast and Holy Fast: The Religious Significance of Food: to Medieval Women (Berkeley: University of California Press, 1987).]
+This recognition came about through widespread respect for their rigors in
+fasting and their experience of mystical union with Christ in the Eucharist.
+That respect was the vehicle for women like Hadewijch (writings from 1220-
+40), the first great poet in Flemish, and Catherine of Siena (circa 1347-80)
+whose ministry included ecclesiastical and papal reform, to have the sort of
+impact in their day that the life of self-denial had won for Simeon Stylites in
+his day.
+
+The pattern established by Benedict’s Rule came to be applied widely and
+with great effect. For men and women, in all parts of Europe and beyond.
+through times of monastic flourishing and periods of monastic decay, it 
+remained a beacon pointing back to the disciplined stability of a spiritual ideal
+and forward toward growth into eternal blessedness.
+
+### A Brief Outline of Important Monastic Developments in the Middle Ages
+
+A sketch is not the best way to treat the complex history of monasticism
+during the European Middle Ages, but it may be enough to suggest the great
+importance of monasticism as sustaining and expanding the church in that era.
+
+In the first instance, the missionary expansion of Christianity was unthink-
+able apart from the activity of monks. A fine survey of world missions by
+Stephen Neill, who himself served as a missionary in India, divided the missionary history of the Middle Ages into a five-hundred-year period (500-1000)
+in which the main task was to draw the barbarians into the Christian orbit
+and a succeeding five hundred years (1000-1500) in which the great task was
+to turn nominally Christian Europeans into genuine believers.
+footnote:[Stephen Neill, A History of Christian Missions (New York: Penguin, 1964), 61-139.]
+The key element in both of these gigantic efforts was monasticism.
+
+In Neill’s first phase, monks of several kinds did the pioneering work that
+was necessary to spread news of Christianity beyond the settled boundaries
+of the old Roman Empire northward, westward, and eastward into barbarian Europe. Celtic missionaries were pioneers, with Patrick’s preaching in
+Ireland during the fifth century as the vanguard. Later missionaries from
+England and Scotland combined Celtic fortitude with Benedictine order in
+using monastic foundations as a way of anchoring missionary outreach. Thus.
+Boniface (680-754), who is often called the apostle of Germany, lived until age
+forty as a monk in England but then traveled widely in what is now modern
+France, Germany, and the Low Countries in a series of pathbreaking mission
+tours. One of the most enduring of his many legacies to northern European
+Christianity was the founding of a Benedictine monastery at Fulda (northeast
+of Frankfurt, Germany), which long remained a center for further missionary
+outreach. Of the monk Boniface, the modern historian Christopher Dawson
+once wrote that he “had a deeper influence on the history of Europe than any
+Englishman who has ever lived.”
+footnote:[Christopher Dawson, The Making of Europe (New York: Meridian, 1974 (orig. 1932)),185.]
+
+Similarly, the missionary expansion of Christianity in Eastern Europe came
+about in the ninth century through the monks Cyril and Methodius, brothers
+by blood as well as in their vows. Their willingness to translate the Bible and
+liturgical materials into Slavonic, the common language of the region around
+Great Moravia and Bohemia, now part of the Czech Republic, was an innova-
+tion. It also sealed a bond between Eastern Europe and the Orthodox Church
+that remains to this day.
+
+The missionary effectiveness of the monks usually depended as much
+upon their plain virtues as upon more highly visible exertions in preaching
+or teaching. For a monastery to be established in a pagan area allowed the
+local population to see the application of Christianity to daily existence, as
+monks tilled the soil, welcomed visitors, and carried out the offices of study
+and daily prayer. So arose the saying that the monks civilized Europe 
+_cruce, libro, et atro_ —with cross, book, and plow.
+
+In the second half of the Middle Ages, much of the itinerant preaching that
+won nominally Christian Europeans to firmer Christian conviction came from
+the new orders of mendicant friars (monks on the road, so to speak). The
+skillful preaching promoted by the Dominicans and the practical godliness of
+the Franciscans both had a great impact. As they ministered to those in im-
+mediate surroundings, the friars also maintained earlier monastic concerns
+for mission beyond European Christendom. Some of the writings of the Do-
+minicans’ greatest theologian, Thomas Aquinas (circa 1225-74), for example,
+were designed for use as apologetics to Muslims. For their part, Franciscans
+from the time of St. Francis engaged actively in cross-cultural evangelism. A
+lay Franciscan, Raymond Lull, was the first Westerner to devise and carry out
+a full-fledged mission strategy among Muslims. Lull followed his own advice
+that Europeans learn Arabic in order to communicate the gospel in Islamic
+regions. His life ended during a fourth mission trip to Muslims, when again
+his actions matched his words. “Missionaries will convert the world by preach-
+ing, but also through the shedding of tears and blood and with great labour,
+and through a bitter death.”
+footnote:[Neill, History of Christian Missions, 137.]
+
+### St. Benedict on Choosing an Abbot
+
+[quote, Benedict, Rule]
+----
+Benedict's care in setting out conditions
+for selecting the head of a monastery
+reflect many of the characteristics of his
+entire Rule:
+
+In choosing an abbot, the guiding principle should always be that
+the man placed in office be the one
+selected either by the whole community acting unanimously in the fear of
+God, or by some part of the community, no matter how small, which possesses sounder judgment. Goodness
+of life and wisdom in teaching must
+be the criteria for choosing the one to
+be made abbot, even if he is the lastin
+community rank...
+
+Once in office, the abbot must keep
+constantly in mind the nature of the
+burden he has received, and remember
+to whom he will have to give an account of his stewardship (Luke 16:2].
+Let him recognize that his goal must be
+profit for the monks, not preeminence
+for himself. He ought, therefore, to be
+learned in divine law, so that he has a
+treasury of knowledge from which he
+
+can bring out what is new and what is.
+old [Matt. 13:52]. He must be chaste,
+temperate and merciful. He should al-
+ways let mercy triumph over judgment
+ames 2:13] so that he too may win
+mercy. He must hate faults but love the
+brothers. When he must punish them,
+he should use prudence and avoid ex-
+tremes; otherwise, by rubbing too hard
+to remove the rust, he may break the
+vessel. He is to distrust his own frailty
+and remember not to crush the bruised
+reed (Isa. 42:3].... Let him strive to be
+loved rather than feared.
+
+Excitable, anxious, extreme, obstinate, jealous or oversuspicious he
+must not be... . Instead, he must show
+forethought and consideration in his
+orders, and whether the task he as-
+signs concerns God or the world, he
+should be discerning and moderate.
+Therefore. ..he must so arrange every-
+thing that the strong have something
+to yearn for and the weak nothing to
+run from.
+
+He must, above all, keep this Rule
+in every particular.’
+footnote:[The Rule of St. Benedict in English, ed.Timothy Fry, OSB (Collegeville, MN: Liturgical Press, 1981), 86-88.]
+----
+
+### Summer Timetable for the Benedictine Monks at Durham,
+
+The monk's daily life is organized around the
+‘opus Dei, or’work of God," ‘gathering for com-
+munal worship seven times a day based on
+Psalm 119:164, Seven times a day I praise
+you’ The services include Psalms, hymns, and
+readings from Scripture.
+
+- Midnight Matins: in the church (about one hour) Then back to bed.
+- 6AM Prime in the church (about 1/2 hour)
+- Breakfast
+- Work or reading
+- 9AM Chapter Mass in the church
+- 10 AM Chapter meeting in the chapter house
+- 11 AM High Mass in the church
+- noon Dinner : Then siesta
+- 2PM Nones in the church (about 1/2 hour)
+- Work
+- 4PM Vespers in the church (about 1/2 hour)
+- 6PM Supper an
+- 7PM Compline, the evening prayer,in the church (about 1/2 hour)
+Then to bed, later in summer than in winter
+
+In. winter, Matins was a few hours later, and
+other adjustments were made throughout the day.’
+
+footnote:[Anne Boyd, The Monks of Durham (Cambridge: Cambridge University Press, 1975), 16.]
+
+### Three Women Writers
+
+#### From Hildegard of Bingen’s vision of the Son of Man
+
+[Your Creator] loves you exceedingly, for
+you are His creature; and He gives you
+the best of treasures, a vivid intelligence.
+He commands you in the words of His
+Law to profit from your intellect in good
+works, and grow rich in virtue, that He,
+the Good Giver, may thereby be clearly
+
+known. Hence you must think every hour
+about how to make so great a gift as use-
+ful to others as to yourself by works of
+justice, so that it will reflect the splendor
+of sanctity from you, and people will be
+inspired by your good example to praise
+and honor God.’
+footnote:[Hildegard of Bingen, Scivias, trans. Mother Columba Hart and Jane Bishop (New York: Paulist Press, 1990), 479.]
+
+#### Hadewijch, from her poem“To Learn Mary’s Humility”
+
+The Father in the beginning
+Kept his Son, Love,
+Hidden in his bosom,
+
+Until Mary,
+
+With deep humility indeed,
+
+In a mysterious way disclosed
+
+him to us.
+
+Then the mountain flowed down into the deep valley,
+And that valley flowed aloft to the height of the palace.
+
+Then was the castle conquered
+
+Over which long combat had taken place?
+footnote:[Hadewljch, The Complete Works, trans. Mother Columba Hart, OSB (New York: Paulist Press, 1980), 209.]
+
+#### Catherine of Siena, from a letter to Pope Gregory XI urging him
+to return the papacy from Avignon to Rome
+
+Answer the summons of God! who is
+calling you to come, hold, and possess
+the place of the glorious shepherd St.
+Peter, whose vicar you are. Lift up the
+banner of the holy Cross. Come, that
+you may reform the Church with good
+shepherds, giving back to her the colour
+
+of most ardent charity that she has lost;
+for so much blood has been sucked from
+her by wicked devourers that she is pale.
+But take heart, and come, Father! Do not
+make the servants of God wait, who are
+afflicted in longing
+footnote:[Quoted in Evelyn Underhill, The Mystics of the Church (Cambridge: James Clarke, 1925; repr., Wilton, CT: Morehouse-Barlow, 1988), 158-59.]
+
+
+If virtually all cross-cultural proclamation of the gospel in the Middle
+Ages was done by monks and friars, so learning a virtually a monastic 
+ monopoly. Even in the time of Benedict, other monastic leaders had grasped
+ the importance of preserving the critical documents of the Christian past.
+
+
+Cassiodorus of Rome (circa 485—circa
+580) retired from public life in $40
+in order to found a monastery, the
+Vivarium, along Benedictine lines
+where secular as well as Christian
+writings could be saved. The Vi-
+varium became a widely imitated
+model. In the seventh century, a re-
+vival of Benedictine monasticism in
+England at Lindisfarne, and then
+Jarrow, on the eastern coast, lay be-
+hind the immense contribution to
+biblical, theological, and historical
+learning from the Venerable Bede,
+who wrote the first history of the
+English church. Thomas Aquinas,
+it is worth remembering, not only
+authored the most important theo-
+logical writings of the thirteenth
+century but also directed the criti-
+cally important exercise of reintro-
+ducing Aristotle back into Europe.
+This stylized depiction from Asia Minor (now Tur- The way Aquinas carried out that
+key) gathers together many of the activities for exercise—with care to discriminate
+wich the monks were renowned, those aspects of Aristotle illumi-
+nating Christian thinking from those needing to be rebutted or modified
+in order to preserve Christian realities—left an example that has guided
+Christian interaction with worldly wisdom to the present.
+
+Service in Christ’s name to the world, no less than concern for missions
+and learning, characterized monasticism. Benedict’s admonition to shelter the
+traveler and care for the sick blossomed into a wide variety of more general
+assistance. As one of many possible examples, in 1098 Robert of Molesme
+founded a monastery in Citeaux in eastern France on the basis of the purified
+Rule of Benedict. The Cistercians (or White Monks, because of their dress) that
+spread from Citeaux were notable for their strict internal discipline and also
+for locating new monasteries in wild, difficult locations. Cistercian efforts at
+surviving in such places eventually led to considerable skill at draining swamps,
+clearing forests, breeding cattle and sheep, and raising grains appropriate to
+their new locales. These skills, in turn, were eventually passed on to surround-
+ing communities, with beneficial results for all. Not much more than a century
+
+[page 95]
+
+after the founding of the Cistercians, St. Francis’s dedication to the poor, the
+sick, and the disabled propelled the Franciscan order into the forefront of
+humane service offered to the Europeans least able to help themselves.
+
+Finally, the cycles of monastic renewal, decay, and renewal again came
+more or less to define cycles of general revival and decline in the church. Most
+notably, a period of striking ecclesiastical degeneration in the ninth and tenth
+centuries was challenged, and then reversed, through a series of administrative
+and spiritual reforms associated with the founding of a monastery at Cluny in
+southern France in the year 909. Then, as the effects of this monastic renewal
+began to be felt over the next century and a half, even to the highest reaches
+of the Vatican, another set of monastic foundations sparked another surge of
+renewal. In the late eleventh century, just about the same time that Robert of
+Molesme established the monastery in Citeaux, Bruno of Cologne founded
+a monastery at La Grande Chartreuse only a short distance to the east, from
+which eventually came the Carthusian order. The Carthusians combined the
+eremetic (individual cells) and the cenobitic (common meals) in encouraging
+fresh devotion, contemplation, and ascetic practices. The extraordinarily
+important work of Bernard of Clairvaux in the twelfth century—as promoter of spirituality, author of hymns, defender of orthodoxy, and assistant
+to popes—flowed out of the spirit represented by the foundations at Citeaux
+and La Grande Chartreuse. Again, the emergence of the Dominicans and
+Franciscans in the thirteenth century sparked another cycle of renewal in the
+life, thought, and service of the church.
+
+This brief sketch of medieval monastic history should not be taken to mean
+that Christianity existed only within monastic circles, nor that monastic life
+always avoided decay and corruption. In fact, nonmonastic support, whether
+by donations from rich nobles or the willingness of poor families to send sons
+or daughters into the monastic life, played an important part in fueling the
+dynamism of monasticism. But when all necessary qualifications have been
+made, it remains true that the immense range, depth, and spiritual vigor of
+monasticism was the driving force of the Christian faith for a very long time
+indeed. In that sense, Benedict’s pivotal role in the history of monasticism is
+more than enough to qualify the promulgation of his Rule as one of the great
+turning points in the history of Christianity.
+
+ 
+
+### A Few Words of Evaluation
+
+Assessment of monasticism by a Protestant will naturally reflect more general
+Protestant principles. Thus, Protestant convictions about the centrality of justification by faith are bound to raise questions about whether monasticism
+encouraged harmful notions concerning the possibility of salvation by works.
+Clearly, moments of monastic renewal were inspired as thoroughly by trust in
+divine grace and dedication to God’s unique holiness as any moments in the
+later history of Protestantism. But whether in ordinary monastic times the stress
+on what the monks had vowed to do did not obscure the foundational reality of
+God’s grace is a question that any Christian might legitimately raise. To be sure,
+a Protestant cannot raise such a question with an entirely clear conscience, since
+the history of Protestantism reveals a bent toward legalism, in which various
+things that Protestants are or are not supposed to do or believe have become
+as much substitutes for the gospel of grace as any wayward monasticism. But
+questions regarding the centrality of grace are questions that monasticism
+will always hear especially from the Protestant family of Western Christians.
+
+The most serious theological questions about monasticism are not, however,
+restricted to a Protestant provenance. They concern, rather, basic realities
+fundamental to all sorts of Christians. First, does ascetic privation of the
+body affect the true seat of sinfulness? Granting the Christian mandate to do
+all things “in a fitting and orderly way” (1 Cor. 14:40) and the reality of the
+bond between flesh and spirit underscored by the incarnation, it is possible to
+suggest that the bent of the heart, rather than the mere disposal of the body,
+is the key matter in godliness.
+
+If so, a second question surfaces. Does the incarnation of Christ, with
+the full humanity affirmed by Chalcedon, justify withdrawal from the world
+in the way that monks practiced this withdrawal? The argument that it does
+not grows out of the New Testament observations that, unlike the disciples
+of John, Jesus’s disciples came mingling with sinners as well as eating and
+drinking. It remains one of the most striking passages of the Gospels to read
+in John 2:11 that Jesus revealed “his glory” through his first miracle, at Cana
+of Galilee, by turning water into wine and thereby enabling a wedding feast
+to go on. If the Son of God did such a thing to promote joyful celebration
+with the body (though, of course, within limits of moderation) and joyful
+celebration of marriage (though, of course, it is not recorded that Jesus ever
+married), we have at least a hint that celibate, ascetic life is not intrinsically
+mote godly than wedded, celebratory life.
+
+A historian, however, even a Protestant historian of Reformed leanings
+who thinks that life in ordinary society and married sexuality are gifts of God
+to be highly prized, will raise questions about the theological justification of
+monasticism only with diffidence. What a historian will see in looking back is
+that, almost by themselves, monks for more than a thousand years sustained
+what was most noble and most Christ-centered in the church. A historian must
+
+[page 97]
+
+also recognize that the holiness of monastic life—though never perfect, always
+in need of reform, and occasionally sunk in corruption—remains today, more
+than seventeen hundred years after Antony went into the desert, a guide and
+inspiration to large sections of the Christian church. That recognition will
+temper, though not eliminate entirely, theological questions about the implications of the incarnation and ideals of the Christian life. That recognition,
+whatever lingering qualms it may carry for a Protestant, is enough to certify
+the emergence of the monasticism represented by Benedict’s Rule as not only
+acritical turning point in the history of Christianity but even, by God’s grace,
+the very rescue of the church itself.
+
+Although Benedict was recognized and revered early on as a major spiritual figure in the
+church, it was his Rule, and not his personal life, that was paramount. Gregory the Great
+wrote of Benedict that “if anyone would like to get the true picture of this man of God let
+him go to the Rule he has written, for the holy man could not have taught anything but
+what he had first lived.” The following twentieth-century collect (or short, concise prayer)
+expresses Benedict’s enduring influence on many, both lay and monastic, who look to the
+Rule as a guide to the disciplined Christian life.
+
+[quote]
+-----
+> Almighty God,
+by whose grace St. Benedict,
+kindled with the fire of your love,
+became a burning and a shining light in the church:
+inflame us with the same spirit
+of discipline and love,
+that we may walk before you
+as children of light;
+through Jesus Christ our Lord.
+-----

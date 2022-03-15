@@ -1,0 +1,411 @@
+---
+title: Martin Luther and the start of the Reformation
+author: "Paul Roberts, with additions"
+# https://publicdomainvectors.org/en/free-clipart/Martin-Luther/53076.html
+featured_image: /images/martinluther.svg
+summary: Martin Luther and the start of the Reformation. Handout from Paul Roberts as part of his 'Introduction to Church History' at Trinity College, Bristol, Easter Term, 2022
+description: ""
+date: 2022-03-08T14:51:32Z
+categories: 
+ - Introduction to church history
+tags:
+ - Thomas Aquinas
+ - Humanism
+ - Jan Hus
+ - Luther
+ - Nominalism
+ - Trinity College, Bristol and Bristol Baptist College
+ - John Wycliffe
+ - Zwingli
+draft: !true
+---
+
+## Background factors to the Reformation
+
+1. Purgatory, Merit and Indulgences
+2. Humanism- _ad fontes_
+3. The Late-medieval Mass
+4. Early attempts at reform: Wycliffe-England (c. 1325-1384) and the Lollards; Jan Hus Prague (c. 1369-1415). Both condemned by the Council of Constance (1415) and Hus was burned. Main focus was return to scripture (in the vernacular) and-in the case of Hus against the mass.
+5. The invention of printing
+
+## Sin after baptism
+
+https://www.bible.com/en-GB/bible/2016/HEB.6.NRSV[Heb 6:4] 'not hopeful'
+
+Confession to the priest could be absolved as a penitent. But what of the sins we don't bring to a priest or even notice.
+
+Medieval doctrinal development arrived at the idea that these sins would hang around and need dealing with at death. We'd eventually get there' (to heaven) because God had predestined us. Would take Him some time.
+
+Mortification of the flesh might help and save time in purgatory.
+
+The idea came about that this period of fixing in purgatory could run to thousands of years.
+
+Purgatory gets readily confused with Hell so considerable anxiety about it both for self and for loved ones who have died.
+
+Prayer during communion considered particularly effective so paying people to say such prayers could shorten time in purgatory.
+
+Saints might go to heaven with good life and good works exceeding the deficits of their mild sins so could transfer some of their merit. Hence praying to the saints for that transfer.
+
+The church had built up a lot of credit over time so could transfer some of this to people as an 'indulgence' which they started to sell. 
+
+This all toook several hundreds of years to become established but grew to dominate.
+
+## The humanists
+
+A flourishing of human thought and reasoning led to a new scepticism of the tradition taht had been widely thoiught a good thing.
+
+A great cry went up for 'Ad fontes' (to the origin) the earliest documents and the original languages (not St Jerome's Latin Vulgate).
+
+## Developments in the mass
+
+The transformation of bread and wine to actual body and blood is a very ancient belief thoguh no one quite understood how it happened.
+
+The once and for all sacrifice in Hebrews was lost or down-lpayed because fairly widespread scepticism about the appropriateness of Hebrew's place in the canon.
+
+## Bringing it all together
+
+These diverse parts came together with the idea of 'chantries' and stipended priests who would say prayers for the reduction of time in purgatory for the rich person paying for it.
+
+## Aquinas
+
+Rediscovery of Aristotle brought the idea of substance (abstract of its phyisical qualities). So a loaf of bread has the substance of bread and also the accidents of bread (weight, colour, smell etc).
+
+Doctrine of trans-substantiation allows that the priest's prayer causes a miracle that changes the substance but not the 'accidents' of the bread.
+
+Aquinas was using this as a teaching aid (akin to a scientific theory) but it became codified as the only way this could happen and believing it necessary to be orthodox. 
+
+## Early attempts at reformation 
+
+Jan Hus, Prague: Called for a return to simpler theology without the need of priests.
+Wycliffe similar
+
+## Martin Luther
+
+### Background
+
+Born 1483, Eisleben in Saxony (Germany). Studied at Erfut University (philosophy and theology).
+Became an Augustinian Monk in Erfut after graduation in 1505. Luther was over-zealous, anxious, even neurotic as a monk,
+and already seemed to be morbidly worried about his sins. He was ordained priest in 1507. Got his
+doctorate in theology in 1512. He was appointed to teach theology at the University of Wittenburg
+(also in Saxony, Germany).
+
+Nominalism: this branch of theology differed from traditional philosophy because it denied the
+existence of universals. Graham Tomlin gives the example of ‘human nature’: we might abstract
+from our experience of people the concept of ‘human nature’ but that, in itself, doesn’t prove it
+exists outside our minds. This was in stark contrast to traditional philosophy, which believed the
+physical world expressed real universals in particular forms. This lead to a breach with the past,
+land Nominalism stepped out in new directions of thought, and was sceptical of the ‘appeal to
+antiquity’ as a claim to authority and truth. This prepared the ground for a later, wholescale
+rejection of any claim to tradition on its own.
+
+Luther’s theological influences were gained from his studies in philosophy and theology: 
+
+- Aristotle (after Thomas Aquinas),
+- William of Ockham (c. 1287-1347, British, pioneer thinker of Nominalism) and
+- Gabriel Biel (Nominalist. c.1422-1495).
+
+It was Biel’s interpretation of Ockham
+which was highly influential on, and caused problems for, the young Luther.
+
+### Nominalism and Luther’s problem with sin
+
+The medieval church believed (with Augustine) that grace was definitely needed for human beings
+to be saved-ie. they rejected full-on Pelagianism. 
+#However, the Church’s teaching was vague on
+what part, if any, human action played in the process of salvation.#
+A key debating point was the
+doctrine of *justification*: the way God regards us righteous in his sight even though we have all
+sinned. Some nominalists believed that we are truly helpless when it comes to being accepted by
+God, and we need divine intervention if we are truly going to be saved (still aligned with Augustine). However some, including
+William of Ockham and especially Gabriel Biel, believed that there was something we can do in
+order to ‘kick start’ the process of our own salvation: A meritorious act, such as genuine
+penitence, or love for God, would generate a response by God (these ‘good works’ are called
+‘works of supererogation’ in the terms of the day
+
+NOTE: _works of supererogation_ are mentioned in https://anglicancommunion.org/media/109014/Thirty-Nine-Articles-of-Religion.pdf[The 39 Articles].
+
+God would issue the all-important grace, which would do the divine work needed to make a sinner
+genuinely acceptable to God. It’s not these ‘kick-starting’ works in themselves that earn salvation,
+but they do serve to indicate, for Biel and others, a sense of ‘would be deserving of salvation if
+accompanied by grace’ in God’s sight.
+
+But for an earnest young monk, such as Luther, this theology added to his agony over his sins. He
+did not see in himself sufficient worth to warrant God’s responsive grace, despite how hard he
+prayed, how vigorously he fasted, and how passionately he repented of his sins. Somehow, the
+sinful nature would always wipe out any sense of his own worth. This resulted in a deep emotional
+and spiritual depression in Luther, which he described (in German) as _anfechtungen_ -a sense of
+being under spiritual pressure and attack on his person. (In truth, it was also probably because he
+was over-working at the time and this meant it was hard for him to keep his monastic vows of
+prayer 7-times per day: instead, he would take Saturday off and say all the offices for the previous
+week).
+
+In 1517, after a period of time working for the Augustinian order, Luther returned to lecture at
+Wittenburg, this time on the Bible. Luther first lectured on the Psalms, then turned his attention to
+the Letter to the Romans, covering it in lectures every Friday and Monday evening, from Spring
+1515 to Autumn 1516. Luther, much later, described the impact of his study of Romans as follows:
+
+[quote,Luther]
+----
+I had certainly been seized with a wondrous eagerness to understand Paul in the
+epistle to the Romans, but hitherto I had been held up—not by a ‘lack of heat in my
+heart’s blood’, but by one word only, in chapter 1: ‘The righteousness of God is
+revealed.’ For I hated this word ‘righteousness of God’, which by the customary use of
+all the doctors I had been taught to understand philosophically as what they call the
+formal or active righteousness whereby God is just and punishes unjust sinners.
+
+For my case was this: however irreproachable my life as a monk, I felt myself in the
+presence of God to be a sinner with a most unquiet conscience, nor could I believe him
+to be appeased by the satisfaction I could offer. I did not love—nay, I hated this just
+God who punishes sinners, and if not with silent blasphemy, at least with huge
+murmuring. I was indignant against God, as if it were really not enough that miserable
+sinners, eternally ruined by original sin, should be crushed with every kind of calamity
+through the law of the Ten Commandments, but that God through the Gospel must
+add sorrow to sorrow, and even through the Gospel bring his righteousness and wrath
+to bear on us. And so I raged with a savage and confounded conscience; yet I knocked
+importunely at Paul in this place, with a parched and burning desire to know what he
+could mean.
+
+At last, as I meditated day and night, God showed mercy and I turned my attention to
+the connection of the words, namely—‘The righteousness of God is revealed, as it is
+written: the righteous shall live by faith’—and there I began to understand that the
+righteousness of God is the righteousness in which a just man lives by the gift of God,
+in other words by faith, and that what Paul means is this: the righteousness of God,
+revealed in the Gospel, is passive, in other words that by which the merciful God
+justifies us through faith, as it is written, ‘The righteous shall live by faith.’ At this I felt
+myself straightway born afresh and to have entered through the open gates into
+paradise itself. There and then the whole face of scripture was changed; I ran through
+the scriptures as memory served, and collected the same analogy in other words, for
+example ‘the work of God’, that which God works in us; ‘the strength of God’, that by
+which God makes us strong; _sapientia Dei_, that by which He makes us wise; _fortitudo Dei_, _salus Dei_, _gloria Dei_.
+
+And now, in the same degree as I had formerly hated the word ‘righteousness of God’,
+even so did I begin to love and extol it as the sweetest word of all. Thus was this place
+in St. Paul to me the very gate of paradise. Later I read Augustine on the Spirit and the
+Letter, where beyond all hope I found that he also interprets the righteousness of God
+in the same way, as that in which God clothes us when he justifies us. And although
+Augustine's statement of this is still open to criticism, and he is neither clear nor
+comprehensive in the matter of *imputation*, yet he is satisfied that the righteousness of
+God should be taught to be that by which we are justified.
+----
+
+This was the key to unlocking Luther’s faith and set him out on an entirely new theological journey.
+
+Luther turned against his philosophical teachers, such as Biel and Aquinas, as they had failed to
+teach him this core truth. He began to see scripture itself as a surer guide to salvation than the
+‘doctors of the Church’. In this, Luther was not really rebelling against his nominalist inheritance:
+he was just taking it further, with help from the fresh breeze blowing from the humanism of his
+day.
+
+Luther began to take up cudgels against the whole scholastic basis. He did this by composing
+(together with one of his doctoral students) 97 Theses (not to be confused with the more famous
+95 Theses-see later). In these, he argued that the Bible, rather than tradition, was a surer guide
+to Christian truth.
+
+### The Protest against Indulgences
+
+What is an indulgence? Its roots are in the sacrament of penitence (confession): the penitent could
+have his/her guilt removed by the absolution said by the priest. However, it was also common for
+the priest to ask for an act of penance by way of a corrective punishment. An ‘indulgence’ was
+originally a certificate, remitting the severity of the punishment deemed appropriate to a penitent
+sinner. (eg. Say 2 Hail Marys, rather than 20,000 Hail Marys). The medieval church essentially
+believed that grace remitted guilt but not the need for compensatory punishment. When a person
+died, the doctrine of Purgatory was essentially about going through the punishment warranted by
+our acts of sinning, despite being saved by the grace of baptism and absolution. It was believed
+that the Church’s saints had built up enough ‘merit’ (goodness going beyond the call of basic
+obedience to Christ) that this ‘surplus of righteousness’ could be exchanged through indulgences
+to those whose lives were in a ‘deficit of righteousness’. This could be granted by the Pope and,
+with his authority, by senior clergy.
+
+Given his reading of Romans, it would be unsurprising if Luther hadn’t openly rejected the
+theology of indulgences publicly at some point. However, what generated the clash was the sale of
+indulgences. The Archbishop of Mainz had fallen into debt, due to his purchase of many benefices
+(from which he would get the tithes due to the Church). In order to repay them, he arranged with
+the Pope that a new indulgence could be sold and the proceeds split 50:50 between himself and
+the fund to rebuild St Peter’s Church in Rome. The successful Dominican indulgence preacher,
+Johann Tetzel, was an effective seller of these indulgences after open-air preaching to uneducated
+laity. A famous jingle of his went, ‘as soon as the coin in the coffer rings: a soul from purgatory
+springs’. When Luther got to hear of this happening in his area, he decided to protest. He nailed
+up Ninety-Five Theses, against the selling of indulgences, on the door of Wittenburg parish church
+on 31 October, 1517. This started a series of events which became a cause celebre and started the
+Reformation ball rolling. Luther sent the theses to the Archibishop of Mainz, believing initially that
+the Archbishop was unaware of what Tetzel was doing.
+
+### Reactions to Luther’s Protest
+
+Luther’s protest was taken up by his supporters and friends: the Theses were translated from
+German, printed and circulated way beyond Germany, into Europe. In early 1518, there are signs
+that Luther’s protest was worrying the pope (Leo X) as the sale of indulgences was part of his
+rebuilding strategy. Tetzel called for Luther to be tried for heresy. The pope lent on the
+Augustinians (Luther’s order) to dissuade him from clashing on the issue. The pope even wrote a
+bull, warning Luther (called _Exsurge domini_&mdash;Papal Bulls are named after their opening, Latin,
+words). Thereafter, Luther abandoned any hope or expectation of papal reform, and increasingly
+set his face against Rome.
+
+Eventually, Johann Eck, a theologian from the University of Ingolstadt (Bavaria) wrote against
+Luther (who had regarded him as a friend) accusing him of heresy and stupidity. A public
+disputation was held in Leipzig in 1519. The supporters of both argued that their side had ‘won’
+but the viciousness of Eck’s attack stung Luther personally.
+
+Luther had originally hoped for a council of the whole Church to determine the issue of
+indulgences, but further study indicated that the two men who had been condemned at the
+Council of Constance, Wycliffe and Hus, held views which he had increasing sympathy with. Luther
+therefore abandoned any hope that the papacy, or general council, would be of any help over the
+matter. Only scripture seemed a sure foundation of authority. This position, along with
+‘justification by faith alone’ (as Luther had espoused from his studies in Romans as mentioned
+above) became a hallmark of the reformation: it is the principle of _sola scriptura_&mdash;‘scripture alone’,
+as distinct from other authority sources, pope, tradition and councils.
+
+Luther was officially excommunicated for his views in 1521, but by then his position had hardened
+and he publicly burned the bull (called _Decet romanum pontificem_) of excommunication in
+Wittenburg.
+
+Having been officially excommunicated for heresy, Luther’s position began to get perilous. It was
+the duty of Christian rulers to root out heresy in their domains. Wittenburg was in the domain of
+the Elector of Saxony (Frederick III) was minded to protect Luther as much as he could. However,
+the Holy Roman Emperor (whose territory bounded Saxony) summoned Luther to an imperial diet
+in the town of Worms (in the Rhineland). The Elector of Saxony had imperial assurance of safe
+conduct for Luther, who attended, but his position was one of great danger. The emperor placed
+several of Luther’s writings before him to ask if they were his and whether he still agreed with the
+contents. He agreed that they were his but asked for time to consider his position. He gave his
+response the following day, saying: 
+
+[quote, Luther]
+----
+‘Unless I am convinced by the testimony of the Scriptures or by
+clear reason (for I do not trust either in the pope or in councils alone, since it is well known that
+they have often erred and contradicted themselves), I am bound by the Scriptures I have quoted
+and my conscience is captive to the Word of God. I cannot and will not recant anything, since it is
+neither safe nor right to go against conscience. May God help me. Amen.’
+----
+
+The Diet condemned
+Luther as an outlaw, making it illegal to assist him and legal for anyone to kill him.
+
+Luther was allowed to leave Worms, but Frederick had anticipated Luther’s condemnation, and
+had him ‘kidnapped’ by his own men and holed-up in Wartburg Castle. Luther was isolated and
+even his friends did not know where he was (although they knew he was safe as he corresponded
+with them). During his period there, ten months, Luther was free to write and work and it was a
+fruitful time for him. He began to translate the Greek New Testament into vernacular German: it
+was a form of German which could have been understood by anyone, not just the educated. He
+also broadened his attack on the Roman church: he condemned the doctrine of the sacrifice of the
+mass, purgatory, the compulsory practice of confession to priests, and the sacredness of monastic
+vows.
+
+In the meantime, things in Wittenberg had moved apace. Luther’s friend Andreas Karlstadt had
+embarked on radical reform in the area, smashing images in churches. Luther was horrified. Things
+got even worse when a band of ‘prophets’ (the Zwickau prophets) preached adult baptism, the
+equality of all people and the imminent return of Christ. There was growing disorder. Luther
+decided to return from exile.
+
+### Luther and radical reformers
+
+Karlstadt had originally been one of Luther’s friends and supporters, but things progressively
+cooled between them. On his return, Luther addressed the subject of peace and obedience
+(Romans 13) to the magistrates and things at Wittenberg calmed down. Not so elsewhere:
+
+Thomas Muntzer, one of Luther’s followers, led an organised uprising-part of the Peasants Revolt.
+As he heard more of the peasants uprisings, Luther’s position hardened and he eventually sided
+with armed repression. The views of radical preachers tended to move away from _sola scriptura_
+towards an emphasis on charismatic endowments of prophets and visionaries. It was amongst
+these groups that the roots of anabaptists (those who reject the baptism of infants) emerged, but
+there is a clear distinction between violent and the later peaceful anabaptists.
+
+Luther consistently supported infant baptism and tended to lump together early anabaptists (the
+name itself means ‘second-baptisers’ and radical leaders of the peasants revolt). He was not alone
+in this: the majority of reformers retained infant baptism, despite holding to the doctrine of
+justification by faith.
+
+### Division in reform: the clash with Zwingli
+
+The cause of reform spread rapidly beyond Germany. Whether the church itself was reformed
+depended on the local rulers: anywhere inside the Holy Roman Empire (a lot of south Germany)
+was off-limits as Charles V&mdash;the Holy Roman Emporer&mdash;was the main supporter of Catholicism and relied on the Pope to
+maintain his claim to the title.
+
+Things were different in Switzerland, the reform proceeded by canton (area of administration and
+independent city-states). The leader of reform was Ulrich Zwingli-who had arrived at reform from
+the influence of humanism. A disciple of Erasmus, Zwingli had gradually reformed the Church
+according to his reading of the New Testament. Like Luther, he had ceased to regard the
+communion as a sacrifice. However, he went further than Luther in his understanding of the
+symbolic signs which made up the core New Testament sacraments of the Church. For him,
+sacramental symbols served as triggers for a mental process of reminding us of Biblical truth. So
+baptism signified, but did not effect, rebirth and washing away of sins-this parted company with a
+view of sacraments which goes back to the earliest patristic days. The Church was united, until this
+point, in believing sacraments effected the things they symbolised. Likewise, and especially, the
+bread and wine of communion were not ‘the body and blood of Christ’ but symbolised Christ’s
+offering of his body and blood on the cross.
+
+Luther was horrified when he learned of Zwingli’s sacramental teaching and went into print against
+Zwingli in a work entitled _'The Sacrament of the Body and Blood of Christ: against the fanatics'_. He
+rounded on Zwingi’s view by reaffirming that the bread and wine of communion truly were the
+body and blood of Christ, but not through the doctrine of Transubstantiation (which Luther
+rejected as founded on philosophical speculation rather than the Word of God) but because the
+gospels themselves taught this. In answer to the common question of how Christ could be
+localised in the bread when he is also in heaven, Luther argued for the ubiquity of Christ’s presence
+being possible through miraculous working.
+
+Zwingli was unbowed and responded to Luther with _'Friendly Rejoinder and Rebuttal to the Sermon of the Eminent Martin Luther against the Fanatics'_.
+
+Zwingli was not alone in being uneasy with Luther’s belief in the real presence of Christ. Other
+reformers, such as Oecolampadius and Martin Bucer also felt the presence of Christ must be, at
+the most, spiritual rather than ‘real’ and that a distinction had to be made between the sign and
+the thing it signifies, even if they didn’t express themselves in the strongly denying way that
+Zwingli did.
+
+The division over the Lord’s Supper was politically unfortunate, as the different pockets of
+Reformation Christianity were facing the political and military might of the Holy Roman Empire. It
+was important that they should not divide over doctrine when there was the chance they might
+have to fight together to defend those things they held in common.
+
+Philip of Hesse, one of the reformation rulers, decided to get the various sides talking at the
+Colloquy of Marburg over four days in October 1529. There is a story that Luther commenced the
+colloquy by writing on the table in chalk _hoc est enim corpus meum_ (‘for this is my body’) which
+was, as he saw it, the core point in scripture from which Zwingli and others had departed. Luther
+wouldn’t budge and nor would the other side so the meeting bore no fruit. Sensing defeat, Philip
+of Hesse asked Luther to draft a series of articles which all could agree on-Luther drafted 15
+articles. All agreed on 14 of these, but the non-Lutheran side did not agree with Article 15, which
+reads:
+
+[quote]
+----
+Fifteenth, regarding the Last Supper of our dear Lord Jesus Christ, we believe and hold
+that one should practise the use of both species as Christ himself did, and that the
+sacrament at the altar is a sacrament of the true body and blood of Jesus Christ and
+the spiritual enjoyment of this true body and blood is proper and necessary for every
+Christian. Furthermore, that the practice of the sacrament is given and ordered by God
+the Almighty like the Word, so that our weak conscience might be moved to faith
+through the Holy Spirit. And although we have not been able to agree at this time,
+whether the true body and blood of Christ are corporally present in the bread and wine
+[of communion], each party should display towards the other Christian love, as far as
+each respective conscience allows, and both should persistently ask God the Almighty
+for guidance so that through his Spirit he might bring us to a proper understanding.
+----
+
+This remained the core doctrine separating the reformers and essentially marks the key difference
+between Lutherans and other, ‘Reformed’ churches.
+
+### Luther’s personality
+
+Luther was a very big personality:
+
+* Marriage to Katherine
+  - a good marriage
+  - an ex-nun
+  - intelligent and edcated in her own right
+  - knew when to stand up to him
+* Intemperate language
+  - as his influence grew, people indulged him
+* Proneness to depression/anfechtung
+* Bowel complaints
+* Humour
+* Charisma
+  - a necessary first-leader to get the Reformation started
+* The role of Philip Melanchthon
+  - a 'calmer head' who took over the Lutheran church on Luther's death
+  - retained relationships with other reformers
+
+## Going on
+
+* https://anglicancommunion.org/media/109014/Thirty-Nine-Articles-of-Religion.pdf[39 Articles]
+  - blended Lutheran, Zwingli and other reformed positions to construct 'the broad church' 
+* Book of common prayer has an inset on what sacrements are. 
