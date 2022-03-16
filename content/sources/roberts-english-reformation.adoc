@@ -1,0 +1,286 @@
+---
+title: The English Reformation
+author: "Paul Roberts, with additions"
+featured_image: /images/
+summary: 
+description: ""
+date: 2022-03-15T19:22:32Z
+categories: 
+ - Introduction to church history
+tags:
+ - Trinity College, Bristol and Bristol Baptist College
+draft: !true
+---
+
+## Precursors:
+
+* Wycliffe and the Lollards (see last week)
+* Humanism’s influence on scholarship: not just reformers
+  – eg. Thomas More (1478-1532)
+
+## The beginning of reform
+
+Henry VIII (1491–1547), King of England from 1509–1547.
+
+Married Katherine of Aragon (daughter of King Ferdinand and Queen Isabella) in
+1509. K had been married to Henry’s older brother, Arthur, who had died in
+1502.
+
+Henry wasn’t a natural ‘reformer’ – tended to be very conservative about belief
+and practice: wrote _Assertio Septem Sacramentorum_ (asserting there are seven sacraments) against Luther in 1521.
+Pope bestowed on him the title Defender of the Faith (_Fides Defensor_) in
+thanks.
+
+Katherine failed to produce a male heir: her only surviving child was the
+princess Mary (1515 – 1558). Henry fell for Anne Boleyn around 1525.
+
+Henry blamed his lack of an heir on God’s wrath (see Lev 20:21). Petitioned for
+an annullment from the pope on the grounds that the marriage was invalid as
+contrary to God’s law. Pope couldn’t grant one, as he was imprisoned (in Rome) by forces
+of Charles V – Holy Roman Emperor – the nephew of Katherine. In addition, a papal dispensation had been granted for the marriage. 
+
+All the main churchmen of England tried to assist in getting the annullment,
+including Cardinal Wolsey (Papal Legate). They failed, which led to Wolsey’s
+‘fall’ in 1529 – he was originally a commoner and had lots of enemies at the court. After period of imprisonment and increasing privation, sickened and died on way to trial in York.
+
+In his place, Thomas More became Chancellor. The following year (1530)
+Thomas Cromwell, a lawyer and Wolsey’s secretary, was appointed to the Privy
+Council and became the King’s chief adviser. Canon law, controlled by the Pope, was far more significant source of law than today.
+
+In 1530, Thomas Cranmer (1489–1556) who was then a lecturer at
+Cambridge, sent to seek opinion of the leaders of the reform (inc. ..., Zwingli), who were more
+obliging in providing a theological justification for annullment, but the existing
+clergy were obedient to Rome (as was Henry). Cranmer given job as
+ambassador to the Imperial Court of Charles V. During this time, he had further
+contact with reformers and married neice of Osiander (reformer in Nuremburg),
+thus breaking his clerical vow of celibacy. Sign he was, by then, clearly on the
+side of the reformation.
+
+The old archbishop of Canterbury, Warham, died in 1532, and Cranmer
+appointed Archbishop of Canterbury.
+Henry marries Anne (believing that his marriage to Katherine was null and
+void). Cromwell passes a judgement in parliament that the marriage to
+Katherine was invalid. Cranmer blesses the marriage in May 1533.Thomas More resigned the previous year, leaving the power behind the throne
+to Protestants.
+
+Pope Clement threatens Henry with excommunication in July unless new marriage revoked.
+
+- Restraint of Appeals Act 1533 passed:
+anyone who disseminates pope’s legislation guilty of _Praemunire_ (medieval law to clip the wings of the clergy if asserting primacy of pope over King).
+- Act of Supremacy (November 1534) broke the link with Rome: the King was ‘Head of
+the Church of England’ - the Pope’s jurisdiction was no longer legal. The
+‘Church of England’ was distinct from the ‘Church of Rome’.
+
+From this point on legal authority changed but there was only one church-the catholic church-it was just that the King was in charge of it not the Pope.
+
+## Dissolution of Monasteries
+
+Monasticism had fallen into disrepute in late-medieval England. Until Act of
+Supremacy, only the Pope and bishops could dissolve monasteries. This did
+happen on occasions (eg. under Cardinal Wolsey).
+Cromwell’s inventory of monastic possessions (1534). The visitation by
+Cranmer’s commissioners: exposed bogus use of relics to con pilgrims; sexual
+immorality. Probably some truth in these but also likely threats from the commissioners to extract confessions. 
+
+Suppression of Religious Houses Act in 1535 marked the first stage of
+dissolution, mainly of minor monastic houses. Importantly, all property of
+closed religious houses would revert to the Crown (ie. the King). Voluntary
+closure led to pensions for abbots and monks.
+
+1538, further legislation, enforcing closure on larger monasteries, on pain of treason, e.g. at Glastonbury Abbey.
+
+Although the monasteries’ property was initially owned by the Crown, Henry
+subsequently sold it off to local gentry to fund his lavish expenditure and the
+cost of wars he pursued.
+
+## The Halting Progress of Reform
+
+- 1536 – The Ten Articles issued by convocation
+- 1537 – the Bishops’ Book
+
+Both generally Lutheran: justification by faith, limited sacraments.
+
+- 1540 – The ‘Fall’ of Cromwell: executed for treason (again, a commoner with a lot of power, hence enemies).
+- 1540 – Return of Bishop Stephen Gardiner of Winchester (against reform) –
+intellectual force.
+- 1541 – Publication of The Great Bible (first official Bible in English) to be placed
+in all churches. (Henry had persecuted William Tyndale for translating the Bible
+just a few years before). But services still in Latin. 
+- 1543 – The Kings Book (more catholic, less protestant) and The Six Articles
+(again, reinforcing Catholic doctrine).
+- 1543 - Cramner survives plot.
+
+So a more [English] Catholic recovery.
+
+- 1546 – plot against Katherine Parr (Henry’s 6^th^ wife) stopped by the king
+himself; Parr was a protestant, so the pendulum swung back to favour reform in
+the latter years of the reign.
+
+## Edward VI
+
+Edward became king in 1547, at the age of 9. Edward Seymour became Lord
+Protector. Protestant reform marches forward throughout the reign.
+
+* 1547 – Injunctions removing images and rood screens, destroying shrines and
+stained glass. Processions for holy days banned.
+* 1549 – The Act of Uniformity: new prayer book in English, offending Catholic
+doctrine (purgatory, mass as sacrifice) removed. Called ‘The Book of
+Common Prayer’ to replace local (Latin) variations. Attacked from both sides:
+  - critique by Martin Bucer (reformer) and 
+  - affirmation by Stephen Gardiner (catholic) 
+  so made further reform inevitable.
+* In 1552, a further Act of Uniformity – with second BCP: reforms the Communion
+to remove any doctrine of the mass as a sacrifice and also any sense that the
+bread and wine of communion were the body and blood of Christ.
+
+## Mary I
+
+- 1553 – Death of Edward VI; accession of Mary I. Recinding of Act of Supremacy
+and all other reforming legislation. Church of England back under control of the
+Pope, masses again in Latin. Imprisonment and execution of Cranmer, Ridley
+and other protestant bishops not least for supporting Lady Jane Grey over Henry's will for succession. Exile for others in Strasbourg, Frankfurt and
+Geneva.
+
+Mary reinstated old catholic heresy laws and a total of 283 protestants were
+burned for heresy during her reign. (Hence her title ‘Bloody Mary’).
+Mary married Philip II of Spain, but – despite a false pregnancy – no heir was
+born. Mary herself died in 1558.
+
+- Impractical to restore monasteries as already in disrepair and new owners would not have stood it.
+- Cardial Pole (pronounced Pool) replaced Cramner as ABC and first cardinal since Wolsey.
+
+## Elizabeth I
+
+* 1558 - Act of Supremacy was passed, shortly after Elizabeth’s coronation.
+Although broadly the same as Henry’s, Elizabeth was described in the new act
+as the ‘supreme governor’ rather than ‘head’ of the Church of England, since
+only Christ can be the ‘head’ of the Church. This remains the title of the
+monarch to the present day. 
+  - All bar one of the bishops refused to accept it, so lost their seats.
+  - Since patristic times, need 3 bishops to consecrate a new bishop in order to preserve broad representation.
+
+Elizabeth appointed Matthew Parker as the new Archbishop of Canterbury, the
+question of Apostolic Succession raised its head. Parker ordained bishop by four
+bishops: two of these had been ordained using the 1551 Ordinal, two by
+bishops who had been ordained using the old Latin ordinal. Although these
+bishops had all be ordained after England broke with Rome, they had all been
+ordained by bishops who had been ordained when England was still in
+communion with Rome. 
+
+To this date this remains the basis for the validity of Anglican episcopate, though not seen that way by Catholics.
+
+* 1558, Act of Uniformity: reinstated the 1552 BCP but with some changes.
+  - The words of distribution were a combination of the words from 1549 and 1552,
+making up the words which now form part of the 1662 BCP: 
+
+> the body of our
+Lord Jesus Christ which was given for thee, preserve thy body and soul unto
+everlasting life; take and eat this in remembrance that Christ died for thee, and
+feed on him in thy heart by faith with thanksgiving. 
+
+Removal of the ‘Black
+Rubric’ (from 1552, which denied the presence of Christ in the bread and wine
+of communion) was omitted.
+
+* Elizabeth was a conservative reformer 'thus far and no further'
+  - Growing reformers’ frustration: led, over time, to them
+becoming a distinct ‘party’ within the Church: the Puritans.
+  - Others felt England
+had got the balance just right. 
+  - Exiles had been in exposed to, amongst others, Genevan Protestantism, which they saw as a complete and fully reformed model for the church. 
+  - Led to work of Richard Hooker. (1554–1600) defending the Elizabethan church against Rome and against Puritans.
+
+* Philip of Spain sought and received permit from Pope to challenge Britain and launched underground priests on England
+* 1584 - Jesuits etc Act: illegal to be active Catholic priest in England
+* Slow but growing persecution of catholics and the Spanish war.
+
+## The Early Stuart Kings
+
+The Elizabethan ‘Settlement’ – the Continental Reformation was largely
+complete by the end of her long reign. For reformed Anglicans – the
+reformation of the Church was incomplete. For others, it was just about enough.
+James VI of Scotland (James Stewart) accedes to the English throne as James I.
+
+* 1562 - John Knox Book of commmon order(?)
+
+Though Scotland was Calvinist reformed in his reign, James had a Catholic mother and was at heart an autocrate, preferring the control provided by bishops (as opposed to presbyters). Hence he preferred the English Church settlement.
+
+The Millenary Petition (Puritan complaints):
+
+* Signing of the cross in baptism
+* Confirmation by bishop (not biblical)
+* Baptism by lay people (especially women, for example by midwifes if baby appeared sick)
+* The use of a ring in marriage
+* Bowing at the name of Jesus
+* The requirement of a minister to wear a surplice at worship
+* Pluralities of benefices (drawing multiple sources of tithe-income)
+
+This led to the Hampton Court Conference. No change, but commissioning of a
+new translation of the Bible, the KJV/Authorised Version.
+
+* 1604 - New code of Canon Law: further changes of practice in a slightly more
+‘catholic’ direction: eg. consumption of consecrated remains of the bread and
+wine of communion.
+* Throughout James reign and more so under his son Charles, direction of travel was towards Catholocism
+  - fencing in of altar (rood screen?)
+  - return of altar from mid-choir to rear wall
+
+### Laudianism
+
+After William Laud: Oxford scholar, then Dean of Gloucester; Bishop of St
+Davids, Bath and Wells and Archbishop of Canterbury.
+Return to more ‘catholic’ layout of churches. Autocrat. Persecutor of Puritans,
+whom he regarded as heretics. Forced liturgical reform on Scotland (and
+imposition of bishops).
+
+### The English Civil War and the Commonwealth
+
+Charles’ belief in divine right of kings to govern (loosely based on Romans 13) and Laud’s
+authoritarianism led to clash with Parliament, dominated by Puritans.
+Ultimately led to Civil War (1642-1551) between Parliamentarians and
+Royalists.
+
+* 1645 – after military defeats, Charles imprisoned, tried for treason and
+executed. His son declared new king by Royalists in Channel Islands; further
+war. Charles II’s forces defeated and he escapes to France.
+
+### The Commonwealth under Oliver Cromwell.
+
+* Episcopacy Banned
+* Book of Common Prayer made illegal – used Westminster Directory to
+help the minister conduct the service.
+* Lack of uniformity of faith (even Jews were readmitted for first time since
+1290) led to religions plurality of practice; also Baptists,
+Congregationalists; Quakers; Ranters; Levellers; Diggers; etc.
+* Unpopular moves: banning festivals; sabbatarian rules
+* Pluralism in religion led to failure of political consensus in Parliament
+
+Death of Cromwell, lack of confidence in his son, Richard, by the Army.
+Self-dissolution of Parliament. Invasion of royalist forces from Scotland. Threat
+of further, anarchic, return to Civil War worried many.
+
+Charles was able to return and state the terms of his own reign:
+The Restoration of the Monarchy including the term that he had been king ever since his father's execution.
+
+### The Restoration
+
+Restoration of Episcopacy at Charles’ insistence including their role as royal ministers.
+
+* Savoy Conference, to hear concerns of Puritan clergy.
+New Book of Common Prayer – mainly 1559, but with consolidation of Stewart
+changes (rubrics at the Prayer of Consecration), consolidated belief in the “real
+presence” in Communion.
+* 1662 - New Act of Uniformity: Over 2000 ministers could not accept it, so were
+ejected from their livings (‘The Great Ejection’).
+
+At this point, we get the division of English protestantism into: ‘non-
+conformists’ and ‘conformists’ (ie. Anglicans).
+
+* 1661-1664 Clarendon Code (after Lord Chancellor, Earl of Clarendon):
+legislation to persecute non-conformity. Some were repealed in 1689 with Act
+of Toleration, but it remained impossible for non-Conformists to go to University
+or to sit in Parliament until 19^th^ century.
+* Church of England: was it fully reformed? Not really.
+  - Describes itself as ‘Catholic and Reformed’.
+  - Others say it is neither
+  - Can even have both tendancies in the same person!
