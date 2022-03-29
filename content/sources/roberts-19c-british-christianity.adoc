@@ -3,7 +3,7 @@ title: The Church in Britain in the 19th Century
 author:  Roberts with additions
 featured_image: /images/
 date: 2022-03-21T22:52:32Z
-summary: 
+summary:
 categories:
   - Introduction to church history
 tags:
@@ -14,68 +14,120 @@ draft: !true
 ## Background Factors/Events
 
 1. The French Revolution (1789)
-2. Romanticism: See works of Thomas Carlyle, Walter Scott and, in time, through the art of the Pre-raphaelites.
+   * An up-ending of tthe status quo that had been in place since medieval times.
+   * By contrast, Britain had already had its revolution.
+   * Church and status quo had been very closely linked thus Revolution almost destroyed the church (and it was illegal for a time)
+   * Initiated on the back of growing disparity between rich and poor and by Descartes, then Voltaire, Russeau whose rational humanism was able to undermine the status quo
+   * Within the revolution a period when no one was in charge and everything was violently turned on its head
+   * In Britain, church and aristocracy very threatened and caused them to challenge the rational, enlightenment under-pinnings of revolution.
+2. Romanticism: See works of Thomas Carlyle, Walter Scott and,
+   in time, through the art of the Pre-raphaelites.
+   * A reaction to the revolution and enlightenment with its totalitarian inclinations;
+   maybe the past was not so bad and a more faviourable re-writing.
+   * Does human reason produce beauty and joy? No, quite the opposite:
+   ugliness, poverty and squalor.
+   * A reactionary seeking after spirituality influenced theology
 3. The Industrial Revolution:
+   * grew out of the scientific method (a philosophy at the start) a century earlier
+   * productivity of machines allowed some to become astonishingly wealthy in a short period of time.
+   * these new men often not the traditional rules but non-conformists of _relatively_ small means
+   * Biggest movement of population in Britain's history before or sense
+
+This was taking place in the 18^th^ century alongside Methodism and the Evangelical Revival.
 
 ## Religion and Politics: the age of Reform and Social Transformation
 
-Repeal of the Corporation Act (1661) and Test Act (1673) - led to non-conformists and Roman
-Catholics entering public life.
+- 1828: Repeal of the Corporation Act (1661) and
+- 1829: Repeal of Test Act (1673) led to non-conformists and Roman Catholics entering public life.
 
-Abolition of the Slave Trade - 80% of national income. William Wilberforce led to abolition of Slave
-Trade (1807) and in 1833 it became illegal to have a slave.
+May be seen as early steps towards pluralism, hence resisted by many churchmen, because
+could (and would) lead to a Parliament ruling in ways that conflicted with the church.
 
-Tithes: the Church had the right to levy a 10% tithe on all agricultural produce. Source of local
-income to the incumbent: varied from parish to parish. Wealthy livings meant incumbents could
+Abolition of the Slave Trade - 80% of national income. William Wilberforce
+led to abolition of Slave Trade (1807) and in 1833 it became illegal to have a slave.
+
+Slave Trade debate caused abolistionists to go beyond the word of scripture which talks
+of slave owning.
+
+### Tithes
+
+Snice medieval times the Church had the right to levy a 10% tithe on all
+agricultural produce. Source of local income to the incumbent: varied
+from parish to parish. Wealthy livings meant incumbents could
 appoint a team of curates to do the work for them.
 
-Expansion of the cities: led to need for new parishes and new church buildings. Waterloo
-churches: parliament funded church building in 1818 and 1824. Church-building continued apace
-throughout the century.
+- 1837 change in the law permitted a standing payment in lieu of tithe
+- Patronage (gift of the living of a parish) in many cases remained with the land-owners
+
+Expansion of the cities: led to need for new parishes and new church buildings. For example the whole of South Manchester held just 3 parishers.
+
+Waterloo churches: parliament-funded church building in 1818 and 1824. For example, https://www.stgeorgesbristol.co.uk/[St George's Brandon Hill], now a concert hall.
+
+Church-building continued apace throughout the century.
 
 ## Tractarianism and Anglo-catholicism
 
 ### Early History: the Oxford Movement
 
-Beginning dated to John Keble preaching his assize sermon at Oxford University in 1833 called, A
-National Apostasy.
+Beginning dated to John Keble preaching his assize sermon at
+Oxford University in 1833 called, _A National Apostasy_.
 
-From the start, Anglo-Catholicism has been about the spiritual authority and vocation of the
-Church of God, especially as applied to the Anglican Church.
+From the start, Anglo-Catholicism has been about the spiritual authority
+and vocation of the Church of God, especially as applied to the Anglican Church.
+For example, took exception at Whig government's abolution through Parliament of 10 bishoprics (in Ireland where population had left as they were Catholic).
+
+Keble's contention was that the church was acting as no more than a minor part of the bureacracy entirely forgetting their calling.
 
 Early Tractarians/Oxford Movement included:
 - John Henry Newman
 - Edward Bouvarie Pusey
 - Frederick William Faber
-Emphasising the continuity of the catholic identity of the Church of England.
+Emphasising the continuity of the catholic identity of the Church of England:
+The CofE had never eschewed it in the Reformation, particularly evidenced by continued three-fold order of bishops, priests and deacons.
 
-This ‘reforming’ ecclesiology was contained in a series of 90 ‘Tracts for the Times’, published in
-Oxford and widely-read. The Oxford Movement leaders became known as ‘Tractarians’.
+This ‘reforming’ ecclesiology was contained in a series of 90
+‘Tracts for the Times’, published in Oxford and widely-read.
+The Oxford Movement leaders became known as ‘Tractarians’.
 
-For the leaders of the Oxford Movement, a new stress on Catholicity was the only antidote to
-erastianism, spiritual bankrupcy and the erosive effects of post-enlightenment liberalism.
+For the leaders of the Oxford Movement, a new stress on Catholicity
+was the only antidote to Erastianism, spiritual bankrupcy and
+the erosive effects of post-enlightenment liberalism.
 
-Things came to a head when John Henry Newman published ‘Tract 90’ in 1840, which argued that
-the doctrine of the Church of England, enshrined in the Book of Common Prayer and the 39
-Articles, was essentially the same as that of the Roman Catholic Church. In the wake of the
-Gorham Controversy (1850), where a state court (the Privy Council) had overturned a judgement
-by the bishops and the ecclesiastical courts over the nature of the Church of England’s doctrine.
+Things came to a head when John Henry Newman published ‘Tract 90’ in 1840,
+which argued that the doctrine of the Church of England, enshrined in
+the Book of Common Prayer and the 39 Articles, was essentially the same
+as that of the Roman Catholic Church therefore no need, with religious
+liberalisation, for 'the Italian Mission' to seek to restore the Roman church in England.
+
+The Bishop of Oxford forbade any further tracts and Newman felt it necessary to
+resign from the university and lived as a parish priest before being welcomed
+into the Rman Catholic church in 1845.
+
+Gorham was a hard Calvinist who the Bishop of Exeter refused to institute over the
+question of whether baptised infants were regenerate.
+
+In the wake of the Gorham Controversy (1850), where a state court (the Privy Council) had overturned a judgement
+by the bishops and the ecclesiastical courts over the nature of the
+Church of England’s doctrine.
+
 Those who left included Henry Manning (who became the first Cardinal Archbishop of
 Westminster) and F.W. Faber.
+
+At this stage little difference between Tractarians, Evangelicals and Low churchmen, except perhaps a slightly greater celebration of saints days. All followed the BCP.
 
 ### Anglo-Catholicism and the Ritualist Controversy
 
 The second phase of the movement, a new generation of younger clergy came through who
 sought to see holiness worked out through more ornate and beautiful worship, including a
-heightened sense of ceremonial. Many had half an eye on the practices of the Roman Catholic
-Church, wanting to emulate the ceremonial, whilst using the text of the BCP. They introduced
-things like:
+heightened sense of ceremonial. Many had half an eye on the practices of the
+Roman Catholic Church, wanting to emulate the ceremonial, whilst using the
+text of the BCP. They introduced things like:
 
 * Candles on the table
 * Eastward facing presidency
 * Singing of the liturgy (outside cathedrals this was rare)
 
-Tended to take place in poorly-endowed livings:
+As a result viewed with suspicion and tended to end up in poorly-endowed livings
 
 * Processions
 * Reservation of the Blessed Sacrament
@@ -84,35 +136,54 @@ Tended to take place in poorly-endowed livings:
 * Unleavened bread in communion
 * Making the sign of the cross
 
-This was reported in the press, and a number of riots and disruptions occurred, engineered by
-anti-Catholic agitators.
+This was reported in the press, and a number of riots and disruptions
+occurred, engineered by anti-Catholic agitators such as the Kenset brothers.
 
-_Evangelicals began organised prosecutions of ritualist priests through the courts_.
-The priests did not believe the secular courts possessed any spiritual authority in such matters, so as they were
+More than a grain of truth in the suspicion that Anglo-catholics were trying to undo the Reformation.
+
+No one entitled to deviate from the BCP, so _Evangelicals began to organise prosecutions of ritualist priests through the courts_.
+The priests did not believe the secular courts possessed any spiritual
+authority in such matters, so as they were
 often successfully prosecuted, they regarded this as martyrdom.
 
-Godliness and self-sacrifice of the ‘slum-priests’: between 1876-1880, three urban priests were
-prosecuted and imprisoned for ritualistic practices.
+So extremism on both sides fed off one another.
 
-As the 19^th^ century moved into the 20^th^, there was a growing distaste by the wider church for
-persecuting people who ritually departed from the BCP (although many Evangelicals continued to
-persecute with zeal). Anglo-Catholicism was an increasingly powerful spiritual influence, whereas
+Godliness and self-sacrifice of the ‘slum-priests’: between 1876-1880,
+three urban priests were prosecuted and imprisoned for ritualistic practices.
+
+Example of Father McConnecky in east London who earned respect of the locals
+for his care during a cholera epidemic.
+
+As the 19^th^ century moved into the 20^th^, there was a growing distaste
+by the wider church for persecuting people who ritually departed from
+the BCP (although many Evangelicals continued to persecute with zeal).
+Anglo-Catholicism was an increasingly powerful spiritual influence, whereas
 Evangelicalism was steadily declining.
 
-As a result, the Church of England in the 20" century generally has felt disinclined to use Canon
-Law (or the law of the land) to hound those who liturgically deviate from the ‘legal’ line of the
-Church of England on liturgy - especially when such liturgical creativity is coupled with spiritual
-growth and dynamism.
+As a result, the Church of England in the 20^th^ century generally has
+felt disinclined to use Canon Law (or the law of the land) to hound
+those who liturgically deviate from the ‘legal’ line of the
+Church of England on liturgy - especially when such liturgical
+creativity is coupled with spiritual growth and dynamism.
 
-So, the Anglo-Catholic *ritualists* were the pioneers of liturgical 
-*freedom* (and anarchy) in the Church of England!
+So, the Anglo-Catholic *ritualists* were the pioneers of liturgical
+*freedom* (and anarchy) in the Church of England! To the benefit of the charismatics
+in the late 20th and 21st century.
+
+Other parallel movements for high church practice in different parts of the world.
 
 ## Missionary Work
 
 Colonialism opened way for missionary expansion, particularly successful in Africa.
 The call to become a missionary was a major influence, particularly amongst evangelicals.
 
-The export of denominationalism. (See reading project.)
+There is a case for the export of the cream of evangelical talent led to the decline
+of the evangelical party in Britain.
+
+The export of denominationalism. (See reading project.) This led in turn to
+ecumenical efforts in response to the wastefulness of such competition.
+
+Trinity College founded by coming together of Tyndale, and others, Tyndale was college for BCMS in response to concern that CMS was becoming too liberal.
 
 ## Science vs Religion
 
@@ -120,34 +191,42 @@ Early skirmishes: Galileo (1633)
 
 Bishop James Ussher in 1648 dated the Creation to 4004BC.
 
-Geology: dating of rocks led to different (much longer) chronology and also testing of the 6-day
-hypothesis.
+Geology: dating of rocks led to different (much longer) chronology and also
+testing of the 6-day hypothesis.
 
-Charles Darwin: (1809 - 1882) Theory of evolution developed between late 1830s and the
-publication of The Origin of Species (1859). The 1860s became a period of heated debate. T.H.
-Huxley first to be explicit about link between humanity and apes - founder of “agnosticism” as a
-religious position, based on the absence of evidence. The Oxford Debate between Huxley and
-Bishop Samuel Wilberforce, Bishop of Oxford.
+Charles Darwin: (1809-1882) Theory of evolution developed between late 1830s and the
+publication of The Origin of Species (1859). The 1860s became a period of heated debate.
+T.H. Huxley first to be explicit about link between humanity and apes -
+founder of “agnosticism” as a religious position, based on the absence of evidence.
+The Oxford Debate between Huxley and Bishop Samuel Wilberforce, Bishop of Oxford.
 
 Three possible positions on science and religion emerged:
 * Biblical literalism (believe the Bible and everything else needs to be adjusted);
 * Integrate the Bible into the emerging scientific picture (with varying degrees of success);
-¢ Abandon the Bible as a scientific source, retaining it for theology and ethics
+* Abandon the Bible as a scientific source, retaining it for theology and ethics
 
-This came to a head with the publication, in 1860, of the book Essays and Reviews, which caused a
-storm over its approach to the Bible and Biblical authority and led to a trial for heresy (highly
-unusual for those days!)
+This last was seen as a betrayal by certain parts of the church towards other parts.
+
+This came to a head with the publication, in 1860, of the book Essays and Reviews,
+which caused a storm over its approach to the Bible and Biblical authority and
+led to a trial for heresy (highly unusual for those days!)
 
 ## The Second Coming
 
-Conferences on biblical prophecy: Albury (1826-1830) and Powerscourt (1831-1833). Focus on
-Daniel and Revelation, in particular. Believed to predict the, as yet, unfulfilled future.
+Conferences on biblical prophecy: Albury (1826-1830) and Powerscourt (1831-1833).
+Focus on Daniel and Revelation, in particular. Believed to predict the, as yet, unfulfilled future.
 
-Powerscourt was attended by J.N. Darby (1800 - 1882), initially an Anglican minister, then founder
-of the Plymouth Brethren. He developed a form of pre-millennialism called dispensationalism.
-Also invented the idea of the rapture - living Christians will meet Christ in the sky before a period
-of terrible tribulation for the world. After destruction of the Beast of Revelation, they will return
-with Christ to reign for 1000 years. Then will come the raising of the dead, the last judgement and
-heaven and hell for all eternity. This scheme was implemented in the Schofield Chain-Reference
-Bible, published in America and extensively bought. Dispensationalism then spread beyond
-Plymouth Brethren thoughout America and, back, to the UK in the 20" century.
+Albury led to Catholic Apostolic church.
+
+Powerscourt was attended by J.N. Darby (1800-1882), initially an Anglican minister,
+then founder of the Plymouth Brethren. He developed a form of pre-millennialism
+called dispensationalism.
+
+Also invented the idea of the rapture - living Christians will meet Christ in
+the sky before a period of terrible tribulation for the world. After destruction
+of the Beast of Revelation, they will return
+with Christ to reign for 1000 years. Then will come the raising of the dead,
+the last judgement and heaven and hell for all eternity. This scheme was
+implemented in the Schofield Chain-Reference Bible, published in America
+and extensively bought. Dispensationalism then spread beyond
+Plymouth Brethren thoughout America and, back, to the UK in the 20^th^ century.
