@@ -1,7 +1,8 @@
 ---
 title: Turning points, third edition, chapter 12
 author: MARK A.NOLL
-featured_image: /images/noll-turning-points-cover.png
+# https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/The_1910_World_Missionary_Conference%2Cthe_Edinburgh_Missionary_Conference.jpg/1280px-The_1910_World_Missionary_Conference%2Cthe_Edinburgh_Missionary_Conference.jpg
+featured_image: /images/the_Edinburgh_Missionary_Conference.jpg
 summary: Decisive Moments in the History of Christianity
 description: ""
 date: 2022-03-28T12:51:32Z
