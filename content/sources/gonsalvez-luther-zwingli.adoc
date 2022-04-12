@@ -1,0 +1,89 @@
+---
+title: Luther and Zwingli
+author: Justo Gonsalvez, summarised by Tim Stephenson
+summary: Some notes and quotations from Justo Gonsalvez's "Story of Christianity Vol II" chapters 4,5 and 20
+# https://commons.wikimedia.org/wiki/File:MartinLuther_UlrichZwingli.JPG
+featured_image: /images/MartinLuther_UlrichZwingli.JPG
+categories: 
+  - Reformation
+tags:
+  - Calvin
+  - Diet of Worms
+  - Humanism
+  - Luther
+  - Melanchathon
+  - Reformation
+  - Zwingli
+date: 2022-04-12T12:24:25+01:00
+draft: !true
+---
+
+## Ch 4 Luther's theology
+
+* 1521 Diet of Worms: already had his basic principles the rest was elaboration
+
+### the word of God : start and final authority for his theology
+
+* The Word of God is more that just the Bible. The _logos_ of John. As in Genesis, God's speech is also action.
+* happy too to criticise the Bible. Epistle of James 'pure straw' because he could find no gospel only rules of conduct in it
+* critics argued since the church determined the contents of the Bible the church had authority over the Bible. Luther: Christ made both church and Bible
+
+### the theology of the cross
+
+* reason is limited but permits some basic knowledge: that God exists, right and wrong as evidenced by classical times
+* trying to know God by reason alone is futile, condemned as a theology of [human] glory
+* God's greatest revelation of himself happens on the cross, radically different to what we expect. A stumbling block
+
+### law and gospel
+
+* both law and gospel in both OT and NT
+* justification by faith does not imply God is indifferent to sin
+* with grace from the gospel law changes from a burden to something bearable, even sweet (my yoke is light) quote on page 51
+* _simul Justus et peccator_
+
+### church and sacraments
+
+* Luther neither individualist not rationalist
+* believed in all being priests (universal priesthood) not to self but within community of the mother church
+* all occupations, as long as they are honest and godly, are equally valuable: 'the sanctity of common life'
+* sacraments must be ordained by Christ hence just baptism and communion
+* baptism, because a gift from God and not something we do is appropriate to infants
+* Christ is present in communion but not via transubstantiation, which has ties to both Aristotle and justification by merit. Later dubbed consubstantiation
+  - a key point of difference between Lutheran and reformed (p55)
+
+### two kingdoms
+
+* "the state must operate under the law and it's main purpose is to set limits to human sin and its consequences"
+* Christians should obey the state though in spiritual matters owe it no allegiance. And should not seem to use the state to impose faith but only the power of the word
+* whilst having doubts about traditional relationship between church and state, "Luther's two kingdoms doctrine was difficult to apply to concrete situations" P56
+
+## Ch 5 Ulrich Zwingli and the Swiss reformation
+
+> Humanism and nationalism, both contributing factors to the Lutheran Reformation even against Luther's intentions, became conscious ele ments of the reformation Zwingli led in Switzerland.
+-- p57
+
+* made priest of an abbey visited by pilgrims and made a name for himself by preaching that they was no support for pilgrimages in the NT
+* 1518 transferred to Zurich and by this time had reached similar conclusions to Luther, via the method - study of original sources - of the humanists.
+* 1519 argued for expulsion of seller of indulgences. Also succeeded in arguing against sending mercenaries to support Francis I of France to chagrin of the Pope
+* 1521 diet of worms
+* 1522 council of gov of Zurich support Zwingli in task of Reformation. Council called for debate between Zwingli and representative of bishop of Constance. Zwingli expounded several theses from scripture but the rep refused to respond preferring to wait for general council. Since none refuted Zwingli, council permitted him to confine preaching and this marked the final break with constance and therefore Rome
+* whilst Luther allowed all not prohibited by scripture, Zwingli permitted only what was explicitly supported by scripture
+* communion in both kinds, marriage of priests, monks and nuns and public education without class distinction all resulted
+
+> A good example of this difference is the manner in which each dealt with the doctrine of predestination. They agreed that predestination was scrip tural, and that it was necessary to affirm it as the basis for the doctrine of justification by grace alone. For Luther, the doctrine of predestination was the expression and the result of his experience of knowing himself powerless before his own sin, and therefore finding himself forced to declare that his salvation was not his own work, but God's. In contrast, Zwingli saw pre destination as the logical consequence of the nature of God. For the Swiss reformer, the main argument in favor of predestination was that, since God is both omnipotent and omniscient, God knows and determines all things beforehand. Luther would not employ such arguments, but would be con tent with declaring that predestination is necessary because human beings are incapable a doing anything for their own salvation. He would probably have rejected Zwingli's arguments as the result of reason, and not of biblical revelation nor of the experience of the gospel.
+-- p63
+
+* unconscious Neoplatonic influence driving devaluing of the material (contrast with Luther)
+* thus communion is purely symbolic. Zwingli view of baptism held a contradiction: he supported infant baptism but why given the infant cannot appreciate a purely symbolic understanding
+* colloquy of Marburg exposed the difference over the Presence in communion
+
+## Ch 20 Lutheran orthodoxy
+
+* Philip Melanchthon, friend and collaborator with Luther but insisted on good works
+
+> 'not as a means of salvation but as a result and witness to it'
+-- p223
+
+* Melanchthon established Central aspects if gospel and those peripheral *adiophora*
+* Melanchthon 'came to speak of collaboration among the Spirit, the word and human will'
+* Lutheran orthodoxy or Lutheran scholasticism systematised Luther and rehabilitated Aristotle

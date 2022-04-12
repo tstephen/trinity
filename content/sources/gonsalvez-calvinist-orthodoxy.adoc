@@ -1,0 +1,99 @@
+---
+title: Calvin and Calvinism
+author: Justo Gonsalvez, summarised by Tim Stephenson
+# https://en.wikipedia.org/wiki/Synod_of_Dort#/media/File:Synode_van_Dordrecht.jpg
+# Public Domain
+featured_image: /images/Synode_van_Dordrecht.jpg
+summary: Some notes and quotations from Justo Gonsalvez's "Story of Christianity Vol II" chapters 7 and 21. Key events in Calvin's life, theology and how this was developed after his lifetime.
+date: 2022-03-28T12:51:32Z
+categories: 
+  - Reformation
+tags:
+  - Arminius
+  - Calvin
+  - Koornhert 
+  - Institutes
+  - Reformation
+  - Servetus
+  - Synod of Dort
+  - Westminister Confession
+date: 2022-04-12T12:24:25+01:00
+draft: !true
+---
+
+## Ch 7 John Calvin
+
+> Let us beware lest our words and thoughts go beyond what the Word of God tells us.... We must leave to God His own knowledge, ... and conceive Him as He makes Himself known to us, without attempting to discover anything about His nature apart from His Word.
+-- _John Calvin_
+
+* Where Luther was overjoyed by and tended to over focus on justification by faith, Calvin had time for several aspects, in particular, doctrine of sanctification.
+* 1534 Calvin gives up posts in Noyon and October Francis I changed policy of tolerance (no coincidence?)
+* Jan 1536 Calvin left France for exile in Basel
+* 1536, Basel: _Institutes_ first edition (516 pages)
+* 1541, Geneva: _Institutes_ third edition and first in French
+* 1538-41 exiled from Geneva over right to excommunicate unrepentant sinners. Pastor in Strasbourg, married, influenced by Martin Bucer
+* 1541 ordinances:
+  - pastors: ministry of the word and sacraments
+  - teachers (or doctors): education
+  - elders: supervision and admonishment
+  - deacons: social services
+* Calvin-opposing government in Geneva and case of Michael Servetus promulgating view that Union of church and state by Constantine and doctrine of trinity by council of Nicea had offended God. Servetus executed and Calvin unrivalled.
+* opening of Genevan Academy
+* Calvin's death
+
+### Calvinism
+
+The key issue of his lifetime was that of the presence of Christ in communion: following Bucer, Calvin took an indeterminate position between Luther and Zwingli: present but spiritually (meaning more than just symbolic but not physical).
+
+* 1526 Wittenberg Concord: satisfied both Luther and Bucer
+* 1549 Zurich Consensus: Bucer and Calvin agreed similar terms
+
+So the presence did not, apparently, pose an obstacle to Protestant unity. Only in the following century that predestination came to be seen as the hallmark of Calvinism. (p86)
+
+## Ch 21 Calvinist or Reformed orthodoxy
+
+> Election is the immutable purpose of God whereby, before the foundation of the world, he chose, from among the entire human race, a certain number of people to be redeemed in Christ.
+-- _SYNOD OF DORT_
+
+### Arminius and cause of Synod of Dort
+
+Arminius, educated in Calvinism, was asked to refute Koornhert on the matter of predestination. He studied and concluded K was right.
+
+* 1610 the Arminian's issued their _Remonstrance_ (p231)
+  - ambiguous support for predestination later to be known as 'the open decree of predestination'
+  - Jesus died for all, but effective only for those who believe
+  - denied Pelagianism (i.e. humans could do no good on their own)
+  - contrary to Augustine and Gomarus: Holy Spirit *is* resistable
+  - open verdict on fall from grace
+
+### Synod of Dort
+
+* Nov 1618-May 1619 Synod of Dort: 5 doctrines ever since the hallmarks of Calvinist orthodoxy
+  - unconditional election (and explicitly ruling out that this was by God's foreknowledge)
+  - limited atonement - Christ died only for the elect
+  - fallen humans contain a vestige of natural light but so corrupted as to be useless (total depravity)
+  - irresistible grace
+  - perseverance of the saints (fall from grace impossible)
+
+Greatest impact of Arminianism was to be through the Methodist church (p233).
+
+### Westminster confession
+
+A broader scope than the Synod of Dort notably in the later sections dealing with many practical controversies in England of the time (p233 ff).
+Key points:
+
+* Ch 1 covers the authority of Scripture: "the infallible rule of interpretation of Scripture is the Scripture itself." Since not all Scripture is equally clear any obscure texts should be interpreted in light of clearer ones.
+* Ch 3 covers "God's Eternal Decree" and affirms:
+
+> "... from all eternity God did 'freely and unchangeably  ordain whatsoever comes to pass.' Part of this decree is that some people and angels have been predestined to eternal life, and others to eternal death."
+-- Gonsalvez p234
+
+* Ch 6.4 supports 'total depravity' in that the result of Adam's sin is that "we are utterly indisposed, disabled, and made the opposite of good, and wholly inclined to all evil."
+* Ch 10 describes 'effectual calling' as 'entirely an act of special grace. It does not depend on anything God foreknew or foresaw about the person called, who is completely passive.'
+
+> Others, not elect, may be called by the ministry of the word, and the Spirit may work in them in
+some of the same ways he works in the elect. However, they never truly come to Christ and
+therefore cannot be saved.
+-- _Ch 10.4 Modern English translation by Global Movement of Evangelical Presbyterian Churches_
+
+* Ch 17 deals with the impossibility of falling from grace.
