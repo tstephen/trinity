@@ -8,39 +8,21 @@ draft: true
 # A short introduction to the life and thought of St Augustine
 :toc:
 
-## Outline
-
-- Early life
-- Confessions
-- Manichaeism
-- Milan, Ambrose and conversion
-- Philosophy and ordination
-- On the Trinity
-- Sack of Rome and City of God
-- Pelagius; The Spirit and the Letter
-- Retractions 
-
 ## Early life
 
-Aurelius Augustine was born in 354 AD to a pagan father, Patricius, and a Christian mother, Monica. They lived as farmers in Thagaste, modern day Souk Ahras, Algeria footnote:[Braudel, Fernand (1995). A History of Civilizations. Penguin Books. p. 335. ISBN 9780140124897. "A Berber, born in 354 at Thagaste (now Souk-Ahras) in Africa..."]. 
+Aurelius Augustine was born in 354 AD to a pagan father, Patricius, and a Christian mother, Monica. They lived as farmers in Thagaste, modern day Souk Ahras, Algeria footnote:[Braudel, Fernand (1995). A History of Civilizations. Penguin Books. p. 335. ISBN 9780140124897. "A Berber, born in 354 at Thagaste (now Souk-Ahras) in Africa..."].
 
 ## Confessions
 
-Augustine's most famous work is Confessions and it provides an autobiographical account of his long journey to orthodox faith from the time he starts to become self-aware as a teenager to after his conversation and elevation to Bishop of Hippo. This occupies the first nine books with the final three devoted to an exegesis of Genesis 1 in what was to become his characteristic alegorical style. 
+Augustine's most famous work is Confessions and it provides an autobiographical account of his long journey to orthodox faith from the time he starts to become self-aware as a teenager to after his conversation and elevation to Bishop of Hippo. This occupies the first nine books with the final three devoted to an exegesis of Genesis 1 in what was to become his characteristic alegorical style.
 
-As the title makes clear--and he repeats time and again--by the time he is writing Augustine sees this journey as sorely testing the patience and mercy of God. This tone of penitence and desire to document his inner life is no doubt intended to provide a coherent and persuasive philosphical case for Christian faith. 
-
-TODO It can however read as self-absorbtion verging on neurosis.
-
-So we should be cautious treating `Confessions` as history but for all its subjectivity it provides details of his life not otherwise available to us.
-
-TODO: Who was the intended audience for sizable work?  Did he think a full account was needed to the God he freely acknowledges was there tolerantly and guiding him even in his follies? Was it cathartic as he looked back on fist biting humiliations? Perhaps in his pastoral role he understood that bearing his soul might allow his flock to recognise their own follies and lead them to similar confession?
+As the title makes clear--and he repeats time and again--by the time he is writing Augustine sees this journey as sorely testing the patience and mercy of God. This tone of penitence and desire to document his inner life is no doubt intended to provide a coherent and persuasive philosphical case for Christian faith.
 
 ## Education
 
 From what Augustine tells us in Confessions they were of slender resources yet his father seeks his advancement through education first in Madaura and then in Carthage, by successfully seeking the help of a wealthy patron footnote:[Confessions, book 2, chapter 3].
 
-Augustine's reflections, albeit much later, on these aspirations remain a challenge to parents to this day: all around praise Patricius for his generosity but Augustine focuses on the neglect of his spiritual education, taking no account of the fact that his father is not even, at that stage, a Christian.  
+Augustine's reflections, albeit much later, on these aspirations remain a challenge to parents to this day: all around praise Patricius for his generosity but Augustine focuses on the neglect of his spiritual education, taking no account of the fact that his father is not even, at that stage, a Christian.
 
 > Who did not extol my father, for that beyond the ability of his means, he would furnish his son with all necessaries for a far journey for his studies' sake? For many far abler citizens did no such thing for their children. But yet this same father had no concern how I grew towards Thee, or how chaste I were; so that I were but copious in speech, however barren I were to Thy culture, O God, who art the only true and good Lord of Thy field, my heart. footnote:[]
 
@@ -68,30 +50,32 @@ By the time he writes Confessions, he will clarify that evil cannot have its own
 
 Concluding his studies, Augustine returns to practice as a rhetoratician in his home town.
 
-A friend that he had grown up with and disuaded from Christianity to Manichaeism lies on what all believe is his death bed when he was baptised without his knowledge (apparently a common enough practice at the time). 
+A friend that he had grown up with and disuaded from Christianity to Manichaeism lies on what all believe is his death bed when he was baptised without his knowledge (apparently a common enough practice at the time).
 
-Augustine's comment betrays his firm dualist views at that time: 
+Augustine's comment betrays his firm dualist views at that time:
 
 > myself meanwhile little caring, presuming that his soul would retain rather what it had imbibed from me, than what was done to his unconscious body. footnote:[https://ereader.perlego.com/1/book/1071715/2?element_plgo_uid=ch2__722&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego[Confessions, Book 4, Chapter 4]]
 
 Yet his friend, reviving and learning of the surreptitious baptism did not find Augustine's teasing funny and admonished him. Augustine was 'confounded and confused' but kept quiet thinking to revisit the subject when his friend was fully better. However, before this could happen the fever returned and he died.
 
-Augustine mourns his friend yet does not understand why; to the extent that he writes his tears succeeded his friend as dearest in his affections. 
+Augustine mourns his friend yet does not understand why; to the extent that he writes his tears succeeded his friend as dearest in his affections.
 
 This and subsequent interrogation of Faustus, eminent bishop of the Manichaens, start to disillusion him and this leads him to Rome, now disavowing Manicheanism but still in the circle of that cult.
 
-TODO I find nothing in book 5 to see he follows Neoplatinists. Is this the a couple of passing comments about the Academics being persuasive?
-
-Book 5 concludes with him now in Milan via Rome deciding to break with the Manichaens even if he is unsure where to go instead and rejecting the Academics [known today as Neoplatinists TODO?] as they have no place for 'the saving name of Christ'. He resolves to be a catechumen of the Catholic church until something better comes along!
+Book 5 concludes with him now in Milan via Rome deciding to break with the Manichaens even if he is unsure where to go instead and rejecting 'the Academics' (Neoplatinists) as they have no place for 'the saving name of Christ'. He resolves to be a catechumen of the Catholic church until something better comes along!
 
 ## Milan, Ambrose and conversion
 
 Under Ambrose's influence Augustine finds himself drawn little by little by the Lord's 'gentle and most merciful hand'. footnote:[https://ereader.perlego.com/1/book/1071715/3?element_plgo_uid=ch3__539&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego[Confessions Book 6, Chapter 5] but is reluctant to commit too quickly to Catholicism as one 'who has tried a bad physician fears to trust himself to a good one'.
 footnote:[https://ereader.perlego.com/1/book/1071715/3?element_plgo_uid=ch3__512&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego[Confessions Book 6, Chapter 4]
 
-## Philosophy and ordination
+It was at this point he wrote the famous prayer to help with his addiction to sex that was so to inflame Pelagius later: 'Lord give me continence, but not yet' footnote:[Confessions, Book 8, Chapter 7].
 
-TODO
+The moment of conviction comes, he relates, under a fig tree in his garden (recalling his pear tree sins?) where he hears a voice telling him to read the scriptures.
+
+Following eight months of instruction he is baptised by Ambrose on Easter Day AD 387. Shortly thereafter his mother dies, though not before she saw him saved as she had seen in a dream.
+
+Two years after his conversion, Augustine returns to Africa and having been forcibly ordained presbyter, continues a monastic life though now in the service of the church as theologian in which role he attracts and trains a number of highly capable priests to the North African church.
 
 ## Against the Donatists
 
@@ -106,22 +90,22 @@ This work contained an argument that has had a lasting impact on the church. The
 
 He also argued that sacraments do not depend for their validity on the standing of who administers them but that they have an intrinsic effectiveness of signposting Scripture and grace. footnote:[On Christian Doctrine 2.3 TODO]
 
-Finally, and most unfortunately, Augustine's experience of seeing many Donatists readily return to the universal church encouraged him to see a degree of coercion as legitimate in subduing heresy citing `The LORD disciplines those He loves` footnote:[Prov 3:13]. However, there is no suggestion that this could extend to torture as some have claimed to justify their actions. TODO cite.
+Finally, and most unfortunately, Augustine's experience of seeing many Donatists readily return to the universal church encouraged him to see a degree of coercion as legitimate in subduing heresy citing 'The LORD disciplines those He loves' footnote:[Prov 3:13]. However, there is no suggestion that this could extend to torture as some have claimed to justify their actions. TODO cite.
 
 ## On the Trinity
 
-Probably the greatest contribution of Augustine's `De Trinitate` is to have been uncontroversial. Where Athanasius, the Cappadocean Fathers and most of all the Council of Nicea arose out of controversies and therefore took a polemic form, Augustine provided much needed balm starting as he does from the assumption of those 'Catholic expounders... who wrote before me' that:
+Probably the greatest contribution of Augustine's 'De Trinitate' is to have been uncontroversial. Where Athanasius, the Cappadocean Fathers and most of all the Council of Nicea arose out of controversies and therefore took a polemic form, Augustine provided much needed balm starting as he does from the assumption of those 'Catholic expounders... who wrote before me' that:
 
 > the Father, and the Son, and the Holy Spirit intimate a divine unity of one and the same substance in an indivisible equality;3 and therefore that they are not three Gods, but one God footnote:[https://ereader.perlego.com/1/book/1069004/1?element_plgo_uid=ch1__1973&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego[On the Trinity, Book 1, Chapter 4]]
 
-Nonetheless, he is quite clear that the distinct persons of the trinity can undertake what J Burnaby calls distinct 'missions'. Only the Spirit descended on the Son at his baptism, only the Father spoke 'You are my son' and so forth. 
+Nonetheless, he is quite clear that the distinct persons of the trinity can undertake what J Burnaby calls distinct 'missions'. Only the Spirit descended on the Son at his baptism, only the Father spoke 'You are my son' and so forth.
 
 > The first half of the De Trinitate deals with the problems raised
 by the Catholic doctrines (a) that God is one, and that the whole
 Trinity is active in all divine operations, and (b) that the three
 "Persons" are distinct from one another not only for our apprehension but in their eternal being. footnote:[The Trinity, INTRODUCTION, Augustine Later Works Edited and translated by JOHN BURNABY, p19]
 
-> In Books V-VII, Augustine passes 
+> In Books V-VII, Augustine passes
 to the formulation of the faith in terms of the logical and
 metaphysical categories which he shares like the Greek Fathers
 with contemporary philosophy—especially the Neo-Platonism
@@ -133,7 +117,7 @@ Book V deals with Arianism at a technical level.
 
 On 24 August 410 the 'eternal city' of Rome fell to the Visigoths and sent shock waves through the Roman Empire physically, as wealthy citizens become refugees, and idiologically, as some advocated a return to traditional pagan gods to restore civic fortunes.
 
-Once again Augustine was the one to construct a coherent rebuttal. The City of God critiques first and most harshly the notion that worship of pagan gods `leads to happiness in this life` (Books 1-5) footnote:[This letter was discovered by Dom C. Lambot and published by him in the Revue benedictine, 51 (1939), pp.109f, quoted in https://ereader.perlego.com/1/book/1400065/15?element_id=p15--440&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego[Dyson]] and then more sympathetically the current Neoplatonism (Books 6-10)
+Once again Augustine was the one to construct a coherent rebuttal. The City of God critiques first and most harshly the notion that worship of pagan gods 'leads to happiness in this life' (Books 1-5) footnote:[This letter was discovered by Dom C. Lambot and published by him in the Revue benedictine, 51 (1939), pp.109f, quoted in https://ereader.perlego.com/1/book/1400065/15?element_id=p15--440&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego[Dyson]] and then more sympathetically the current Neoplatonism (Books 6-10)
 In the second half of the work he points his audience to the truth of Christianity described in the Bible (Books 11-22).
 This takes the form of comparing two cities: One _civitas terrana_ is literally the 'Earthly City' or 'City of Man', the other, the _civitas dei_ is the 'City of God'.
 
@@ -145,27 +129,27 @@ of which we are speaking.  The one is a fellowship of godly men, and the other
 of the ungodly; and each has its own angels belonging to it. In the one city, love
 of God has been given pride of place, and, in the other, love of self. footnote:[https://ereader.perlego.com/1/book/1400065/645?element_id=p645--371&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego[Dyson, City of God Book 14, Chapter 13]]
 
-Augustine recognises a world where the bad rulers may prosper (for example Nero) as well as good (Constantine). In fact, whilst uncompromising on the error of paganism, Augustine is remarkably conciliatory towards the secular state. As Chadwick says the City of God is intended to `allay the fears of educated pagans` and `leave the institutions of society as free of clerical intervention as possible`. footnote:[Chadwick, p141]
+Augustine recognises a world where the bad rulers may prosper (for example Nero) as well as good (Constantine). In fact, whilst uncompromising on the error of paganism, Augustine is remarkably conciliatory towards the secular state. As Chadwick says the City of God is intended to 'allay the fears of educated pagans' and 'leave the institutions of society as free of clerical intervention as possible'. footnote:[Chadwick, p141]
 
-But the Christian Empire is the closest thing to the City of God on earth and with certain, not insignificant, conditions Augustine is hopeful that a good emporer can advance that 'city'. 
+But the Christian Empire is the closest thing to the City of God on earth and with certain, not insignificant, conditions Augustine is hopeful that a good emporer can advance that 'city'.
 
 > if they rule justly; if they are not lifted up by the talk of those who accord them sublime honours or pay their respects with an excessive humility, but remember that they are only men; if they make their power the handmaid of His majesty by using it to spread His worship to the greatest possible extent; if they fear, love and worship God; if they love that Kingdom which they are not afraid to share with others more than their own; if they are slow to punish and swift to pardon... footnote:[https://ereader.perlego.com/1/book/1400065/29?element_id=p29--266&utm_medium=share&utm_campaign=share-with-location&utm_source=perlego[City of God Book 5, Chapter 24]]
 
-At its heart each city is made up of the individual honesty and piety--or otherwise--of its members and its institutions simply reflect the aggregation of this to a larger scale. So, as when confronting the Donatists desire for a 'pure' church, Augustine is insistant that both cities co-exist since regenerate and unregnerate people co-exist in this world. 
+At its heart each city is made up of the individual honesty and piety--or otherwise--of its members and its institutions simply reflect the aggregation of this to a larger scale. So, as when confronting the Donatists desire for a 'pure' church, Augustine is insistant that both cities co-exist since regenerate and unregnerate people co-exist in this world.
 
-City of God is a work that despite the high level structure highlighted above ranges far and wide, often with lengthy diversions. This may betray its long gestation (from AD 413-426) and episodic style of a busy and distracted author. But it may also be seen that Augustine, as one entrusted with a flock, is fighting for each sheep, with every argument he can muster.  
+City of God is a work that despite the high level structure highlighted above ranges far and wide, often with lengthy diversions. This may betray its long gestation (from AD 413-426) and episodic style of a busy and distracted author. But it may also be seen that Augustine, as one entrusted with a flock, is fighting for each sheep, with every argument he can muster.
 
-## Against Pelagius and The Spirit and the Letter
+## Against Pelagius
 
-Pelagius was a Welsh layman, educated in Gaul and settled in Rome around AD 398, 'practicing the aesetic life' says Chadwick footnote:[Chadwick, p145]. He was shocked by the moral laxity in the imperial city and moved to write commentaries on St Paul and tracts to the effect that sin is a moral choice for which we are responsible. Whilst God will help through both Scripture and Spirit, even to the extent that Grace may initiate, choosing the right path is ultimately a matter of will. 
+Pelagius was a Welsh layman, educated in Gaul and settled in Rome around AD 398, 'practicing the aesetic life' says Chadwick footnote:[Chadwick, p145]. He was shocked by the moral laxity in the imperial city and moved to write commentaries on St Paul and tracts to the effect that sin is a moral choice for which we are responsible. Whilst God will help through both Scripture and Spirit, even to the extent that Grace may initiate, choosing the right path is ultimately a matter of will.
 
-The heresy that bears his name was a concern shared by a loose collection of lay people and clerics that if every gift including will is by grace then nothing is demanded of humankind except to sit and wait for that grace, which its proponents could not accept. 
+The heresy that bears his name was a concern shared by a loose collection of lay people and clerics that if every gift including will is by grace then nothing is demanded of humankind except to sit and wait for that grace, which its proponents could not accept.
 
-Augustine for his part, finds this cruelly individualistic. 
+Augustine for his part, finds this cruelly individualistic.
 Inspired by the world he sees around him and his understanding of his own heart cannot think otherwise than that sin is intrinsic to all;
 that we are all subject to the original sin that entered the world through Adam.footnote:[City of God, Book 13, Chapter 13]
 However, he cannot go so far as to support total depravity, says Chadwick, or the basis of his theodicy (that evil is the privation of good mentioned above under Confessions) collapses. footnote:[Chadwick, p153]
-Nonetheless this pressure from the Pelagians pushes him to say that people are so weak and helpless that left by grace to their own devices for even a moment they will fall into sin and so grace must be in control throughout. 
+Nonetheless this pressure from the Pelagians pushes him to say that people are so weak and helpless that left by grace to their own devices for even a moment they will fall into sin and so grace must be in control throughout.
 
 > In the end Augustine comes to see that in every good action there is not one part which is ours and another that is God's: the whole belongs to both. footnote:[Chadwick, p150]
 
@@ -174,24 +158,8 @@ The internal transformation of this love poured in through the Holy Spirit turns
 
 > For free choice is capable only of sinning, if the way of truth rwemains hidden. And when what we should do and the goal we should strive for begins to be clear, unless we delight in it and love it, we do not act, do not begin, do not live good lives. But so that we may love it, the love of God is poured out in our hearts, not by free choice that comes from ourselves but by the Holy Spirit that has been given to us (Rom 5:5)footnote:[Augustine, The Spirit and the Letter Chapter 5]
 
-****
-- ch 5:
+## Conclusion
 
-> A man's free-will, indeed, avails for nothing except to sin, if he knows not the way of truth; and even after his duty and his proper aim shall begin to become known to him, unless he also take delight in and feel a love for it, he neither does his duty, nor sets about it, nor lives rightly.
+In conclusion, Augustine's influence both in the formative years of the early church and right down to our own time cannot be overemphasized. Many themes he tackled, often being the first to do so, are the same issues that occupy Christians and many others today: the nature of good and evil, free-will, grace, the trinity and the human condition.
 
-- ch 6
-
-> For that teaching which brings to us the command to live in chastity and righteousness is "the letter that kills," unless accompanied with "the spirit that gives life." For that is not the sole meaning of the passage, "The letter kills, but the spirit gives life," 2 Corinthians 3:6
-****
-
-****
-Chadwick concludes that Augustine never departed from the view of evil seen above in Confessions and that this arose not from God but from Man being:
-
-> a freely chosen, uncaused neglect of the Good... and as a consequence of man's 'ignorance and difficulty' footnote:[Chadwick Augustine of Hippo, a life, p150]
-
-This ignorance arising naturally from infancy but at some stage transitioning into something blameworthy through wilful neglect and habituation to sin that ultimately so blinds the individual that they do not even know what right is.
-
-In an early series of works 'On freedom of choice' (AD 394), Augustine outlines that whilst we do not know our futures, that cannot be true of the unchangable God.
-However divine foreknowledge is not the same as having condemned us to sin.
-To his embarrasment the Pelagians seized on this as support for their side suggesting, one might, with guidance and through effort of will achieve holiness enough to please God by oneself.
-****
+His writings, though dense in parts still have the ability to stimulate curiosity and deeper in the twenty-first century mind.
