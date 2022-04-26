@@ -6,6 +6,7 @@ draft: true
 
 This is a set of notes on key dates in the development of church history.
 
+- 325 - Council of Nicea, called by Constantine, refuted Arianism and asserted the 'consubstantiality' of God the Father and God the Son
 - 387 - Baptism of Augustine of Hippo by Ambrose of Milan
 - 391 - Ordination of Augustine of Hippo
 - 395 - Augustine made Bishop of Hippo
