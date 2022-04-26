@@ -1,10 +1,24 @@
 ---
 title: "People"
 date: 2022-02-12T13:15:54Z
+summary: Brief glossary of key figures
 draft: true
 ---
 
-### Ambrose
+## People
+
+This page is a brief glossary of key figures that appear in the site.
+
+### Ambrose, Bishop of Milan
+
+- c. 339-397.
+- Fierce defender of Catholic faith against Arianism and paganism
+- Substantial writings, most notably the exegetical Exameron (386-390)
+- Affinity with Neoplatonism
+- Baptised Augustine of Hippo (AD 387)
+
+https://en.wikipedia.org/wiki/Ambrose[Wikipedia]
+
 ### Arius
 ### Athanasius
 ### Augustine
@@ -13,10 +27,26 @@ draft: true
 Augustine of Canterbury was a monk who became the first Archbishop of Canterbury in the year 597. He is considered the "Apostle to the English" and a founder of the English Church. https://en.wikipedia.org/wiki/Augustine_of_Canterbury[Wikipedia]
 
 ### Cicero
+
+https://en.wikipedia.org/wiki/Hortensius_(Cicero)[Hortensius on Wikipaedia]
+
 ### Cyprian
 ### Constantine
 ### Gregory of Nazianzus
 ### Justin Martyr
+
+### Mani
+
+- Parthian religious leader, writer and originator of link:../glossary#_manichaeism[Manichaeism].
+- c AD 216-274
+
+### Nebredius
+A lifelong friend of link:#_augustine[Augustine of Hippo] who pushed him to develop his arguments.
+
+Mentioned several times in Confessions.
+
+http://augnet.org/en/life-of-augustine/his-era/augustines-contemporaries/1417-nebridius/
+
 ### Origen
 ### Pelagius
 ### Plotinus

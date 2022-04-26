@@ -12,5 +12,8 @@ draft: true
 
 ### Manichaeism
 
+A dualist religion based on the writings of Mani. 
+https://en.wikipedia.org/wiki/Manichaeism[Wikipedia]
+
 ### Platonism
 
