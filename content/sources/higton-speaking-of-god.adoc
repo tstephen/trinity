@@ -1,0 +1,1161 @@
+---
+title: Christian Doctrine, Chapter 3
+author: Mike Higton
+featured_image: /images/
+summary: Mike Higton, Christian Doctrine, London, SCM, 2008
+description: ""
+date: 2022-05-09T20:18:32Z
+categories: 
+  - Introduction to doctrine
+tags:
+  - Trinity College, Bristol and Bristol Baptist College
+draft: !true
+---
+ 
+## Speaking of God
+
+In Chapter 2, I argued that Christians can make sense of their lives, individually
+and corporately, as journeys on which they are being drawn deeper into the life of
+God, and in Chapter 4 I will explore some ways in which that basic claim can be
+expanded and enriched. This chapter, however, is a pause for clarification, and for
+the introduction of some distinctions and terminology that should make the way
+through the next chapter easier. I am going to look at different kinds of language
+that Christians use to speak about God and, in particular, examine the question of
+how Christians can speak about God at all without falling into idolatry.
+
+I am going to:
+
+* suggest that, for Christian theology, God is in one sense strictly unknowable,
+but that in another sense God makes Godseif known;
+* claim that there are three broad types of Christian language about God: pragmatic, propositional and imaginative;
+* introduce a fundamental distinction between God's immanent life and God's
+economy (or the economy of salvation); and
+* explain the analogical nature of Christian talk about God.
+
+### Preparation
+
+* Look through a Christian liturgy — you could try the ‘Liturgy of St. Cyril’, available
+online from the Coptic Orthodox Church Network, at http://www.copticchurch.net/topics/liturgy/liturgy_of_st_cyril.pdf - and note all the different ways in which
+God is named or described. Which of these ways of naming or describing or
+referring to God look to you to be metaphorical? Which look like they are direct or
+literal statements about God? Are there any that seem to you to be ambiguous?
+
+### Additional reading
+
+If you want to accompany my chapter with other accounts of the nature of religious
+language, try:
+
+* Jeff Astley, Exploring God-taik: Using Language in Religion, Exploring Faith: Theology for Life series (London: DLT, 2004). A general introduction to theological
+language.
+* Dan R. Stiver, The Philosophy of Religious Language: Sign, Symbol and Story (Oxford:
+Blackwell, 1996). A somewhat more advanced account.
+* Nicholas Lash, Holiness, Speech and Silence: Reflections on the Question of God
+(Aldershot: Ashgate, 2004). Mentioned in the last chapter, but also very relevant here.
+
+### Freedom and Idolatry
+
+> ^6^Thus says the Lord, the King of Israel and his Redeemer, the Lord of hosts:
+Lam the first and I am the last; besides me there is no god. ... ^8^Do not fear,
+or be afraid; have I not told you from of old and declared it? You are my
+witnesses! Is there any god besides me? There is no other rock; I know not
+one.
+
+> ^9^All who make idols are nothing, and the things they delight in do not
+profit; their witnesses neither see nor know. And so they will be put to
+shame. ^10^Who would fashion a god or cast an image that can do no good?
+^11^Look, all its devotees shall be put to shame; the artisans too are merely
+human. Let them all assemble, let them stand up; they shail be terrified,
+they shall all be put to shame. ...
+
+> ^13^The carpenter stretches a line, marks it out with a stylus, fashions it
+with planes, and marks it with a compass; he makes it in human form, with
+human beauty, to be set up in a shrine. ^14^He cuts down cedars or chooses a
+holm tree or an oak and lets it grow strong among the trees of the forest. He
+plants a cedar and the rain nourishes it. ... ^16^Half of it he burns in the fire;
+over this half he roasts meat, eats it and is satisfied. He also warms himself
+and says, ‘Ah, lam warm, I can feel the fire!’ The rest of it he makes into a
+god, his idol, bows down to it and worships it; he prays to it and says, ‘Save
+me, for you are my god!’
+
+> ^21^They do not know, nor do they comprehend; for their eyes are shut, so
+that they cannot see, and their minds as well, so that they cannot understand. ...
+
+> ^21^Remember these things, O Jacob, and Israel, for you are my servant; I
+formed you, you are my servant; O Israel, you will not be forgotten by me.
+^22^I have swept away your transgressions like a cloud, and your sins like
+mist; return to me, for I have redeemed you.
+-- Isaiah 44:6,8-11,13-14,16-18,21-22
+
+---
+#### Exercise
+
+Before reading on, think about this passage from !salah. What does the author
+of this passage condemn, and what does he praise? What implications might
+this polemic have for Christian attempts to witness appropriately to God?
+---
+
+In the previous chapter, I argued that freedom and faithfulness -- God’s freedom to transcend any definitions arrived at by God’s people, and God’s faithfulness to the promises declared to those people in the past and in the present
+-- are constitutive of God’s self-identification. That continues to be true in this
+passage from Isaiah. At first sight, it presents us with two sets of people. On
+the one hand there are the people of Israel, directly addressed and declared to
+be God's witnesses; they know God as the rock upon which they stand and as
+their Lord, their King and their Redeemer. They know God’s identity ‘from of
+old’, and may trust God to be true to it.
+
+On the other hand stand the idolaters or false witnesses who are not
+addressed but described with biting sarcasm. They do not know God; they
+substitute for the true God things made with their own ‘merely human’ hands.
+They worship mundane realities that they can control and use for their own
+benefit; their gods are in their power.
+
+In one corner, then, we have the true witnesses who rest in the hands of
+their God; in the other, the false witnesses who hold their god in their hands.
+There is a twist in Isaiah's oracle, however. God says to those who are being
+addressed directly and comfortingly as true witnesses, ‘I have swept away
+your transgressions like a cloud, and your sins like mist; return to me, for
+have redeemed you.’ Having been addressed as those in the right, it becomes
+clear that they are no strangers to the wrong, and perhaps have not yet abandoned it. Tug on this thread and the passage, with its commendation of true
+witnesses and condemnation of false, unravels to reveal a plea to Israel to
+repent, to turn away from false witness and from idolatry, and to become the
+true witnesses that they are not. The problem of idolatry is not somebody
+else's problem — it is theirs.
+
+This passage was, of course, written in a specific historical situation, and
+addressed to a people involved in various very specific forms of idolatry.
+Nevertheless, it is a tributary of one deep stream of Jewish thinking that was
+eventually to flow into a more radical interpretation of idolatry. Idols were
+eventually abjured not because they were representations of the wrong god,
+nor because they were the wrong kind of representation of the right God,
+but just because they were representations, and God was held to be beyond all
+representation. This God is held not to be the kind of God who can aptly be
+depicted ‘in the likeness of anything that is in heaven above, or that is on the
+earth beneath, or that is in the water under the earth’ (Exodus 20.4). No particular part of creation — visible or invisible, natural or artificial, animate or
+inanimate, human or animal — can be an adequate representation of the God
+who is the source of them all.’
+
+Many theologians in both Judaism and Christianity have wrestled with the
+snares buried in any human description of God because they have been all
+too aware that human beings are perennially tempted to tame God, to remake
+God in their own image, or to slip God into their pockets. They have known
+that all descriptions that human beings might be capable of deploying are
+finite, because they are built from words whose everyday applicability is to
+finite things in the world, and because they are painted with imaginations
+all of whose colours come from life in the midst of that world. To use these
+descriptions of God is always to describe God in terms more normally applicable to things that are not God. Any talk about God — any picture, any image,
+any account, any story, any name, any description, any theory, any hypothesis
+~ therefore presents believers with the temptation to absolutize something
+finite, something made with human hands (or human voices or human minds).
+That is, any talk about God presents a temptation to take a finite description
+not as a hand gesturing towards a God who is always more surprising than
+any description allows, but rather as a tool that enables the believer to grasp
+hold of God, to delimit God, to make God out as finite — to define God, and so
+to limit and define the demand that is made by knowing God.
+
+---
+#### Some Examples
+
+Consider the following descriptions of God:
+
+Rock: It is not difficult to see that this is a metaphor, describing God in terms
+appropriate to something that is not God. It is (or was, when the metaphor
+was fresh) a striking way of helping people to glimpse God’s faithfulness and
+dependability, but the limit to how far one can take the metaphor is obvious;
+it is a limit that one would find oneself beyond were one to ask what God's
+mineral content was. for instance. Christians know that God is not a rock, so
+to describe God as one presents little temptation to idolatry.
+
+Wise: What about this one, though? It too is a word whose meaning we learn
+first through ordinary human examples — from which we gather that it means
+something like ‘able to judge appropriately, on the basis of long experience’.
+But what can one make of the idea of God having ‘long experience’, or even of
+God weighing up possible courses of action and judging appropriately?’ There
+are clear limits to how far this description goes, too — even though, as we shall
+see below, descriptions of God as wise or goed or loving don’t work in quite
+the same way as the description of God as a rock,
+
+Infinite: This might seem to be a good, abstract word, free from inappropriately
+material or human associations. But it, too, is a word whose meaning is learnt
+in particular contexts, as part of particular practices. It is possible, after alt,
+to give a human (social, material) history of the contexts and practices and
+forms of imagination that have surrounded this word's emergence and deveiopment
+If one thinks that the word directly describes some characteristic
+of God (instead of being, say, a comment upon the inadequacy of all finite
+descriptions) one will eventually find that it too has smuggled in contraband
+assumptions or illegal connotations — material that properly belongs only on
+the creaturely side of the border.
+
+#### Exercise
+
+Return to the liturgy that you jooked at in preparation for this chapter. Would
+you now assess differently any of the names or descriptions of God that you
+found in it?
+
+---
+ 
+God says ‘I am who I am’ and I am the God of your ancestors’ to the same
+people, at the same time. It is not that one category of people, the idolaters,
+need to be reminded that God is beyond their false definitions, while another
+category of people, true witnesses, can be told to rest content with the
+proper definitions that have made it into their possession. This passage from
+Isaiah suggests, rather, that there might be an ongoing interplay between the
+two messages. On the one hand, the Israelites are told, ‘Here is how God has
+defined Godself’; on the other, they are told, ‘The God who has done this is,
+and remains, a God who is beyond all definition’ God makes Godself known
+— but God cannot be known.
+
+This will seem like a direct contradiction until one realizes that the word
+‘know’ has more than one meaning. If, by ‘God can be known’, we mean that
+God could be grasped and understood, defined and explained, or that human
+beings could gain intellectual mastery over this subject matter, then Christian
+theology denies that God can be known even by Christians, even by those to
+whom God has revealed Godself. God is, in that sense of the word ‘know’,
+radically and inherently unknowable.
+
+For Christians, I said in the previous chapter, the word ‘God’ names the
+source of the life of the Christlike love and justice into which they believe
+they are being caught up. The relation in which they stand to that source
+will not be that of knowing subjects facing a known object, able to define it
+or to gain some kind of intellectual mastery over it. Rather, they will stand
+as those who are themselves in the process of being mastered by the one
+they face, and the forms of language appropriate to this will not be calm
+descriptions or abstract definitions, but expressions of praise, thanksgiving
+and penitence ~ language squeezed out of them as they find themselves
+grasped by God.
+
+#### The unutterability of God
+> ‘For if a man cannot look upon the sun, though
+it be a very small heavenly body, on account
+of its exceeding heat and power, how shall not
+a mortal man I be much more unable to face
+the glory of God, which is unutterable?”
+-- Theophilus of Antioch, To Autolycus*
+
+Consider someone illuminated by a bright light. The light shines on him
+and on everything around him, and enables him to see himself and his surroundings in new ways, and so to live in new ways in those surroundings. He
+can see the quality of the light by attending to how it shines on the different
+surfaces around him, and by paying attention to the way the shadows fall he
+can learn from where in the sky above him this light streams. In one sense,
+therefore, he can ‘know’ the source by seeing what and how it illuminates.
+But if he turns upwards, to face the source itself, the light will be blinding. He
+won't be able to see the source itself directly — not so as to see how it works, or
+how the light is generated in it. The light outstrips the capacity of his eyes, and
+they become useless, even though the searing blindness that he experiences
+is itself a sign that he is looking in the right direction. One ancient Christian
+writer described this as a ‘brilliant darkness’: a light so bright that it is tantamount to blackness.° Look directly at it and you can see no more than if you
+were left wholly in the dark.
+
+This, too, is a metaphor that will only roll so far. Nevertheless, Christian
+theologians have often stressed that alongside the kind of knowing of God
+that I discussed in the previous chapter, a proper account of the knowledge
+of God must include this radical unknowing - this affirmation of the abiding
+unknowability of the source. ‘No one has ever seen God’ ( John 4.12; John
+1.18); ‘no one shall see me and live’ (Exodus 33.20). And this is no abstract
+conclusion forced upon Christians by speculative philosophers, denying
+something that Christians would otherwise have cheerfully affirmed, it is,
+rather, something that God is believed to have taught and to go on teaching. In the burning bush, in the prophecies of Isaiah, on the cross, God is
+weaning Christians from forms of knowing that have the nature of God all
+wrong.
+
+#### Bridled minds
+
+> ‘God, indeed, from time to time showed the presence of his divine majesty by
+definite signs, so that he might be said to be looked upon face to face. But
+all the signs that he ever gave forth aptly conformed to his plan of teaching
+and at the same time clearly told men of his incomprehensible essence. For
+clouds and smoke and flame (Deuteronomy 4.11) although they were symbols
+of heavenly glory, restrained the minds of all, like a bridle placed on them,
+from attempting to penetrate too deeply.’
+-- John Calvin, Institutes of the Christian Religion®
+
+Yet, Christian theologians have affirmed, God does indeed make Godself known. God reveals Godself, and God’s freedom does not trump God's
+faithfulness or promise. The knowledge in question is the kind of knowledge that I discussed in the last chapter: the knowing that is like knowing
+a piece of music; the knowing that consists in participation in what God is
+doing; the knowing that finds its object most clearly displayed not in an
+abstract definition but in an ensemble of lives being made holy. The negative
+declaration of God’s unknowability is nothing more than the declaration
+that this kind of musical, living, participatory knowledge is the only kind of
+knowledge of God available. God makes Godself known, and in that very
+process makes known God's unknowability outside of this provision. God
+cannot be known in anything other than the ways in which God makes Godself known.
+
+The question remains, however, whether this form of knowing leaves
+Christians any kind of speech about God? Does this kind of knowing allow
+Christians any direct description or definition of God’s nature? Perhaps appropriately, in a discussion that focuses on forms of language other than direct,
+literal description, I am going to begin my answer to that question with an
+extended parable.
+
+#### Key points
+
+* All representations of God contain the possibility of idolatry.
+* If by ‘know’ we mean ‘grasp fully, define and explain’, then God is
+unknowable.
+* Christians nevertheless believe that God makes Godself known.
+
+### Acknowledging the sun
+
+There was once a king who sought a counsellor who would understand the
+workings of the natural world. Many men and women applied for the post,
+but any appearance of knowledge or wisdom crumbled under his questioning, and he sent each of them away. One day, his servants told him that another
+applicant had arrived, that she was waiting in the Great Hall - and that she
+seemed promising. The king quickly made his way there from his chambers
+and, without any greeting, as soon as he had opened the door, he asked her:
+‘Tell me, madam, what is the sun’?
+
+‘It is a vast fire, sir, suspended in the emptiness of space’
+
+His face fell. ‘Well then, tell me more. Is there air in space?’
+
+‘No, sir, I don’t believe there is. Ah, I see your problem: fires need air to
+burn, so how can the sun be a fire in airless space?’
+
+‘Quite, quite. And what of fuel?’
+
+“Fuel, sir?’
+
+“Yes - fires need fuel. What fuel is burnt by the sun? Where does it come
+from?’
+
+‘A good question, sir. I answered hastily ~ the sun, I meant to say, is like
+a vast fire, and we may think of it imaginatively as being “suspended” in
+space!
+
+‘So can you, then, tell me what the sun really is?’
+
+The woman fell quiet for a while, and then looked up at him with a smile.
+‘No, sir, [do not know what the sun really is. At least, I cannot tell you what
+the sun really is, but—’ she hesitated for a moment, and then continued, ‘I can
+show you. Would you come with me, sir, over to the balcony?’
+
+He was sufficiently intrigued to walk with her through the doors that
+opened on the East side of the room, onto the hall balcony. He glanced up
+at the morning sun, trying to glimpse something of its true nature — but as
+always the glance half-blinded him: he did not see the sun so much as the
+dancing spots that the glare left in his eyes. ‘I can barely look at it, madam
+--and the same is true of you, I suspect’
+
+‘Of course, sir, but that is not what I meant. Staring at the sun will not
+answer your questions about it, But you can feel its warmth, can’t you?’ He
+could, even through the breeze. ‘And look out at your kingdom, sir: you may
+not be able to look at the sun, but the sun enables you to look at all this. That’s
+what the sun is: the source of the warmth on your skin, and the light by which
+you see the world. You may not be able to know the nature of the sun directly,
+but you can know yourself and your world as bathed in its light’
+
+His grunt might have indicated approval, but after a moment he said, ‘Very
+good, madam ~ but that is not enough. Anyone can feel that warmth and see
+in that light. I've been hoping to find an expert, someone who can tell me the
+suns secrets. I was hoping you might be such an expert
+
+‘No, sir, not me.’ She paused again, and then continued, ‘but I do know
+where to find such experts. Look over there, and tell me what you see’ She
+pointed out at the landscape spread below them. He looked, and saw nothing
+but the spreading fields and his people at work on them. He frowned. ‘Who
+out there is an expert on the sun, madam? Don’t play games!’
+
+‘Over there, sir — those people in the fields. They work every day under the
+sun, and know what it feels like in every season. They work every day with the
+sun, and know when to plant and when to harvest, when to work in the fields,
+and when to stay in the shade, how to cover their heads to keep themselves
+cool, and how to treat themselves if they get burnt. If you want to know what
+the sun is, look at them. Or, better, go out there in the fields with them and
+start learning its ways. You won't necessarily find any new words for the sun
+in that way — you may still only be able to call it a vast fire hanging in space,
+knowing all the while that those words are inadequate ~ but you will know
+the sun, nonetheless’
+
+The king thought for a while, caught between a feeling that he was being
+cheated of a real answer to his question, and a building admiration for her
+response. After a minute or two staring down at the baked fields, he spoke
+again. ‘But is there nothing you can say directly about the sun -- no description that you can offer me that is not pictorial and inadequate”
+
+‘Weil, yes, in a way. I have already done so, have I not, by describing what
+the sun is not. It may be like a fire, but as you demonstrated a moment ago we
+know quite firmly and clearly that it is not a fire in any sense we understand.
+More positively, though, I suppose we could also say quite firmly that the sun
+is the source of the heat and light that you feel and see with, and that those
+people are working with. That is a direct statement about the sun, even if we
+don’t know how the sun is the source of these things’
+
+“Yes, yes - but the first is knowledge of what the sun is not, rather than
+knowledge of what the sun is.’ He paused, and then continued, ‘And the
+second does not really add anything to what you said before: it simply repeats
+your claim that the people in the field know the sun. Or rather, it gives the
+name “sun” to what the people in the field know. It is really a statement about
+their knowing of the sun, isn’t it, not a statement that tells me directly what
+the sun is. Is there nothing else you can offer me?”
+
+When she spoke again, it was with a half smile: “Yes, sir, I have one more
+thing. Though I do not think it will satisfy you. The people down there in the
+fields tell all sorts of stories about the sun: that it is a golden apple thrown each
+morning by an imprisoned hero to his no-less imprisoned heroine; that it is a
+boat sailing across the sea with a burning sail, that it is ~ yes - a huge fire lit by
+the Gods to warm the earth, but that the demons sometimes steal the fuel and
+sometimes pile too much back on, trying to freeze or burn the earth. They don’t
+seem to mind that the stories contradict one another. But those stories, sir, are
+important: they are part of the way in which those people learn how to live with
+the sun; they shape their imaginations, and so shape their actions. Because of
+those stories, people do know the sun not only in what they do, but in what they
+think and say, and their knowledge is true knowledge, sir, even if their words
+and stories are not ones that we could claim speak directly of the sun.
+
+‘Will that do, sir?”
+
+The king paused before answering. He was still not satisfied: these were
+not the kinds of answers he had been hoping for. But he could not think of
+another way of asking his question, and in any case was now too distracted by
+the thought that he had no idea what salary it was appropriate to pay to this
+woman once he appointed her.
+
+### Pragmatic, propositional and imaginative
+
+In this parable, the prospective counsellor offers the king three ways of speaking about the sun. Those three ways are analogous to three kinds of Christian
+talk about God.
+
+The first kind of talk I call ‘pragmatic’ because it is focused on activity”
+The prospective counsellor explains to the king that although she cannot tell
+him directly about the sun, the workers in the field do know about it - and
+their knowledge is shown in the patterns of their activity, the shape of their
+lives. She only gives the sketchiest possible outline of the sort of thing she
+means ~ they ‘know when to plant and when to harvest, when to work in the
+fields, and when to stay in the shade’ ~ but if she had wanted to tell the king
+in more detail what the workers know about the sun, she could have done
+so by describing their lives, their practices, in more detail. And that is what
+Imean by ‘pragmatic’ language: the kind of theological description that, as a
+way of speaking indirectly about God, speaks about the shape and texture of
+lives that respond to God. Christian theology can speak about the patterns of
+Christian life - of prayer, of worship, of mission, of reading, of relating ~ with
+the conviction that God is the reality to which that patterned life is a response.
+In the previous chapter, this was what I was suggesting: I was refusing to talk
+too directly and independently about God’s love, and instead saying that one
+must attend to lives that have been and are lived in response to that love. Such
+lives, I said, are the best, the most direct language about God that Christians
+have: God is known in the lives of all those individuals and communities
+who have heard the call of God, who have begun to learn Christlike love and
+justice, and who therefore display the identity of God. Pragmatic description of
+such lives is therefore the best, most direct way that a theologian’s words can
+speak about God. Everything else is commentary.
+
+---
+#### Cultural-linguistic theology
+
+The American theologian George Lindbeck has suggested
+that Christians be thought of as analogous to a people
+who have a distinctive culture, and who speak a
+distinctive language. Think of an anthropologist
+visiting a remote island tribe whose language and
+culture are uncharted. The theologian's job, Lindbeck
+suggested, is like the job of this anthropologist:
+he must get to know this people's culture and language,
+trying to reach the point where he can understand both
+the language and the patterns and rules that govern the
+culture in which that language is embedded --
+discerning the cultural as well as the linguistic
+‘grammar’ that shapes this people’s life. Doctrines,
+for Lindbeck, are not primarily statements of theories
+about God’s nature; they are ways of stating some of
+the rules by which this people governs its behaviour.
+It is only, he says, the lives that are governed by
+these doctrinal rules that should be thought of as
+making a claim about the nature of God.*
+
+---
+
+The second kind of language I am calling ‘imaginative’. The prospective
+counsellor referred to the stories and metaphors that enable the workers in
+the field to pass on their understanding of life in the sun. This richly varied,
+extravagantly imaginative language is not mere decoration that could be
+abandoned without real loss to the substance of their understanding; it is a
+necessary part of how their understanding is shaped. In fact, the use of this
+imaginative language is one of the practices by which they relate to the sun:
+it is one of the practices that pragmatic language about them will describe.
+A pragmatic description will focus on their saying of these things, and the
+role taken by that saying in the overall shape of their lives. The imaginative
+language itself is the content of what they say: the stories and images and
+metaphors and parables that place in a communal store their wisdom about
+the sun.
+
+The case with Christian language about God is similar. Christianity boasts
+a lush and extravagant growth of imaginative language about God. Such language is not dispensable; it is not mere decoration, or a sop for the hard of
+thinking. It shapes the imaginations of those who use it, and so shapes the
+lives that they live — and so it plays an indispensable role in sustaining and
+shaping the way that their lives respond to God.
+
+Human beings are, after all, imaginative creatures, and inhabit the world
+by imagination. To be active in the world requires us to see the stuff around
+us not simply as a bewildering variety of pure sense-impressions, but to see
+it as a world of objects or circumstances with which we can interact. This
+‘seeing as’ is a matter of imagination, and that imagination is shaped by metaphors and parables and stories more powerfully than by apparently direct,
+literal description. Staring in front of me now, I see a patch of grey with a
+strange, luminous patch of blue within it, and within the patch of blue a white
+rectangle speckled with black marks. Or rather, that’s not what I see, unless
+I take my glasses off: I actually see a computer monitor, with a blue desktop
+pictured on it, and a white document on that desktop, covered with writing.
+I see it, in other words, as something I can understand and work with — as
+containing possibilities for action. My ability to see it in this way, and so my
+ability to engage with it, is shaped by my having learnt various metaphors,
+similes and stories: I see the blue desktop as being like a physical desktop,
+a space on which I can arrange my work; I see the white patch as a piece of
+paper on which I am typing ~ and so on?
+
+In just the same way, one could think, for instance, of Rowan Williams
+speaking of God loving ‘the reflection of his love within creation; he cannot bear to be separated from it and goes eagerly in search of it, hungry to
+find in the created “other” the reality of his own life and bliss’. Eagerness,
+hunger, inability to bear separation ~ these are words fit for finite human
+lives, words that are clearly inadequate when applied to God; and yet this
+inadequate, extravagant image is one that enables the reader to see the love
+of God in a new light, and so to respond to it and live with it in a new way.
+By making possible a richer lived response to God, it enables truer reference
+to God.
+
+ 
+
+The third kind of Janguage I am calling propositional.” It is the kind of language that tries to set down in unambiguous language clear statements of fact
+about God. Its statements can then be subjected to careful logical analysis to
+see what does and what does not follow from them.
+
+You will have noticed -- and, after the last chapter probably not have been
+surprised — that the prospective counsellor is rather evasive about using this
+kind of language. There are direct statements in what she says, however, and
+they are direct statements that say something about the sun. What she says is,
+in fact, full of such statements.
+
+On the one hand, she makes clear claims about what the sun is not, saying for example that ‘it is not a fire in any sense we understand’. Yet she uses
+such language to ensure that the king will not be tempted to look for the
+wrong kind of statement about the sun. Her propositional statements both
+warn against thinking that there are direct, positive ways of speaking about
+the sun, and warn against taking imaginative language as if it were literal
+description. Nevertheless these statements do convey something, however indirectly, about the sun itself.
+
+On the other hand, she spends a lot of time making the more positive claim
+that the king himself in minor ways, and the workers in the fields in richer and
+more complex ways, are genuinely responding to the sun. Her explanation of
+that is full of direct statements: she says things like, ‘the sun is the source of
+the heat and light that you feel and see with, and that those people are working with’, As the king points out, however, what she says simply ‘gives the
+name “sun” to what the people in the field know, and it is really a statement
+about their knowing of the sun ... not a statement that tells me directly what
+the sun is’. Even though her propositional statements do make claims about
+the sun, and do so quite definitely and in one sense informatively, the claims
+are once again made indirectly.
+
+You may recognize some of what I said in the last chapter and earlier in this
+as belonging squarely in this propositional camp. Most obviously, there was
+my claim that ‘God’ is the name of the source of the Christlike love and justice
+that flows through people’s lives. That is a positive propositional claim, and it
+is definitely a claim about God, but it is not itself a direct description of God,
+It is a statement about where one can find something like a description of God:
+look to the lives of those caught up in God’s life.
+
+On the other hand, there is my negative propositional claim that God’s own
+love is beyond human imagination and understanding, like the sun whose
+light we can see when it shines on the world around us, but which blinds us
+when we look towards it. That is equally clearly a kind of claim about God,
+but it is a negative one: it says who or what God is by denying that one’s normal ways of naming and understanding realities in the world work in God's
+case.
+
+In the kind of theology I am exploring in this book, propositional language
+is most at home in these indirect modes, talking about God by explaining
+why in God's case one should not look to one’s normal ways of grasping and
+explaining reality but instead should look elsewhere ~ to the lives described
+in pragmatic language and to the imaginative language employed in those
+lives.
+
+---
+#### Propositionalism
+
+Some theologians, of course, believe that propositional claims can do a great
+deal more than this. They hold that it is possible to speak much more directly
+and much more fully about the nature of God's life in a propositional idiom,
+setting down clear definitional statements about who and what God is. The
+philosophical theologian Richard Swinburne, for instance, at the start of his
+book on The Existence of God, states:
+
+I take the proposition ‘God exists’ (and the equivalent proposition ‘There is
+a God’) to be logically equivalent to ‘there exists necessarily a person without a body {i.¢., a spirit) who necessarily is eternal, perfectly free, omnipo
+tent, omniscient, perfectly good, and the creator of all things.’
+
+Chapter 2 has already shown what I think of this. I believe it makes better
+Christian sense to see this kind of apparently direct, positive claim about God
+as in fact a commentary upon or summary of that deeper Christian knowledge
+of the love of God that is found in Christian lives.
+
+Let me give an example. if Swinburne is asked to expand on what he means
+by ‘omnipotent’, he says:
+
+By God's being omnipotent, I understand that he is able to do whatever it is
+logically possible (.e., coherent to suppose) that he can do.
+
+Later in this book (in Chapter 10), when i expand on what I think ‘omnipotent’
+means, I say:
+
+if I say, for instance, that ‘God is omnipotent’, I won't understand what that
+means by trying to come up with an abstract definition, and then arguing
+about what God must be able to do. I will discover what those words mean
+as I iearn what it means to live with the trust that there is no situation in
+which God's love fails, no reality or extremity in which God's love is extinguished or finally defeated.
+
+That is, I take this sort of apparently direct, positive proposition ‘God is omnipotent’ as no more than a convenient shorthand for something more complex: a ‘pragmatic’ description of a pattern of Christian life and imagination,
+coupled with the propositional claim that this aspect of Christian life truly
+‘responds’ to God. To treat it as a straightforward definitional claim as Swinburne does is, I believe, to mistake the kind of knowing of God that is available
+to human beings.
+---
+
+So, there are at least three different kinds of language at work in Christian
+theology: pragmatic, imaginative and propositional. Pragmatic language
+describes lives; imaginative describes the imaginations of the people living
+those lives; and propositional claims comment on the other two, making
+direct claims about what those lives and imaginations amount to.
+
+---
+#### Exercise
+
+Try putting this threefold division to work. Either keep it in mind as you read
+through another chapter of this book, or read some other theology book, asking whether you can distinguish these three kinds of discourse — pragmatic,
+imaginative and propositional — and whether it helps to do so.
+
+--- 
+
+#### Key points
+
+* Christian theology involves ‘pragmatic’ language: the description of the
+image of God in Christian lives.
+* Christian theology involves ‘propositional’ language: statements that aim.
+to speak clearly and directly about God.
+* Christian theology involves ‘imaginative’ language: description of the
+stories and metaphors that help shape Christian imagination, and therefore
+Christian life.
+* Propositional language, in the kind of theology I am exploring, is mostly
+used to lay out ground rules for other ways of referring to God.
+
+### Imananence and economy
+
+One day, when the new counsellor was dining with the king, she reminded
+him of their conversation about the sun. ‘Sir’, she said, ‘I have been thinking
+further about our knowledge of the sun. I wrote a letter to an astronomer I
+know ~ a man who spends all his time either observing the stars and planets,
+or developing mathematical models of how they move. He suggested a distinction that I had not thought of before’
+
+‘What distinction is that?’
+
+‘Well, think about the workers in the field, and all the things they know
+about the sun’
+
+“Yes, yes: they know about its heat, its light, the patterns of its rising and falling, the changes in its strength throughout the year. We discussed all this.’
+
+‘Well, sir, my astronomer friend pointed out that not everything they know
+is of the same kind. The heat that they know, for instance, is truly the heat of
+the sun - even if they can have no idea of how the sun produces that heat,
+or what the heat of the sun itself is like all the way up at the sun itself. Even
+though the bearable heat that they feel, live with and respond to is very dif
+ferent from the unimaginable fire of the sun’s own heat, they are right to think
+that the sun itself is, in some sense, hot — and to understand that hotness by
+analogy with the heat they themselves feel’
+
+“You do like making things complicated, don’t you. I think I understand so
+far, though. Carry on!’
+
+‘He pointed out, sir, that many of the other things that the people know
+work rather differently. Take the rising and setting of the sun, for instance.
+
+The sun itself does not rise and set; it is thanks to the turning of our world
+that we experience the sun as rising and setting, Or the strengthening and
+weakening of the sun over the seasons: that has, he says, to do both with the
+tilt of our world’s axis, which means that the sun’s path through our skies is at
+some times of the year more directly overhead than at other times; and it has
+to do with the path that our world takes around the sun, sometimes closer to
+the sun and sometimes further away’
+
+‘I see your meaning. These things that the people know, they are facts about
+how we and our world relate to the sun, and not facts about the sun itself? Yes,
+yes, I see that. Sunset, sunrise, the seasons. Of course the sun itself does not
+move up and down; it does not grow hotter in summer and cooler in winter
+~ it is constant. But, yes, the path that we take around it is so arranged that we
+experience it in these changing ways’
+
+‘Yes, sir’
+
+‘Ah, but has your astronomer friend noted that we take that path because
+of the sun, though? If I understand these matters aright, our world is held
+on its path around the sun by the sun. The movement we have that makes us
+experience the sun as rising and setting, strengthening and weakening, is a
+movement arranged by the sun, a movement the sun has given us?"
+
+‘Very good sir! I had not thought of that. I will write to him again at once’
+She had learnt already that, even with this genial monarch, a little flattery
+now and then was a sensible precaution. After all, she did not want the sun to
+set any time soon on her position as counsellor.
+
+This story can help us to make an important distinction, between claims about
+the sun as it is experienced in the lives of the people and claims about the sun
+as itis in itself, On the one hand, there are what we call ‘economic’ claims, not
+because they have anything to do with any financial arrangements, but because of an older sense of the word ‘economy’. It comes from the Greek words
+oikos, meaning household, and nomos, meaning law, and could refer to the way
+someone puts their domestic affairs in order, the way that someone makes
+provision for his or her family. So ‘economic’ claims are, in this context, those
+that focus on the patterns into which the sun has arranged the lives of those
+who respond to it. How does the sun appear to those people, and how is the
+nature of the sun seen in the way that their lives are arranged?
+
+On the other hand, there are ‘immanent’ claims. They are claims about what
+the sun itself is truly like, regardless of the position of the people making the
+claims. Immanent comes from the Latin immanere, to dwell or remain within,
+and can mean both ‘indwelling’ and ‘inherent’. Here it is the latter that is in
+view: what properties are really inherent in the sun? What properties dwell
+not in the relationship between sun and observer, but in the sun itself?
+
+ 
+---
+#### The ambiguity of immanence
+
+There are two different uses of the word ‘immanent’ in theology, and they
+should not be confused. On the one hand, there is the usage I am sketching
+at the moment: ‘immanent’ is used in contrast to ‘economic’ to speak about
+I what is true of God in and for Godself. On the other hand, ‘immanent’ can also
+be used in contrast to ‘transcendent’ to talk about God's presence in and to
+God's creation — God's closeness or intimacy to the worid. It is particularly
+important not to confuse these two meanings as they are almost direct opposites, one having to do with God considered in abstraction from any relation
+I ship to the world, the other having to do precisely with the intimate quality of
+that relationship.
+
+---
+
+In my story, claims about the heat of the sun are both economic and immanent.
+On the economic side the heat of the sun is something that the people experience, that they know and work with in their daily lives. Yet on the immanent
+side the astronomer claims that the people experience this heat from the sun
+because the sun is itself hot. The heat that the people experience and the heat
+that the sun has in itself might be of vastly different orders of magnitude, and
+the sun’s inherent heat might be impossible to imagine properly (no one, after
+all, could ever experience it because to experience it would be to die); nevertheless, the two are intimately connected. The sun’s immanent heat produces
+the economic heat that the people feel, and because of that connection, the
+economic claim that the sun feels hot can become the immanent claim that the
+sun is hot.
+
+Claims about the sun rising and setting, however, are only economic. The
+people can rightly claim that the sun rises and sets — but what they are
+talking about is only the sun-as-seen-from-their-vantage-point, the
+sun-as-theyexperience-it. The economic claim ‘the sun rises and sets for
+us’ cannot be turned into the immanent claim ‘the sun itself inherently
+rises and sets’. Someone who lived not on a rotating planet but on a
+planet that always turned the same face towards the sun would not
+experience the sun as rising and setting:
+it would be a constant presence, always in the same quarter of their sky.
+
+Alongside this talk about the sun that is only economic, and alongside the
+talk that is both economic and immanent, could one have talk that is only
+immanent? That is, could one have talk about what the sun is inherently like
+that was not at the same time talk about some aspect of how the sun appears
+in human lives? One might think, perhaps, of the theories of the astrophysicists, which declare that the sun has an inner core taking up about one fifth
+of its diameter, that this core has a density of some 150,000 kilograms per
+cubic metre, and that it is powered by a fusion reaction that converts hydrogen to helium. Even these, of course, are claims based on empirical data, and
+so claims that have their roots in some rather refined aspects of how the sun
+appears in our lives. The chains of analysis and disciplined speculation involved in developing these claims from that data are so long and tangled,
+however, that there remains very little direct sense in which claims about the
+size, density and nature of the sun's core are also claims about how we relate
+to and experience the sun. The economic base of these claims has been left so
+far behind that they have almost achieved pure immanence.
+
+Of course, no one uses the words ‘immanent’ and ‘economic’ when talking about
+the sun: they are theological terms used when talking about God.
+‘Economic’ refers to God's ‘economy of salvation’ — the arrangements that God
+has made for God’s world, and the knowledge that God’s people have in that
+economy of who God is for them: how God appears to them, from their vantage point (a position or vantage point that God has given them). ‘Immanent’,
+on the other hand, refers to what God is in Godself; God’s inner or essential
+nature ~ what God is like not just when seen from one particular vantage
+point, but absolutely.
+
+On page 58, I asked whether Christian theology allows any kind of direct
+description or definition of God’s nature. I can now rephrase that question.
+Most of what I said in the last chapter was focused on the economic level, in that
+it had to do with who God appears to be in the lives of believers, or how the
+lives of believers constitute a kind of claim about who God is for us. I have also,
+in that chapter and this, been insisting on the unknowability of God — that is,
+the idea that direct, clear statements about God's nature are deeply problematic. In other words, I have been denying that God’s immanent life is a reality
+that one can easily or straightforwardly talk about. So, the question that faces
+us now is, ‘Does Christian theology allow one to say anything about who God
+is immanently ~ or does it abandon the attempt, and allow God’s imrnanent life
+to remain wholly swathed in mystery?’ I may say, economically, that to learn
+to know God is to learn to know oneself and one’s world as bathed in God's
+love, and that to know God is to learn to recognize oneself and one’s world as
+called to participate in that love. But can I go further, and say that God is love,
+immanently - that this love characterizes God's essential nature?
+
+#### Key points
+
+* In theology, ‘economic’ description of God refers to God as he is experienced, learnt and responded to by Christians caught up in the ‘economy of
+salvation’.
+* God's ‘immanent’ life is what God is in Godself.
+
+### Analogical language
+
+Imagine that you have a CD player with one of those graphic displays on
+which there are several columns of coloured lights showing you the levels of
+sound being put out at different frequencies. Imagine that you have sucha CD
+player in front of you, but that the speakers are disconnected, so that no sound
+is audible. Imagine that there is a CD in the player, and that you have pressed
+‘play’. No sound comes out, but the display is working, so you see the various
+columns of lights pulsating up and down, sometimes staying quite low and
+green, sometimes becoming taller and acquiring red tops.
+
+In other words, you have a CD player equipped with visualization equipment, and what you see on that equipment has to do in general with that
+equipment’s features, its connections and components. But what you see
+when this specific music CD is played is what happens when the connections
+and components of this equipment are taken up and used by this music: the
+music conforms this equipment to itself, and makes this utterly unmusical
+equipment (equipment that plays lights, not sounds) communicate something
+of the music.
+
+You could describe the visual display that this equipment produces using
+words appropriate to the visual world: ‘This bit of the music is very tall; this
+bit has lots of red; in this bit the column tops slope down to the right, in this bit
+they slope to the left; in this bit the whole thing is very jumbled up. ...’ These
+are the spatial, visual words appropriate to the visual display, and they are
+not musical words as such; they don’t tell us directly about the music (unlike
+words like ‘loud’ or ‘quiet’ or ‘rumbling’ or ‘deep’). These visual words are adequate to the visual display, but they are decidedly inadequate as descriptions
+of the music: what would it mean to say that music was tall, red or sloped?
+Were you finally to connect the speakers, the music you would hear would
+utterly exceed this visual language that you have now developed for it.
+
+And yet, because the graphical display is a faithful representation of the
+music, the description that you offer of it can, in a way, be true of the music.
+It is capable of getting hold of something real about the music; there is some
+feature of the music, some real feature, that corresponds to each of the words
+that you use to describe the display. When the columns are taller on the right
+than on the left, that does mean something about the music. When there is a lot
+of red on the screen, that does mean something too.
+
+Something a little like that is going on in the move from description of the
+economy of salvation to claims about the immanent nature of God. A Christian
+can attend to and describe the patterns of the economy — the processes in his~
+tory and in her life by which she believes God has addressed the world and
+begun to draw it into that love and justice which are God’s life. She can speak
+and think about this economy using the pragmatic and imaginative language
+appropriate to it: language appropriate to a sequence of events and relationships lived out in time; language appropriate to human imaginations.
+
+She can, however, believe that this economy is like the pulsating of the CD
+player's lights: it is a faithful transcription of the melody of God’s immanent
+life, a transcription that is true to that life, even though it is a transcription for
+a medium utterly different from that life. This transcription does not make
+the immanent life of God fully knowable and graspable, any more than flashing lights let one hear a CD’s music ~ but it does make possible some kind
+of true knowledge of that life. The full, unimaginable reality of the immanent life of God exceeds the economy just as surely as the music of Beethoven
+pouring out of the speakers would exceed the lines of green and red lights
+winking on and off on the front of a CD player ~ but she can claim that the
+immanent nature of God, while remaining utterly beyond her, is nevertheless
+truly given to her in the economy.
+
+This picture of Christian speech about God suggests that one can arrive
+at a description that is in some sense true of God, even if the reality that one
+is describing so far exceeds one’s ability to describe it that one cannot know
+how one’s description is true. This is called ‘analogical’ speech: it works on the
+basis that there is an analogy or similarity between what one says using frail
+human words and God’s immanent life, even though any such similarity is
+qualified by a still greater dissimilarity: the dissimilarity between God’s life
+and the life of the world. The heat of the sun that I feel is analogous to the
+heat of the sun itself, even though the heat of the sun itself is not something I
+could possibly imagine: it exceeds the limits of what could be experienced by
+bodies like mine.
+
+On reflection, this might seem a rather useless claim. Of what use is a true
+description of God if one cannot know what it means for it to be true — if the
+reality to which it points remains ungraspable? Christian theologians have
+replied that such description can be of use precisely because the primary purpose of one’s talk about God is not the development of accurate description,
+nor the provision of explanatory theories or models of God. Christian talk
+about God is an ingredient in the processes by which Christian lives are conformed fo God. The claim that Christian speech about God can, despite God’s
+unknowability, be analogically true speech about God's immanent nature is
+simply one aspect of the broader claim that Christian life in response to God
+can, despite God’s unknowability, be life that is truly being drawn to share in
+its own way in the immanent life of God.
+
+The claim, as it were, is that the visual display is genuinely plugged into the
+music, such that someone whose attention and language is kept in conformity
+to that display is himself (in a sense) plugged into that music. Similarly, by the
+grace of God’s action in the economy of salvation, Christian language can be
+genuinely plugged in to the music of God’s immanent life, and so Christian
+life that is guided and shaped by this language can be genuinely plugged in
+to that divine music.
+
+‘The kind of knowledge of God available to human beings, according to this
+theology, is not primarily a matter of accurate description or convincing explanation: it is primarily a matter of lives caught up to share in God’s life. But
+within that kind of knowing-by-living there can, nevertheless, be a certain
+kind of theoretical knowing, a certain kind of ability to describe God, a certain kind of ability to speak the truth about God ~ a way of speaking that, even
+though it is limited and inadequate, can be meaningfully claimed to be true.
+
+#### Key points
+
+* Christian theologians have claimed that the economy of salvation is a transcription into creaturely terms of God's immanent life.
+* They have claimed that to be caught up in this economy is therefore, in a
+sense, to participate in the immanent life of God.
+* They have also claimed that the speech about God that the economy makes
+possible can be true speech about God's immanent nature.
+* Such speech is true only analogically, however, and believers cannot know
+how what they say applies to God.
+
+### Love all the way
+
+Why should it be important to make this claim? Once the distinction between
+‘economic’ and ‘immanent’ has been made — the distinction between God as
+God is in Godself, and God as God appears to or engages with the world—why
+should anyone insist that Christian response to God, Christian life in relation
+to God, somehow connects with or shares in the immanent life of God?
+
+As my parable about the sun suggests, to say that some claim about God
+is purely economic would be to suggest that what one sees of God from this
+vantage point might change were one to move to another vantage point. That
+is, to say that something is purely economic would be to say that, in principle,
+one could be in some time or place or situation or state from which that something would not be true of God — just as one could be on a planet from which
+the sun could be seen not to rise and set.
+
+To insist that the claim that ‘God is love’ is not simply economic, but applies
+analogically to God’s immanent life, is to claim that there is no imaginable
+vantage point from which God will not be seen to be love. There is no place
+that one could go to, no time at which one could arrive, no situation in which
+one could find oneself, in which God would be anything other than love. God
+is love all the way down.
+
+That may sound like the kind of statement that nobody could disagree
+with. Yet if you think back to the previous chapter (or if you read on into
+the next), you will remember that, for Christian theology, the true meaning of love is found in Jesus of Nazareth. For a Christian theologian, to say
+that God is love all the way down is to say that God is Christlike all the way
+down. ‘God is Christlike and in him there is no unChristlikeness at all’, as the
+twentieth-century Anglican theologian Michael Ramsey said." God, according to Christian theology, is immanently Christlike.
+
+---
+#### Against elitism
+
+There is another reason for insisting on the link between an economic understanding of God and God’s immanent life. it is that link that ensures that the
+understanding of God found among ordinary believers — the workers in the
+fields, who know how to live with and respond to God’s love — is a knowledge
+that gets to the heart of who God is. There is not some different kind of knowledge available only to theological experts who have got beyond the economic
+level, a knowledge that leaves behind the naive level of ordinary believers and
+grapples with the real nature of God. The love of God that ordinary people
+know goes all the way down, and the only ‘experts’ are those who know most
+deeply that they are loved, and love most deeply themselves. Those are forms
+of knowledge that do not necessarily go with academic prowess or ecclesiastical preferment.
+
+--- 
+
+‘To insist that God is love, that God is Christlike, ‘all the way down’ - that
+to learn at Christ’s hands the love of God is to learn the immanent heart of
+God — is to believe that one need have no hesitation about making a lifelong
+commitment to this way of learning God. This is a pathway, Christians trust,
+that goes all the way into the heart of God, and travellers along this path will
+never reach a time or a place where it peters out and leaves them stranded.
+To bind oneself to this pathway, to make the lifelong investment of time and
+energy and attention that is involved in taking it with utmost seriousness, is
+not to keep oneself to the economic shallows: it leads on, Christians believe,
+into the immanent depths.
+
+#### Key point
+
+* To claim that God makes God’s immanent life known in the economy is to
+claim that what Christians learn about God in the economy can be trusted
+in all times and places.
+
+### The analogy of love
+
+In the light of all this, 1 can say more precisely what is going on when
+Christians make the statement, ‘God is love’
+
+1. In the first place, ‘love’ is a word that people learn in the midst of finitude
+— by being loved by parents or carers, by reading love stories, by falling in
+love, by loving their children, by living their lives. There is no one definition of ‘love’ that captures all of these; rather, people learn to use the word
+‘love’ differently, but more or less appropriately, in each of a kaleidoscope
+of human activities, situations and relationships. The uses of the word
+‘love’ that people learn are not simply ‘univocal’ fall meaning exactly the
+same thing); neither are they simply ‘equivocal’ (meaning several completely unconnected things). They are, rather, ‘analogous’: connected by various
+degrees of resemblance. ‘Love’ is already a stretchy word.
+
+2. To say ‘God is love’ is to attempt to say something about God’s immanent
+life. But to apply this word to God is to stretch it far beyond its ordinary
+limits ~ unless one starts imagining that God is simply a big version of
+a human being, with emotions and understanding and conumitments that
+work in much the same way that ours do. Christians are certainly called
+by God’s economy of saivation to imagine God as the one who loves the
+world passionately and consumingly, who is so given over to love that there
+is nothing in God that is not love. And yet they are also called to imagine
+one who loves purely ~ that is, one who loves without selfishness, without
+particular interests, without an ego that is fed or advanced by this love. So
+although Christians have certainly said that ‘God is love’, and have normally regarded themselves as saying something about God’s immanent life
+when they do so, theologians have traditionally argued that Christians do
+not (and cannot) know quite what they are saying when they do so; they
+cannot imagine quite how love works in the case of God.
+
+3. Nevertheless, Christians are committed to using this word of God because
+of what God has done - loving them in Jesus of Nazareth, and beginning
+to draw them into Christlike love. That is something that they can grasp;
+it happened and happens in the finite world of people and things, which
+is the very world for which their words are suited. So Christians say ‘God
+is love’, not because they can imagine or define exactly how it is true - not
+because they can imagine or define exactly the God. who is loving - but
+because they trust God as the ineffable source of the love that encounters
+them in Christ, and catches them up into itself.
+
+4. Learning to say ‘God is love’ is therefore inseparable from the process by
+which Christians are taught what true love is by being loved truly. The love
+shown to them in Christ is not, they believe, simply one more example of
+love to set alongside all the others. It is the example of love ~ and learning to
+recognize oneself and the world around one as loved by this love begins to
+change one’s understanding of (and so practice of) love. This is a love that
+one learns by learning to become loving.
+
+5. Christian theologians have therefore affirmed that there is a sense in which
+‘love’ is a word used most properly of God (even though they cannot know
+how love works in God’s case), God is the source of perfect love, and God's
+love is the criterion for all human love. All a person's finite and imperfect
+loves are therefore given a standard outside themselves: they are called
+to account before God’s love. To say ‘God is love’ is therefore inseparably
+bound up with the critique of all one’s other ways of using the word ‘love’
+~ both the ways in which one has personally learnt (and sometimes mislearnt) how to love, and the ways in which one’s culture enshrines various
+ideas and confusions about love.
+
+---
+#### Love in culture
+
+Learning the meaning of love involves a journey into the resources and probjems of our culture. We are surrounded by images of love in books and films
+and television programmes and adverts and posters and songs. Some of
+them are good and some of them are dreadful; some of them are profound,
+and some of them have ~ to use a wonderful phrase from J. K. Rowling — ‘the
+emotional range of a teaspoon’.® The journey on which Christians learn what
+‘love’ means is a journey into discernment about all these images — a slow
+learning to differentiate between the help and the hindrance that each can
+offer. The field of ‘theology and culture’ (theological explorations of films
+and novels and television programmes and computer games) is not, as is
+sometimes suggested, a less-than-serious distraction from the real business
+of theology: it is an unavoidable part of learning the meaning of the word
+‘God’.
+
+--- 
+
+The statement ‘God is love’ certainly looks like a direct propositional statement about God. And to a certain extent, it does work like one: it conveys a
+kind of true information about God. But if my analysis of the nature of this
+analogical claim is right, it is not a statement that can be extricated from the
+Christian lives and imaginations that are its context. The claim ‘God is love’
+cannot be separated from the kinds of reality spoken of in pragmatic and
+imaginative Christian language. This is a statement about God’s immanent
+life only because it remains a commentary upon that economic reality.
+
+---
+#### Communicable and incommunicable
+
+Traditionally, a distinction has been made between ‘communicable’ and ‘incommunicable’ attributes of God. Love is a classic communicable attribute: as
+I have been emphasizing, it is an attribute that can in some sense be shared
+by God’s creatures. The same would be true for wisdom, justice, faithfulness
+and goodness, among many others; all of these work in the same way that
+lL have been suggesting ‘love’ works. On the other hand, an incommunicable
+attribute would be something like ‘omnipresence’ — an attribute that can’t be
+shared by God’s creatures. That does not mean that to speak of God as omnipresent is somehow to capture Ged more directly. God's omnipresence is just
+as thoroughly unimaginable as God’s love, and claims about that omnipresence are no less bound up with Christian lives and imagination. To say that
+‘God is omnipresent’ is best thought of as a commentary upon Christian lives
+lived in the faith that there is nowhere one can go to evade God’s presence,
+howhere one can find oneself where God’s love is not at work. There may be
+no meaningful sense in which Christians are called to become omnipresent
+themselves,” but even an incommunicable attribute like this is something
+that is best understood by looking to the patterns of Christian life.
+
+--- 
+
+#### Key points
+
+* To say that ‘God is love’ is to use a stretchy human word.
+* To say that ‘God is love’ is to stretch that word beyond its familiar limits.
+* To say that ‘God is love’ is to comment upon the way that God appears in.
+the economy of salvation.
+* Saying that ‘God is love’ is inseparable from the process by which Christians learn the nature of love.
+* God's love is the criterion for all human love.
+
+---
+#### Going further
+
+1. You can find a clear introduction to the nature of analogy in theological
+language in Brian Davies, An introduction to the Philosophy of Religion, 3rd
+edn (Oxford: Oxford University Press, 2003), ch. 7. David Burrell’s Analogy
+and Philosophical Language (New Haven: Yale University Press, 1979) and
+his Aquinas: God and Action (Notre Dame: University of Notre Dame Press,
+1979) are worth a look if you want a real mental workout.
+
+2. I have not said very much about the use of metaphor to speak about God.
+A good place to start further exploration of this topic is with Janet Martin Soskice, Metaphor and Religious Language (Oxford: Clarendon Press,
+4985) and Colin Gunton, The Actuality of Atonement: A Study of Metaphor,
+Rationality and the Christian Tradition (Edinburgh: T&1 Clark, 1988), ch. 2:
+‘Metaphor and Theological Language’.
+
+3. In discussions of the attributes of God, one in particular has caused a good
+deal of controversy: the impassibility of God — which can loosely be thought
+of as the idea that God cannot suffer. For a discussion of this attribute, see
+Thomas G. Weinandy, Does God Suffer?, new edn (Notre Dame: University
+of Notre Dame Press, 2000).
+
+--- 
+
+### Notes
+
+1. I will return to this in my discussion of the doctrine of creation, in Chapter 7.
+
+2. For more on God weighing up courses of action, see Chapter 10.
+
+3. See, for example, Paolo Zellini, A Brief History of Infinity (Harmondsworth: Penguin, 2005), Brian Clegg, A Brief History of Infinity: The Quest to Think the Unthinkable
+(London: Constable and Robinson, 2003) or Eli Maor, To Infinity and Beyond: A Cultural
+History of the Infinite (Princeton: Princeton University Press, 1987).
+
+4. Theophilus of Antioch, To Autolycus 15, in A. Cleveland Coxe (ed), Ante-Nicene
+Fathers, vol. 2 (New York: Christian Literature Company, 1885), p. 90, available online
+from the Christian Classics Ethereal Library, http://www.ccel.org/ccel/schaff/anfo2.
+v.html.
+
+5. Pseudo-Dionysius the Areopagite, Mystical Theology, 1 (997B) in Pseudo-Dionysius:
+The Complete Works, ed. Colm Luibheid (Mahwah, NJ: Paulist, 1987), p. 135. A different translation edited by Arthur Versluis, in which the relevant phrase is translated
+as ‘dazzling obscurity’, can be found in Esoierica 2 (2000), pp. 203-11, and is available
+online at http://www.esoteric.:msu.edu/Volumell/MysticalTheology.html.
+
+6. John Calvin, Institutes of the Christian Religion, vol, 1, Library of Christian Classics
+20, tr. Ford Lewis Battles (London: SCM Press, 1961 [from 1559 Latin textl), 1.11.3, p. 102.
+A different translation, by Henry Beveridge (Edinburgh: Calvin Translation Society,
+1845-6), is available online at the Christian Classics Ethereal Library, http://www.ccel.org/ccel/calvin/institutes.iv.ii.xii.html,
+
+7. Pragma properly means a thing that has been done, a deed, an act ~ so ‘pragmatic’
+means something like ‘related to action’.
+
+8. See George Lindbeck, The Nature of Doctrine: Religion and Theology in a Postliberal
+Age (Philadelphia: Westminster, 1984). For a good discussion, see Chad Pecknold,
+Transforming Postliberal Theology: George Lindbeck, Pragmatism and Scripture (London:
+Continuum, 2005).
+
+9. Graphical User Interfaces for computers are regularly discussed in terms of
+the ‘metaphors’ they employ. See, for example, Steven Johnson, ‘Is the computer
+desktop an antique: soon, Apple and Microsoft will need new metaphors for their
+operating systems’, Slate Magazine (10 Dec 2002), available online at
+http://slatemsn.com//?id=2075219.
+See also Tim Rohrer, ‘Metaphors we compute by: bringing magic to
+interface design’, Online Center for the Cognitive Science of Metaphor, 1995; available
+online at http://philosophy.uoregon.edu/metaphor/guigweb.htm.
+
+10. Rowan Williams, Ponder These Things: Praying with Icons of the Virgin (Norwich:
+Canterbury Press, 2002), p. 27.
+
+11. If the ‘pragmatic’ category is my way of trying to do justice to the culturallinguistic theology of George Lindbeck, the ‘imaginative’ is my way of trying to do
+justice to the work of some theologians normally considered his opponents ~ theologians like David Tracy, whom Lindbeck clumsily labelled ‘experiential expressivists’
+(see Lindbeck, The Nature of Doctrine, pp. 31-2). See, for example, David Tracy, The
+Analogical Imagination: Christian Theology and the Culture of Pluralism (New York: Cross
+road, 1981). ;
+
+12. I toyed with calling this form of language ‘ontological’ (ie. ‘relating to being’),
+because it is concerned with the making of direct claims about what (and whether)
+God is ~ but that sounded a little precious. It is my way of trying to do justice to at
+least some of those that Lindbeck would have labelled ‘cognitivist’ or ‘propositional
+ist’ (Lindbeck, The Nature of Doctrine, pp. 16, 92). _—
+
+13. Richard Swinburne, The Existence of God, 2nd edn (Oxford: Oxford University
+Press, 2004), p. 7.
+
+14. Swinburne, The Existence of God, p. 7.
+
+15. A.M. Ramsey, God, Christ and the World: A Study in Contemporary Theology (London: SCM Press, 1969), p. 99. This has implications for inter-religious dialogue, as we
+shail see: it means (if one takes it seriously) that such dialogue cannot operate by seeking a lowest-common-denominator understanding of God that takes the Christlikeness of God simply as a Christian way of seeing a God who is not inherently Christlike.
+In Chapter 12, I will explore the implications that such a claim has for the relationship
+between Christianity and other religions — and argue that it need not mean a rigid
+Christian exclusivism.
+
+16. J. K. Rowling, Harry Potter and the Order of the Phoenix (London: Bloomsbury,
+2003), p. 406. ,
+
+17. Although one could say that the call to proclaim the gospel everywhere is a call
+toa certain kind of omnipresence. For more on such proclamation, see Chapter 14, pp.
+345-8 below.
