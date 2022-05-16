@@ -26,7 +26,7 @@ how Christians can speak about God at all without falling into idolatry.
 I am going to:
 
 * suggest that, for Christian theology, God is in one sense strictly unknowable,
-but that in another sense God makes Godseif known;
+but that in another sense God makes Godself known;
 * claim that there are three broad types of Christian language about God: pragmatic, propositional and imaginative;
 * introduce a fundamental distinction between God's immanent life and God's
 economy (or the economy of salvation); and
@@ -89,9 +89,10 @@ mist; return to me, for I have redeemed you.
 ---
 #### Exercise
 
-Before reading on, think about this passage from !salah. What does the author
+Before reading on, think about this passage from Isaiah. What does the author
 of this passage condemn, and what does he praise? What implications might
 this polemic have for Christian attempts to witness appropriately to God?
+
 ---
 
 In the previous chapter, I argued that freedom and faithfulness -- God’s freedom to transcend any definitions arrived at by God’s people, and God’s faithfulness to the promises declared to those people in the past and in the present
@@ -112,8 +113,8 @@ In one corner, then, we have the true witnesses who rest in the hands of
 their God; in the other, the false witnesses who hold their god in their hands.
 There is a twist in Isaiah's oracle, however. God says to those who are being
 addressed directly and comfortingly as true witnesses, ‘I have swept away
-your transgressions like a cloud, and your sins like mist; return to me, for
-have redeemed you.’ Having been addressed as those in the right, it becomes
+your transgressions like a cloud, and your sins like mist; _return to me_, for
+I have redeemed you.’ Having been addressed as those in the right, it becomes
 clear that they are no strangers to the wrong, and perhaps have not yet abandoned it. Tug on this thread and the passage, with its commendation of true
 witnesses and condemnation of false, unravels to reveal a plea to Israel to
 repent, to turn away from false witness and from idolatry, and to become the
@@ -126,11 +127,11 @@ Nevertheless, it is a tributary of one deep stream of Jewish thinking that was
 eventually to flow into a more radical interpretation of idolatry. Idols were
 eventually abjured not because they were representations of the wrong god,
 nor because they were the wrong kind of representation of the right God,
-but just because they were representations, and God was held to be beyond all
+but just because they were _representations_, and God was held to be beyond all
 representation. This God is held not to be the kind of God who can aptly be
 depicted ‘in the likeness of anything that is in heaven above, or that is on the
 earth beneath, or that is in the water under the earth’ (Exodus 20.4). No particular part of creation — visible or invisible, natural or artificial, animate or
-inanimate, human or animal — can be an adequate representation of the God
+inanimate, human or animal -- can be an adequate representation of the God
 who is the source of them all.’
 
 Many theologians in both Judaism and Christianity have wrestled with the
@@ -156,7 +157,7 @@ to limit and define the demand that is made by knowing God.
 
 Consider the following descriptions of God:
 
-Rock: It is not difficult to see that this is a metaphor, describing God in terms
+**Rock:** It is not difficult to see that this is a metaphor, describing God in terms
 appropriate to something that is not God. It is (or was, when the metaphor
 was fresh) a striking way of helping people to glimpse God’s faithfulness and
 dependability, but the limit to how far one can take the metaphor is obvious;
@@ -164,20 +165,20 @@ it is a limit that one would find oneself beyond were one to ask what God's
 mineral content was. for instance. Christians know that God is not a rock, so
 to describe God as one presents little temptation to idolatry.
 
-Wise: What about this one, though? It too is a word whose meaning we learn
+**Wise:** What about this one, though? It too is a word whose meaning we learn
 first through ordinary human examples — from which we gather that it means
 something like ‘able to judge appropriately, on the basis of long experience’.
 But what can one make of the idea of God having ‘long experience’, or even of
 God weighing up possible courses of action and judging appropriately?’ There
 are clear limits to how far this description goes, too — even though, as we shall
 see below, descriptions of God as wise or goed or loving don’t work in quite
-the same way as the description of God as a rock,
+the same way as the description of God as a rock.
 
-Infinite: This might seem to be a good, abstract word, free from inappropriately
+**Infinite:** This might seem to be a good, abstract word, free from inappropriately
 material or human associations. But it, too, is a word whose meaning is learnt
-in particular contexts, as part of particular practices. It is possible, after alt,
+in particular contexts, as part of particular practices. It is possible, after all,
 to give a human (social, material) history of the contexts and practices and
-forms of imagination that have surrounded this word's emergence and deveiopment
+forms of imagination that have surrounded this word's emergence and development.
 If one thinks that the word directly describes some characteristic
 of God (instead of being, say, a comment upon the inadequacy of all finite
 descriptions) one will eventually find that it too has smuggled in contraband
@@ -186,13 +187,13 @@ the creaturely side of the border.
 
 #### Exercise
 
-Return to the liturgy that you jooked at in preparation for this chapter. Would
+Return to the liturgy that you looked at in preparation for this chapter. Would
 you now assess differently any of the names or descriptions of God that you
 found in it?
 
 ---
  
-God says ‘I am who I am’ and I am the God of your ancestors’ to the same
+God says ‘I am who I am’ and ’I am the God of your ancestors’ to the same
 people, at the same time. It is not that one category of people, the idolaters,
 need to be reminded that God is beyond their false definitions, while another
 category of people, true witnesses, can be told to rest content with the
@@ -219,7 +220,7 @@ or to gain some kind of intellectual mastery over it. Rather, they will stand
 as those who are themselves in the process of being mastered by the one
 they face, and the forms of language appropriate to this will not be calm
 descriptions or abstract definitions, but expressions of praise, thanksgiving
-and penitence ~ language squeezed out of them as they find themselves
+and penitence -- language squeezed out of them as they find themselves
 grasped by God.
 
 #### The unutterability of God
@@ -228,7 +229,7 @@ it be a very small heavenly body, on account
 of its exceeding heat and power, how shall not
 a mortal man I be much more unable to face
 the glory of God, which is unutterable?”
--- Theophilus of Antioch, To Autolycus*
+-- Theophilus of Antioch, To Autolycus footnote:[Theophilus of Antioch, To Autolycus 15, in A. Cleveland Coxe (ed), Ante-Nicene Fathers, vol. 2 (New York: Christian Literature Company, 1885), p. 90, available online from the Christian Classics Ethereal Library, http://www.ccel.org/ccel/schaff/anfo2.v.html.]
 
 Consider someone illuminated by a bright light. The light shines on him
 and on everything around him, and enables him to see himself and his surroundings in new ways, and so to live in new ways in those surroundings. He
@@ -241,14 +242,16 @@ won't be able to see the source itself directly — not so as to see how it work
 how the light is generated in it. The light outstrips the capacity of his eyes, and
 they become useless, even though the searing blindness that he experiences
 is itself a sign that he is looking in the right direction. One ancient Christian
-writer described this as a ‘brilliant darkness’: a light so bright that it is tantamount to blackness.° Look directly at it and you can see no more than if you
+writer described this as a ‘brilliant darkness’: a light so bright that it is
+tantamount to blackness.footnote:[Pseudo-Dionysius the Areopagite, Mystical Theology, 1 (997B) in Pseudo-Dionysius: The Complete Works, ed. Colm Luibheid (Mahwah, NJ: Paulist, 1987), p. 135. A different translation edited by Arthur Versluis, in which the relevant phrase is translated as ‘dazzling obscurity’, can be found in Esoierica 2 (2000), pp. 203-11, and is available online at http://www.esoteric.:msu.edu/Volumell/MysticalTheology.html.]
+Look directly at it and you can see no more than if you
 were left wholly in the dark.
 
 This, too, is a metaphor that will only roll so far. Nevertheless, Christian
 theologians have often stressed that alongside the kind of knowing of God
 that I discussed in the previous chapter, a proper account of the knowledge
 of God must include this radical unknowing - this affirmation of the abiding
-unknowability of the source. ‘No one has ever seen God’ ( John 4.12; John
+unknowability of the source. ‘No one has ever seen God’ (John 4.12; John
 1.18); ‘no one shall see me and live’ (Exodus 33.20). And this is no abstract
 conclusion forced upon Christians by speculative philosophers, denying
 something that Christians would otherwise have cheerfully affirmed, it is,
@@ -315,14 +318,14 @@ burn, so how can the sun be a fire in airless space?’
 “Yes - fires need fuel. What fuel is burnt by the sun? Where does it come
 from?’
 
-‘A good question, sir. I answered hastily ~ the sun, I meant to say, is like
+‘A good question, sir. I answered hastily -- the sun, I meant to say, is like
 a vast fire, and we may think of it imaginatively as being “suspended” in
 space!
 
 ‘So can you, then, tell me what the sun really is?’
 
 The woman fell quiet for a while, and then looked up at him with a smile.
-‘No, sir, [do not know what the sun really is. At least, I cannot tell you what
+‘No, sir, I do not know what the sun really is. At least, I cannot tell you what
 the sun really is, but—’ she hesitated for a moment, and then continued, ‘I can
 show you. Would you come with me, sir, over to the balcony?’
 
@@ -330,24 +333,24 @@ He was sufficiently intrigued to walk with her through the doors that
 opened on the East side of the room, onto the hall balcony. He glanced up
 at the morning sun, trying to glimpse something of its true nature — but as
 always the glance half-blinded him: he did not see the sun so much as the
-dancing spots that the glare left in his eyes. ‘I can barely look at it, madam
---and the same is true of you, I suspect’
+dancing spots that the glare left in his eyes. ‘I can barely look at it,
+madam--and the same is true of you, I suspect.’
 
 ‘Of course, sir, but that is not what I meant. Staring at the sun will not
-answer your questions about it, But you can feel its warmth, can’t you?’ He
+answer your questions about it. But you can feel its warmth, can’t you?’ He
 could, even through the breeze. ‘And look out at your kingdom, sir: you may
 not be able to look at the sun, but the sun enables you to look at all this. That’s
 what the sun is: the source of the warmth on your skin, and the light by which
 you see the world. You may not be able to know the nature of the sun directly,
-but you can know yourself and your world as bathed in its light’
+but you can know yourself and your world as bathed in its light.’
 
 His grunt might have indicated approval, but after a moment he said, ‘Very
-good, madam ~ but that is not enough. Anyone can feel that warmth and see
-in that light. I've been hoping to find an expert, someone who can tell me the
-suns secrets. I was hoping you might be such an expert
+good, madam -- but that is not enough. Anyone can feel that warmth and see
+in that light. I've been hoping to find an _expert_, someone who can tell me the
+suns secrets. I was hoping you might be such an expert.
 
 ‘No, sir, not me.’ She paused again, and then continued, ‘but I do know
-where to find such experts. Look over there, and tell me what you see’ She
+where to find such experts. Look over there, and tell me what you see.’ She
 pointed out at the landscape spread below them. He looked, and saw nothing
 but the spreading fields and his people at work on them. He frowned. ‘Who
 out there is an expert on the sun, madam? Don’t play games!’
@@ -359,24 +362,25 @@ and when to stay in the shade, how to cover their heads to keep themselves
 cool, and how to treat themselves if they get burnt. If you want to know what
 the sun is, look at them. Or, better, go out there in the fields with them and
 start learning its ways. You won't necessarily find any new words for the sun
-in that way — you may still only be able to call it a vast fire hanging in space,
-knowing all the while that those words are inadequate ~ but you will know
-the sun, nonetheless’
+in that way -- you may still only be able to call it a vast fire hanging in space,
+knowing all the while that those words are inadequate -- but you will know
+the sun, nonetheless.’
 
 The king thought for a while, caught between a feeling that he was being
 cheated of a real answer to his question, and a building admiration for her
 response. After a minute or two staring down at the baked fields, he spoke
-again. ‘But is there nothing you can say directly about the sun -- no description that you can offer me that is not pictorial and inadequate”
+again. ‘But is there nothing you can say directly about the sun -- no
+description that you can offer me that is not pictorial and inadequate.'
 
-‘Weil, yes, in a way. I have already done so, have I not, by describing what
+‘Well, yes, in a way. I have already done so, have I not, by describing what
 the sun is not. It may be like a fire, but as you demonstrated a moment ago we
 know quite firmly and clearly that it is not a fire in any sense we understand.
 More positively, though, I suppose we could also say quite firmly that the sun
 is the source of the heat and light that you feel and see with, and that those
 people are working with. That is a direct statement about the sun, even if we
-don’t know how the sun is the source of these things’
+don’t know how the sun is the source of these things.’
 
-“Yes, yes - but the first is knowledge of what the sun is not, rather than
+'Yes, yes - but the first is knowledge of what the sun is not, rather than
 knowledge of what the sun is.’ He paused, and then continued, ‘And the
 second does not really add anything to what you said before: it simply repeats
 your claim that the people in the field know the sun. Or rather, it gives the
@@ -384,11 +388,11 @@ name “sun” to what the people in the field know. It is really a statement ab
 their knowing of the sun, isn’t it, not a statement that tells me directly what
 the sun is. Is there nothing else you can offer me?”
 
-When she spoke again, it was with a half smile: “Yes, sir, I have one more
+When she spoke again, it was with a half smile: 'Yes, sir, I have one more
 thing. Though I do not think it will satisfy you. The people down there in the
 fields tell all sorts of stories about the sun: that it is a golden apple thrown each
 morning by an imprisoned hero to his no-less imprisoned heroine; that it is a
-boat sailing across the sea with a burning sail, that it is ~ yes - a huge fire lit by
+boat sailing across the sea with a burning sail, that it is -- yes -- a huge fire lit by
 the Gods to warm the earth, but that the demons sometimes steal the fuel and
 sometimes pile too much back on, trying to freeze or burn the earth. They don’t
 seem to mind that the stories contradict one another. But those stories, sir, are
@@ -1095,15 +1099,9 @@ of Notre Dame Press, 2000).
 (London: Constable and Robinson, 2003) or Eli Maor, To Infinity and Beyond: A Cultural
 History of the Infinite (Princeton: Princeton University Press, 1987).
 
-4. Theophilus of Antioch, To Autolycus 15, in A. Cleveland Coxe (ed), Ante-Nicene
-Fathers, vol. 2 (New York: Christian Literature Company, 1885), p. 90, available online
-from the Christian Classics Ethereal Library, http://www.ccel.org/ccel/schaff/anfo2.
-v.html.
+4. moved into main text
 
-5. Pseudo-Dionysius the Areopagite, Mystical Theology, 1 (997B) in Pseudo-Dionysius:
-The Complete Works, ed. Colm Luibheid (Mahwah, NJ: Paulist, 1987), p. 135. A different translation edited by Arthur Versluis, in which the relevant phrase is translated
-as ‘dazzling obscurity’, can be found in Esoierica 2 (2000), pp. 203-11, and is available
-online at http://www.esoteric.:msu.edu/Volumell/MysticalTheology.html.
+5. moved
 
 6. John Calvin, Institutes of the Christian Religion, vol, 1, Library of Christian Classics
 20, tr. Ford Lewis Battles (London: SCM Press, 1961 [from 1559 Latin textl), 1.11.3, p. 102.
