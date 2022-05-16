@@ -1,0 +1,154 @@
+
+---
+title: 
+author: 
+summary: 
+featured_image: /images/
+categories: 
+  - Doctrine
+tags:
+  - 
+date: 2022-05-03T19:15:00+01:00
+draft: true
+---
+
+
+* An approach
+  - 
+
+* diverse views 
+  - over time and 
+  - over place
+
+## Holy Scripture
+
+* What is Scripture
+  - 66 books + ?
+  - inspired/revealed word of God, written by people
+  - a guide
+  - a gift
+  - points to God, not to itself
+
+* Is the Bible (after Henry Newman)
+  - equivalent to the very word of God
+  - a divine seed from which we anticipate growth
+  - a muse leading to piety
+  - liberative paradigms (!)
+
+* topics of concern
+  - production
+  - canon (66+books)
+  - authority (the / a / all equal / ?)
+  - interpretation (how to adjudicate between different ones)
+    - apartied / anti-semitism / etc
+    - cannot even take refuge in the  traditional view as church has 
+
+* 3 historical approachces and then a dogmatic view
+
+## Early and patristic (AD 100-451)
+
+* reliant on tradition and stories but now re-orientated to Christ
+  - epitomised by 2 Timothy 3:16-17 (Scrpture here is Hebrw Scritptures / OT)
+  - Luke 24:27: Christ is the fulflment of the Scriptuures (but would be nice to have that exposition written down!!)
+  
+> Quote from System Theology, Robert Jenson
+
+* There is no church without the apostles and no apostles without Israel's scriptures
+  - significant in dealing with Marcion in 2nd C who wrote OT ought and Justin Martyr's response who rebutted it.
+  - also Iranaeus of Lyon: _More_ but _not different_ to OT
+
+* Letters of Paul earliest but gospels ('memoirs of apostles' according to Justin Martyr) have greatest significance and honour
+  - Authority is not being 'the definitive' account--four were canonised
+  - Authority of gospels derives from proximity to apostles (and therefore Christ) 
+
+* Jesus is key
+  - https://www.bible.com/en-GB/bible/111/1CO.7.NIVUK[1 Cor 7] Paul is clear to separate what he says and what Christ said.
+
+> Against heresies, Bk IV, ch 26.1, Iranaeus
+
+> Contra Celsus, Origen
+
+* Athanasius, 4th C
+  - In his Festal Letter of 367
+  - A first canon, not his opinion but those already recognised
+  - What matters is Christ's example as well as his teaching and what was written down
+
+> In these [books] alone is proclaimed the doctrine of godliness. Let no man add to these, neither let him take ought from these.
+
+* Bible's connection to the church
+  - Starting to recognise that appeal to Scripture alone may not be enough (that is where Arius et al. did to justify that Jesus was a creature).
+
+* Vincent of Lerins (French monk died c.445)
+  - Quite forcefully
+
+> Commonitory ch 25
+
+## Reformation and post-reformation
+
+* Huge explosion of reflection on what Scripture is.
+
+  - _sola scriptura_ - scripture as the final authority (clarifying creeds, traditions etc.) 
+  - _autopista_ - scripture is self-authenticating
+
+* Martin Luther
+  - Testimony at Diet of Worms: Scripture not Popes, 'cos they erred and self-contradicted
+
+> Luther's Works Vol 32, p112
+
+* John Calvin
+  - God (as Holy Spirit) is the proof of Scripture
+
+> Institutes 1.vii.5
+
+* Frances Turretin, Italian pastor (1623-1687)
+  - adds precision to how Holy Spirit underpins / authenitcates Scripture 
+  
+> The biblical authors wrote by means of 'immediate inspiration and the internal impulse of the Holy Spirit'
+Inst. 1, p60
+
+* Aside
+  - Cappadocian fathers predicted the problem of splitering because there is no way to arbitrate between different interpretations of scipture.  
+  - Post Vatican 2, Catholics have come back to Scriptures as a foundational principle
+
+Plenty of room to develop in assignments!
+
+## The modern era 
+
+The historio-critical method
+
+Measuring scripture against natural reason--as one would critique any other book--as opposed to being a community of faith.
+
+* Baruch Spinoza, Dutch philosopher (1632-1677)
+  - 'free our minds from theological prejudices'
+  - external perspective: can only be esteemed insofaras it meets test of natural reason
+    - so miracles are counter to natural experience so must be fictitious
+  - scripture is important to Christians as it connects them to their roots
+  - some useful techniques here but not a faith community
+
+> Theological--Political treatise, pp98-100,111
+
+* 19th C German universities became powerfully associated with this modern approach
+
+* Charles Hodge, Prof at Princeton (1797-1878)
+  - Others, notable Princeton, engaged to rebute this leading to _Biblical infallibility_.
+
+* Most UK institutions opted for historio-critical approach
+
+* Karl Barth, Swiss theologian (1886-1968)
+  - Trained in the liberal, modern tradition but turned against it
+  - 1916, 'The strange new world of the Bible'
+  - first book is commentary on epistle to the Romans
+  - went on to write 'Church dogmatics', a vast work of systematic theology
+  - careful not to idolise the word of God, scripture is revelation of God
+
+> The word of God and the word of man, p43
+
+* John Webster: Sanctification
+  - Seeking to balance creaturely nature of text (written by people) but inspired by God
+  - inspirationalists go too far by denying the creaturely nature of the text
+  - modernists go too far to deny the divine
+
+> Holy scripture: a dogmatic sketch, John Webster
+
+
+https://en.wikipedia.org/wiki/Isenheim_Altarpiece[Isenheim alterpiece, NOTE: John holding scripture but pointing to Jesus]

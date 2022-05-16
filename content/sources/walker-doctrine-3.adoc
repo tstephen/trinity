@@ -1,0 +1,146 @@
+---
+title: Doctrine of God
+author: Dr Alison Walker, with additions
+date: 2022-05-10T19:15:00
+summary: 
+featured_image: /images/
+categories: 
+  - Doctrine
+tags:
+  - 
+draft: !true
+---
+
+## Aims
+
+* To compare and contrast classical and modern intuitions about the being of God. 
+* To become aware of the unique relationship between God and human language.
+* To gain a basic familiarity with certain issues surrounding talk of divine ‘attributes.’ 
+* To instil an impulse of humility and prayer when attempting to speak about God.
+
+## God is...
+
+* love
+* almighty?
+* dead!?
+* known [revealed] through Jesus?
+
+all merely facets of God -> unknowable.
+
+Trying to form an idea in our minds of the God we know by faith.
+
+## Augustine of Hippo (c.354-430)
+
+> ‘What we are asking…is from what likeness or comparison of things known to us we are able to believe, so that we may love the as yet unknown God.’ 
+-- De Trinitate, VIII, 8
+
+Ideas are 'Thinking in order to love'. Common in worship: 
+> “Holy, holy, holy! Lord God Almighty!”
+
+> “My God how beautiful thou art, thy majesty how bright”
+
+> “God is love, let heaven adore him”
+
+> “There’s a wideness in God’s mercy”
+
+> “Immortal invisible, God only wise”
+
+## Classical intuitions about God
+
+Tend to emphasise the difference between creator and creature.
+
+* Infinite [unbounded] qualitative distinction [not just bigger than us, completely 'other']
+
+> ‘For God is good—or rather the source of goodness—and the good has no envy for anything. Thus, because he envies nothing its existence, he made everything from nothing through his own Word, our Lord Jesus Christ.’
+-- St. Athanasius, De Incarnation, § 3 (4^th^ century)
+
+> ‘Indeed the inscrutable One is out of the reach of every rational process. Nor can any words come up to the inexpressible Good, this One, this source of all unity, this supra­‐existent Being. Mind beyond mind, word beyond speech, it is gathered up by no discourse, by no intuition, by no name. It is and it is as no other being is. Cause of all existence, and therefore itself transcending existence, it alone could give an authoritative account of what it really is.’
+--Pseudo­‐Dionysius, The Divine Names, §1 (5^th^/6^th^ century)
+
+> ‘Now we believe that You are something than which none greater can be thought...’ 
+        (St. Anselm, Proslogion, §2 (11^th^ century)
+
+* Firm view that God is unsuffering and unchangeable nature 
+* How then interpret passages when God changes his mind (ref TODO) 
+  - Perhaps: immutabilty is not like eternally frozen but rather eternally consistent in his moral perfection
+* God is omniscient, omnipotent, omnipresent
+
+## Modern intuitions about God
+
+* Pushing back against the ancient view
+* The 'Hellenisation Thesis' - influenced more by Greek philosophy than Bible
+  - Starting with Luther there's a feeling that we should instead start with Christ on the cross
+  - 19^th^C Aldolph von Harnack
+  - Late 20^th^ C: Moltmann
+
+> ‘If [the classical concept of God] is applied to Christ’s death on the cross, the cross must be evacuated of deity, for by definition God cannot suffer and die. He is pure causality. But Christian theology must think of God’s being in suffering and dying and finally in the death of Jesus, if it is not to surrender itself and lose its identity.’ 
+-- Jürgen Moltmann, The Crucified God, p214
+
+> ‘The Lord God Almighty clothed his Son with flesh that he might draw us [away] from contemplating his own majesty to a consideration of the flesh, and especially of our weakness.’ 
+--Philip Melanchthon, Loci Communes, p21
+
+Modern doctrine books may not even have a Doctrine of God, preferring instead The Triune God.
+
+* Kevin Vanhoozer and ‘the new orthodoxy’: 
+  - God is conceived not as a singular subject, but as a being­‐in­‐relation.
+  - God’s being is not separate from, but somehow bound up with the world. 
+  - God’s suffering is a necessary consequence of his love for the world.
+
+> ‘What God is as God, the divine individuality and characteristics, the essentia or “essence” of God, is something we shall encounter either at the place where God deals with us as Lord and Saviour, or not at all.’ 
+-- Karl Barth, CD II/1, p261
+
+Similar to:
+> No one knows who the Son is except the Father, and no one knows who the Father is except the Son and those to whom the Son chooses to reveal Him.
+-- Luke 10:22
+
+## Theological language
+
+* Thomas Aquinas:
+  - Univocal: A word means the same thing when applied to God as it does to a creature.
+    -- 'God is good'; 'Good dog'
+  - Equivocal: A word means something completely different... 
+* He concludes: ‘This name God...is taken neither univocally nor equivocally,
+but **analogically**.’ In other words there is something about ‘goodness’ as
+we know it which points to something about God. 
+
+Non-western views, such as liberation theology, start from the perspective that God
+stands alongside the oppressed. Example: James Cone might say 'God is black'.
+
+## Attributes of God
+
+The words we use to describe God's being. From Aquinas:
+
+* the way of eminencei (_via eminentiæi_): removal of limits, ergo omni-*
+* The Way of Negation (_via negationis_):
+  – absence of defect; think of some kind of bad thing, and then say that God is untouched by this problem; e.g., the world is chaotic, God is at rest; the world is unjust, God is just; the world is imperfect and mutable, God is perfect and immutable, etc. 
+  - The main idea is that we talk about God by talking about what he is not.
+* The Way of Causation (_via causalitatis_) 
+  - we look at the things that God has caused, and reason back to what he must be like in order to have caused that thing; 
+  - so, if the world is ‘finite,’ then God must be ‘infinite,’ because infinitude cannot be explained in terms of finitude.
+
+## God's uniqueness
+
+This led theologians to posit the idea that God is simple, 
+i.e., he is not a unique collection of attributes that we might otherwise find distributed elsewhere – he just is who he is.
+God is God
+
+
+> But Moses said to God, “If I come to the Israelites and say to them, ‘The God of your ancestors has sent me to you,’ and they ask me, ‘What is his name?’ what shall I say to them?” God said to Moses, “I am who I am.”
+-- Exodus 3
+
+Is it even valid to describe God in term of attributes? The argument is that if you remove one you have diminshed God and take them all away and He's gone!
+
+> ‘All attributes which we ascribe to God are to be taken as denoting not something particular in God, but only something particular in the manner in which [we are] related to him.’ 
+-- Friedrich Schleiermacher, The Christian Faith, §50
+
+### Or... incommunicable vs communicable
+
+* Incommunicable: attributes in which creation does not 	participate 
+* Communicable: attributes in which creation can 		participate
+
+Barth--characteristically--tries to unify both sides
+
+> ‘As ministers we ought to speak of God. We are human, however, and so cannot speak of God. We ought therefore to recognise both our obligation and our inability and by that very recognition give God the glory.’ 
+-- Barth, The Word of God and the Word of Man, p186
+
+Katharine Sondeigger takes a very prayerful approach
