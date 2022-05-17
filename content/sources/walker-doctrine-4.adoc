@@ -1,0 +1,209 @@
+---
+title: Doctrine of God
+author: Dr Alison Walker, with additions
+date: 2022-05-17T19:15:00
+summary: 
+featured_image: /images/
+categories: 
+  - Doctrine
+tags:
+  - 
+draft: !true
+---
+
+> God exists as three persons 
+– Father, Son, and Holy Spirit – 
+and each is fully God, 
+and there is one God.
+
+## Would it matter if God wasn't triune?
+
+## Karl Rahner, 1967
+
+> 'The treatise on the Trinity occupies a rather isolated position in the total dogmatic system. To put it crassly, and not without exaggeration, when the treatise is concluded, its subject is never brought up again. Its function in the whole dogmatic construction is not clearly perceived. It is as though this mystery has been revealed for its own sake, and that even after it has been made known to us, it remains, as a reality, locked up within itself. We make statements about it, but as a reality it has nothing to do with us at all.' (The Trinity, p. 14)
+
+- Frustrated that it does not have further significance on other doctines (soteriology) and church life
+- Split of Eastern and Western churches over the phrase _filioque_
+
+## Where does the Trinity appear in the Bible?
+
+- Genesis 1; as explained by John 
+- Matthew 3:16-17: Baptism of Jesus
+- If you have seen me, you have seen the Father
+- I must go so the Father may send the Comforter
+- Mat 28:19 Go and make disciples in the name of all three
+- 1 Corinthians 13:13: Grace
+- 1 Cor 1:21-22
+
+Not fully formed doctrine of trinity but **proto-trinitarian** doctrinen that neds more unpacking
+
+- the word 'trinity' is not in the Bible
+- the Bible does not explicitly teach trinity, at least as expressed in the creeds 
+- trinity is a *deduced* doctrine
+- according to the early church, the trinity was an essential doctrine
+- very early adoption of _worship_ of Jesus, not just _following_ him
+
+## Larry Hurtado, NT scholar
+
+> ‘...an exalted significance of Jesus appears astonishingly early in Christian circles. Well within the first couple of decades of the Christian movement (i.e., ca. 30­‐50 C.E.) Jesus was treated as a recipient of religious devotion and was associated with God in striking ways. In fact...we probably have to posit a virtual explosion of devotion to Jesus toward the earlier end of this short period.' 
+					(Lord Jesus Christ, p. 2)
+
+- monolatry (cf idolotry) 
+- OT hasthe Jews worshiping 'the one true God' but no denial or disbelief in other gods
+
+## Richard Baukham
+
+> As Richard Bauckham comments: 
+‘Jews understood their practice of monolatry to be justified, indeed required, because the unique identity of YHWH was so understood as to place him, not merely at the summit of a hierarchy of divinity, but in an absolutely unique category, beyond comparison with anything else. Worship was the recognition of this unique incomparability of the one God. It was the response of YHWH's self­‐revelation as the sole Creator and Ruler of all.'
+-- God Crucified, p. 15)
+
+- remarkable that worshiping Jesus raises no conflict with Jewish believer's monotheism
+- though not expressed in these terms, perhaps the early church held an
+'Economic Trinitarianism' belief.
+
+## Economic trinitarianism
+
+- God is trinity, but only with respect to the ‘economy' of creation; 
+- If there were no economy, then God would not be triune; 
+- Being ‘triune' is the result of a choice on God's part
+- Justin Martyr (ca. AD 100-165) writes:
+‘[the Son] was begotten of the Father by an act of will'		
+
+## The Arian Controversy (4th century)
+
+- ‘And before [the Son] was begotten or created or defined or established, he was not.' --Arius 
+- Arian slogan: ‘there was a time when he was not'	
+- Interpreting Colossians ('First-born of all creation')
+
+  Creator/Creature distinction
+  ----------------------------
+               |
+      Creator  | Creature
+     Uncreated |  Created
+
+> Bishop Alexander of Alexandria:
+‘Therefore, beloved and brothers united in soul, avoid those who dared such things against Christ, who tear up Christianity to pieces in public, who strive to parade it before courts of justice, who as much as possible aroused persecution on us in peace, and who cut the very sinews of the ineffably mystery of Christ's generation.' 
+	(‘Letter to Alexander of Thessalonica' in Rusch, p. 44)
+
+### Council of Nicea, 325
+
+- The council produces a confessional statement, a ‘creed.' 
+- It states that the son is ‘of the same substance' as the Father.
+
+> ‘We believe in one God, Father Almighty Maker....and in one Lord Jesus Christ, the Son of God, begotten as only­‐begotten of the Father, God of God, Light of Light, true God of true God, begotten not made, consubstantial with the Father [homoousion tō patri]...and in the Holy Spirit.'
+
+- _Homoousious_ (of the same substance)
+- _Homo*i*ousious_ (of similar substance)
+
+* Athanasius, Bishop of Alexandria, 327-373
+  - Gospel/Salvation issue
+  - Only God saves humanity from its predicament
+* Many other minor councils, creeds and debates
+
+> “Now this is the catholic faith: That we worship one God in trinity
+and the trinity in unity, neither blending their persons, nor dividing
+their essence. For the person of the Father is a distinct person, the
+person of the Son is another, and that of the Holy Spirit, still
+another. But the divinity of the Father, Son, and Holy Spirit is one,
+their glory equal, their majesty coeternal.”
+
+### Council of Constantinople, AD 381
+
+- Second major ecumenical council
+- produced the famous Nicene­‐Constantinopolitan Creed which many churches recite today.
+- It is sometimes referred to as ‘Nicaea 381.'
+- Reinstalls the ‘homoousios' terminology
+
+- Extended commentary on the status of the Holy Spirit to combat ‘pneumatomachians': 
+‘[We believe] in the Holy Spirit, the Lord and life­‐giver, who proceeds from the Father, who is worshipped and glorified together with the Father and the Son...'
+
+## Classical doctrine of the Trinity
+
+* Tertullian suggested that the Trinity be understood according to the formula 
+			‘three persons, one substance'
+* the problem with this is that latin _persona_ means 'mask' which led to 'modalism'
+
+* Chronological modalism
+  - Father (Old Testament)
+  - Son (New Testament)
+  - Spirit (Church)
+
+* Functional modalism
+  - Father (Creation)
+  - Son (Redemption)
+  - Spirit (Sanctification)
+
+* Problem of translating between Latin West and Greek East 
+* Post Constantinople, emphasised _mia ousia, treis hypostases_
+* Ultimately landed on this terminology
+  - Trinitas – Trinity
+  - Persona – Person, Mask, Role (Greek – hypostasis)
+  - Substantia – Substance, essence (Greek – ousia)
+  but in order to say this, the Cappadocean Fathers had to invest a brand
+  new meaning into the term ‘hypostasis.'
+
+This fills out the meaning of the confusing term ‘homoousios.' 
+In light of Nicaea 381, ‘of the same substance' now means that Father, Son and Spirit are all ‘God' because they all share the properties of divinity equally.
+
+Nevertheless, the three are distinct ‘hypostases' or ‘persons'
+
+##~ RELATIONS OF ORIGIN
+
+- The Father is ‘the one who begets the Son and spirates the Spirit'
+- The Son is the ‘the one who is begotten by the Father [and spirates the Spirit]'
+- The Spirit is ‘the one who proceeds from the Father [and the Son]'
+
+> ‘The three so called persons, [Augustine] said, are not something different, each in himself. They are different only in their relation to each other and to the world.' 
+					p.68 of pre-reading
+‘What Augustine means is that the designations “Father,” “Son,” and “Holy Spirit” do not express either a substantial, or a quantitative, or a qualitive difference, because these do not even exist. What the concept of the persons expresses is, rather, an eternal relation.' 
+					p.69 of pre-reading
+
+## Summmary 
+
+- God is three _hypostases_ and one _ousia_. However, God's
+threeness is not like our idea of three persons [persona],
+nor is God's oneness like our ideas of one essence [substantia]. 
+- All share fully in God's ousia from all eternity. Language of
+‘begotten' and ‘generation' does not carry any temporal significance.  
+- Not parts (or one-third) of God.
+- Not simply different ‘modes' or appearances of the one God in time.
+
+## Modern issues
+
+* Trinity as either:
+  - Summative
+  - Foundational
+
+### Rahner’s Rule:
+
+‘The “economic” Trinity is the “immanent” Trinity and the “immanent” Trinity is the “economic” Trinity.’ 
+--(Rahner, The Trinity, p. 22)
+
+* ‘economic Trinity’ = how God appears to us in the ‘economy’ of creation
+* ‘immanent Trinity’ = how God is in himself
+
+* Torrance: There is no God hiding behind Jesus
+
+### Social Doctrine of the Trinity:
+
+* Recent (last fifty years!)
+  - Jürgen Moltmann (The Trinity and the Kingdom)
+  - John Zizioulas (Being as Communion)
+  - Analytic Theology (building on modern philosophical analysis)
+
+* Problem is that this emphasises diversity or relationality over unity
+* As evidenced in [The Shack](https://www.amazon.co.uk/Shack-Wm-Paul-Young/dp/0340979496/ref=sr_1_1?crid=4ZCQEP39JZT9&keywords=the+shack&qid=1652817724&s=books&sprefix=the+shack%2Cstripbooks%2C94&sr=1-1)
+* [God and difference by Linn Tonstad](https://www.taylorfrancis.com/books/mono/10.4324/9781315675923/god-difference-linn-marie-tonstad)
+
+### Karl Barth: Revelational model of the Trinity
+
+> Barth’s maxim: God reveals himself as Lord
+
+* *God* – the one who does the revealing is God himself, particularly God the Father.
+* *reveals himself* – the content of what God reveals is not info about God, but actually God himself; this is the Son, or the Word of God.
+* *as Lord* – God is in control of the event by which he reveals himself; the facilitator of this transaction, the ‘perfector’ of God’s revelation, is the Holy Spirit.
+
+### Visualising the trinity
+image:/images/trinity-symbol.png[]
+image:/images/trinity-diagram.png[]
+image:/images/trinity-artwork.png[]

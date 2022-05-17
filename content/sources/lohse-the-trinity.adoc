@@ -1,0 +1,1421 @@
+---
+title: A Short History of Christian Doctrine
+author: Lohse, Bernard
+translator: F. Ernest Stoeffler.
+summary: "Lohse, Bernhard 'A Short History of Christian
+  Doctrine.' Trans. F. Ernest Stoeffler. Philadelphia: Fortress, 1966."
+date: 2022-05-16T21:30:00+01:00
+featured_image: /images/
+categories:
+  - Doctrine
+tags:
+  - Athanasius
+  - Augustine
+  - Basil the Great
+  - Cappadocian Fathers
+  - Council of Constantinople
+  - Council of Nicaea
+  - Gregory Nazianus
+  - Gregory of Nyssa
+  - Origen
+draft: !true
+---
+
+## Chapter 2--The Doctrine of the Trinity
+
+IN THE PRECEDING chapter the rule of faith and the
+creed were presented as a criterion for the church’s preaching
+and teaching. Both of these, the rule of faith and the creed,
+constitute an important step in the direction of the development
+of the church’s doctrine of the Trinity, because they summarize
+briefly the faith of Christianity. It was still a long time, of
+course, well into the fourth century, before the doctrine of the
+Trinity was dogmatically clarified. How did this come about?
+What were the reasons which moved the church to express its
+faith in God and in Jesus Christ, as well as its experience of
+the presence of the Holy Spirit, in the form of the doctrine of
+the Trinity? Is it essential for one who wants to be a Christian
+to accept this doctrine also?
+
+First, it is important to note that the doctrine of the Trinity
+does not go back to non-Christian sources, as has sometimes
+been supposed in the past. There has been no lack of attempts
+to find the initial form of the doctrine of the Trinity in Plato,
+or in Hinduism, or in Parsiism. All such attempts may be regarded
+today as having floundered. It is another question, of
+course, whether or not the church, in developing the doctrine of
+the Trinity, had recourse to certain thought forms already
+present in the philosophical and religious environment, in order
+that, with the help of these, it might give its own faith clear
+intellectual expression. This question must definitely be
+answered in the affirmative. In particular cases the appropriation
+of this concept or that can often be proved. Unfortunately,
+however, it is true that particularly in reference to the
+beginnings of the doctrine of the Trinity there is still much
+uncertainty. In this area final clarity has not yet been achieved.
+
+As far as the New Testament is concerned, one does not find
+in it an actual doctrine of the Trinity. This does not mean very
+much, however, for generally speaking the New Testament is
+less intent upon setting forth certain doctrines than it is upon
+proclaiming the kingdom of God, a kingdom that dawns in and
+with the person of Jesus Christ. At the same time, however,
+there are in the New Testament the rudiments of a concept of
+God that was susceptible of further development and
+clarification, along doctrinal lines.
+
+Judaism, which constituted the environment in which the
+early Christians lived and from which they themselves had
+come, has always been an austerely monotheistic religion. From
+it Christianity inherited monotheism. Over against pagan
+polytheism Christians and Jews have always had monotheism in
+common, though their understanding of it differs.
+
+From the very beginning, of course, Christians not only
+believed in God in the sense in which the Jews did, but they
+also believed in Jesus Christ. The Holy Spirit, too, was
+mentioned more frequently by them, and in a different way.
+Speaking first of the person of Jesus Christ, it should be observed
+that Christians expressed their faith in him in a great variety
+of ways. For the primitive church Jesus Christ was the Messiah.
+As the Gospel of John emphasizes again and again, his
+early followers regarded him as standing in an incomparably
+close and indissoluble union with the Father. In other places
+he is called the likeness of God (2 Cor. 4:4; Col. 1:15). In the
+prologue of the Gospel of John we are told that the divine
+Logos, who was in the beginning with God, became flesh in
+Jesus Christ (John 1:1-18). Here the pre-existence of Christ
+before his earthly life is asserted. In doing so it was possible
+for the church to begin with certain conceptions which
+pre-Christian Judaism had formed about the pre-existence of the
+figure of Wisdom, But what had been only an ideal within
+Judaism was regarded within Christianity from the standpoint of
+the decisive fact of the incarnation.
+
+Other passages, too, speak of the pre-existence of Christ, or
+at least presuppose it (e.g., Phil. 2:5-11; Rom. 8:32; 2 Cor. 8:9).
+A number of passages go so far as to call Christ God. It is
+disputed, of course, whether in Romans 9:5, for example, the word
+"God" actually has reference to Christ, or whether the last
+words in this verse represent a benediction which speaks of
+God the Father. Most of the objections which are raised against
+the conception that Paul here calls Christ God are based only
+on the general consideration that the strict monotheism which
+Paul inherited from Judaism would keep him from making such
+an assertion. In reply to these objections it may be said that
+Paul was able to pray to the exalted Lord. It would follow,
+therefore, that he could also use the word "God" for Christ. In
+other passages of the New Testament the predicate "God" is
+without a doubt applied to Christ.
+footnote:[At John 1:18 the best manuscripts read, "the only (or, only begotten)
+God" (monogenés theos). Cf. 1 John 5:20, "This is the true God and eternal
+life."]
+With these affirmations,
+which for Jewish monotheism were utterly offensive, Christians
+expressed their faith that it was not merely some heavenly
+being which encountered them in Jesus Christ, but God himself,
+and that because of this, his coming, especially his cross and
+his resurrection, had meaning for the entire world.
+
+The New Testament affirmations about the Holy Spirit are
+not so clear and univocal as those about Jesus Christ. It was
+known that the Spirit had spoken through the prophets and that
+he had descended at the baptism of Jesus in order to equip
+him for his work. The Johannine affirmations about the Spirit
+are especially far-reaching. For the period after his departure
+Jesus promises his people the Paraclete (nes, "Advocate"; Rsv,
+"Counselor"), who is purposely called "the Spirit of truth"
+(John 14:17), or "the Holy Spirit" (John 14:26). Since it is
+asserted of the Spirit that he is "another Paraclete" (John 14:16),
+it could be supposed that the Spirit is here conceived to be
+another person distinct from Jesus Christ. But this is hardly the
+case. The meaning, rather, is that in the Spirit Jesus himself
+comes to his disciples as the Paraclete. It is noteworthy, of
+course, and very important for the development of dogma, that
+Christ and the Paraclete are not simply equated, but that the
+Spirit is called "another Paraclete." How vividly the early
+church experienced the reality of the Spirit, and how definitely
+it was influenced by that reality, can be seen on every hand in
+the Pauline letters. The Spirit is called the Spirit of God, as
+well as the Spirit of Christ (Rom. 8:9). Here, too, however,
+the Spirit is not yet conceived in personal terms, at least not
+in the sense of the later doctrine of the Trinity.
+
+The New Testament is not satisfied, however, with these
+sometimes rather far-reaching assertions about God the Father,
+Jesus Christ, and the Holy Spirit. Some passages present triadic
+formulas. They are called "triadic," and not "trinitarian,"
+because they name Father, Son, and Spirit alongside one another
+without reflecting upon the oneness of God and, hence, do not
+yet contain a doctrine of the Trinity. We have such a formula
+in 2 Corinthians 13:13, "The grace of the Lord Jesus Christ
+and the love of God and the fellowship of the Holy Spirit be
+with you all." It is significant that while in Ephesians 4:4-6 the
+Spirit, the Son, and the Father are all mentioned and without
+further elucidation, in each case the "one" is emphasized. There
+is "one God," not three gods, in whom Christians believe. The
+baptismal command in Matthew 28:19 is especially striking in
+this respect: baptism is to take place "in the name of the Father
+and of the Son and of the Holy Spirit." The significant thing
+about this formula is not so much that here Father, Son, and
+Spirit are named alongside one another, which happened
+frequently at the time, but that mention is made of the "name" of
+the Holy Spirit. There are not three names in reference to
+which baptism is to take place, but one name, a name,
+moreover, which includes the name of the Holy Spirit. The
+understanding of the Spirit upon which this baptismal formula is
+based goes much further than that which is otherwise found
+in the Gospel of Matthew. As a matter of fact the church
+possessed in this baptismal command an affirmation which went
+far beyond its comprehension at the time, and the full content
+and deep significance of which it could appreciate only after a
+long development had come to fruition. The reason was that
+the church had hardly begun to realize what the confession of
+Jesus Christ as God, as well as the presence of the divine Spirit
+in the church, would mean for its total understanding of God.
+At the same time it can hardly be doubted that the affirmations
+of faith which the first Christians made with reference to God
+the Father, Son, and Holy Spirit, and which were based upon
+God’s act in Jesus Christ and upon the pouring out of the Holy
+Spirit, simply cried out for fuller elaboration. It was not merely
+a necessity to point out, in opposition to Judaism, in what sense
+a Christian is a monotheist. The faith itself demanded greater
+clarity.
+
+It is not surprising in the least to find that the church
+fumbled for some time in its attempt to formulate intellectually
+and conceptually its faith in God the Father, Jesus Christ, and
+the Holy Spirit. Nor is it surprising that occasionally it took
+the wrong road, and then found it necessary to retrace its steps
+and begin looking for the right road again. At times it even
+seemed as if the task it had set for itself could not be mastered.
+From the beginning, of course, certain fundamentals were
+firmly held by the church, namely, that God is one, i.e., that it
+did not believe in two, let alone three gods; that this one God
+has revealed himself in a threefold way as Father, Son, and
+Holy Spirit; that Father and Son may not be equated in a way
+which dissolves the differences between them, as if the Son
+were merely a "mask" behind which the Father hides himself.
+But how were these fundamental articles of faith to be comprehended
+in a formula? In what concepts could they be appropriately expressed?
+
+When in the second century the church’s center of gravity,
+as well as that of its theology, shifted definitely from the
+Palestinian realm to the world of Greek thought, the church faced
+the necessity of expressing its faith in a form that would be
+intelligible to the Greek mind. The result was that metaphysical
+concepts which were focused upon being took the place of concrete,
+biblical forms of speech. As we know, Greek thought
+differs from biblical thought above all in this, that for the
+latter the truth of God is revealed in history, while for the former
+it is grounded in metaphysical being. When related to the concept
+of God, this meant that the difference between God the
+Father, the Son, and the Holy Spirit could be understood as
+one of metaphysical self-subsistence (hypostasis). The apologists
+of the ancient church pioneered in this respect when they
+united the Greek concept of Logos with the Logos idea of John,
+chap. 1. Of course, the attempt of a man such as the apologist
+Justin Martyr to designate Christ "another God" created its own
+set of problems.
+footnote:[Justin Martyr, Dialogue with Trypho, chap. 56. ANF 1, 223 ff.]
+
+Against such pluralism stood what was called Monarchianism.
+Its main concern was to preserve monotheism within Christianity.
+The basic point at issue was the relation of the Father
+and the Son to each other. Christology and the doctrine of the
+Trinity have always been intimately connected, but this was
+especially true at the beginning. The Monarchians were of the
+opinion that the problem could be solved by thinking of the
+divinity of the Son as being merely derived, or by seeing in
+the Son only a mode of appearance of the Father. According
+to one brand of Monarchianism, so-called dynamistic Monarchianism,
+an impersonal divine power was active in the man
+Jesus. Thereafter Christ was adopted as the Son of God. This
+dynamistic Monarchianism in its pure form was found especially
+toward the end of the second century and occasionally
+still in the third. There is a naive, adoptionistic concept which
+is much older, however, and is embodied in many writings of
+the ancient church which are otherwise thoroughly orthodox.
+
+A second brand of Monarchianism, so-called modalistic
+Monarchianism, already represents a more developed concept. It,
+too, was represented among various segments of the church
+around the year 200. The modalistic Monarchians argued that
+God is only a single person. The Son and the Spirit merely
+represent modes of appearance of the one God. Sabellius, who
+was active in Rome at the beginning of the third century, even
+used the expression "Son-Father."
+
+It doubtlessly was the concern of Monarchianism, and justifiably
+so, to insist upon the unity of God. In all ages the danger
+that in the development of its faith the church might fall
+prey to polytheism has probably been greater than the danger
+that the differences between the persons of the Trinity might
+be leveled. It is deceptive, however, to think that Monarchianism
+was in a better position to hold to the unity of God than
+was the church. For either it was forced to see in Christ, after
+his baptism or after his resurrection, a kind of half-God, as was
+the case with dynamistic Monarchianism; or else, in the attempt
+to do away with the differences between Father and Son, it
+became necessary to disregard entirely the Gospel accounts
+which show the earthly Jesus praying to God the Father. This
+is what happened in modalistic Monarchianism. Both forms of
+this movement, therefore, abandoned something which, for the
+church, was absolutely fundamental.
+
+Beyond this, the many gnostic systems which were developed
+in the second century also exerted an influence upon the formation
+of the church’s doctrine of the Trinity. It is true that the
+Gnostics did not develop their own doctrine of the Trinity.
+What they did, rather, was to include God the Father, God the
+Son, and the Holy Spirit among their many aeons. The Gnostic,
+Valentinus, professed knowledge of no less than thirty
+aeons, below all of which he ranked Christ. According to most
+gnostic systems, Christ had only a phantom body on earth,
+which he abandoned again before the crucifixion. Therefore it
+was not Christ, the Son of God, who died, but only the man
+Jesus. This Christology is called docetism. Over against such
+systems, the church could not be satisfied with the mere
+repetition of the baptismal command of Matthew 28:19, or with other
+New Testament affirmations. It had to develop its faith further.
+
+### Early Traces of a Doctrine of the Trinity
+
+A saying of Justin Martyr indicates what lack of clarity there
+was with regard to the development of the doctrine of the
+Trinity as late as the middle of the second century. In his
+Apology Justin seeks to weaken the pagan reproach that Christians
+are atheists. He admits that Christians indeed reject the
+false pagan gods, but, he goes on to say, they do not deny the
+true God, who is the Father of justice and chastity and of all
+the other virtues, and who will have nothing to do with that
+which is evil. He then says, "Both him and the son who came
+forth from him and taught us these things, and the host of
+other good angels who follow and are made like to Him, and
+the prophetic Spirit, we worship and adore, because we honor
+[him] in reason and truth."
+footnote:[Justin Martyr, The First Apology, chap. 6. [The rendering in ANF 1,
+164, does not imply angel worship. In translating we have reproduced the
+author’s literal rendering of the passage.—TRANSLATOR.\]]
+As if it were not enough that in this enumeration angels
+are mentioned as beings which are honored
+and worshiped by Christians, Justin does not hesitate to
+mention angels before naming the Holy Spirit. The sequence in
+which the beings that are worshiped are mentioned (God the
+Father, Christ, the angels, the Spirit) is noteworthy. Yet we
+would be doing Justin an injustice if we were to put him on
+the same plane as the Gnostics such as Valentinus.
+
+Only toward the end of the second century was greater
+clarity introduced into the doctrine of God. Of importance here
+was, first of all, Irenaeus, Bishop of Lyons. In his doctrine of
+God two basic features are evident. First, he spoke of God’s
+inner being, and, second, of his progressive self-disclosure in the
+history of salvation [Heilsgeschichte]. Sometimes Irenaeus
+emphasizes the unity of God so strongly that he does not shrink
+from using expressions which sound modalistic, as if Son and
+Spirit were only appearances of the one God. In his Proof of
+the Apostolic Preaching he says, "Thus God is shown to be one
+according to the essence of His being and power" even though
+"as the administrator of the economy of our redemption, He is
+both Father and Son. .. ."
+footnote:[Irenaeus, Proof of the Apostolic Preaching, chap. 47. ACW 16,78.]
+In this way Irenaeus hoped to avoid
+every pluralistic expression with reference to God. He knew, of
+course, how to differentiate between God the Father, Son, and
+Holy Spirit. Irenaeus was of the same opinion as the apologists
+of the ancient church, especially Theophilus of Antioch, when
+he taught that God had with him from all eternity his Word
+and his Wisdom. These were, so to speak, hypostases. God
+brought them forth from himself before the creation of the
+world. The Son was begotten of the Father before time. To
+every further speculation, which tries to enter into the mystery
+of the begetting of the Son, Irenaeus objects.
+
+In this way Irenaeus developed the basic features of a doctrine
+of the Trinity. It is, in fact, the most fully developed doctrine
+of the Trinity during the first and second centuries. Its
+characteristic feature is that it does not begin with three co-eternal
+persons, as does the orthodox doctrine of the Trinity in the
+fourth century, but with the person of the Father who has with
+and beside himself his Word and his Wisdom. To employ the
+terminology of a later period, it is not possible to speak of
+three co-eternal persons in Irenaeus’ doctrine of God. Nor
+should it be expected that the rank of the Son or that of the
+Spirit would be clearly expressed. The development of the
+doctrine of the divine persons took place in Irenaeus only from the
+point of view of the history of salvation.
+
+Tertullian, who lived in Carthage and was the first theologian
+of the church to write in Latin, expressed himself similarly on
+the doctrine of God. He, too, began with the person of God
+the Father, who has with him Word and Spirit, and who brings
+these forth out of himself for the purpose of the creation of
+the world. Yet Tertullian’s work proved to be of great
+significance for the later development of the doctrine of the Trinity,
+thanks to his coining of precise formulas giving expression to
+the unity of God as well as to the threeness of the persons. It
+was his intention to hold to the one substance in three related
+persons.
+footnote:[Tertullian, Against Praxeas, chap. 12. ANF 3, 607.]
+Three persons exist, he said, in the one substance, and
+still there is only one God. For the history of salvation,
+however, there is a threefold differentiation of the unity. God's
+_oikonomia_, his _Heilsgeschichte_, requires three persons. In a
+statement formulated with acute precision Tertullian says that
+they are differentiated _non statu sed gradu, nec substantia sed
+forma, nec potestate sed specie_ ("not in condition, but in
+degree; not in substance, but in form; not in power, but in aspect").
+footnote:[Ibid., chap. 2. ANF 3, 598.]
+The three are thus one, though not one person. Tertullian thus
+pithily summed up older thinking concerning the
+doctrine of God and he rejected, at the same time, the heresies
+of Monarchianism and Gnosticism. Thus the basic elements of
+the doctrine of the identity of substance with reference to
+Father, Son, and Holy Spirit are already present in Tertullian,
+even though, on the other hand, he strictly subordinates the Son
+to the Father and at times uses rather unfortunate images, such
+as his likening of Father, Son, and Spirit to root, branch, and
+fruit.
+
+Origen (d. 254) went much further than Irenaeus and Tertullian.
+This acute thinker, who had already engaged in textual
+criticism of the biblical writings and from whose pen we have
+the first Christian dogmatics, also made an important
+contribution to the doctrine of God. This is true even though it must
+be admitted that his doctrine of the Trinity contains many
+problems which helped to bring about the beginning of the Arian
+controversy.
+
+Origen’s doctrine of the Trinity is marked by two basic features.
+First, like Irenaeus and Tertullian, he puts great emphasis on
+the unity of God. Yet he does not set it forth very
+clearly. The reason is that in addition to his emphasis on the
+unity of God he lays stress upon the differences between the
+persons. In doing so he goes beyond his predecessors. Strictly
+speaking, only the Father is God, though the name "God" may
+also be applied to the Son and to the Holy Spirit. The divinity
+of the Son and of the Spirit is derived from the Father. God
+brings forth the Son in an eternal act. As the Son is subordinated
+to the Father, even so the Spirit is subordinated to the
+Son. For the three persons of the Godhead, Origen uses the
+concept of hypostasis, by which he means an individual essence,
+or individual subsistence. Thus Son and Spirit are other than
+the Father with regard to their hypostasis. At the same time,
+however, he holds that all three persons are one in the sense
+that they possess a unity and harmony of will. For this kind of
+unity Origen already used the concept of homoousios ("oneness of
+being," or in the common liturgical rendering, "of one
+substance"), which later was given dogmatic status at Nicaea
+(325), even though he held to the numerical difference between
+Father and Son. There can be no doubt, however, that although
+Origen always held to the unity of the three persons, and was
+thus the first to develop an actual doctrine of the Trinity, he
+was not so successful in making clear the unity of the three
+divine persons as he was in defining their differences. Here the
+tensions in his doctrine of God become evident. It was possible,
+for instance, for Origen to say that the Son was a creature of
+the Father, thus strictly subordinating the Son to the
+Father, while at the same time he insisted upon a unity of
+substance with regard to Father and Son. The problematical nature
+of his doctrine of the Trinity is especially evident in the fact
+that, contrary to both the New Testament and tradition, Origen
+rejected prayer to the exalted Lord. Only prayer to God the
+Father is permitted, he insisted, although such prayer has to be
+made through the Son and the Spirit.’
+
+Of no less importance is the second feature of Origen’s doctrine
+of God. He was of the opinion that, since God the Father
+is perfect in goodness and power, he must always have had
+objects toward which he exercised this goodness and power. On
+the basis of this presupposition Origen taught the doctrine,
+reminiscent of certain gnostic systems, that before the creation
+of the cosmos God called into being a world of spiritual beings
+which are co-eternal with him. The world of history, he
+asserted, God created only when these spiritual beings fell away
+from him, Furthermore, said Origen, these eternal beings were
+subordinated to God the Father from the beginning. Hence a
+mediator between God’s absolute oneness and this multiplicity
+of beings was necessary. This mediator is the Son. Origen’s
+teaching concerning the eternal generation of the Son, ie, a
+generation which is not yet a completed act, must be seen
+against the background of this concept of an eternal creation.
+It has thus an entirely different foundation from that of a
+similar idea found in the later theology of the Trinity, for which
+the eternal generation of the Son was founded upon the notion
+that in eternity there is no past and no future but only an
+eternal now (Augustine). It is immediately apparent that this
+second feature of Origen’s doctrine of the Trinity is
+considerably more problematical than the first. The assumption of an
+eternal creation directly contradicted the church’s doctrine, as
+well as the statements of Scripture. Through its controversy
+with the various gnostic systems, the church had become fully
+aware of the fact that the doctrine concerning an eternal
+creation could not be brought into harmony with the Bible and the
+Christian faith. As a result, Origen’s notion of the eternal
+generation of the Son as well as his conception of the unity of the
+Son with the Father had to stand or fall with his insistence
+upon an eternal creation.
+
+During the decades between the death of Origen and the beginning
+of the Arian controversy, it became clear that the Origenistic
+doctrine of the Trinity had to be refined in one way
+or another. Most theologians rejected the eternity of creation.
+This made it necessary, however, either to emphasize the strict
+subordination of the Son to the Father, or to go beyond Origen
+in strongly asserting the oneness in substance of the different
+hypostases. All subsequent theology, however, whether it stands
+to the "left" or to the "right" of Origen, owes to him that which
+is really decisive. For only through him, and since his time,
+has the task of actually developing a doctrine of the Trinity
+which progresses beyond the older theologians’ "economic"
+Trinity and toward an "immanent" Trinity been recognized, that
+is to say, a doctrine of the Trinity which sees in the successive
+revelation of the persons of the divine Trinity at the same time
+a reference to God’s eternal being. Furthermore, as will be
+pointed out below, only through Origen did the Logos Christology
+gain universal acceptance. Thus all later generations have
+learned from Origen, even when they did not share his onesided emphasis.
+
+### Arius
+
+Arius (d. 336), too, had learned some things from Origen.
+The intellectual world out of which Arius came, the school of
+Lucian of Antioch, took over much from Origen. But if it is
+true anywhere, it is true here, that the same things said by
+two different people are not the same. Arius, more than Lucian,
+changed and restructured the Origenistic theology. In this endeavor
+he permitted himself to be guided by certain distinct
+motives which, in their Arian form, were not present in Origen.
+
+Arius’ prime concern was to emphasize the uniqueness and
+transcendence of God. This must be kept clearly in mind if we
+are to avoid passing hasty judgments that would keep us from
+understanding a man like Arius. A confession of faith by Arius
+says, "We confess one God who alone is unbegotten, alone
+eternal, alone without beginning, alone true, alone immortal,
+alone wise, alone good, alone Lord, alone the judge of all." By
+"God" Arius always means God the Father only. Because His
+being is absolutely transcendent and absolutely immutable it
+cannot be communicated to anyone else. Hence, everything that
+exists besides this transcendent God must have been created, and
+that means that it must have come out of nothing. Arius
+resolutely rejects the thought that the Son came forth from the
+Father. He felt that such thought-forms apply physical categories
+to God. More than that, such a concept would make of
+God a "composite," which is impossible.
+
+What, then, does Arius say about Jesus Christ? It is true that
+Arius, like the apologists Irenaeus and Tertullian before him,
+held that God has with him from eternity his Word and his
+Wisdom. But for Arius these two simply coincide with the being
+of God and have nothing to do with the second and third
+persons of the Trinity. The Word, on the other hand, which in
+Jesus Christ became flesh, is a creature of God, created by him
+out of nothing before the beginning of time. Not that Arius
+puts the Son on the same plane with other creatures. According
+to him the Son is a perfect creature, but he is not a creature
+in the sense in which other creatures are. In referring to
+the Son as a creature, says Arius, one should not speak of a
+generation of the Son, since this would bring him too close to
+the Father. Only in a derivative sense should the word "generation"
+ever be used. Under no circumstances may any unity
+of substance between Father and Son be asserted. This is for
+Arius the worst heresy. What must be said instead is that God
+was not always Father, but that there was a time when he was
+alone and was not yet Father. Only later did he become Father.
+Immutability may not be asserted of the Son as it can of the
+Father. The Son may be called God, to be sure, but his divinity
+is not an attribute of his being. It is something bestowed
+upon him by God’s grace.
+
+Arius, too, recognized the necessity of taking over the
+Origenistic concept of hypostasis. He even talked, and seemingly
+much like Origen, of three hypostases, ie., of the three persons
+--the Father, the Son, and the Holy Spirit. Thus Arius also
+assumed a supreme Triad, which means that he did not deny
+or attempt to conceal the distinctiveness of the Son and of the
+Holy Spirit as did Monarchianism. So Arius, too, was not able
+to hold himself aloof from the general trend which the doctrine
+of God had taken since the second century.
+
+Yet even though one may appreciate the concern of Arius and
+would like to give credence to some of his ideas, it is difficult
+not to regard his outline of the doctrine of God as highly
+dangerous. In the last analysis Arius ends up with many unresolved
+problems, which are really much greater than those which he
+had set out to solve. He wanted to hold on to the uniqueness
+of God, and it seemed he had succeeded in doing so. In reality,
+however, he made out of Christ a kind of demigod, who was
+neither quite man nor quite God. A similar observation may be
+made about his understanding of the Holy Spirit, although it
+should be remembered, of course, that the doctrine of the Holy
+Spirit was not yet debated in his day. While it was still
+possible for Origen to unite in his thought the three hypostases
+which he taught, in Arius they became three divinities
+differentiated from one another in terms of gradations.
+In Arius’ doctrine of God, therefore, that which had long been present in
+theology as a latent danger, namely, the strict subordination of
+the Son to the Father, was now openly expressed. At an earlier
+period, as a result of the appropriation of certain ideas from
+Jewish apocalyptic, a so-called angel Christology had actually
+been developed in which Jesus Christ appeared as an especially
+exalted angelic being. Prior to Arius this notion had been held
+in rather naive form, since no one had yet thought it through
+to the end. In Arius’ doctrine of God, however, which drew
+upon philosophical concepts and ideas and was more fully
+‘Aleveloped than earlier notions of a similar cast, the peril
+of a subordinationist Christology appeared. The dangerous consequence
+of the Arian doctrine is found in the assertion that Christ, since
+he is not God, cannot truly know the Father. Hence not even
+revelation can give a full knowledge of God. This inadequate
+doctrine of God, therefore, leads necessarily to an entirely
+inadequate doctrine of revelation.
+
+If one desires to adhere to the uniqueness of God, as well as
+to the validity of the revelation of God in Jesus Christ, the path
+Arius took is certainly not the one to follow. It leads to a new
+form of polytheism. It is praiseworthy that Arius did not seek
+to preserve the unity of God at the cost of revelation. Yet to
+follow the path he took means either that one must deny the
+revelation of God in Jesus Christ or that one must assume there
+is more than one God. One thing Arius did accomplish, however.
+With an urgency that could not be ignored, he posed the
+question for the church whether, according to its faith, Jesus
+Christ is a creature standing on a level far beneath God or
+whether he is God himself. This is the basic question in the
+Arian controversy.
+
+### The Council of Nicaea
+
+Arius was pastor of the Church of St. Baucalis in Alexandria.
+Alexandria had long been the center not only of intellectual life
+in general, but also of theology. Here Origen, the most famous
+Greek theologian of the ancient church, had long been active.
+Thus the opinions of Arius, having been expressed in this city,
+were bound to attract attention. At first it seemed that perhaps
+no controversy would arise. Arius’ bishop, Alexander of Alexandria,
+was a peace-loving man who, as far as he himself was concerned,
+would have preferred to avoid an argument. But things
+had progressed too far for that. Behind Arius stood many people
+in all parts of the Greek East who shared his opinions.
+
+When in the year 324 Constantine the Great, after his victory
+over Licinius, had become ruler also of the eastern part of the
+Roman Empire, he found the Eastern church embroiled in bitter
+controversy. The first emperor to become a Christian, Constantine
+had basically no understanding whatsoever of the questions that
+were being asked in Greek theology. In the controversy over the
+doctrine of the Trinity he saw nothing more than
+unnecessary bickering of theologians, which might best be
+avoided by eschewing all speculation and by living together in
+love and harmony. At the same time Constantine was concerned
+about keeping or restoring ecclesiastical peace. After all, the
+church had an important service to perform in his empire. It
+was to rid the people of the immoralities which had made broad
+inroads among them and to guide men into law and order; it
+was to be concerned about the extension of the pure worship
+of God; and above all else, it was to ask and to obtain God’s
+blessing for the emperor and his realm by discharging responsibly
+its tasks as a church. The emperor therefore stepped into
+the controversy and extended invitations for a great council to
+be held at Nicaea (325), the imperial residence not far from
+the sea of Marmara in Asia Minor.
+
+In order to follow the course of the discussions at the Council
+of Nicaea, it is necessary to keep in mind the entirely new
+situation in which the church found itself at this point in its history.
+After having been persecuted for three hundred years, with only
+an occasional brief respite, the church was now confronted with
+an emperor who professed the Christian faith. To add to the
+novelty, Constantine’s conversion had come on the heels of the
+Diocletian persecution, which had been the most ruthless the
+ancient church had ever known. For the first time in its history
+Christianity in the Roman Empire was no longer the persecuted
+religion; now officially tolerated and recognized, in some
+respects it was even fostered by the empire. From a purely
+external point of view the change in the situation was evident to
+the bishops in the fact that they no longer needed to move
+about secretly nor did they have to use the normal means of
+travel to visit one another. They now had the privilege of coming
+to the council by means of transportation provided by the
+state, ie., means which were intended for use by ranking state
+officials. At Nicaea the emperor provided lodging for the bishops
+in his palace. It was there, too, that the discussions took
+place, and in the presence of the emperor at that. The changed
+situation could not have been brought home more forcefully. It
+is understandable if the bishops showed their gratitude by
+generous efforts to oblige the emperor.
+
+In the course of the long discussions which now took place
+at Nicaea the empéror intervened personally several times. Even
+though he had a general antipathy to the controversies, and
+even though he himself had only a rudimentary "theology," he
+was still not entirely without sympathy for the problems which
+arose. In any case, he permitted himself to be more fully
+instructed about many things by his episcopal counselors. The
+decisive catchword of the Nicene confession, namely, homoousios
+("of one substance"), comes from no less a person than the
+emperor himself. To the present day no one has cleared up the
+problem of where the emperor got the term. It seems likely that
+it was suggested to him by his episcopal counselor, Bishop
+Hosius (Ossius) of Cordova, and it was probably nothing more
+than a Greek translation of a term already found in Tertullian,
+who used it to express the idea that Father and Son are of one
+substance.
+
+‘At the council a solemn confession of faith was formulated,
+which embodied the results of the discussions. The basis of it
+was a confession which came from the area of Syria-Palestine,
+and which probably stems from Jerusalem. This confession of
+Nicaea must not be confused with the confession which in today’s
+services of worship is often called the Nicene Creed. Actually
+the latter should be referred to as the Niceno-Constanti
+nopolitan Creed (381). The Nicene confession of 325 reads as
+follows:
+
+> ‘We believe in one God, the Father almighty, maker of all
+things visible and invisible;
+
+> ‘And in one Lord Jesus Christ, the Son of God, begotten from
+the Father, only-begotten, that is, from the substance of the
+Father, God from God, light from light, true God from true God,
+begotten not made, of one substance with the Father, through
+Whom all things came into being, things in heaven and things
+on earth, Who because of us men and because of our salvation
+came down and became incarnate, becoming man, suffered and
+rose again on the third day, ascended to the heavens, and will
+come to judge the living and the dead;
+And in the Holy Spirit.
+
+Immediately upon this confession follow the anathemas upon
+heretical opinions. They read as follows:
+
+> But as for those who say, There was when He was not, and,
+Before being born He was not, and that He came into existence
+out of nothing, or who assert that the Son of God is of a different
+hypostasis or substance, or is created, or is subject to alteration or
+change—these the Catholic Church anathematizes.
+footnote:[For the text of the Nicene confession and a detailed commentary on it
+see J. N. D. Kelly, Early Christian Creeds (2nd ed.; London: Longmans,
+Green, and New York: McKay, 1960), pp. 205-230; also his Early Christian
+Doctrines (London: A. and C, Black, and New York: Harper, 1958), pp.
+231-237. Translation used with permission of the publishers.]
+
+Most of the bishops who were present at the council signed
+this creed. Among the signers were those who, judging by their
+theological presuppositions, could not do so, or could hardly do
+so, such as Eusebius of Caesarea. What seemed especially
+objectionable to many bishops and theologians of the East was the
+concept put into the creed by Constantine himself, the homoousios,
+which in the subsequent strife between orthodoxy and
+heresy became the object of dissension. Even most of the Arians
+put their names to the creed. Only Arius and two of his friends
+refused to sign, for which they were excommunicated.
+
+What was the exact meaning of this creed which had been
+signed by theologians of such divergent opinions and which,
+strangely enough, at first served as a formula of concord, only
+to generate ever new controversy later? It is not easy to ascertain
+the original meaning of the confession of Nicaea. The
+reason for this difficulty is not to be found in the paucity of
+sources, although it is true that the records of the individual
+discussions at the council are no more available. The real reason
+it is not so easy to establish the original meaning of the
+Nicene decision lies in the fact that the church could not stop
+with this decision, but was virtually forced to move toward further
+clarifications of its doctrine of God. As a result the decision of
+Nicaea was given a progressively new and deeper meaning. This
+later interpretation of the Nicene confession is therefore not
+necessarily inconsistent with its original meaning. Quite
+to the contrary, this interpretation probably sets forth the import
+of the Nicene decision more profoundly and better than did the
+council fathers themselves. It becomes apparent here that the
+history of doctrine is not concerned merely with the historical
+origins of a series of doctrinal propositions, but with confessions
+which constantly need to be adapted and interpreted.
+
+This much is certain, of course, that the Nicene confession
+was meant to reject the teaching of Arius, and did reject it.
+With great emphasis the council insisted that the Son is not
+created, but begotten. This concept of "begetting" is meant to
+exclude the idea that the Son was called into being out of nothing,
+as well as the idea that there was a time when God the
+Father was alone, i.e., was not yet the Father. In this way the
+immutability and eternity of God are attested. The rejection of
+Arianism meant, however, that this immutability and eternity of
+God is also asserted of the Logos, i.e., the second person of the
+Trinity.
+
+What, then, is the positive sense of the Nicene confession? In
+order to ascertain this the affirmations that the Son is "from the
+substance of the Father" and that he is "of one substance with
+the Father" must be kept in mind. The first of these two
+formulations certainly seems to say that the Logos is in a true sense
+the Son of the Father, in other words, that we are dealing here
+with a "metaphysical" sonship. This first formulation emphasizes,
+then, that the Son has the same divine nature as the Father
+from whom he came forth. Every other affirmation, which dispenses
+with the concept of begetting, would necessarily lead to
+the conclusion that the Son is not only a person other than the
+Father, but that he is also "something other" than the Father,
+ite., that he is not God.
+
+To determine the sense of the expression "of one substance
+with the Father" is more difficult. It is clear at the outset that
+this formula cannot assert anything other than what is meant by
+the expression "from the substance of the Father," and it is
+undoubtedly not meant to say anything else. The question arises,
+however, in what sense the unity of substance, which is emphasized,
+is to be understood. Are Father and Son one in the sense
+intended by Origen? That is, are they one as the result of the
+identity of substance, while they are distinct numerically, as
+Origen asserted during the controversy against the Monarchians?
+Or is the formula to be understood identity of substance?
+
+For a long time the decision of Nicaea was understood in th
+second sense. We meet this interpretation already in the ancient
+church. There was no question but that the concept "of one
+substane with the Father" allows this interpretation, indeed.
+even demands it. In that case, "of one substance with the
+Father" means that the persons of the Godhead are one common
+divine Being. While this interpretation accords with the
+later orthodox understanding, it hardly expresses the original
+meaning of this expression: the concept _homoousios_ was not
+understood in this sense at the time. For the theologians of the
+third century _homoousios_ simply meant "of the same substance."
+There was as yet no reflection about the question of numerical
+identity. It would be difficult to imagine that at the synod of
+Nicaea the concept _homoousios_ could suddenly and without
+preparation have been used in a new sense, "
+It is probable that with its choice of the expression "of one
+substance with the Father" the Council of Nicaea meant to
+strengthen once more its "begotten, not made" and this the
+divinity of the Son, The council did not attempt to solve the
+question of the divine unity and the distinctness of the persons.
+What it meant to do was to assert, against Arius and his theory,
+which made a demigod out of Jesus Christ, the full divinity of
+the Son. Yet, even if the decision of Nicaea is understood in
+this sense, which is narrower than the customary
+understanding of an earlier day, it is still of considerable
+importance that the proposition that Jesus Christ is God
+had long been held; we meet its beginnings already in the New
+Testament. Yet the subordinationism latent in the church
+which in the theology of Arius is raised to its highest point,
+led to a limitation of this affirmation, This subordinationist
+development was now warded off, and the full divinity of the Son was
+set forth. It is clear that as a result new problems were created
+a once. The two most important of these were, first, the relationships
+of the various divine persons to each other, and, second
+the relationship of the divinity of Jesus, as asserted at Nicaea,
+to the image of Jesus as it appears in the Gospels. These two
+problems were to absorb much of the church’s energy during
+the following period.
+
+No less important, however, is the significance of the Nicene
+confession in another respect. In addition to the theological
+errors it rejected, the confession also represents a denial of a
+philosophical concept of God. It was clear that in arriving at
+the christological propositions he was able to formulate so
+acutely, Arius had permitted himself to be influenced by certain
+philosophical presuppositions. Of course, the Christian church
+cannot escape the necessity of expressing its faith in a language
+that is clear and conceptually articulate. For that reason it has
+never been able to dispense with the use of philosophical concepts.
+It must be remembered, however, that the use of such
+concepts in theology is not the same as in philosophy. Luther
+once said that if philosophical concepts are to be used in theology
+they must, so to speak, be taken "to the bath" i.e., they must
+be baptized.
+footnote:[Luther, Promotionsdisputation von Palladius und Tilemann (1537), WA 391, 229, Il. 16-19.]
+At Nicaea, at any rate, the church did not
+attempt to penetrate the mystery of God or to describe it as
+did Arius, from the point of view of the philosophical concept
+of transcendence. It is true that in return the church had to
+accept the fact that its confession contains a paradox. Yet is
+this not the paradox which consists in the Word’s being made flesh?
+
+### More Than Five Decades of Controversy
+
+The Council of Nicaea did not end the Arian controversy.
+Indeed, it is with Nicaea that the controversy began in earnest
+To be sure, most of the bishops who were present at Nicaea
+signed the creed. But there were widespread differences among
+the signers in the way the creed was understood. Constantine
+was content to have the creed signed, leaving its interpretation
+largely to the individual. Behind the scenes, however, there now
+began a violent political struggle within the church. The Arians
+who for the moment had been forced into retreat, continued to
+have many followers. They took steps to fill as many vacant
+episcopal sees as possible with members of their own party. But
+the orthodox were also not idle, especially Athanasius, who had
+become bishop of Alexandria in 328 and was to live until 373.
+The power struggle was fierce, with both sides using means that
+were often regrettable and with the actual differences of opinion
+magnified by rather far-reaching misunderstandings of the
+opponents’ position. Not all who rejected the Nicene confession were
+true Arians. On the basis of Origenistic theology, however, they
+were dissatisfied with the creed. It seemed to them that at
+Nicaea the divine persons had not been sufficiently differentiated.
+In their opinion Nicaea aided modalistic Monarchianism.
+The members of the Nicene party, on the other hand, did not
+always do justice to their opponents either. In the fifth century
+the church historian Socrates (d. ca. 450) was already comparing
+the Arian controversy with a battle fought in the dark, with
+the combatants unable to distinguish friend from foe.
+footnote:[Socrates, The Ecclesiastical History of Socrates Scholasticus, Bk. 1,
+chap. 23. NPNF? 2, 27.]
+Yet these often regrettable by-products should not lead one to
+disregard the actual substance of the discussions.
+
+Among the many persons who over the decades were involved
+in the controversy, especially in the eastern part of the Roman
+Empire, a few stand out. There is, first of all, Athanasius, and
+then the three so-called Cappadocians. Each in his own way,
+and yet in substantial agreement with one another, and with a
+view to the real significance of the discussion, these men held
+fast to the decision of Nicaea even while they were developing
+it further in a very definite way. They realized, as few others
+did, that Nicaea, with its condemnation of Arianism, did not
+merely represent a climax in the development of the church’s
+doctrine, but that it also imposed new tasks.
+
+Athanasius has always been regarded as the real champion of
+Nicaea. He fought for the homoousios as no one else did, yet
+without a narrowly conceived insistence on it. He endured no
+less than five banishments, some of them lasting many years,
+merely because he held fast to the Nicene confession. He does
+not belong to those theologians who independently and boldly
+develop a system of their own. Apparently Athanasius never
+pursued theology for the sake of theology. He gave himself to
+it only for the sake of polemic. Yet, in spite of these
+limitations, he was still an acute thinker. Relentlessly he continued to
+point to the consequences implied in the position one takes
+toward the problem of the consubstantiality of the Son with the
+Father.
+
+For the history of the doctrine of the Trinity, Athanasius has
+above all a twofold significance. First, he became increasingly
+aware of the need to understand the homoousios of Nicaea not
+only as an assertion of the full deity of the Son but also in its
+significance for the unity of God. It was in reference to this
+latter point especially that Athanasius underwent a development.
+During his early years he had laid no particular stress upon the
+_homoousios_. In fact a certain reserve with respect to this
+expression can be noted in his writings. It proved to be of
+significance, therefore, that during his first banishment (at Treves,
+335-337), as well as during his second banishment (in Rome
+and Aquileia, 339-346), he became acquainted with the old
+western doctrine of the Trinity. Since the days of Tertullian
+this doctrine had emphasized the unity of God, and therefore
+had understood the homoousios of Nicaea more in the sense of
+the western tradition than in that of the council fathers, who
+were predominantly Greek. From about 350 on, Athanasius was
+the determined champion not only of the Nicene orthodoxy as
+such, but especially of the term homoousios. While earlier in
+his career Athanasius had emphasized especially the divinity of
+the Logos, without expressing himself in detail about the unity
+of God the Father and God the Son, he now accentuated above
+all else the unity of God. The homoousios formula served this
+purpose splendidly. On the other hand, Athanasius had to
+reckon with the fact that emphasis on the homoousios meant
+that the differences between the persons would not appear with
+full clarity. It is of immediate importance, however, that
+_homoousios_ is henceforth given a new meaning, in that it is made
+to refer to the unity of God. Consequently Athanasius was now
+able to point out that the divinity of the Son is identical with
+the divinity of the Father, that, in fact, the divinity of the Son
+is at the same time the divinity of the Father, or that the
+fullness of the divinity of the Father is the being (_to einai_) of the
+Son.
+footnote:[Athanasius, Four Discourses Against the Arians,
+Discourse III, chap. 6. NPNF? 4, 396-397.]
+In doing this Athanasius certainly did not wish to fall
+into the error of the Sabellians, as the Arians were charging that
+he did. On the contrary, he held firmly to the idea that the
+Father and the Son are "two." "They are one," he writes, "not —
+as one thing divided into two parts, and these nothing but one,
+nor as one thing twice named, so that the Same becomes at
+one time Father, at another His own Son, for this Sabellius
+holding was judged an heretic, But They are two, because the
+Father is Father and is not also Son, and the Son is Son and
+not also Father; but the nature is one. . . ."
+footnote:[Athanasius, Four Discourses Against the Ari i
+NPNE! 4 308° Againsi rians, Discourse III, chap. 4.]
+What is not yet in this position is the difference between the
+divine persons. Here the Cappadocians were to do further work.
+
+Athanasius was of course never concerned with mere speculation.
+His real interest was not in the doctrine of the Trinity
+as such, but in soteriology, or the doctrine of redemption. Arius’
+strict subordination of the Son to the Father, the Son being a
+creature, meant that through Christ no full knowledge of God
+was mediated. Athanasius had immediately recognized this
+consequence of Arian theology and he never tired of pointing
+it out. Conversely, Athanasius always insisted most emphatically
+that only in holding fast to the consubstantiality of the Son with
+the Father is it possible to preserve faith in redemption. If
+Jesus Christ was only the manifestation of a created being,
+half-divine in nature, then there is no real redemption through Christ.
+In his early years Athanasius had already insisted, "It is we who
+were the cause of His taking human form, and for our salvation
+that in His great love He was both born and manifested
+in a human body."
+footnote:[Athanasius, The Incarnation of the Word of God, chap. 1, sec. 4, trans.
+by a Religious of C. S. M. V., S.Th. (New York: Macmillan, 1946), p.29.]
+Later Athanasius made this connection between the doctrine of God
+and the doctrine of redemption even
+more central in his teaching. Unless this connection is seen his
+struggle for the recognition of the confession of Nicaea cannot
+be understood.
+
+It is precisely at this point, however, that misgivings have
+often been expressed. They refer not to the connection of the
+doctrine of God and the doctrine of redemption as such, but to
+Athanasius’ understanding of redemption. His doctrine of redemption
+is often referred to as "physical"; that is, it is said to
+be concerned not merely with freedom from sin and guilt but
+also, and above all, with the restoration and imperishability of
+human nature, or, in ‘other words, with the deification of man.
+Again and again this formula recurs in Athanasius: "He, indeed,
+assumed humanity that we might become God."
+footnote:[Athanasius, The Incarnation of the Word of God, chap. 8, sec. 54.
+Ibid., p. 93.]
+Later he was
+to write, "Mankind then is perfected in Him and restored, as it
+was made at the beginning, nay, with greater grace. For, on
+rising from the dead, we shall no longer fear death, but shall
+ever reign in Christ in the heavens. And this has been done,
+since the own Word of God Himself, who is from the Father,
+has put on the flesh, and become man."
+footnote:[Athanasius, Four Discourses Against the Arians, Discourse I, chap. 67.
+NPNF? 4, 385.]
+On the basis of such assertions Harnack interpreted Athanasius
+as saying that mortality in itself was the greatest evil and the cause of all other
+evils, while the highest good was to live eternally.
+
+Such accusations must be approached with caution. There can
+be no doubt that even though Athanasius is familiar with the
+idea that Christ frees us from sin and guilt, his soteriology
+operates primarily with the categories of mortality and immortality.
+Death is conquered by life. It should be noted, however, that
+when the New Testament itself speaks of redemption, it, too,
+does not limit itself to the conceptions of guilt and forgiveness,
+or justification, but may on occasion set death and life over
+against each other. This is true not only of the Johannine writings,
+but also of certain passages in St. Paul. In this respect the
+Reformation undoubtedly repeated the thoughts of the New
+Testament with a certain one-sidedness. In doing so, however,
+it simply remained true to the entire western tradition, whose
+thought always inclined more to "ethical" concepts than did that
+of the Eastern church, which from the beginning gave preference to
+"physical" concepts. For Athanasius, furthermore, death
+and life are not primarily "physical" concepts, but concepts
+which are always filled with content. Death is separation from
+God caused by guilt. It is the curse which came upon Adam
+and all mankind. Life, on the other hand, is full communion
+with God, which consists not simply in the forgiveness of guilt,
+but which signifies a new being whose nature is no longer transitory but eternal.
+
+In addition to Athanasius the three so-called Cappadocians
+are also of great significance for the further development and
+right understanding of the decision of Nicaea. Actually it was
+they who created the intellectual and conceptual means for the
+full appropriation of the Nicene confession. Their labors are
+most closely connected with the question of the divinity of the
+Holy Spirit.
+
+### The Divinity of the Holy Spirit
+
+In the Nicene confession relatively little was said of the Holy
+Spirit. An assertion about faith in the Holy Spirit had been
+deemed sufficient. The problem concerning the divinity of the
+Son had been uppermost in the minds of the council fathers as
+a result of the teaching of Arius. To it Nicaea gave its answer,
+It did not seem necessary to proceed from the question of the
+consubstantiality of the Son with the Father to the problem of
+ascertaining the position of the Holy Spirit in the Godhead.
+
+With the passage of time, however, it became increasingly
+evident that it was not possible to rest content with the brief
+affirmation of Nicaea. As the concept of homoousios necessarily
+led to deeper reflection on the unity of the Father and the Son,
+the church having been forced beyond the assertion of the di.
+vinity of the Son to an insistence upon the consubstantiality of
+the Father with the Son, so the question of the Holy Spirit was
+now destined to become urgent. Once the alternative between
+the divine and the created, which had been pointed out by
+Arius, was seen in its full significance, the related problem of
+the Spirit could not be avoided. Arius regarded the Spirit as a
+being which totally lacked any similarity with either the Father
+or the Son. Among other theologians, too, the uncertainty
+concerning the doctrine of the Holy Spirit was greater than the
+uncertainty about the homoousios of the Son. A man such as
+Eusebius of Caesarea subordinated the Spirit to the Father and the
+Son, teaching that the Spirit was the first of the creatures to be
+brought forth by the Son. It is true that some theologians, for
+instance, Cyril of Jerusalem, approximated later orthodoxy in
+their teaching concerning the Spirit. Even among the adherents
+of the confession of Nicaea there was still much uncertainty
+about the question of what position the Spirit occupies in the
+Trinity. The divinity of the Holy Spirit was especially rejected
+by the so-called Pneumatomachians, who gathered about Macedonius,
+Bishop of Constantinople (342-360).
+
+Only at a rather late date did Athanasius have something to
+say in his various letters to Serapion (359 or 360) concerning
+the position of the Holy Spirit. In doing so he emphasizes that
+according to the unambiguous testimony of Scripture the Holy
+Spirit is not of a creaturely nature but belongs to God and is
+one with the Godhead, namely, the Trinity. The Spirit comes
+from God. He bestows sanctification and, indeed, life itself. The
+Spirit is immutable, omnipresent, and one, while the creatures
+are mutable, dependent upon time and space, and many.
+Through the Spirit we partake of God. On the other hand, it
+is not true that the Spirit partakes of others. He only communicates
+himself. Thus Athanasius concludes that, without doubt,
+the Spirit, too, is God, and that of him, too, consubstantiality
+must be asserted. Athanasius emphasizes especially the connection
+between the Spirit and the Son. As it is necessary to gain
+the knowledge of the Spirit through the Son, so the Spirit is
+inseparable from the Son. He is the Spirit of the Son, sent by the
+Son. Everything that belongs to the Spirit belongs also to the
+Son, as is evident in John 16:13-14. Thus Athanasius developed
+a complete theology of the Trinity, in which, however, an appropriate
+concept for that which we call "person" was missing.It was the
+Cappadocians who led the way to greater clarity on this point.
+
+The term "the three Cappadocians" refers to Basil the Great
+(d. 379), Bishop of Caesarea and Metropolitan of Cappadocia;
+Gregory of Nyssa (d. 394), a younger brother of Basil; and
+Gregory of Nazianzus (d. ca, 390). They all came from old,
+cultured families. They had steeped themselves in ancient
+classical literature as well as in the church fathers. All
+three were bishops and had promoted the ecclesiastical life
+of their dioceses in many ways. Above all else, however, they
+made an extraordinary contribution as theologians. Without their
+intellectual labor the Arian controversy would hardly have ended in
+the manner in which it did.
+
+With reference to their intellectual and theological peculiarities
+the Cappadocians differ basically from Athanasius. They
+were not so concerned about ecclesiastical politics as he. Instead
+they took their cue from Origen. Yet they had moved
+toward the confession of Nicaea, affirming fully and completely
+the decision of 325. At the same time they attempted to pursue
+further the solution of the problems.
+
+Among the Cappadocians the heritage of Origen is evident:
+in their doctrine of God they proceed less from the unity of
+the divine Being than they do from the three persons which,
+they felt, must be differentiated from one another. Even so, they
+emphasized the homoousios of the Son as well as that of the
+Holy Spirit. Above all else, however, they developed a precise
+terminology, in order to differentiate between the being of God
+in general and the individual persons. While the terms ousia
+(essence, substance) and hypostasis (essentiality, nature) were
+used indiscriminately by the older Nicaeans, the younger Nicaeans
+used the first concept for the common substance and the
+second for the concrete expression, or personal existence. From
+now on ousia becomes the technical expression for the Godhead
+as such, while hypostasis now no longer means "nature" but
+"person." Thus ousia refer¢ to the common substance of God,
+and hypostasis to the special forms which this divine substance
+assumes in the person of the Father, the Son, and the Holy
+Spirit. This precise differentiation between concepts helped
+greatly to clarify the doctrine of God.
+
+Furthermore, the Cappadocians set forth much more sharply
+the peculiarity of the persons of the Trinity than had been the
+case previously. In this endeavor it was natural to begin with
+the three names which were given to the persons of the Trinity.
+Basil did this, and accordingly ascribed to the Father "fatherhood,"
+to the Son "sonship," and to the Holy Spirit "sanctifying
+power" or "sanctification." Or again the differences could be
+pointed out by saying that the Father is "unbegotten," the Son
+is "begotten," and the Holy Spirit "proceeds." As a result of
+such careful differentiation, and as a result of the definition of
+ousia and hypostasis, the three Cappadocians actually made possible
+a true doctrine of the Trinity, a doctrine, namely, which
+maintains both the unity and the difference of the persons. It
+should also be remembered that at about the time when these
+men were developing their doctrine Athanasius declared as orthodox
+the interpretation of homoousios (of the same substance)
+in the sense of homoiousios (similar in substance). Since, as has
+been mentioned, homoousios had meanwhile been interpreted
+in the sense of a numerical unity of the Father with the Son, it
+could also be misunderstood in a Sabellian sense. The term homoiousios
+was appropriate for removing this misunderstanding.
+
+The stage had now been set for the conclusion of the long
+trinitarian controversy. On the eve of the Council of Constantinople
+(381), which was convoked to put an end to the long
+arguments, Gregory of Nazianzus declared in a speech that it
+was the destiny of his time to bring to full clarity the mystery
+which in the New Testament was only dimly intimated. That
+was a daring pronouncement, but it outlined the theological task
+which had been given to that day.
+
+At the council of 381 the definitions of the Nicene confession
+were largely taken over, though at a few places changes were
+made. These had to do especially with the third article, which
+was greatly enlarged in order to witness also to the divinity of
+the Holy Spirit. Because the resulting creed is not historically
+attested until 451, attempts have been made in the past to assign
+to this creed a place of historical origin other than the
+council of 381, the Second Ecumenical Council. These attempts,
+however, may be regarded as having been proved to be untenable.
+footnote:[See J. N. D. Kelly, Early Christian Creeds, pp. 296-331.]
+The Niceno-Constantinopolitan Creed, as this creed is
+called, is worded as follows:
+
+> We believe in one God the Father almighty, maker of heaven
+and earth, of all things visible and invisible;
+
+> And in one Lord Jesus Christ, the only-begotten Son of God,
+begotten from the Father before all ages, light from light, true
+God from true God, begotten not made, of one substance with
+the Father, through Whom all things came into existence, Who
+because of us men and because of our salvation came down from
+heaven, and was incarnate from the Holy Spirit and the Virgin
+Mary and became man, and was crucified for us under Pontius
+Pilate, and suffered and was buried, and rose again on the third
+day according to the Scriptures and ascended to heaven, and sits
+on the right hand of the Father, and will come again with glory
+to judge living and dead, of Whose kingdom there will be no end;
+
+> And in the Holy Spirit, the Lord and life-giver, Who proceeds
+from the Father, Who with the Father and the Son is together
+worshipped and together glorified, Who spoke through the
+prophets; in one holy Catholic and apostolic Church. We confess
+one baptism to the remission of sins; we look forward to the
+resurrection of the dead in the life of the world to come. Amen.
+footnote:[ English text taken from J. N. D. Kelly, Early Christian Creeds, pp.
+297-298, Translation used with permission of Longmans, Green and Co.,
+and David McKay Co.]
+
+In this creed a specific assertion of the consubstantiality of
+the Spirit with the Father and the Son is missing. Yet, in
+essence it is there. For one thing, the Spirit is also called "Lord."
+Furthermore, it is emphasized that, together with the Father
+and the Son, the Spirit, too, is worshiped and glorified as the
+giver of life. Again, in the year 382 a new synod at Constantinople
+specifically affirmed the consubstantiality and the full divinity
+of the Holy Spirit, as well as his existence as a separate
+hypostasis. In this document, which is addressed to the bishops
+of the West who could not be present, the one Godhead of the
+three divine persons is set forth. Based upon the theology of
+the Cappadocians it says: "According to this faith there is one
+Godhead, Power and Substance of the Father and of the Son
+and of the Holy Ghost; the dignity being equal, and the majesty
+being equal in three perfect essences [hypostascis] and three
+perfect persons."
+footnote:[Theodoret, The Ecclesiastical History, Bk. V, chap. 9. NPNF? 3, 138.]
+
+With the decision of Constantinople a specific problem of the
+Christian faith was settled for the first time in the history of the
+church in an authoritative and final way. While it is possible to
+see in the creation of the New Testament canon, as well as in
+the rule of faith, an initial dogma of the church, it must be admitted
+that the decrees of Nicaea and Constantinople differ from
+these in the sense that the major concern here is a specific article
+of the faith, namely, the doctrine of God. Does this imply,
+as has been so often asserted, a falling away of the church from
+the Christianity of the New Testament? If the development of
+the doctrine of the Trinity from its beginnings to the end of the
+fourth century is seen in its totality, it becomes difficult to make
+such an accusation. In fact, it is more correct to insist upon the
+opposite, namely, that by means of this dogma the church
+erected a barrier against the onslaught of the tidal wave of Hellenism,
+which threatened to inundate the Christian faith. If the
+word homoousios is taken in its original sense, which has been
+set forth by recent research, it must be said that in 325 the
+church confessed its faith in the divinity of Christ, and it did so
+exclusively in an attempt to reject the Arian heresy. Basil said
+at one time with reference to the term homoousios that, because
+of the errors of the Arians, it became necessary to choose a clear
+word, since Arius redefined the words of Scripture to suit his
+own purposes. Neither at Nicaea nor at Constantinople was the
+attempt made to plumb the depth of the divine mystery or to
+define God’s essence. The intention was, rather, to indicate that
+God himself encounters us in Jesus Christ, and that in the Holy
+Spirit God himself is present within his church.
+
+### The Right Interpretation of the Doctrine of the Trinity
+
+If the council fathers had really been trying to fathom the
+depth of God’s essence with their creed, it would mean, in effect,
+that every interpretation of their decision is superfluous. In
+that case it should be possible to see in the Nicene confession
+and in the Niceno-Constantinopolitan Creed the kind of clarification
+of the doctrine of the Trinity which would eliminate all
+further investigation of this segment of Christian doctrine.
+Neither the council fathers themselves, however, nor later theologians
+understood the dogma of the Trinity in this fashion.
+Quite to the contrary, as the declaration of consubstantiality in
+325 led, of necessity, to a further deepening of the doctrine of
+God, so, too, the creed of 381 did not put an end to work on the
+doctrine of the Trinity. In fact, only after 381 was the necessity
+felt for a more profound interpretation. This may be shown
+by citing the example of Augustine.
+
+When the council fathers assembled in 381 Augustine was not
+yet a Christian. His Damascus hour did not come until 386,
+From 395 on he was bishop of the little, insignificant North
+African coastal city of Hippo Regius which today is called Bone.
+The work of this man, who is, no doubt, the most important
+Latin church father, covered a great variety of very different
+areas. He advanced the theological study of the doctrine of sin
+and grace as well as that of the doctrine of the church, the
+latter a very controversial issue in the Africa of his day. His
+teaching in reference to the sacraments set forth the
+presuppositions for the total subsequent development of this doctrine
+in the Middle Ages as well as at the time of the Reformation.
+In The City of God he developed, on the basis of the Christian
+faith, one of the most profound interpretations of history ever
+offered. It is not surprising, therefore, that Augustine also
+devoted attention to the doctrine of the Trinity, especially in the
+fifteen books of his great work On the Trinity, on which he
+worked, with interruptions, from 399 to 419. It is the greatest
+work which was written about the Trinity in the ancient church.
+
+In summarizing the basic thoughts of this work it must be
+noted, first, that Augustine emphasized above all else the unity
+of God. He saw clearly that the formula of the Cappadocians
+concerning the one substance and the three persons, and even
+more their interpretation of this formula, could lead to
+misunderstandings. Their distinction between ousia and hypostasis,
+between the common substance and the distinctive expression of
+the individual persons, has been mentioned above. As we know,
+the Cappadocians often emphasized the second alternative,
+namely, the persons. In doing so they sometimes went very far.
+For instance, they compared the concept ousia with the generic
+concept "man," while they compared the individual hypostases
+with certain men such as Peter, Andrew, or John. Using this
+analogy, they taught that insofar as the ousia, the substance
+common to all three, is concerned, they are human beings. Thus
+they are of "one substance." On the other hand, this common
+substance comes to definite expression only through concrete
+personal existence.
+
+This comparison was, of course, not a very happy one. It
+emphasizes the difference between the persons of the Trinity
+much more than it does their unity. It was thus possible for
+the Arians to brand the Cappadocian doctrine of the Trinity as
+polytheistic, and to do so with a certain appearance of justice.
+Augustine, who strongly felt the unfortunate element in such a
+comparison, sought to circumvent this reef on which the theology
+of the Cappadocians threatened to run aground. As emphatically
+as he could, he asserted that the Trinity is one God,
+not three gods. Nor does God cease to be "simple" (simplex)
+because of his threefoldness. It is noteworthy that Augustine
+does not use the concept of substantia for the being of God, but
+that of essentia. He avoids the expression substantia, because it
+would seem to imply that God’s righteousness is attributed only
+to his substance, whereas all the perfections which are ascribed
+to him must, in fact, be regarded as one with his being. If the
+concept of substantia were used, God would have to be regarded
+as the bearer of his attributes. But that is impossible.
+For instance, the greatness, or the goodness, or the eternity of
+God are not something which must first be added to his substance.
+God is great in himself, through his own greatness. The
+same is true for the other so-called attributes of God. All of
+them inhere in his essence.
+
+This, however, leads immediately to a further consequence.
+Absolute perfection and absolute being can be asserted only of
+one. For that reason Augustine insists that it is the one God,
+not each of the three persons in himself, who possesses a nature,
+and who possesses one deity, one majesty, and one glory, as
+well as one will and one operation. There is no activity, therefore,
+in which only the Father, or only the Son, or only the
+Holy Spirit is involved. Over against the world, God (ie., the
+three persons of the Trinity) represents "one principle" (unum
+principium).’
+footnote:[Augustine, On the Trinity, Bk. V, chap. 14, sec. 15. NPNF! 3, 94-95.]
+Augustine conceives the unity of the Trinity so
+stringently that he asserts that not only the Father, but also the
+Son and the Holy Spirit, were actively involved in the incarnation of the Son.
+footnote:[Ibid., Bk. II, chap. 5, sec. 9. NPNF? 3, 40-42.]
+To express this view Augustine created a
+precise formula to the effect that the works of the Trinity are
+not separable as regards the outside, which means that the three
+persons of the Trinity always work in concert."
+footnote:[ Augustine, Enchiridion, chap. 38. NPNF? 3, 250.]
+Of no less importance are Augustine’s reflections on the concept of
+the persons. He always had reservations about this concept. It is
+indeed a highly problematical element in the doctrine
+of the Trinity. While the Greek term hypostasis refers primarily
+to a distinct personal existence, the Latin term persona frequently
+includes also a distinct self-consciousness. It was extremely difficult
+to find a fitting Latin equivalent for the Greek
+word hypostasis. It should have been translated by the word
+substantia, But this would have created the impression that
+three divine substances were being taught, which would have
+contradicted the homoousios of the Son and the Spirit with the
+Father. In the Greek the term hypostasis had gained acceptance
+very slowly, gradually forcing out other words which were
+also problematical, such as prosépon (mask, face). Augustine
+strongly felt the inadequacy of the term persona. He always
+used it with hesitation, and as a rule substituted for it the
+concept of relatio (relation). The three so-called persons, he said,
+are not something different, each in himself. They are different
+only in their relation to each other and to the world. While all
+absolute properties such as perfection, goodness, and omnipotence
+belong only to the Trinity in its oneness, the term _relatio_
+refers to the inner life of God, as well as his relation to the
+created world. For this reason, he held, it is not possible to
+call the Trinity "Father" in the same sense in which it is
+referred to as great, or good, or eternal. Such an assertion of
+fatherhood could be made of the Trinity at best in a derivative
+sense, e.g., in relation to the creatures adopted by God as his
+children. Yet even in the derivative use of such appellatives
+Augustine believed there is a difference between the persons
+of the Trinity. While it is possible to call the entire Trinity
+"Father" in a secondary sense, it is impossible to call the
+Trinity "Son" as well: the concept of sonship does not in any way
+apply to the other persons of the Trinity.
+footnote:[Augustine, On the Trinity, Bk. V, chap. II, sec. 12. NPNF! 3, 93.]
+What Augustine
+means here is that the designations "Father," "Son," and "Holy
+Spirit" do not express either a substantial, or a quantitative, or
+a qualitative difference, because these do not even exist. What
+the concept of the persons expresses is, rather, an eternal relation.
+But this relation is not an accidens, i.e., something that is
+added to "being," for such a relation would be subject to change.
+The one God, then, is never Father only, or Son only, or Holy
+Spirit only. He always was, and always will be, the one triune
+God, namely, Father, Son, and Holy Spirit.
+
+Thus Augustine, too, clings to the differences between the
+"persons." Under no circumstances did he wish to deny the
+unique element associated with each of the persons of the
+Trinity. He rightly noted, however, that the concept of persons
+is subject to misunderstanding. Augustine felt that this concept
+was used only in order that the truth involved "might not be
+left [wholly] unspoken." It did not express to him the actual
+state of things."
+footnote:[Ibid., Bk. V, chap. 9, sec. 10. NPNF 3, 92.]
+
+The West has never left out of account this interpretation
+which Augustine had given to the decisions of the councils of
+Nicaea and Constantinople. It was he who played the decisive
+role in warning Latin theology against the danger of tritheism
+and in keeping it from succumbing to this danger. Appealing
+to Augustine, Karl Barth rendered the concept of persona by
+the use of the word "mode" [Seinsweise]
+footnote:[CD 11, 400.]
+There is yet another sense, however, in which Augustine sets an example for
+our day. He closed his great work on the Trinity with a prayer
+in which he asks God’s forgiveness in case he should have said
+something which does not accord with the truth. "O Lord, the
+one God," he prayed, "God the Trinity, whatever I have said in
+these books that is of Thine, may they acknowledge who are
+Thine; if anything of my own, may it be pardoned both by
+Thee and by those who are Thine."
+footnote:[Augustine, On the Trinity, Bk. XV, chap. 28, sec. 51. NPNF? 3, 228,]
+No one should speak of
+the mystery of the Trinity unless it be with such reverence. But
+in our day it is perhaps even more essential to emphasize that
+mere silence about this mystery is not enough.
+
