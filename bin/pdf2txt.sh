@@ -22,4 +22,7 @@ for i in $1-??.png; do tesseract "$i" "text-$i" -l eng; done;
 cd ..
 # recombine the text files as a single asciidoc file
 # inc. rejoin words split across lines with a hyphen
-cat $TMP/text-$1* | sed -z "s/-\n//g" > $OUTDIR/$1.adoc
+cat $TMP/text-$1* | sed -z "s/-\n//g" \
+  | sed -z "s/“/\"/g" \
+  | sed -z "s/”/\"/g" > $OUTDIR/$1.adoc
+
