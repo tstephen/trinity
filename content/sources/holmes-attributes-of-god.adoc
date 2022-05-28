@@ -1,0 +1,746 @@
+---
+title: THE ATTRIBUTES OF GOD, CHAPTER 3
+author: STEPHEN R. HOLMES
+featured_image: /images/
+summary: "From Webster, Tanner, Torrance, eds.
+The Oxford Handbook of Systematic Theology. Oxford: OUP, 2007."
+description: ""
+date: 2022-05-09T20:18:32Z
+categories: 
+  - Introduction to doctrine
+tags:
+---
+ 
+## Introduction
+
+Perhaps no doctrine of theology is more ubiquitous than that of the divine
+attributes or perfections. It is possible to receive, and perhaps, given a liturgy to
+follow, even to celebrate, the eucharist without any theological understanding of
+what is being deone—although it will hardly be an honouring celebration in the
+latter case. It is certainly—gloriously—possible to be redeemed without any notion
+of redemption. At times it has been proposed that Christians should restrict their
+language to biblical terms and so refuse to engage in Christological or trinitarian
+theology. (This procedure was seriously proposed as a way through the fourthcentury trinitarian controversies, and has occasionally been revived since the
+Reformation by radical Protestant and Free Church groups wary of any dependence on tradition.) It is, however, impossible to speak about or to God without
+some commitment concerning the divine attributes, A sentence that begins
+'God is...) praise that asserts 'Lord, you are...' or intercession that pleads some
+aspect of the character of God (shave mercy, Lord, for you are...') all already
+betray a doctrine of the divine perfections. That a word (e.g., 'good') is held to be
+a more adequate continuation of each of these statements than other possible
+words (e.g., 'bad', 'morally indifferent') is a theological commitment.
+
+Abraham pleads the perfections of God over the cities of the plain: 'Shall not the
+Judge of all the earth do what is just?" (Gen. 18: 25). The highest praises, and the
+deepest laments, of the psalmists alike turn on recalling before God his attributes:
+"Great is the Lorn, and greatly to be praised; his greatness is unsearchable. ... On the
+glorious splendour of your majesty... Iwill meditate. ... They shall celebrate the fame
+of your abundant goodness, and shall sing aloud of your righteousness. ... The Lorp
+is gracious and merciful, slow to anger and abounding in steadfast love' (Ps. 145: 3-8);
+'Has his steadfast love ceased for ever? ... Has God forgotten to be gracious? Has he in
+anger shut up his compassion?' (Ps. 77: 8-9). In just these few verses it is proclaimed
+that God is just, righteous, great, majestic, abundantly good, gracious, merciful,
+steadfast in love, slow to anger, compassionate; the task of a doctrine of God's
+perfections is to bring some order to such exuberant and heartfelt exclamations.
+
+That the issue is ubiquitous does not make it easy, of course. There are at least
+five problems in this task:
+
+1. There is an issue of _derivation_. How do we decide which words are appropriate completions of the sentence 'God is. ..'? 'Good' might seem easy, but
+terms like 'wrathful' or 'impassible' have generated extended and heated
+debate in recent decades.
+
+2. There is an issue of span. 'God is good' presumably does not say everything
+Christian theologians would wish to say about God. How many words are
+necessary before we may claim that the list displays some measure of
+comprehensiveness? The Westminster Shorter Catechism defines God as 'a
+Spirit, infinite, eternal, and unchangeable, in his being, wisdom, power,
+holiness, justice, goodness, and truth, which Charles Hodge asserts is 'the
+best definition of God ever penned by man' (Hodge 1960: i. 367). Is Hodge
+right? On what criteria might the question be decided?
+
+3. There is a problem of analogy. | may well find myself affirming in prayer one
+morning that 'God is good', and then in conversation soon afterwards affirming
+of a certain undergraduate student that she is also 'good', and perhaps of a
+cricketer in the headlines that he is 'very good'. 'Good' in each context carries a
+discernibly different meaning: the cricketer demonstrates finely honed physical
+ability and coolness under pressure; the student shows academic promise; and
+God—what does 'good' mean when applied to God? Clearly something different from the two other uses in the example, but is it something different from
+every use with a human being as a referent? This seems likely: of which of the
+saints will it be said 'she is good in exactly the same way that God is good"? But if
+this is so, how does any meaning attach to the word 'good' when applied to God?
+
+4. There is a philosophical problem of definition. Is it appropriate to call God
+'good' because there is some external standard of goodness against which we
+may measure God? If so, does this not suggest that there is something greater
+than God, which stands in judgement over him? But if not, does 'good' mean
+anything at all—is it not just an empty cipher we choose to apply to God,
+when we apparently could have as easily and appropriately chosen 'evil'?
+
+5. There is a historical problem concerning the relationship of certain divine
+attributes to other areas of theology. Briefly stated, there are a class of attributes
+(including impassibility, simplicity, and immutability) that were until about
+1800 held to be necessary to orthodox accounts of the Trinity, the incarnation,
+and the atonement. Since then, it has been widely assumed and argued by
+both philosophers and theologians that such attributes are in fact in straight
+contradiction with trinitarian theology, Christology, and soteriology.
+
+These five issues will give shape to the account of the divine perfections in this chapter,
+
+## THE QUESTION OF DERIVATION
+
+How may we discover words that are adequate to the task of naming God? Here
+immediately we come face to face with what will be the core problem of this chapter,
+If we were to ask the historical question, 'prior to 1800, how were such words
+discovered in Christian theology?' the answer is surprisingly easy. One method
+dominates, the method of the viae (ways), and it is found in embryonic form in
+the fathers of both East and West, in developed form in the great medieval Catholic
+summae, and virtually unchanged in the Lutheran and Reformed school dogmatics
+of the seventeenth century. God, on this account, is utter perfection, the summum
+bonum, or 'the absolute' in more modern language. Therefore to discover what may
+be truly said about God, one attributes to him every discernable good to the highest
+possible degree, and denies of him completely every discernable limitation.
+
+The former procedure is the via eminentiae, the 'way of eminence' Potency, the
+ability to act, is a discernable good in human life, as is knowledge. God, therefore, must
+be as potent as it is possible to be, 'omnipotent', and as knowing as it is possible to be,
+'omniscient. The latter procedure is the via negativa, or 'negative way'. The inevitable
+ending of human existence is perceived to be a bad thing, which we would be better
+without. Therefore, God is understood to be 'immortal. A consideration of spatial
+limitation, or finitude, might be held to teach us that God is 'infinite'. To these must be
+added a third 'way', the via causalitatis, or 'way of causality', in which it is assumed that
+effects demonstrate something of their cause, and so a knowledge of creation can lead
+us to a knowledge of God. As St Thomas Aquinas argued, every change is caused by a
+prior change, and so tracing the causal chain back one reaches either an infinite
+regression, which he takes to be impossible, or 'at some first cause of change not itself
+being changed by anything, which he identifies with God (ST u. 2, 3, in Aquinas 1975).
+
+I have quoted St Thomas, but St John of Damascus' codification of the tradition
+of the Greek fathers or Francis Turretin's Reformed polemics would both witness to
+the same method. As I have indicated, however, around 1800 there is a radical shift
+in approach to the question. It is difficult to find a theologian (as opposed to a
+philosopher of religion) in the twentieth century who would accept such a method.
+For an eloquent and forceful statement of the objections, we might turn to Emil
+Brunner. In his Christian Doctrine of God, he suggests that there is 'an actual
+jon between two ideas of God, which...cannot be combined..., the
+ilosophical and speculative Idea of God on the one hand, and on the other, one
+which is based upon the thought of God in revelation' (Brunner 1949: 241-2). The
+God of Abraham and the God of the philosophers are alien, and great harm is done by
+any attempt to bring them together.
+
+That such an attempt was made, and was so enormously influential, is traced to
+two causes: the unreflective but disastrous adoption of methods of Greek philosophy
+by the church fathers and the enormous influence in later centuries of the writings of
+Pseudo-Dionysius. (This corpus is now fairly universally believed to date from the
+fifth century; however, the medievals tended to assume it was by the Dionysius who
+was converted by Paul in Athens (Acts 18), and so had almost apostolic authority.)
+The task for theology today is to perform or complete the criticism of Greek
+philosophy and so to purge the Christian account of divine attributes of those claims
+about God that lack theological warrant. I have followed Brunner in this criticism,
+but to indicate its ubiquity amongst recent theologians, it may be found in extreme
+form in Jenson (1997-9: i, esp. 9-11, 112-13, 131-3, 153), Moltmann (1974; 1981), and
+Gunton (2002); and in measured form in Barth (1957: 329-30) and Pannenberg
+(2971). This is also, of course, a part of the standard feminist criticism of traditional
+Christian doctrines of God.
+
+If such criticism can be bracketed for a moment, it may be asked whether the
+method of the viae is retrievable. As I described it above, two problems are evident,
+but they may provide each other's solution, First, this appears to be a doctrine of God
+derived quite apart from revelation, an exercise entirely in natural theology. The
+procedure as described could be practised without difficulty by one who had never
+opened the biblical text or heard the name of Jesus Christ. This, of course, is not a
+logical problem (it does not make the position incoherent), and, indeed, in recent
+years it has been seen as a strength, rendering a doctrine of God that is generally
+rationally accessible and so open to philosophical investigation without worrying
+about difficult concepts such as revelation or faith. This philosophical procedure has
+become known as 'perfect being theology, and has given rise to a number of works
+exploring the logical coherence of a God who is held to exhibit every human virtue
+maximally, and to be completely free of every human weakness.
+
+However philosophically attractive such a procedure, it is fair to say that a
+doctrine of God built without reference to scripture or the gospel is going to
+appear odd theologically, to say the least, so this remains my first problem. The
+second lies in the smuggled premiss in each of the three ways: the first two rely on
+assumptions that we know which aspects of human existence are positive, and
+which are limitations (Clark Pinnock (2001) makes the point provocatively with a
+book title, Most Moved Mover). The third relies on the assumption that good
+logical arguments can be made from the nature of effects to their cause.
+
+Given this, might we claim that the smuggled knowledge in the via eminentiae and
+the via negativa is precisely the place where accounts of revelation become decisive?
+That is, we know what is a good, and so must be predicated eminently of God, and
+what isa limitation, and so must be denied of God, only through a study of scripture,
+or through a telling of the story of Jesus, or however else we might choose to describe
+revelation. Consider such attributes as mercy, compassion, or humility: it is not
+difficult to point to ethical traditions in history or across the world that deny that
+such things are goods, yet Christian theology has wanted to ascribe each word to God
+on the basis of what is revealed in the Bible and, in particular, in the gospel story.
+If the question concerning the influence of Greek philosophy can be adequately
+answered, this procedure would seem to provide a logically sound and theologically
+satisfying account of the derivation of the divine attributes.
+
+(The problem with the via causalitatis reduces very simply to a set of questions
+concerning natural theology. If there happen to be well-formed logical arguments
+that move from details of the created order to facts about the creator, then natural
+theology is possible and will contribute in part to the doctrine of the divine
+perfections. I presently believe that there are no such arguments—I think the
+doctrine of creatio ex nihilo necessarily denies their existence—and so tend to the
+view that the via causalitatis is a dead end.)
+
+I will argue by the end of this chapter that the problem concerning Greek
+philosophy can be solved, but it is perhaps worth pausing to ask about the derivation
+of the divine perfections if it cannot. The answers provided by the critics are
+surprisingly unified, differing only in detail. The perfections become in one way or
+another descriptions of God's relationship to the world, rather than descriptions of
+God's own life in se. The more extreme version of this tends to suggest that God's
+own life is somehow defined in his relationship to the world (so Jenson or Moltmann); this has the merit of coherence but is an unacceptable move. The more
+cautious version appears to suggest that God indeed has, or could have had, a life
+apart from the world, but that this life is not properly described as 'holy' or 'good' 'In
+Himself, however, God is not the Almighty, the Omniscient, the Righteous One; this
+is what He is in relation to the world which he has created' (Brunner 1949: 247;
+cf, Pannenberg 1991-8: i. 359-70). This is an equally difficult conclusion.
+
+### THE QUESTION OF 'SPAN'
+
+Even if we have adequately answered the question of definition and can demonstrate that 'love' and 'holiness' are words adequate to God, to speak only
+of God's love with no mention of God's holiness—or, indeed, to speak only of
+God's holiness with no mention of God's love--seems to speak improperly.
+This is the question of 'span'. If the task is to find language adequate to speak of
+God, then it is not just that the language chosen must refer adequately, it must also
+demonstrate some degree of comprehensiveness.
+
+Of course, no one has ever 'comprehended' that light which shines in the
+darkness (John 1: 5), but the limitations of a doctrine of divine perfections is a
+matter for the next section. One may meaningfully aim at adequacy, at an account
+that is at least not obviously lopsided or incomplete and that points towards each
+facet of the character of God revealed in the biblical witness. One could make two
+lists of words traditionally attributed to God of the same length, where one was
+manifestly less adequately comprehensive than the other. Consider, for instance,
+the two claims, 'God is holy, just, righteous, jealous, and unchanging; and 'God is
+holy, loving, righteous, merciful, and unchanging.
+
+'An examination of the history of attempts to list the perfections of God, particularly in the Protestant scholastics, suggests that one particular procedure has regularly been adopted by theologians aiming at comprehensiveness: the splitting of the
+attributes into two classes. In Reformed dogmatics these are generally described as
+'communicable' and 'incommunicable' attributes. Quite apart from the echoes of
+Reformed-Lutheran polemics over the communicatio idiomatum, such language is
+perhaps unhappy in suggesting an inability on God's part. Nonetheless, the intention
+is right: God has graciously and sovereignly chosen that his creatures will image forth
+or share certain perfections of his being, whereas others he has sovereignly and
+graciously chosen to retain as marks of his majesty alone. 'Thus creatures may love,
+but no creature is infinite; some creatures are made holy by God, but no creature is
+immutable. The attributes are thus not 'communicable' and 'incommunicable' so
+much as 'communicated' and 'uncommunicated.
+
+It may seem that this distinction relates directly to the distinction between the via
+eminentiae and the via negativa described above, but this is not in fact the case. To take
+only one example, God has chosen to create the angels immortal, at least according to
+classical Christian dogmatics. (Many writers also assert that angels are spiritual, Le.
+unembodied, which would be another example of an attribute derived from the via
+negativa which nonetheless appears to be communicable; this point is disputed in the
+tradition, however.) Some scholastic writers did in fact use 'positive' and 'negative'
+attributes as their twofold distinction, thus aligning precisely with the viae.
+
+Other language that has been used to describe the two classes includes 'personal'
+and 'absolute'. While this is superficially attractive, in that words such as 'ove' or
+'holiness' seem more obviously 'personal' than words like 'eternity' or 'immutability,
+it seems to me even more unhappy, not least in its echoes of technical
+trinitarian language. If some perfections of God are labelled 'personal', then there
+will be an inevitable pressure to align them to the trinitarian persons in ways that
+the 'impersonal' attributes are not aligned. 'Absolute' and 'relative' has a similar
+flaw, both echoing 'relation' language in the Trinity and perhaps suggesting that
+God is 'eternal' in himself but 'loving' only in relation to the creation. Barth
+chooses to describe the two classes as 'perfections of God's love' and 'perfections
+of God's freedom'; this echoes his fundamental definition of God throughout
+Church Dogmatics l1/1 as 'the One who loves in freedony (Barth 1957: 257). Barth
+offers good reasons for his decision, but the language appears in danger of. suggesting
+that 'love' and 'freedom are the controlling perfections of God, under which all
+else must be arranged. The same might be said of Pannenberg's opting for 'infinity'
+and 'love'—indeed, Pannenberg claims centrality for 'infinity' as an attribute of
+God (Pannenberg 1991-8: i. 396). As will be seen, there are good dogmatic reasons
+to refuse to promote any of the perfections above the others.
+
+It will be noted, however, that all these different forms of twofold division have a
+similar intention, even ifat the margins one perfection or another might fall on either
+side of the line depending which schema we choose. There are those perfections of
+God for which an analogue may be found in the creature, and those which are utterly
+beyond anything in our experience. The 'positive' attributes, the 'perfections of God's
+loving} the 'communicated' perfections, refer to aspects of God's nature that may be
+hinted at through human stories ('out of pity for him, the lord of that slave released
+him and forgave him....And in anger his lord handed him over....So my heavenly The classical answer to such questions has been some form of a doctrine of
+Father will also do to every one of you'; Matt. 18: 23-35). The 'negative' attributes,
+the 'perfections of God's freedom', the 'uncommunicated' perfections, refer to aspects of
+God's nature about which we can only speak by denying that certain facets of our
+common experience can be mapped in any way onto God ('God is not a human being,
+that he should lie, or a mortal, that he should change his mind'; Num. 23: 19).
+
+  7 analogy. The standard discussion is again in St Thomas Aquinas, q. 13 of the
+Summa Theologiae. Thomas insists that human words are used positively and
+literally of God, and goes on to ask how this is the case. He distinguishes three
+possible uses of words: the univocal use, in which a word is used in precisely the
+claim to be expounding.) |
+
+The further question of 'span' might appear more linguistic than theological. finguistic issue, and there is a further theologi cal issue. The Kinguistic issue concerns the semantic ranges of words. If we describe God as 'just', we use a word that
+jn English is patient of a variety of different meanings; the extent to which it
+— lluminates or obscures the use of other words such as the Latin iustus, the Greek
+dikaios, or the Hebrew tsaddiq is a matter of some theological controversy. There is
+a need, therefore, to specify the precise nuance of meaning intended. This, however, immediately raises a theological issue. It seems theologically necessary to
+assert the uniqueness of God, that there is no creature that is good or loving in
+precisely the same way as God, and so such words must be used with a semantic
+
+ 
+
+range that is unique. How, though, may such a unique semantic range possibly be
+jdentified or specified?
+
+(Returning for a moment to perfect-being theology, the widespread failure to
+struggle with questions of analogy is one of the weaknesses of the movement.
+Phrases such as 'whatever else it may mean, omniscience must at least imply...' are
+very common and suggest a lack of engagement with the serious apophaticism of
+the very writers—Anselm, Thomas, etc.—that perfect-being theologians generally
+
+ 
+
+a same sense in two different statements ('the jacket is blue'; 'the trousers are blue');
+The further question of 'span' might appear more linguistic than theological. 7 the equivocal use, in which a word is used in different senses in different statements
+Assuming that we can argue that God may properly be described as both 'merciful > ('the blues' as a musical form bear no discernable relation to the colour, for
+and 'loving, there is perhaps a question as to whether one needs, in writing a : example); and the analogical use, in which a word is used in similar but separable
+theology of the perfections of God, to include the word 'merciful' alongside the senses in different statements ('the blues' as a musical form and 'the blues' as a
+word 'loving, or whether the latter word covers all the semantic ground necessary psychic state, describing a mild depression, would seem to have some similarity of
+and so effectively includes the former. This is more than a linguistic issue, however, meaning, in that the musical form seems particularly suited to expressing the
+and in fact gets near to the heart of any doctrine of the divine perfections, in that = psychic state). Thomas claims that the words we use to name God are analogous
+it asks both what words mean when attributed to God, and how the different = to the same words used of created realities. God is truly, and primarily, 'good'
+attributes of God are in fact related to each other. To these issues I now turn. Jj (Thomas insists on the primacy of the divine meaning in ST sa, 13, 6); as such, God
+
+is the cause of all goodness in creatures, and so when we speak of a creature
+being 'good' we are using an analogous term, suggesting that the partial
+
+discussed above. It is even arguable that Thomas did this. His doctrine of analogy,
+tenet
+
+and limited goodness of creatures is similar to, if not the same as, God's primary
+and infinite goodness.
+Notice that this is not, or at least not yet, an account of how God may be
+Y ( not) , aa
+ seven '° S eset known; it is possible to develop a doctrine of analogy into an account of how God
+may be known by arguing from effect to cause in a form of the via eminentiae
+
+
+### THE QUESTION OF ANALOG
+ 
+Our language—all our language—is inadequate to the task of speaking of God.
+Even when we refer to those perfections that we call 'positive' or 'communicable' or
+'communicated', we are always using language that is doubly difficult. There is a
+
+however, is fundamentally a claim about how words applied to God may be said to
+
+se
+
+ 
+
+ 
+62 STEPHEN R. HOLMES
+
+have some positive meaning; it applies without distinction to a claim based on
+straight biblical citation—God is love—and to a claim based on some form of
+natural theology.)
+
+Generally, the notion that words are used of God and creatures analogously has
+been accepted; some interesting arguments have arisen over the necessary basis of
+such analogy, but they do not dispute the general point that words are used
+
+analogically. John Duns Scotus, for instance, suggested that analogy necessarily |
+
+collapses into equivocation unless there exists some underlying univocal concept,
+He therefore suggested that for any communicated perfection of God—goodness,
+say—three distinguishable concepts were present: goodness simpliciter, which is
+univocal; divine goodness, which is goodness simpliciter held in the most perfect
+degree; and creaturely goodness, which is goodness simpliciter in a limited and
+imperfect form. Divine goodness and creaturely goodness can then be held to be
+analogous. Such an account seems in danger of denying the primacy and priority of
+God's goodness, whatever logical gains are made. Pannenberg agrees with Scotus'
+critique, insisting that the basic point about analogy relying on an underlying
+univocity has never been effectively answered, although he notes the influence of
+recent linguistic theories in this regard. His own procedure, however, merely uses
+an appeal to the history of concepts and the way language has been used in faith
+communities to make the same sort of point as Thomas does using analogy
+(Pannenberg 1991-8: i. 384-96).
+
+Even if we leave to one side such questions and accept the use of analogy, this
+only solves half the problem, and what is, theologically, the less interesting half
+God's goodness is, on Thomas's account, the primary reality of which all creaturely =
+goodness is but a limited, partial, and inexact analogy. Does this help us to specify
+what is meant by the assertion 'God is good'?
+
+Here an appeal to the particular shape of revelation is necessary. The Bible is not,
+essentially, composed of propositions such as 'God is good', although it is certainly
+not without them. Rather, its essential form is narrative, together with a significant ©
+number of prayers addressed to God and paraenetic material exploring what life —
+pleasing to God might look like in various contexts. If all we had were a series of
+assertions that God is good, loving, holy, etc., then it might be difficult to give —
+content to those words. If, however, we can combine a claim that God is good with
+such narratives, prayers, and commands, then there is a possibility of recognition.
+In narrative history we can see ways in which this God has acted, ways which
+resonate with our experiences of human goodness; we can hear prayers that appeal
+to something we can identify with our own knowledge of what it is to love; we can
+be confronted by commands that bring to mind accounts of created holiness. Thus
+we may begin to understand what true goodness, love, and holiness—the goodness,
+love, and holiness of God of which our experiences are only pale shadows—might
+look like.
+
+### THE QUESTION OF DEFINITION
+
+In his _Euthyphro_, Plato has Socrates asking whether an act is pious because it is loved
+by the gods, or whether it is loved by the gods because it is pious. Transposed into
+Christian theology, the question becomes pressing, and gives rise to one of the most
+controversial areas of the classical doctrine of the perfections of God.
+
+When we say 'God is good', it seems that we must either be claiming that the
+word 'good' is merely a cipher we choose to apply to God's actions (and 'wicked'
+would have done just as well), or that we are asserting that there is a standard of
+goodness somewhere in existence against which we may measure God. In medieval
+theology, the two sides of the debate became known as 'nominalism"' and 'realism':
+jn the first case, 'good' is merely a name (Latin nomen); in the second case, 'good' is
+something real. On the one hand, it seems that God may be capricious, unaccountable (if nominalism were correct, how could Abraham demand, 'Shall not the Judge
+of all the earth do what is just'?); on the other, it seems that God is subject to
+something beyond himself. It seems that neither position is acceptable.
+
+There is a relatively straightforward logical solution to this problem, which has
+recently been the subject of much theological, and indeed philosophical, controversy.
+It is the assertion that God is simple. 'Simplicity' in this context is the property of
+being uncompounded and so without parts. If God is simple, then his goodness
+cannot be meaningfully distinct from his essence (because if it were God would be
+compound in some sense), and so God's goodness is in fact God himself.
+
+Such a claim has two interesting consequences. First, it suggests that every
+perfection of God is necessary for God to be who he is: if God's goodness is in
+some sense identical with God himself, then God cannot be himself without being
+good. Second, it provides a neat and (to my mind) convincing solution to the
+Euthyphro dilemma: 'goodness' is neither merely a name we apply to God's actions
+nor a standard beyond God by which he may be judged. Rather, it is God's own
+character to which he may indeed be held accountable (it is precisely because he is
+'Judge of all the earth' that he will do what is just). So far, so good.
+
+The claim also has another apparent consequence, however, and if this does
+follow, it is completely devastating—hence the recent controversy. It is this: if God
+is simple, then God is identical to his goodness; and, if God is simple, then God is
+identical to, say, his omniscience; therefore, by basic logic (if A=B and A=C, then
+B=C), God's goodness is identical with God's omniscience. Such a statement
+appears to be mere nonsense, and such logic has recently led many philosophers to
+query the coherence of any doctrine of divine simplicity.
+
+Such arguments must be wrong; it is hard to believe that such a trivial objection
+went unnoticed by almost every Christian (ahd, incidentally, Jewish and Islamic)
+theologian or philosopher of the medieval and early modern periods. Indeed, the
+standard treatments make claims that stand in flat contradiction to the conclusion
+of this argument. Something else must be going on, something that invalidates the
+form of such arguments. Thomas, indeed, asks the question 'are all the words
+'predicated of God synonymous' (ST 1a. 13, 4), raising precisely this form of
+argument in the first objection. Nonetheless, on the basis of the biblical use of
+divine attribution (sed contra, 'Jeremiah says, "Most strong, mighty and powerful,
+the Lord of Armies is thy name""'; Jer. 32: 18), he denies that the conclusion follows,
+The argument appears to go something like this: although properly God's goodness
+is primary and creaturely goodness only derived, in our knowing this order is
+necessarily reversed: we first know derived goodness, and from that begin to
+understand what it means to call God good. We cannot know God's simple
+perfection directly, but only through a series of divided and varied 'perfections'
+-<of which we observe the derivative forms in creatures. Thus we give God many
+-- names (good, loving, omniscient, etc.) which each refer in a partial and imperfect,
+but nonetheless real, way to the single perfection of God. The sort of logical
+argument I sketched above fails because 'Synonyms signify the same thing from
+the same point of view. Words that signify the same thing thought of in different
+ways do not, properly speaking, signify the same, for words only signify things by
+way of thoughts' (ST 1a. 13, 4 ad 1).
+
+(Again returning to perfect-being theology, questions about the doctrine of
+simplicity are very widespread there, possibly because, as I have already indicated,
+this tradition seems to lack any serious account of God's incomprehensibility, and
+so generally assumes that the meaning of words applied to God is fairly clear. Thus
+". the arguments in the paragraph above are simply missed.)
+
+Thomas thus bases his logical defence on the philosophy of language. Poststructuralist linguistic theories will tend to lend some support to Thomas's case,
+but there is perhaps another form of argument that can be deployed, one more
+theologically grounded and so less open to buffeting by the winds of philosophical
+fashion. Amongst the classical perfections of God is the claim that God is incomprehensible—what God is is unknowable to human minds. Such a claim seems
+intuitively plausible, and a theological reading of a text such as Exodus 33: 18-22
+might establish it. If God is incomprehensible, then it is at least questionable whether
+we know enough to make arguments respecting his essence. Thomas continually
+points out that our words signify imperfectly when applied to God; this is a result not
+just of the nature of language, but also of the nature of God. (As Pannenberg
+recognizes, Thomas's appeal is more to God's transcendence as the basis of his
+unknowability than to his infinity; unlike Pannenberg, I regard this as a positive
+feature of the account, picking up on a clear biblical theme of the otherness of God
+from the creatures (Pannenberg 1991-8: i. 344).) The apparent logical difficulty
+1 began with, then, is more precisely stated as an argument of the form: the
+word 'good' imperfectly but really signifies the simple perfection of God; the word
+'omniscient' imperfectly but really signifies the simple perfection of God; therefore
+'good' and 'omniscient' mean the same thing. This looks much less convincing.
+
+If it is logically possible to assert divine simplicity, however, the theological
+propriateness of the doctrine has been severely questioned in recent years. Once
+again we are back to the fundamental shift in the doctrine of the divine perfections
+that occurred around the nineteenth century. The core issue becomes the relationship of a doctrine of divine simplicity to trinitarian doctrine. From Gregory of
+'Nyssa's defence of the doctrine of the Trinity for Ablabius in the late fourth century
+to Francis Turretin's defence against the Socinians in the late seventeenth, there was
+an assumption on all sides that to believe in divine simplicity was to be an
+orthodox trinitarian, and to deny simplicity was to attack the doctrine of the
+Trinity; in the twentieth century it seems that writers virtually universally assume
+the precise opposite: either one may continue to believe in divine simplicity, or one
+may believe in the Trinity, but the two are mutually exclusive. Finally, then, this
+chapter needs to deal with the core historical issue.
+
+### The problem of history
+
+When Walter Smith wrote his hymn 'Immortal, invisible, God only wise' in the
+mid-nineteenth century, he was celebrating a vision of God that was passing. There
+is no hymn more regularly condemned in theological conversation or instruction
+than this one..It celebrates, undergraduates are regularly told, a pagan Greek idea of
+God that thoroughly infected the Christian church and is only now, thankfully,
+being driven out. The doctrine of divine perfections is emblematic of this pagan
+idea in at least three ways, and so of all doctrines is most ripe for radical revision.
+
+First, it is claimed that several standard perfections of God are in fact Greek
+impositions, theologically unwarranted. God is not impassible, immutable, or
+eternal, at least not in standard ways. Further, as already noted, one of the necessary
+logical supports of the whole account of the divine perfections, divine simplicity, is
+held to be profoundly problematic. Third, the whole doctrine, both in its methods
+of derivation, and in its relative prominence compared to the 'properly Christian'
+account of God as Trinity, is fundamentally compromised. If a doctrine of divine
+perfections is to remain any part of Christian theology, it will be in a subordinate
+place, in a chastened tone, and in a very different form.
+
+What are the reasons for this change? There are, it seems to me, several. One has
+already been noted: a historical account of the rise of Christianity that suggests
+unwarranted Greek influence in formative periods. The classic account of such
+history is of course in the school of Ritschl and Harnack, but it pre-dates them
+(Baur's elaborate account of catholic Christianity as the triumphant outcome of a
+Hegelian synthesis between Jewish and Greek roots is similar in form, although it
+lacks the negative judgement on the Greek influence.) For scholars such as Ritsch}
+the scientific study of the historical Jesus had seemingly confirmed that miracles
+particularly the resurrection, and a fascination with things both eschatological _
+(including such issues as sin and atonement) and metaphysical were not part of 
+the teaching of the man from Nazareth, but later accretions. Christianity as we
+know it, with sacrament and liturgy and theology, looks like a Greek mystery cult 
+built on the flimsiest of historical recollection of a simple moral teacher.
+
+Of course, such accounts have been comprehensively discredited by historical
+study. They introduce a motif, however, which seems to have endured. If we
+emphasize the differences between 'Jewish' and 'Greek' ways of thinking, and so
+portray the early history of Christianity as a fundamentally Jewish movement
+inculturating itself within a Hellenistic milieu, then we make it very easy to argue
+that this or that feature of later Christianity is Hellenistic, and so non-native, and
+so an inappropriate accretion that should be removed.
+
+It is not a hard task to list the various problems with the procedure so stated; the
+notion of uniform and separate cultures is merely ridiculous (one glance at Philo
+disproves both parts of the thesis, even ignoring the three centuries of Macedonian
+occupation of Palestine, the varieties of Graeco-Roman culture attested in history,
+and the varieties of Jewish culture demonstrated by the Gospels); to argue from
+'non-native feature' to 'inappropriate accretion', particularly in the case of a process
+of inculturation, is merely question-begging; and so on. However, such arguments
+vdo not prove that every claim of improper Greek influence is false, only that not
+every such claim is true. There is a need for some hard historical and theological
+work on the details of the issues, but it seems to me that the legacy of Baur, Ritschl,
+and Harnack has been to create a presumption in many theologians' minds that the
+arguments can be settled in one direction relatively easily. Such a presumption
+needs to be challenged.
+
+(The claimed influence of Pseudo-Dionysius noted above is a particular issue
+here. Suffice to say that it is not clear that he is treated as any more of an authority
+than any other church father. Looking at ST 1a. 13, for instance, it is the case that
+Pseudo-Dionysius is cited more than any other father (seven direct references of the
+sixteen to patristic sources; there are also nine to scripture and four to Aristotle),
+but since he had written a book entirely on the subject of the question (The Divine
+Names}, this might not be surprising. It is notable however that, uniquely amongst
+the sources cited (apart from an isolated reference to Boethius), he is always
+cited in the objections—that is, in every case Thomas takes the opposing position on the question to Pseudo-Dionysius. To suggest, as Brunner did, that Thomas
+uncritically follows the earlier writer seems to fly in the face of the evidence.)
+
+A second reason for the shift would seem to be the influence of Kantian
+philosophy. I indicated above that, amongst theologians who uphold the
+'Hellenizing' criticism concerning the perfections, there is a surprising
+degree of unanimity on the proposition that the perfections refer not to God
+_in se_, but to God's
+action towards the creation. Such an account naturally brings to mind
+Schleiersacher's careful account of how he understood not just the doctrine of divine
+perfections but every doctrine: as a precise statement of an aspect of the basic
+religious experience of humanity (Schleiermacher 1928: 76-8, 125—8). There is little
+doubt that somewhere behind this particular decision is the challenge of Kant's
+denial of the possibility of any knowledge of the noumenal. Theologically transposed,
+Kant's arguments could easily be held to suggest that we cannot have any
+knowledge of God in se, but only of God in relation to us. The continuing influence
+of Kant's epistemological questioning is a part of the pressure against the classical
+doctrine of the divine perfections.
+
+For a third reason, let me return to the end of the previous section, and the question
+of the relationship of the doctrine of the divine perfections to the doctrine of
+the Trinity. The issue here has been a fundamental change in assumptions about
+the doctrine of the Trinity, far more than any issue to do with the divine perfections.
+Ifone holds, as all pre-Romantic trinitarian doctrine held, that the divine persons are
+utterly one in being, will, thought, power, action—and indeed in all perfections
+save only the relations of origin that distinguish them (unbegottenness, begottenness,
+procession), then it is not difficult to hold Trinity and simplicity together. If one
+views the three divine persons as separate centres of will, thought, and action, as
+seems to have become popular in the twentieth century, then it is much more difficult.
+
+The underlying influence here may well be Romanticism. At the heart of the
+Romantic spirit is a particular emphasis on, and vision of, the notion of personhood, or personality. The essence of personhood is self-determination, and so
+volition; the expression of personhood is therefore spontaneous reaction, and
+so emotion; and personhood must be understood as the highest good imaginable.
+Given all this, there would seem to have been strong cultural pressure both to
+rewrite the doctrine of the Trinity in ways that make the three persons 'persons' in
+the full Romantic sense, and to deny those aspects of the traditional perfections of
+God that seemed to offend against Romantic notions of personhood. Whatever the
+weaknesses of Barth's proposal to replace 'person' with 'mode of being' in technical
+trinitarian discourse, it at least defended against this failing.
+
+(On this latter point, consider how much in contemporary rejections of God's
+eternity, immutability, and impassibility is explicitly motivated by rhetorical claims
+concerning the supposed inability of an impassible, immutable, eternal God to be
+passionate, loving, and involved in human suffering. | believe all three points to
+be demonstrably false, but their prominence might be evidence for the cultural
+demand that God be appropriately Romantic.)
+
+Thus far I have tried to suggest that there are at least problems with the historical
+explanation offered for why the classical account of the divine perfections went so
+wrong, and to suggest that there are good reasons to suppose some of the demands
+for revision are driven by cultural pressure. Neither of these is yet an argument for
+truth or falsity, of course; they are attempts to shift the burden of proof slightly.
+The basic appeal of most revisionist theology in this area, and the fourth and lag.
+reason I can find advanced by writers who want to recast the doctrine of divin,
+perfections, is exegetical. It is claimed that Smith's 'unresting, unhasting, and silen|
+God is simply alien to the biblical revelation. If this is the case, then regardless o}
+the historical details, the doctrine of divine perfections must be rewritten. ©
+course, proponents of more traditional views throughout history have read an
+appealed to the Bible, so, unless there is some decisive shift in biblical interpret.
+ation which renders the more modern exegesis more convincing, this must remain :
+a point of dispute which may be argued in either direction.
+
+If Baur or Ritschl were right, of course, and we could find in the New Testament
+evidence of a later Hellenizing of a simple ethical religion, then there would be a
+good reason to prefer the more modern approaches. Scientific exegesis would have
+revealed to us a fact of decisive importance for this discussion which Augustine,
+Thomas, and Turretin could not have known. Unfortunately for such a line of
+argument, there are few biblical scholars who would now accept Baur's or Ritschl's
+reconstructions even in broad outline. It does seem to me, however, that recent
+methods of exegesis do lend support to the revisionist case in two particulars. First,
+the development of higher criticism has led to a willingness, unparalleled in
+theological history, to lay aside certain texts and simply exclude them from
+influencing theological work. Whilst most practitioners of such critical practices
+would claim that they are applying objective canons to determine which texts
+should be dismissed, more recent studies have deconstructed such claims to
+objectivity to expose the smuggled assumptions which are being reinforced by —
+the results of the process. The scripture principle that theology should employ will
+remain controverted, but I will proceed on the basis that no text should be excluded
+from the canon, and so assume that in this there is no reason to prefer the newer
+ways of constructing a doctrine of the divine perfections.
+
+The second hermeneutical strategy that seems relevant here is the rise of literary
+critical approaches to the scriptures. When the Old Testament histories,
+particularly, are read using the tools of literary analysis, God is revealed as
+a passionate, —
+involved, acting, and reacting character in the narrative, and this is regularly
+invoked as evidence that the doctrine of divine perfections stands in need of _
+revision. But such a procedure again involves the issue of smuggled premisses:
+the categories of 'literature' and 'narrative'—even the category of 'character'-—are
+derived from Romantic notions of what makes for good writing. Although medieval exegetes did not theorize so carefully, they read the histories as narratives with
+Aristotle's _Poetics_--and much technical Greek historiography--in their minds, and
+thus came to rather different conclusions.
+
+So I suggest that there is no good exegetical reason to presume that more recent
+exegetical claims concerning the divine perfections are more convincing than older
+ones. I will end this essay with a sketch of a doctrine of the divine perfections that
+highlights and addresses some of the core exegetical choices,
+
+### The perfections of God
+
+What God is is indeed unspeakable in human language and unknowable by human
+The task, however, is to find words adequate to God. Mindful of earlier
+the divine perfections, rather than insisting on particular words, I shall attempt to give
+a set of 'classes' of perfections which together will indicate an adequate span for the
+doctrine. Any such categorization can only be schematic, so some perfections will fit
+into more than one 'class, indicating places where there is some overlap between
+them. As an overarching schema for my account, I will use the twofold division above
+between communicated and uncommunicated perfections. The following claims rest
+on unrehearsed exegetical decisions; several of them are contentious, but the defence
+of God's being properly named as 'wrathful', for instance, cannot be attempted here.
+
+'God is love' (1 John 4: 8). For a first 'class' of communicated perfections we may
+Jook to what I will call perfections of the divine condescension. God loves, God is
+merciful, gracious, generous, faithful, and long-suffering. God sovereignly and freely
+orientates himself towards his creatures, accepting them despite their sin and failure,
+and pledging his commitment to them. Connected with these biblically would be the
+claim that God is 'jealous' (a claim made repeatedly in the Torah—three times, for
+instance, in Deuteronomy 4-6) and even 'wrathful: God's condescension to his
+creatures implies also a set of attitudes that have as their closest created analogues
+such negative emotional reactions as jealousy, anger, or hatred, directed towards all
+that would damage or harm God's creation, or frustrate God's plan for his creation.
+
+'God is a righteous judge' (Ps. 7: 11). A second class of communicated perfections
+might be described as perfections of the divine governance. God rules over his
+creation, and so is righteous, just, wise, steadfast, majestic, and sovereign. God
+graciously and freely reigns as Lord over all that he has made; by his own choice
+he is enthroned as king and judge, and he exercises these roles perfectly. Because
+of this, the biblical claims that God is merciful and gracious must also be included
+in this class of perfections: mercy, too, is an exercise of wise sovereignty. Finally,
+governance implies insight, and so under this head we may also insist that God is
+properly named as omniscient, wise, and all-seeing.
+
+"Holy, holy, holy is the Lorp of hosts; the whole earth is full of his glory' (Isa. 6: 3).
+For a final class of communicated perfections, we might choose the title 'perfections
+of the divine goodness. God's actions are perfect in ethical and intentional ways as
+in all other ways, and so God is good, holy, righteous, pure, upright, and faithful.
+Because God is these things, however, he cannot look on sin (Hab. 1: 13); therefore
+God is also properly described as implacable, wrathful, terrible, and jealous.
+
+'If I were hungry, I would not tell you, for the world and ail that is in it is mine'
+(Ps. 50: 12). For a first class of uncommunicated perfections, we might choose the
+title 'perfections of the divine self-sufficiency. God needs nothing, does not grow or
+change, and is not damaged or affected by his creation. Amongst the perfections of
+God, therefore, we may include aseity, impassibility, immutability, eternity,
+self-sufficiency, omnipotence, freedom, and transcendence. Because God needs nothing
+from the world, however, he is free to be involved within his creation, therefore
+God must also be described as loving, gracious, omnipresent, and immanent.
+
+"No one shall see me and live' (Exod. 33: 20). A second class of uncommunicated
+perfections may be called 'perfections of the divine glory. The majesty of God is
+such that it is unbearable to human beings, at least to unredeemed human beings,
+but the vision of God remains the chief good of humankind and the deepest desire
+of our hearts. God is, therefore, properly named as beautiful, glorious, terrible,
+majestic, holy, and awesome.
+
+Such a list cannot be comprehensive. Looking over it, | immediately note that
+basic biblical assertions concerning the compassion (Jas. 5: 11) or spirituality John
+4: 24) of God are missing. A collection of such words, each filled out by biblical
+narrative and example, and all held to be not in competition but genuinely
+separable and also truly united aspects of the one simple inexpressible nature of
+God, is the final aim of a doctrine of the divine perfections.
+
+## REFERENCES
+
+- Aquinas, $t THOMAS (1975). Summa Theologiae. London: Blackfriars.
+- Bartu, Kart (1957). Church Dogmatics I/f1. Edinburgh: T. & T. Clark.
+- Brunner, Emit (1949). The Christian Doctrine of God. London: Lutterworth.
+- Gunton, Coun E. (2002). Act and Being: Towards a Theology of the Divine Attributes.
+London: SCM.
+- Hopae, Cuarzes (1960 [1871-3]). Systematic Theology. London: James Clarke and Co.
+- Jenson, Ropert W. (1997-9). Systematic Theology. 2 vols. New York: Oxford University Press.
+- MOoLtMAnn, JORGEN (1974). The Crucified God. London: SCM.
+(1981). The Trinity and the Kingdom of God: The Doctrine of God. London: SCM.
+- PANNENBERG, WorHart (1971). 'The Appropriation of the Philosophical Concept of God
+as a Dogmatic Problem of Early Christian Theology' In id., Basic Questions in Theology,
+ii, London: SCM, ng-83.
+(aggi-8). Systematic Theology. 3 vols. Grand Rapi
+- PInNocK, CLarK H. (2001). Most Moved Mover. Carlisle: Paternoster.
+- SCHLEIERMACHER, F. D. E, (1928). The Christian Faith. Edinburgh: T. & T. Clark.
+
+## SUGGESTED READING
+
+- Aquinas, St THOMAS (1975: 1a. 213).
+- Barth, Kart (1957: 256-677).
+- Gunton (2002).
+- PANNENBERG, WOLFHART (1991-8: i, 337-448).
+- Rogers, KATHERIN A. (2000). Perfect Being Theology. Edinburgh: Edinburgh University
+Press.
+- TURRETIN, FRANCIS (1992-7 [1679-85]). Institutes of Elenctic Theology.
+Phillipsberg: Presbyterian and Reformed, i. 183-252.
+- Weinanpy, THomas G. (2000). Does God Suffer? Edinburgh: T. & T. Clark.
+
