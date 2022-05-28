@@ -1,0 +1,709 @@
+---
+title: Scripture
+author: Stephen E. Fowl
+editor: JOHN WEBSTER, KATHRYN TANNER, IAIN TORRANCE
+summary: "THE OXFORD HANDBOOK OF Systematic theology
+  Edited by JOHN WEBSTER, KATHRYN TANNER, IAIN TORRANCE
+  Chapter 19 - Stephen E. Fowl"
+featured_image: /images/oxford-handbook-of-systematic-theology.jpg
+categories: 
+  - Doctrine
+tags:
+  - Barth
+  - Webster
+date: 2022-05-03T12:24:25+01:00
+draft: !true
+---
+
+## Chapter 19 Scripture
+
+This essay will cover two interrelated sets of issues. The first set of issues concerns
+how Christians ought to think theologically about scripture. The second set of issues
+concerns the ways in which such theological thinking about scripture shapes the
+ways in which Christians might interpret scripture theologically. Of course, it is not
+always clear how to separate theological thinking about scripture from theological
+interpretation of scripture, since much theological thinking about scripture is
+closely connected to Christian views of God, the world, and God's relations with
+the world that are themselves drawn in various ways from scripture. Indeed, as
+Origen's On First Principles (Origen 1973) and Augustine's On Christian Teaching
+(Augustine 1997) indicate, these issues were traditionally treated together. It is not
+my aim to separate what belongs together conceptually and theologically. Rather,
+Iam simply treating these as two distinct topics for the sake of organizational clarity.
+
+### THINKING THEOLOGICALLY ABOUT SCRIPTURE
+
+Initially, then, I want to begin by thinking about scripture in theological terms.
+Most modern attempts to address the place and status of scripture begin by asking
+what sort of book scripture is (e.g., Work 2002: 1-14). On the one hand, modern
+historical studies have made it all too clear that scripture is a human work. The
+original texts which comprise the Bible were written by
+(known and unknown) in diverse historical, linguistic, and cultural settings. Both
+the human authors of these texts and those who preserved, edited, and ordered these
+texts participated in and were subject to a host of social, material, and institutional
+forces which undoubtedly affected the composition of the Bible, even if schola
+are not altogether sure how and to what extent this happened.
+
+At the same time, Christians are committed to the notion th
+word of God. In, through, or in spite of its
+clearly human, historical characteristics,
+Christians confess that scripture repeats,
+conveys, or reflects the words of the living God.
+At the very least, this makes scripture the standard against which Christian
+faith and practice need to measure up.
+
+If one begins by focusing on scripture's status as both the
+word of God and the
+work of human hands, it seems quite natural to extend a Christological analogy
+to scripture in order to account for its status as both divine and human writing.
+That is, in ways that are analogous to the confession that Christ has two natures,
+scripture is taken to be both human and divine. Although there are some premodern theologians who deploy a Christological analogy to account for various
+ways in which scripture might function, the use of a Christological analogy to
+account for scripture's status seems to be quite modern (Ayres and Fowl 1999).
+Moreover, although this analogy is fairly common across theological and denominational differences, it is less clear that theologians use this Christological analogy
+in the same way.
+
+For example, Karl Barth applies a Christological
+scripture's 'writtenness" seriously: 'there is no point in ignoring the writtenness of
+Holy Writ for the sake of its holiness, its humanity for the sake of its divinity'
+(Barth 1956: 463; see also Work 2002: 68-74).
+Taking scripture's writtenness seriously in Barth's eyes seems to allow
+for some types of historical exegetical methods
+(Barth 1956: 469).
+footnote:[Barth clearly is appropriately wary of the exhaustive claims of historical criticism,
+He seems to avoid theologically corrosive historical critical claims by stressing
+scripture's role as human witness to a divine 'subject matter. Barth takes this
+subject matter as self-evident, Subsequent Marxsist or feminist biblical critics,
+however, simply extend the suspicion that the historical critics of Barth's day
+applied to the text of scripture to the Bible's 'subject matter' See Fowl (i998: chs, 3-4).]
+Because Barth fundamentally orders his views
+in the light of his doctrine of God, treating scripture's writtenness seriously means
+primarily treating scripture as the hermeneutical lens through which one views all
+other things (Barth 1956: 468). As a result, Barth's use of the Christological analogy
+does not demand any specific interpretative practices.
+
+Vatican II's Dogmatic Constitution on Divine Revelation (_Dei Verbum_)
+relies on a Christological analogy in its reflection on scripture. In this case the
+analogy works to show that human language can be a suitable vehicle for conveying
+God's word. 'God's words, expressed through human language, have taken on the
+likeness of human speech, just as the Word of the eternal Father,
+when he assumed
+the flesh of human weakness, took on the likeness of human beings' (_Dei Verbum_)
+§13, in Tanner 1990: ii. 977).
+
+Over the past forty years, however, it has become much more common
+for this Christological analogy to be applied to scripture in the way advocated
+by Ernst Kasemann. For Kasemann (1967), this application of a Christological
+metaphysic to scripture results in or justifies a further set of arguments and
+practices commonly known as historical criticism. Failure to see this is to lapse
+into a sort of docetism. Because the Bible is a humn book, it should be subject to
+the same interpretative practices and standards as any other anciebt text. In this
+light, the interpretative practices and theories of biblical scholars show be accessible
+to all regardless of one's disposition to the claims of Judaism or Christianity.
+Should an interpreter be a Jew or a Christian, those convictions need to be
+abstracted as much as possible from one's interpretative work as a Biblical scholar.
+Biblical interpretation becomes an end in itself whose goal is either the unearthing
+or the construction of textual meaning(s).
+footnote:[Adam (1996) has noted the comprehensive failures of Kasemann's position. The Pontifical Biblical Commission's report, _Interpretation of the Bible in the church_, is the Catholic version of this way of 
+taking the Christological analogy. For a critical analysis of that document, see Ayres and Fowl (1999)]
+
+Upon deciding to treat the Bible as a human, historical text to be read like
+any other, the remaining issue for theologians, and Christians more generally, is
+how to treat the Bible as the word of God. Once interpreting the Bible as a human
+book becomes its own end, the question is how to move from the results of that
+work either to theological claims, or to the moral and ascetical formation of
+Christians, or to any other edifying practice which Christians have traditionally
+based upon scripture.
+
+Attempts to distil the timeless truths of scripture from the historical
+particularities of the biblical texts and those texts' production represent simply
+one form of the attempt to figure out how to treat the Bible as the word of God after
+already treating it as the work of human hands. The so-called 'biblical theology movement'
+represents another form of the same attempt (Brett 1991 ch. 4).
+
+Such attempts rarely stand the tests of time. It is usually just a matter of a few
+years before any given proposal about a unique or timeless scriptural theme is
+shown to have some sort of cultural or temporal antecedent. When scholars
+adopted the Christological analogy as a justification for reading the Bible as any
+other book, it became evident that critical scholarly activity would seek to fit
+the texts of the Bible into their historical and cultural milieu without remainder.
+The fact that contemporary theologians find so little in contemporary biblical
+studies to be theologically interesting further reinforces this view. This is not to
+relieve theologians of responsibility for attending to scripture and even to the work
+of professional exegetes. Rather, the failure of theological approaches to scripture
+that primarily operate on this Christological analogy suggest that one should try
+an alternative starting point.
+
+In his recent work, _Holy Scripture: A Dogmatic Sketch_, John Webster points out
+that doctrines about scripture must begin with and depend upon doctrines about
+the triune God (Webster 2003: ch. 1). The Christian God is the Trinity, whose inner
+life is reflected in the gracious and peaceful self-giving and self-communication
+of Father, Son, and Spirit. In creation God freely wills not simply the existence of,
+humans created in the image of God, but God also desires fellowship with humans,
+offering them a share in the divine life. ‘This is both the intention with which God
+created and the end for which God created. Given this, God's self-presentation
+or self-communication is an essential element in establishing the fellowship God
+freely desires to have with humans. Thus, God's self-revelation to humans is both
+the source and content of a Christian doctrine of revelation. Revelation is directly
+dependent upon God's triune being and it is inseparable from God's freely willed
+desire for loving communion with humans (Webster 2003: 13-15). In this light,
+the written text of scripture is subsidiary to and dependent upon a notion of
+revelation that is itself directly dependent on God's triune being (_Dei Verbum_ $2)
+This recalibrates the relationships between God, scripture, and Christians in several
+interesting ways. For Christians, the ends of reading, interpreting, and embodying
+scripture are determined decisively by the ends of God's self-revelation, drawing
+humans into ever deeper communion with the triune God.
+
+In this way, scriptural interpretation is not an end in itself for Christians. One
+might even say that the mediation of revelation through written scripture is not
+God's best desire for believers but a contingent response to human sinfulness
+Recall that God speaks with Adam and Eve with an unbroken immediacy. This is
+also reflected in the description of God's interactions with Moses as speaking with a
+friend face to face (Exod. 33:11), Further, Jeremiah 31:31-4 indicates that the written
+covenant will ultimately be replaced by a covenant written on the heart so that
+teaching, remembering, and interpreting scripture will be a thing of the past. In
+addition, when confronted with Moses’ permission of divorce in Deuteronomy 24:1-4,
+Jesus makes it quite clear that there is a gap between God’s best intentions for
+humans and the scriptural words of Moses which are offered as a concession to
+human sinfulness (Matt. 19: 1-9). These texts indicate that scripture is the result of
+God's condescension to human sinfulness, At the same time, scripture is absolutely
+important since it reveals the mystery of God’s reconciling of all things in Christ.
+Thus, although the interpretation and embodiment of scripture is not an end in
+itself, as Christians engage scripture ‘for teaching, for reproof, for correction, and
+for training in righteousness', they can confidently advance toward their proper
+ends in God, ‘proficient [and] equipped for every good work’ (2 Tim 3:16-17).
+
+Another avenue which opens up when Christians think of scripture in the light
+of their convictions about the triune God is in relation to the history and processes
+ofthe formation of scripture. An emphasis on scripture’s dual nature will obviously
+recognize that the text of scripture as we know it today is tied to a variety of 
+historical, political, and social processes. Scholars may disagree about the nature of
+these processes, but it is hard to deny that a variety of forces known and not known
+shaped and were shaped by the text of scripture.
+
+This recognition becomes difficult to square with the doctrine of revelation if
+that doctrine is divorced from its subsidiary role in relation to the doctrine of God.
+As Webster argues, just such a divorce occurred in the history of modern theology.
+Rather than a doctrinal assertion related to God's triune identity, theologians came
+to think of revelation as an epistemological category requiring philosophical rather
+than theological justification. "Understood in this dogmatically minimalistic way,
+language about revelation became a way of talking, not about the life-giving and
+loving presence of the God and Father of our Lord Jesus Christ in the Spirit's power
+among the worshipping and witnessing assembly, but instead of an arcane process
+of causality whereby persons acquire knowledge through opaque, non-natural
+operations' (Webster 2003: 12). In this light, attempts to defend the divine
+nature of scripture tend to focus their attention on establishing either the incorruptibility or the benign nature of the processes by which the texts of scripture
+come to us. The most extreme manifestation of this concern is found in those
+theories or doctrines of scripture that require some form of divine dictation where
+the human authors of scripture simply record the words the Spirit speaks to them.
+Even though scholars probably know much less about the processes which shaped
+the final form of scripture than we are willing to admit, it is indubitable that every
+stage of this process was fully historical and fully human. Indeed, if this epistemologically founded doctrine of revelation persists, it really becomes impossible for
+the Christological analogy of scripture's dual nature to hold. It would seem that at
+this particular point the divine and human natures of scripture simply cannot
+coexist, 'Both naturalism and supernaturalism are trapped...in a competitive
+understanding of the transcendent and the historical' (Webster 2003: 21).
+
+Alternatively, if revelation is seen as the triune God's self-communication, an
+activity that flows from the very nature of the Trinity, an activity that is graciously
+directed toward drawing humanity into ever deeper communion with God, then
+one can be more relaxed about the human processes that led to the formation of
+Christian scripture. This is because the triune God is not simply the content of
+revelation, but the one who directs and sustains the revelation of God's very self
+with the aim of drawing humanity into ever deeper communion. The conviction
+that God's revelation is ultimately directed towards bringing about our salvation
+also entails a view of God's providential ordering of history so that God's ends
+ultimately will be achieved. In this way, Christians can fully recognize the human
+processes (whatever they may have been) that led to the formation of scripture.
+At the same time, their convictions about God's providence should lead Christians
+to understand that, however scripture came to look the way it does, scripture
+reveals all that believers need to sustain a life of growing communion with God.
+
+In this respect, Christians would do well to take on the disposition displayed
+by Paul in Philippians 1: 12-18. In this passage the imprisoned Paul begins by noting
+that, contrary to what one might expect, the gospel has advanced even in the
+midst of his imprisonment (1: 12). Indeed, Paul's use of the passive voice here
+makes it clear that God, and not Paul, is the agent advancing the gospel. Paul then
+goes on to note that many believers in Rome (most likely) have become bold in
+proclaiming the gospel. Paul further observes that among these newly emboldened
+preachers, some preach from good motives and others preach from selfish motives
+(1:15). After commenting on each of these groups (1: 16-17), Paul surprisingly goes
+on to announce that, no matter what the motives of these preachers, Christ is being
+proclaimed, and Paul rejoices in this (1: 18).
+
+The motives of the preachers, while important, seem secondary to the act of
+proclamation. It may appear that Paul pragmatically prefers to see the gospel
+preached than to wait until everybody's motives are pure. I do not think Paul
+sees the choice in quite this way. Ultimately, Paul is convinced that God is directing
+both his personal circumstances and the more general spread of the gospel. Thus,
+he need not be overly concerned about the motives of any particular set of
+preachers. Paul is able to see in the midst of his own circumstances that, despite
+appearances and contrary to expectations, God is advancing the gospel. Rather
+than expressing a preference for preaching from selfish motives over no preaching
+at all, this phrase is an expression of faith in God's providential oversight of the
+gospel's progress.
+
+From a theological perspective it is important to note that a very particular
+doctrine of providence underwrites Paul's account here. Paul is confident that God
+will bring the good work started in his own and the Philippians' lives to its proper
+completion (1: 6). Paul's view of God's providence leads him to fit himself and
+his various circumstances into a larger ongoing story of God's unfolding economy
+of salvation. Within this larger context, and only within this context, Paul's
+circumstances can be seen as advancing the gospel. This view of providence enables
+Paul to rejoice even in the face of a gospel proclaimed from selfish motives. This is
+because the advance of the gospel is subject to the larger ends of God's economy of
+salvation, If this disposition is extended to scripture, Christians can both recognize
+the vicissitudes in the historical formation of scripture and still treat scripture as
+God's providentially ordered self-revelation.
+
+Obviously, one cannot sustain any notion of God's providence apart from a fairly
+robust notion of the Spirit's role in the various aspects of scripture's formation.
+One can see this initially by looking in John's Gospel at the role Jesus anticipates for
+the Spirit in the lives of those who will come to produce scripture. The Spirit is the
+one who calls to mind all that Jesus taught (John 14: 26). Jesus also promises that
+the Spirit will lead his followers into all truth, truth that they simply could not bear
+on that side of the crucifixion and resurrection (John 16: 2-15), In addition, the
+Spirit will guide and direct the disciples concerning what is to come so that they
+can continue to abide in Christ (John 15: 1-11). In remembering the past words of
+Christ, leading and confirming the disciples in all truth, and speaking about the
+things yet to come, the Spirit's role in the lives of believers and thus in the
+production of scripture is comprehensive. The Spirit's work as the operation of
+God's providential ordering of things sanctifies the means and processes which lead
+to the production of scripture, turning them to God's holy purposes without
+diminishing their human, historical character. Thus, in calling scripture 'holy'
+Christians are not making a comprehensive claim about the purity of the motives
+of the writers and editors of scripture. These may well have been decidedly unholy.
+Nevertheless, Christians are committed to the belief that the triune God has
+revealed a passionate desire to have fellowship with them, even in the light of
+their manifest sin. Scripture is chief among God's providentially ordered gifts
+directed to bringing about reconciliation and fellowship with God despite
+human sin, Thus, scripture is holy because of its divinely willed role in making
+believers holy.
+
+## II. INTERPRETING SCRIPTURE THEOLOGICALLY
+
+This recognition leads to a second main topic. If Christians see scripture &s
+intimately connected to their beliefs about the triune God and ue leepe ase
+for fellowship with us, then what implications are there for the ways in which
+Christians ought to interpret scripture?
+
+Just as it is important to think of doctrines about scripture as connected to and
+dependent upon trinitarian doctrine, it is equally important for Christians to
+understand that scriptural interpretation is inseparable from and dependent
+upon God's desires for humanity. In this light, scriptural interpretation is one of
+a set of practices Christians engage in in order to enhance their growth into ever
+deeper communion with God. Scriptural interpretation is not an end in itself for
+Christians. Rather it is one of the ways (if not the chief) in which they can deepen
+their fellowship with God.
+
+Although he uses a different set of images, Augustine nicely displays the
+instrumental status of scripture and scriptural interpretation in Book 1 of _on
+Christian Teaching_ (1997), where he likens scripture to a vehicle graciously provided
+by God to bring us to our true home. With regard to this image, Augustine is concerned
+that Christians could find the vehicle of scripture so appealing and the ride so
+smooth that they forget the importance of reaching their destination. This is part of
+his larger concern that Christians need to order their relationships with their
+surroundings in such a way that they love the right things in the right way so
+that ultimately their love is properly directed to God.
+
+Keeping both Augustine's specific and general concerns in mind here will be
+important in thinking about how Christians should interpret scripture. Initially,
+however, just as with doctrines about scripture, it may prove instructive to contrast
+this position with one that deploys a Christological analogy in order to think about
+how Christians ought to interpret scripture.
+
+In the modern period both Protestant and Catholic biblical scholars have relied
+on Christological analogies to claim that proper attention to scripture's human
+nature requires that Christians practice historical criticism and, in particular, seek
+to uncover the intention of the human authors of scripture (Kasemann 1967;
+Pontifical Biblical Commission 1994). The Christological aspect of this argument
+is in fact quite limited. What one finds is more of a philosophical-hermeneutical
+argument which gets its initial momentum from a small Christological nudge.
+
+There are a great variety of conceptual, historical, and theological problems with
+this position which have received a good deal of attention elsewhere (Adam 1996;
+Ayres and Fowl 1999). For my purposes, I simply want to indicate a theological
+tension that results from deploying Christological analogies in this way. If
+attending to the human nature of scripture requires interpretation to focus on the
+intentions of the human authors of scripture, then what is one to make of attempts
+to interpret the servant songs of Isaiah Christologically or to read John 1 or
+Philippians 2; 6-11 in the light of the Trinity? It seems most unlikely that the
+original authors of these texts could have intended their writing to refer to Christ
+or the Trinity. Theologically, Christians have a significant stake in asserting that
+Isaiah does point to Christ (even if not exclusively to Christ) and that the assertions
+of John 1 and Philippians 2: 6-11 can only be properly ordered within the grammatical
+boundaries set by trinitarian doctrine. This sets up the same difficulty of
+relating the two 'natures' of scriptural interpretation noted above with regard
+to doctrines of scripture. Once one uses assumptions about scripture's human
+nature to argue for the primacy or necessity of historical-critical interpretative
+practices, the relationship between the divine and human becomes either viciously
+Parasitic or competitive. Such a situation further encourages interpreters to think
+of scriptural interpretation as an end in itself.
+
+Alternatively, shifting the focus from Christological analogies to a set of
+judgements dependent upon a doctrine of God will provide more resources for
+theological interpretation of scripture. If one begins from the theology of scripture
+already laid out above, one must start with the triune God's desire to enter into
+friendship with the world that God freely created. In the light of human sin, the
+Son of God takes flesh in order to bring about our healing and reconciliation with
+God. Through the Spirit's guidance and vivifying power, believers are led into a
+life of transformation whereby they become more deeply conformed to Christ.
+
+These transformations enable them to deepen their communion with God and
+each other as they await the consummation of the ages. As they await this
+consummation, Christians are called to participate in the body of Christ, the church.
+As the locus of Christian worship of and witness to God, the church provides a context
+within which believers are formed through the Spirit's working to be the people God
+calls them to be and that the world needs them to be.
+
+This brief overview of God's drama of salvation is most comprehensively and
+concretely revealed to the world in scripture. Scripture becomes the primary vehicle
+through which believers learn of this drama. Thus, scripture plays a significan'
+role in this drama of salvation and definitively reveals the contours of that drama.
+
+Assertions about scripture's definitive revelation of God 's economy of salvation,
+however, do not mean that scripture is a self-interpreting text. All texts require
+and call forth interpretation. In day-to-day encounters we interpret in relatively
+unreflective ways without much difficulty or dispute. Texts written in other
+languages from the distant past are more complex. Adding the stipulation that
+scriptural texts require believers, because of their place in the drama of salvation, to
+shape their belief and practice in particular ways is a further level of complexity.
+Scripture calls forth interpretation. Until that time anticipated by Jeremiah 31 when
+there will be no more need for interpretation because all will know the Lord,
+Christians are called to interpret scripture. It is crucial, however, to recognize that,
+because of scripture's relationship to the ends of the Christian life, Christian
+interpretation of scripture is not primarily governed by hermeneutical concerns
+with philosophical conceptions of textual meaning.footnote:[For two philosophically sophisticated but ultimately mistaken attempts to do this, see Vanhoozer (1998) and Wolterstorff (1995). For the most part, these types of approaches are primarily concerned with ruling out interpretative anarchy or interpretative emotivism. For a specific response to this fear see Adam (2006).]
+
+Rather, Christians interpret scripture as part of their ongoing struggle to enter into
+ever deeper communion with God. That is, Christians interpret scripture primarily in
+the light of the triune God's own desires for communion with them.
+
+Interpreting scripture in the light of God's ultimate intentions for communion
+with them provides Christians with an overall set of aims and purposes they should
+bring to their various engagements with scripture. This does not thereby necessitate
+any particular hermeneutical strategy; it does not require a general theory of
+textual meaning. Rather, this overarching aim opens up and regulates the various
+ways in which Christians will interpret, debate, and seek to embody scripture.
+
+The remainder of this essay will consider several ways in which God's ultimate
+purposes for humanity situate Christian interpretation of scripture first and foremost
+within the body of Christ, the church. As a way of specifying the properly
+ecclesial context of Christian interpretation, it will show how Christian interpretation
+of scripture as an ecclesially based practice is integrally tied to other practices,
+thus indicating that, at its best, Christian interpretation of scripture is theologically
+regulated and ecclesially located. The essay concludes by trying to articulate what
+this means given the fractured state of the church,
+
+Once one allows the triune God's desire to draw believers into ever deeper
+communion to function as the primary hermeneutical concern for Christian
+approaches to scripture, Christians must also recognize that they cannot deepen
+their communion with God and others through brief or sporadic encounters with
+scripture. The Christian life is an ongoing, lifelong process of formation and
+transformation. In this process Christians will engage scripture in a variety of
+ways, but with the overall aim of deepening their communion with God, Moreover,
+as God calls Christians to participate actively in the church as a means of deepening
+their communion with God, it is reasonable to assume that Christian interpretation
+of scripture will not be the work primarily of isolated individuals. Rather,
+if Christians are successfully to engage scripture in all of the various ways they seek
+to do, this will generally happen in the context of their participation in Christian
+communities. Further, contemporary Christians should recognize that they are
+participants in a tradition that is geographically and historically extended and
+culturally diverse. In countless and often subtle ways, Christians' engagements with
+Scripture are (and should be) shaped by the successes, failures, debates, discussions,
+and prayers of previous generations of Christians.
+
+Of course, the church does not exist solely to interpret scripture. The church is
+the proper home of numerous Christian practices. Thus Christian interpretation of
+scripture is intimately connected to a host of other ecclesial practices all of which
+need to be in good working order. Failure or distortion in one of these practices is
+likely to invite failure or distortion in the others, One could not hope to enumerate
+all of these ecclesial practices that touch upon scriptural interpretation. I will
+simply cover a few that seem particularly significant.
+
+Truth-seeking and truth-telling in Christ must be towards the top of any list of
+ecclesial practices crucial to interpreting and embodying scripture in the body of
+Christ. On the one hand, this seems obvious. Debates, discussions, and arguments
+about scripture or anything else cannot be life-giving apart from issues of
+truthfulness, If truth-telling is to be a practice essential to Christians' arguments
+about Scripture, we will need to think of it in Christological terms.
+
+Here is a brief account of what that might mean. In a passage filled with military
+images, the apostle Paul commands the Corinthians (and all believers) to bring
+every thought captive in obedience to Christ (2 Cor. 10:5). It is not that Christ aims
+to obliterate all thoughts. Rather, they are to be subjected to Christ's penetrating,
+healing gaze. Bringing all thoughts captive to Christ is a way of establishing or
+restoring their right relationship to the one who is the Truth. For example, think
+of the risen Christ's engagement with Peter around a charcoal fire in Galilee, Peter's
+deceit and betrayal is purged and he is restored in the course of being questioned
+by the resurrected one who is feeding him at the same time he interrogates him.
+The truth about Peter is never glossed. Nevertheless, the resurrected Christ uses this
+truth to transform Peter (John 21)
+
+I mention truth-telling initially for two related reasons. The first is that truth is
+the first casualty of sin. This, of course, makes it much more difficult to recognize
+sin, and our own sin in particular. The second reason is that truthC-telling is the
+primary component of the practices of forgiveness and reconciliation. I want to
+turn to these two practices as essential for Christians' engagements with scripture.
+
+To engage in the communal discussion, argument, and debate crucial to faithful
+embodiment of scripture, Christians must be capable of recognizing and naming
+sin, particularly their own sinfulness.  This ability to recognize and name sin is not a
+one time achievement but an ongoing process of transformation and repentence
+Recall that first of the _Ninety-Five Theses_ is, "When our Lord and Master Jesus
+Christ said, "Repent," he willed the entire life of believers to be one of repentance'
+(Luther 1957-86: xxxi. 25). Without a community well practiced at asking for and 
+offering forgiveness, and without a community committed to the penitential work
+of reconciliation, Christians have little reason to recognize their sin, much less to
+repent of it. If believers think that sin is both the first _and last_ word on thier lives,
+then self-deception will always appear the easiest and best option.
+
+When Christians' convictions about sin and their practices of forgiveness and
+reconciliation become distorted or inoperative, then Christians will also find that
+they cannot discuss, interpret, and embody scripture in ways that will build up
+rather than tear apart the body of Christ.
+
+A community whose common life is marked by the truthfulness of Christ and
+regularly engaged in practices of forgiveness and reconciliation will be able to
+engage in the discussion, argument, and debate crucial to interpret and embody
+scripture faithfully in ways that deepen their communion with God. One further
+practice crucial to engaging scripture is patience. As a way of teasing out some
+issues around patience I want to turn again to Philippians. I will focus on what
+seems to be an inconsequential line in this letter. In 3:15 Paul wraps up a long
+plea to the Philippians to adopt a pattern of thinking, feeling, and acting that is
+focused around the patterns displayed to them by the crucified and resurrected
+Christ. This pattern of thinking, feeling, and acting will lead the Philippians to do
+certain things and avoid other things. Developing such patterns of thinking,
+feeling, and acting will enhance the Philippians' prospects of attaining their true
+end in Christ. Paul then turns to himself. He does not claim that he has attained
+this end yet. Rather, he presses on to the finish line so that he might win the 
+prize of the heavenly call of God in Christ Jesus. Instead of stopping there and
+moving on to something else, Paul adds that, to those inclined to adopt a different
+pattern of thinking, feeling, and acting, God will reveal the proper mindset to
+adopt (cf. 3:15). After this impassioned plea Paul seems willing to allow that others
+may think differently. This is not because Paul is a good liberal and thinks that in
+matters of faith people should be allowed their own opinions. Instead, as I noted
+above, Paul can display a certain detachment from his own argument because he
+is convinced that God is directing and enabling the advancement of the gospel.
+Paul does not have to coerce the Philippians into adopting his pattern of thinking,
+feeling, and acting because he is confident that God will bring both him and the
+Philippians to their proper end in Christ. This sort of patience must underwrite
+all theologically regulated, ecclesially located interpretation of scripture.
+
+If Christian interpretation of scripture is ecclesially located and dependent for
+its success on its proper connection to a variety of ecclesial practices, then what is
+one to say about scriptural interpretation in the light of the fractured state of
+Christ's body? What sort of location does a divided church provide for Christian
+interpretation of scripture? Indeed, might one further argue that it is precisely
+Christians' interpretation of scripture that has served as the catalyst for church
+division?
+
+## III. THEOLOGICAL INTERPRETATION IN AND OF THE DIVIDED CHURCH
+
+First, as Christians and Christian communities seek to interpret and embody
+scripture faithfully in the contexts in which they find themselves they should expect
+to engage in discussion, argument, and debate with each other. This is simply a
+feature of Christian life between the cross and resurrection on the one hand, and
+the return of Christ on the other. For the most part, these discussions and debates
+do not divide and have not divided the church. Long before the Reformation,
+Christians engaged in rather sharp and substantial disagreements about scriptural
+interpretation without tearing the body of Christ apart. I would like to suggest
+that when such divisiveness occurs in debates over scripture it is not so much an
+issue of scriptural interpretation as the result of a separation of scriptural interpretation from a variety of other practices such as those mentioned above. These
+are the practices needed to keep the body of Christ whole in the midst of the
+inevitable debate, discussion, and argument that is part of the Christian community's ongoing engagement with scripture. More fundamentally, these practices are
+held together and properly maintained by love, by the love Christ has for believers
+and which Christ commands believers to have for each other. Thus, all church
+division is fundamentally a failure of love. All division proceeds from believers
+assuming that they are better off apart from each other than together (Radner
+1998). Doctrinal or scriptural differences cannot divide the church unless there is
+this prior failure of love.
+
+Although disagreements over scripture did not directly cause church divisions,
+the church in the West is quite clearly divided. It is therefore important to
+understand how those divisions might affect theologically regulated and ecclesially
+located scriptural interpretation.
+footnote:[For a discussion of how church division might affect the gospel's overall claims to truthfulness see Marshall (1993).]
+In the course of doing this I will explore a variety
+of scriptural passages. Hence, addressing a theological issue I also hope to display a
+form of theological interpretation of scripture.
+
+First, contemporary Christians should recognize that church division is a very
+different issue today than it was for Catholics, Lutherans, Calvinists, and others in
+the sixteenth century. At that time the issues were focused on where the true church
+was located and how to know this. Once the true church was found, all other
+options simply were not church. The problems of a divided church as we know it
+today are really the result of ecumenism. The more that Catholics and non-Catholics,
+for example, recognize each other as true Christians, the greater the
+problem of their division, the sharper the pain of this fracture. In this light, I would
+like to turn to some scriptural texts which might help us think better about this
+situation.
+
+I will take my initial bearings from Ephraim Radner's difficult and challenging
+book, _The End of the Church_ (1998). Radner encourages believers to read their
+current situation through the scriptural image of divided Israel. Without
+rehearsing Radner's views in great detail, I want to take up his invitation to begin
+to read our situation of church division through lenses provided by biblical Israel
+and her divisions.
+
+Israel's division into northern and southern kingdoms was one of the results of
+Israel's persistent resistance to the Spirit of God (cf. Ps. 106; Jer. 3). Division is
+simply one manifestation of this resistance along with such things as grumbling
+against God and Moses in the wilderness, lapses into idolatry when Israel occupies
+the land, and the request for a human king. Interestingly, each of these
+manifestations of resistance tends also to become a form of God's judgement on Israel.
+
+Take the example of Israel's request for a human king in 1 Samuel 8. Although
+Samuel takes this as a personal affront, God makes it clear that it is simply part of a
+pattern of Israel's rejection of God's dominion which has carried on from the
+moment God led the Israelites out of Egypt. This rejection of God results in the
+granting of a king. The granting of this request becomes the form of God's
+judgement on Israel as kings become both oppressively acquisitive and idolatrous
+(cf. 1 Sam. 8: 10-18; 12: 16-25).
+
+We see here that one of the forms of God's judgement is giving us what we want.
+If we treat division in this light it becomes clear that division is both a sign that we
+are willing to, and even desire to, live separate from our brothers and sisters in
+Christ, and also God's judgement upon that desire. This separation in the form of
+church division is God's judgement on our failure to love as Christ commands.
+
+One of the by-products of the Israelites' resistance to God's Spirit was that their
+senses became dulled so that they were increasingly unable to perceive the workings
+of God's Spirit. As the prophets indicate time and again, this sort of stupefaction
+and blindness is a precursor to judgement. Judgement, however, leads to restoration.
+Importantly, it is restoration of a unified Israel as noted in passages such as
+Jeremiah 3 and Ezekiel 39. This restored, unified Israel is so attractive and
+compelling that the nations are drawn to God because of what they see God doing for
+Israel. This blessing of the nations fulfils God's purposes in calling Abraham out
+from among his own people (cf, Isa. 2: 1-4).
+
+If one reads the divided church in the light of biblical Israel and her division,
+then one faces several conclusions, First, division is one particularly dramatic way
+of resisting the Spirit of God. Such resistance further dulls our spiritual senses.
+Believers thus become further crippled in hearing and interpreting God's word.
+The response called for throughout the prophets is repentance. Whether believers'
+senses are so dulled that they cannot discern the proper form of repentance, or
+whether God's judgement is so close at hand that they cannot avoid it, one cannot
+say. Instead, believers are called to repent and to hope in God's unfailing plan
+of restoration and redemption in Christ.
+
+The second set of scriptural texts one might look at are those New Testament
+passages which deal with unbelieving Israel. Romans 9-11 comes immediately to
+mind. Instead of devoting time and energy to figuring out which part of the
+divided church is the natural vine, which parts are only grafted in, and which are
+simply cut off, believers should remember that the God who grafts in also can lop
+off. There is no place for presumption or complacency here. Instead, Christians in
+their divisions should try through ever greater works of love to provoke their
+divided brothers and sisters to return to the vine. As Cardinal Ratzinger, now
+Benedict XVI, argued, 'Perhaps institutional separation has some share in the
+significance of salvation history which St Paul attributes to the division between
+Israel and the Gentiles--namely that they should "make each other envious', vying
+with each other in coming closer to the Lord (Rom 1: 11)' (Ratzinger 1988: 87).
+
+In each of these passages believers can see some of the consequences of church
+division. Division is seen as a form of resistance to the Spirit of God. It dulls
+believers' abilities to hear and respond to both the Spirit and the word, which, in
+turn, generates further unrighteousness, Division provokes God's judgement and is
+not part of God's vision for the restoration of his people. While both presumption
+and complacency are real temptations, neither is an appropriate response to
+division. Rather, we are called to sustained forms of repentance, 'vying with each
+other in coming closer to God? with the aim of drawing the other to God. Finally,
+I want to look at the consequences of church division for the world. In this case
+the key text is in Ephesians.
+
+At the beginning of the epistle one learns that God's plan for the fullness of time
+is that all things should be gathered together under Christ's lordship. Just as God's
+restoration of Israel brings a reunion of divided Israel and the inclusion of Gentiles,
+so in Christ, God will bring all things together in their proper relationship to
+Christ. It is important to note that this includes those principalities and powers
+which are not yet under Christ's dominion (1: 10).
+
+For Paul's purposes, the paramount activity of Christ's gathering of all things
+is the unification of Jews and Gentiles in one body through the cross and resurrection.
+Ephesians 2 is focused on just this activity by which those near and those
+far off are brought together into one. This is both the 'mystery...made known me by
+revelation' (Eph. 3: 3) and the good news which Paul has been commissioned
+to proclaim. As he reflects on this Paul notes that God has given him the care
+'to make everyone see what is the plan of the mystery hidden for ages in God
+who created all things; so that through the church the wisdom of God in its in
+variety might now be made known to the rulers and authorities in the heavenly
+places' (Eph. 3: 9-10). The church, by its very existence as a single body of Jews
+and Gentiles united in Christ makes God's wisdom known to the rulers and
+authorities. As it appears here in Ephesians, the church's witness to the rulers
+and authorities is integrally connected to and may even depend upon its unity.
+Seen in its most extreme light, this passage suggests that the church's witness to
+the rulers and authorities is falsified or undermined by division. At the very least,
+one must say that the church's witness is hindered and frustrated by division.
+
+Here, then, are a variety of scriptural passages which help us to understand and
+speak theologically about church division. Each passage requires a different style
+of reading. Israel and its resistance to the Spirit are interpreted as a figure of the
+church to call the divided church to repentance. The reading of Romans expands
+on this to provide some admonitions by way of analogy about how to live in a
+divided church. Finally, Ephesians implicitly warns of some of the consequences of
+division for the world at large, especially for the rulers and authorities. No single
+hermeneutic or theory of textual meaning can validate all of these. Rather they
+are held together because they work in service of a common theological ars
+Describing that purpose will help to clarify and summarize the type of theologically
+regulated and ecclesially located interpretation discussed in this essay.
+
+Although the above comments are only a preliminary sketch, it should be clear
+that I am not trying to plumb what scripture 'says' about church division. That
+would be to take the presence of the divided church as a sort of self-evident datum
+that Christians can best comprehend on some other grounds and then to try to
+correlate that datum with some set of scriptural texts. Rather, these and other
+scriptural texts, theologically understood, can help Christians begin to develop
+scripturally shaped language and set of categories for comprehending church
+division and its consequences in theological terms. Such comprehension is but
+a more technical way of speaking about the truthfulness that comes from bringing
+every thought captive to Christ. Moreover, the assumption that scripture provides
+believers with the conceptual, descriptive, practical, and ascetical resources for
+bringing every thought captive to Christ is, perhaps, the most fitting way to reassert
+the central claim of the first section of this essay. That is, scripture is chief among,
+the trinue God's providentially ordered gifts for drawing believers into ever deeper
+communion.
+
+## REFERENCES
+
+* Adam, A. K. M. (1996). 'Docetism, Kasemann, and Christology: Why Historical Criticism
+Can't Protect Christological Orthodoxy', Scottish Journal of Theology 494: 391-410.
+* -- (2006). Faithful Interpretation: Reading the Bible in a Postmodern World. Minneapolis:
+Fortress.
+* Augustine (1997). On Christian Teaching. Oxford: Oxford University Press.
+* Ayres, L., and Fow1, S. (1999). "(Mis)Reading the Face of God in Interpretation of the Bible
+in the Church. Theological Studies 603: 513-28.
+* Barth, Karl (1956). Church Dogmatics I/2. Edinburgh: T. & T. Clark.
+* Brett, Mark (1991). Biblical Criticism in Crisis? Cambridge: Cambridge University Press,
+* Fowl, STEPHEN (1998). Engaging Scripture. Oxford: Blackwell.
+* Kasemann, E, (1967). 'Vorn Theologischen Recht historisch-kritisch Exegese' Zeitschrift fiir
+Theologie und Kirche 64/3: 259-81.
+* Luther, M. (1957-86). Luther's Works, 55 vols. St Louis: Concordia,
+* Marshall, Bruce (1993). 'The Disunity of the Church and the Credibility of the Gospel'.
+Theology Today sol: 78-89
+* Origen (1973). On First Principles. Gloucester: Peter Smith.
+* Pontifical Biblical Commission (1994). 'Interpretation of the Bible in the Church'.
+Origins 23: 497-524.
+* Radner, Ephraim (1998). The End of the Church: A Preumatology of Christian Division in
+the West. Grand Rapids: Eerdmans,
+* Rarzinger, J. (1988). 'Anglican-Catholic Dialogue: Its Problems and Hopes' In id., Church,
+Ecumenism and Politics. New York: Sheed and Ward.
+* TANNER, Norman P, SJ (ed.) (1990). Decrees of the Ecumenical Councils. 2 vols.
+Georgetown: Sheed and Ward.
+* Vanhoozer, K. (1998). Is there a Meaning in this Text? Grand Rapids: Zondervan.
+* Webster, JOHN (2003). Holy Scripture: A Dogmatic Sketch Cambridge: Cambridge
+University Press,
+* Wotterstorff, N. (1995). Divine Discourse, Cambridge: Cambridge University Press.
+* Work, Telford (2002). Living and Active: Scripture in the Economy of Salvation. Grand
+Rapids: Eerdmans.
+
+## SUGGESTED READING
+
+* Dei Verbum. 'The Dogmatic Constitution on Divine Revelation'. In Tanner (1990: ii. 971-81).
+Fowl (1998).
+* Vanhoozer (1998). /
+* Vanhoozer, K, (ed.) (2005). Dictionary for Theological Interpretation of the Bible. Grand
+Rapids: Baker. / a
+* Watson F. (1994). Text, Church and World: Biblical Interpretation in Theological Perspective Edinburgh: T. & T. Clark. / _
+* -- (1997). Text and Truth: Redefining Biblical Theology. Edinburgh: T. & T. Clark.
+* Webster (2003).
+* Work (2002).
+
