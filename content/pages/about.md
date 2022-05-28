@@ -13,4 +13,3 @@ I started this site largely to make notes on my own reading, but if, by the grac
 
 If, after that, you'd like to get in touch with your thoughts on the theologians presented here, then please do get in touch.
 
-{{< form-contact action="https://crm.knowprocess.com/form/thestephensons.me.uk/RecordAndRespondToEnquiry.action"  >}}
