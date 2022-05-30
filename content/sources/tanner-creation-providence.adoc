@@ -1,0 +1,618 @@
+---
+title: ESSENTIALS OF CHRISTIAN THEOLOGY
+editor: William C. Placher
+author: Sallie McFague, Kathryn Tanner
+date: 2022-05-24T10:15:00
+ISBN: 0-664-22395-8 (alk. paper)
+summary: 
+featured_image: /images/essentials-christian-theology.jpeg
+categories: 
+  - Doctrine
+tags:
+  - Creation
+  - Providence
+  - Tanner
+---
+
+## Is God in Charge? Creation and Providence
+
+If Christians know anything about the Old Testament, they know the first few
+lines in which God is said to have cteated heaven and earth, Following the carly
+ecumenical creeds in which Gods creation of the world is cited first among the
+acts of salvation history, Christians often express such a belief in the routine
+course of worship--for example, in the thanksgiving portions of eucharistic
+services or when renewing baptismal vows.
+
+Providence is another matter. The psalms are a mainstay of Christian worship,
+and the idea of God's providence does figure centrally in many of them. God's
+work is alive in nature: God visits the earth with showers and blesses the springs
+and crowns the year with goodness so that the pastures are full of flocks and the
+valleys covered in corn (Ps. 65). God is never far from the individual but will find
+and direct him or her wherever he or she may be--from the womb to the grave,
+whether in the heights of heaven or the depths of hell (Ps. 139). God is active
+throughout the history of the particular people Israel, leading them out of Egypt,
+parting the sea for them to escape their pursuers, providing them with food in
+the wilderness, giving the laws that define them as a nation, bringing them into
+the promised land, and so forth (e.g., Ps. 135-136). But direct Christian expression
+of belief in God's providence is probably more a fixture of popular piety than
+of formal worship.
+
+In the events of daily life, Christians have occasion to express belief in God's
+providence where others might appeal to luck. It is providential that, held up by
+traffic, I missed my flight on a plane that crashed on takeoff. Or Christians may
+affirm belief in providence as a way of justifying refusal of human responsibility:
+Whether babies are born with birth defects is a matter of God's will and not a
+matter for technological intervention. Or Christians may make such an affirmation
+as an expresssion of resignation before the inevitable, seeking comfort and
+struggling to regain calm with the thought that God must know what we do
+not--how the death of a loved one, for example, is something more than simply
+a tragic loss. When Christians formally confess their belief in God, providence is
+likely to be simply the unexpressed subtext for the beliefs that really matter. God
+must have a hand in the world, directing its course according to a plan of God's
+own devising--that is the least one can say--if what Christians believe about
+Christ is true: Here, against all the forces of sin and death in the world, God
+fulfills and completes the covenant that God set up with Israel for all the nations.
+If beliefs in creation and providence are clearly important components of the
+Christian faith, their meaning is not equally clear. The two-thousand-year history
+of Christian theology can be read as an effort to gain that clarity. Without
+such clarity, one cannot properly assess the seriousness of contemporary
+challenges to the faith. Do scientific descriptions of the universe's beginnings
+compete with the idea that God created it? Do those scientific descriptions tell us how
+God created the world, as a supplement or alternative to the description the Bible
+offers? If we can explain how things work in the world in the world's own terms,
+is appeal to God's providence superfluous? Are some accounts of how the world
+works incompatible with the idea of God's providence? Isn't, for example, the
+idea that outcomes in the world are
+determined by statistical probabilities, by 
+some blind mechanism or chance,
+incompatible with the idea that God
+directs the world according to purposes,
+for ends, of God's own devising? In a
+world wracked, as ours is, by the havoc
+caused by the ignorant and sinful acts of
+men and women, mustn't one lose confidence in God's providence?
+
+Without considerable clarity about the meaning of creation and providence,
+one cannot assess, either, the uses to which these ideas are put. Do Christian
+beliefs about creation and providence provide models of perfectly coercive power
+for our, unfortunate, imitation? Are these beliefs all about control and about who
+is in control, God or us? Is it proper for belief in God's providence to promote
+submission before the world's injustices and the world's tragedies as if they were
+an inexorable fate? Or is such a belief properly used in promoting childish hopes:
+We need not worry, we need not exert ourselves to improve the lot of the world,
+since God will intervene to save us, at the end, out of the blue? Does the idea of
+providence support a narrowly self-concerned smugness on the part of those
+whom the world favors, the sufferings of some serving the well-being of others
+by God's design? Does my good fortune--my good fortune not to be on that illfated plane, for example--suggest that I have an elevated place in God's plan not
+shared by those who perish?
+
+These are complicated questions, and the present essay can give only hints
+about how to answer them. What this essay will do is sketch a meaning for creation and providence, culled from the two-thousand-year history of theological
+discussion of those topics, by means of which the questions may be answered.
+footnote:[Theology, Doctrinal--Popular works. 1. Gren, Stanley, 1950- IL. Placher, William C. (William Carl), 1948]
+I hope that, this sketch in hand, the reader will return to these questions and begin
+to answer them all--in the negative.
+
+My method here of generating a more precise meaning for these beliefs by
+focusing on the history of theological discussion of them is more controversial
+and complex in its implications than might appear at first glance. Such a focus
+in the first place might be thought overly restrictive, since beliefs about creation
+and providence are not on their face distinctively Christian. Beliefs like these are
+not limited to Christianity. One can find affirmations at least verbally indistinguishable from the ones Christians make about creation and providence in other
+world religions and in worldviews of primarily scientific or philosophical derivation (such as Neoplatonism and Stoicism).
+
+Even in Christian use, these beliefs would seem explicable in their meaning
+apart from beliefs that are distinctively Christian in that they do not make mention of Christ, or seem to depend very directly on what Christians say about him,
+All this might suggest that there is no distinctively Christian meaning to such
+beliefs, and that one could therefore fill out their meaning in a freewheeling and
+eclectic way, providing content for them out of the common creation story or
+whatever philosophical resources might be currently available for discussing the
+origins and arrangement of the world. Beliefs about creation and providence
+would be then a kind of ground floor for explicitly Christian beliefs, specified
+independently of them and merely subsequently colored by them.
+
+That assumption, and the procedures for determining the meaning of
+Christian beliefs about creation and providence that go with it, are in my view
+mistaken. It is true that ideas about creation and providence circulate everywhere, and Christian theologians do indeed work with such ideas--Christian
+theology is never a self-contained, insular enterprise. If, however, one wants to
+fill out the meaning that Christians give to those ideas, the trick is to see what
+Christians do with them, what Christians do with what other people mean by
+them, and to see what happens to such ideas in Christian use, especially at the
+time when Christian beliefs in creation and providence developed in the
+Greco-Roman milieu of the early church. The distinctiveness of that use is
+apparent, moreover--at the time it developed and, once established (at least in
+some Christian theological circles), ever after--in the way ideas about creation
+and providence are systematically shaped in relation to the rest of what Christians believe.
+
+Thus, I do not believe that the meaning of creation in Christian circles is
+ascertainable apart from Christian beliefs about God, particularly about the transcendence of God as that comes to be developed in Trinitarian terms. This understanding of creation is, in turn, the lynchpin for understanding God's
+providence; certain ideas about providence follow from it by implication. Furthermore, the Christian interest in both claims--what is at stake for Christians
+in these affirmations--is only apparent in light of what Christians say about
+Jesus. Christian beliefs about creation and providence developed, then, at the
+time Christianity was wracked by controversies over the significance of Christ.
+The character of God's activity as either creator or providential guide of the
+world's arrangement and historical course is also concretely specified in much the
+same way--by what God's dealings with the world in Christ suggest about it. The
+meaning of both beliefs becomes clear, in short, only when they are set within
+the whole story of God's dealings with the world, as the nature of those dealings--their gracious beneficence--becomes clear in Christ.
+
+Without this careful specification of the way creation and providence hang
+together with the whole Christian story, Christian beliefs about creation and
+providence can mean almost anything, they can be pushed this way and that
+with impunity, they become a blank screen for the projection of human worries
+and fantasies--worries, for example, about threatened privilege and fantasies
+about absolute power. As the often sordid history of Christianity exhibits, even
+with such efforts of careful specification, such temptations are ineradicable and
+failure likely.
+
+### GOD BEYOND KINDS AND CREATION
+
+Let us start, then, with connections between the doctrine of God and creation.
+The theologians of the early church who were responsible for developing a
+Christian account of creation tended to favor one of the ideas about God's transcendence circulating in the Hellenistic philosophical milieu of the day. In
+Greco-Roman religion and philosophy, divinity is most commonly identified
+with a general quality or set of qualities--eternality, rationality, order, simplicity, unity--in which a number of things can participate in differing degrees.
+These qualities might form a particular subset of those constituting the world
+as we know it, or they might be set off from the world as a whole as just what
+this disordered world of change, diversity, and division is not. In either case,
+such ideas about divinity are not easily reconcilable with the monotheism that
+Christianity shares with Judaism. Contrary to monotheism, in this Greco-Roman view, many things--whether within this world of time and change (e.g.,
+numbers and eternal truths) or outside it (hierarchies of superior and subordinate deities)--are divine to differing degrees. Indeed, certain sorts of things
+ae the world are simply identified with divinity in a fashion that smacks of
+idolatry.
+
+Christians favor, instead, another understanding of divinity, which has its origins in the surrounding Greco-Roman milieu in what Plato says in the _Republic_
+about the mysterious "idea of the Good," an idea that seems beyond all forms or
+kinds of things as some sort of ineffable principle or source of their unity. Divinity is not a kind of thing at all, which might either be like some features of the
+world or simply opposed to them all,
+considered as a whole. Christians push
+this idea of a God beyond kinds in a distinctly monotheist direction. Since
+divinity is not a generic category in
+which distinct beings might share to
+varying degrees, the various deities of
+Greco-Roman religion and philosophy
+that lie outside the world of time and
+change must really only be names for what exists all together and at once in the
+one and only God. If they are anything at all, these divinities exist in that one
+and only God, and as such they are all equally God and bear no relations of superiority or subordination with respect to one another.
+
+Christians also put this idea of God beyond distinctions of kind to novel use
+by arguing that there is one God who is directly responsible for the world as a
+whole--what Christians mean by God's creation of the world. If God is not a
+kind of thing buc beyond identification by kind, it makes sense to say, first of all,
+that God is responsible, not just for those aspects of the world that are supposedly like God--for example, the world's rational arrangement, mind, and those
+aspects of the world suitable for rational comprehension according to timeless
+truths--but for the whole of the world, from the bottom up, so to speak, both
+the stuff or materials out of which the
+world takes shape and their organization,
+both the aspects that change and decay
+and those that have permanence, both
+materiality and mind.
+
+If God is a kind of thing, then God's
+responsibility for the world is limited tojust those aspects of the world that are most like itself; for example, if God is reason, then God is 
+responsible for only the
+world's rational arrangement and intelligibility. If God is not a kind of thing, this
+limitation is removed and God can be responsible for every aspect of the world.
+And if God is responsible for every aspect of the world, God is not simply giving
+shape to its parts or arranging them, but producing the world, giving rise to it,
+as a whole, God is a comprehensive productive principle, in short--the creator
+of the whole world, both heaven and earth.
+
+If God is beyond kinds, it makes sense to say, in the second place, that the one
+and only God produces the world directly or immediately. God is not a kind of
+thing whose nature needs to be protected from compromise and corruption
+when coming into close contact with things of an opposed nature--the way, say,
+fire needs to be kept from corruption, the loss of its own nature, through contact
+by water. Nor, conversely, is divinity a kind of thing that compromises the natures
+of others when brought into intimate relation with them the way fire compromises the nature of water--dissipating it into the air--by heating it. Kinds of
+things are essentially defined by not being like other kinds of things, and therefore their borders have to be guarded against those things that they are defined
+over and against.
+
+A principle of this sort seems to be behind the penchant in religious philosophies of the Hellenistic world (the Greek-speaking world around the eastern
+Mediterranean in the centuries around the time of Jesus) for multiplying
+divinities to produce a buffer zone between the highest God and the world. In
+Hellenistic philosophy, inferior deities are the only ones directly responsible for
+the properties of the world that most contrast with divinity--matter, for example. Indeed, inferior deities must be the only ones directly responsible for even
+those properties that most resemble divinity just to the extent they differ from
+it, by being, say, found in material bodies subject to decay and change. If God
+is not a kind of thing, then the one God can be directly and intimately involved
+with the production of the world in all its aspects, without threatening to compromise or dilute either God's divinity or the natures of any of the things in
+the world.
+
+Interest in both these points--that God produces the whole of the world and
+that God does so in an immediate way--was fueled by controversies in the early
+church over the significance of Christ. Take the matter of immediacy. The upshot
+of these controversies is that Christians want to maintain the closest possible relation between the man Jesus and God: God is identified with Jesus; Jesus is God.
+And Christians want to say that this God is no inferior or subordinate deity but
+very God, the one and only highest God. They claim, moreover, that in being so
+identified, neither the divinity of God
+nor the humanity of Jesus is compromised. When we are in touch with the
+man Jesus with the greatest possible
+physical intimacy (at the time of his existence on earth, grabbing the hem of his
+garments, receiving his spit on our faces,
+feeling his touch; or after his death, when
+drinking and eating of his flesh and
+blood in a eucharistic meal) we are in
+touch with God in the highest and with
+neither a demigod nor a superman.
+
+Although not predictable from the fact of God's creation of the world--the
+identity between a human being and God is a surprising new level of intimacy
+between God and the world--the incarnation is therefore the paradigm in a
+remarkably extreme form of what the Christian doctrine of creation is saying
+about the immediacy of God's relation to the world, as that follows, we have seen,
+from the fact that God is beyond kinds. The doctrine of creation when explicated
+in relation to the doctrine of God helps makes sense of the central Christian affirmations about Christ. If what Christians say about creation makes sense in virtue
+of God's divinity beyond kinds, then so do the outrageous claims that they make
+about Christ: Here is God in the flesh! The intimacy of God's relation to a world
+of suffering, loss, and conflict may not be very apparent. But the most intimate
+identity of God with the one, Jesus, who saves us out of the world of suffering,
+violence, and conflict by taking it all on himself, proves God's capacity to be in
+intimate relations with that sort of world. Christ is the source of our confidence
+about what we say about God generally: From the very beginning God wishes to
+be near us, in intimate relation with us. Creation involves an intimate relationship with God on the way to the fulfillment of such relationship in Christ.
+
+The comprehensive character of Christian claims about God's creation of the
+world is also promoted by Christian interest in making maximal claims for Jesus'
+significance, Jesus does not come to save a subset of humanity but, in intention
+if not in fact, to save the whole world--all the nations and the natural world too
+as it groans, as Paul says, under the powers of affliction and division. And Jesus
+comes to save the whole world in all its aspects; he brings total liberation, not just
+spiritual but physical healing, not just the liberation of individuals but of society, starting with the church, not just reconciliation among people but between
+them and the natural world, There are no irredeemable aspects of the world,
+which Christians must either flee in order to be saved or simply resign themselves
+to. God's comprehensive concerns as savior are matched, in short, by God's comprehensive concerns as creator.
+
+The latter, indeed, makes sense of the former: Jesus' range of concern is unlimited because God's range of concern has always been such. As the first few lines of
+John's Gospel suggest, Jesus does not amount to a _deus ex machina_ intervening in a
+world that is a stranger in most respects to God's designs. God's comprehensive creation of the world--indeed, God the Father's creation of the world through the
+very Word made flesh in Christ--means that the whole of it has been the object of
+God's concern from the very beginning. The incarnation simply brings that concern to its culmination and completion in overcoming the forces of sin and death.
+The sort of divine concern for the world completed in Christ was there from the
+very beginning when God created a whole world valuable in God's sight, when God
+looked with love upon all that had been made and declared it very good.
+
+### FROM CREATION TO PROVIDENCE
+
+Keeping in mind the comprehensive and immediate character of God's creation
+of the world and the idea that God is beyond kinds, one can unpack the meaning
+of God's creation of the world a bit more. Doing so will allow us to draw out the
+implications of creation for an understanding of God's providence. In fact, explicating the meaning of God's creation of the world is more like excising from that
+understanding all one's usual presuppositions about productive activity, If God
+is not a kind of thing, it is not permissible to identify God's creating with any
+particular kind of agency, operation, or principle of activity to be found in the
+world. None of those kinds of productive activity, moreover, gives rise to something totally new. The closest that ordinary processes come to this is where a new
+kind of thing begins to be, in the form of either a new species of thing or a new
+individual of an existing one. But this kind of production of things as we know
+it always works on something that already exists, or uses some preexisting stuff
+in the process, or depends on the cooperation of other productive powers not
+derived from its own activities.
+
+A productive process employing only the preexisting stuff of its own substance
+might seem closest to the comprehensive creativeness of God. But what is drawn out
+of the substance of its cause is similar to it in nature, and the world's relation to a God
+beyond kinds cannot be like that. Where already existing stuff and cooperative causal
+agencies have to be presumed, production of something is, moreover, not absolutely
+immediate, as God's agency is supposed to be; intervening media or processes of production come between a cause and its effect. IF the whole of something is brought into
+existence by God, it is also not appropriate to talk of creation as any sort of change,
+movement, or process, within what is created, There is nothing to be moved or
+changed, nothing in which a process could occur, prior to creation, if creation is perfectly comprehensive. Nothing is happening to you in any ordinary sense of the term
+when you are being created by God. Furthermore, since God's creating is neither instigated by intervening motions (like birth throes or picking up a hammer), nor found
+within the world of time and change, the temporal progression, the lapse of time, that
+goes with movement or change is absent from God's creating of the world.
+
+Finally, one should not even think of the creation of the world as a movement
+or change from a time when nothing existed to a time when everything does (or,
+for individuals, as a movement from one's nonexistence to existence--for example,
+at the moment of one's birth), One should think of the world being created by God
+as it exists, and not in the movement from
+nothing to something. If the world in its
+entirety is the creation of God, it is created not simply at its start (assuming it has one)
+but across the whole time of its existence.
+Because of the creative activity of God, 
+there never is a time in the world's history
+when the world does not exist. The movement of the world away from its beginnings does not signal distance from the creative activity of God; it does not mean
+that the world exists on its own as time goes on, independently of God's action for
+it as creator.
+
+When thinking properly of God's creating the world, one has to exclude, then,
+all ideas of cooperative agency (in which God would be one among other principles of production), all ideas of intermediate motion or process 
+(God does not 
+do anything to establish a kind of mediating causal bridge between God and the
+world), all ideas of time and change (nothing is happening in any ordinary sense
+of the term, as when something is generated or its qualities altered), and all ideas
+of beginnings in any simple contrast to what comes later. What is left, when all
+ideas of time, change, and finite process are excised, is the bare idea of a relation
+of utter dependence on God that holds for the whole world, in every respect,
+accross the whole time of its existence.
+
+What is left, in short, is a very abstract idea, one that might prompt praise and
+thankfulness--this is certainly a God majestic in giving beyond all comprehension--but one that might seem hardly intelligible. Theologians give the idea of
+God's creation a more concrete sense through a variety of images--more specifically, by merging in odd ways familiar images of causes of radically different
+sorts. That odd blending is a way of indicating that God's identity does not abide
+by the usual contrasts among kinds.
+
+### PERSONAL AGENCY OR NATURALISTIC EMANATION
+
+The two images with the widest currency in Christian theology are those of personal agency and naturalistic emanation: God creates the world by intelligence
+and will as a person would a house, or God creates the world like an overflowing
+source of water produces a stream or a source of light illumines the air. These
+images were the most common ones for talking about God's production of the
+world at the time the Christian doctrine of creation was formulated. Indeed, they
+were the images favored, respectively, by the two viewpoints Christianity came
+to oppose: God creates from something--for example, preexisting matter, like a
+human artificer would create a house from bricks--and the world arises out of
+the substance of God like heat from a flame or water from a spring: that is, what
+issues from God becomes progressively less divine the farther it gets from its
+source. For all their Hellenistic derivations, these are vivid images and rather
+commonsensical as an exhaustive division of types of causality--intentional
+agents on the one hand, and natural
+causes (whether physical or biological)
+on the other.
+
+Christian theologians tend to highlight one of these images, using the other
+as a corrective. Thus, one can talk about
+God as a personal agent creating the
+world by thinking about what to create and then deciding to do so. This is one
+model for thinking of the creative action of the Trinity: God the Father creates
+the world through the Word out of the love that is the Holy Spirit. If one is trying to give concrete expression to the idea of a God beyond kinds who gives rise
+to the world as a whole, there are several reasons for the appeal of such imagery.
+First of all, compared with those of natural causes, images of personal agency
+seem to conform more easily with comprehensiveness. Natural causes seem to
+have the capacity to give rise to only one sort of thing like themselves (e.g., mares
+give birth only to horses), while personal agents act according to an intention
+whose complexity is potentially unlimited: I can choose to build a house, then
+go to the store, then cook dinner, and so forth.
+
+Second, talking about God's creation of the world in terms of personal agency
+allows one to display the way in which God is beyond kinds. Unlike talk about
+natural causes, talk about someone thinking and willing has a peculiar grammatical structure: These verbs have (at least implicitly) clauses for their grammatical objects. Compare "The mare gives birth to a foal" with "I think that John
+is a rat." "Foal" is the grammatical object in the one case; the clause "that John is
+a rat" is the other. This grammatical fact brings with it several other odd ones.
+First, the nouns in the object clause refer to what is being talked about there only
+under a particular description; and therefore when nouns that describe the same
+thing differently are substituted, the new sentence may no longer be saying the
+same thing. So, substituting "the occupant of apartment 2C" for "John," the fact
+that I think John is a rat does not necessarily mean I think the occupant of apartment 2C is a rat, even if John and that occupant are the same person, since I
+might not know where John lives. This curiosity brings with it a second. The
+properties that characterize the thinking and willing need not also characterize
+what is being talked about in the object clause. So if it is true that I think John
+is a rat, that does not say anything about whether John is or isn't one--I might
+be mistaken. Similarly, my thinking him a rat might be necessary because I am
+such an ill-tempered person, but that suggests nothing about the necessity, or
+not, of John's being a rat. My thinking so might be petty, but that says nothing
+about the pettiness of John's being a rat. My act of thinking may be simple and
+single, without what I am thinking about--the whole complex lot of John's ratlike qualities--being so. And so on.
+
+As the last examples make clear, these grammatical features do not depend on
+the ignorance of the one doing the thinking (or on the impotence of the one willing, in examples I have not provided) and therefore are not essentially unsuitable
+for use when talking about God. When so applied to God's creating the world,
+they display the idea of a God beyond kinds. Following these grammatical features in this new theological use, one sees that the world need not be like or unlike
+the God who intentionally brings it into existence, The character of God's thinking and willing by which the world is brought to be implies nothing either way
+about the character of the world, about the character of what God intends to
+bring into existence.
+
+Other aspects, however, of talk about God's creating the world by acts of
+thinking and willing have to be severely modified in order to bring that way of
+speaking into conformity with the comprehensiveness and immediacy of God's
+creative activity. In doing so, such imagery is brought very close to imagery of
+natural causes such as fire and light, Thus, contrary to the comprehensiveness
+of God's creative activity, personal agents always work with materials they do
+not produce. To build a house, I need bricks and tools. I might make the bricks
+and tools too, but in order to do so, I require mud for the bricks, and metal and
+fire to forge the tools, and so on. The agency of fire or light is more serviceable
+here since fire and light seem (at least to the untutored eye) to be self-sufficient
+in their activity of heating or illuminating, apparently working even without
+substantial media to be heated or illumined, or without the need for outside
+implements.
+
+Moreover, contrary to the immediacy of God's working, personal agents need
+to take additional steps to bring into existence what they think about and decide
+to do. If I think about the sort of house I want and decide to build it, the building of it still remains to be done. In order to avoid the suggestion of intervening
+action, one would have to say that acts of thinking and willing, which have no
+external effects in the case of humans, have such effects when God is the agent.
+The closest analogue again would be the way natural processes such as fire and
+sunlight produce their effects immediately, without needing to do anything and
+without any intervening process, just by being themselves.
+
+In order to avoid suggesting that God creates through processes involving
+time and change--by beginning and ending, stopping and starting, in successive acts--one could extend this idea that God does not have to do anything
+in creating the world to God's even having to make a decision. God creates simply by being what God always is--the
+God who wants to create the world. If
+that is God's intention, it always was
+God's intention; God never came to so
+decide after a period of indecision.
+Again, the sun illuminating the air and
+fire heating things up would seem close
+analogues: Fire does not come to be
+what it needs to be in order to heat
+things up; it is always already in act, throwing off heat.
+
+Something of the language of deliberation would still have to be retained here,
+however. Unlike what the cases of fire and light suggest, one should not say that
+God's intention to create the world is part of God's very nature; God may always
+intend to create the world, but this is by no necessity of nature. What needs to
+be retained of the idea of deliberation is the simple idea of a nonnecessary relation between God's being and nature, on the one hand, and God's intention to
+create the world, on the other. From God's existence and nature one cannot infer
+with any logical necessity that God intends to create the world. Even if God never
+doesn't intend to create the world, God didn't have to so intend. Without this
+free character of intention, the necessity of God bleeds over onto the character of
+the world, in violation of the idea that God is beyond kinds, neither like nor
+unlike anything in the world or the world as a whole. If God's nature meant that
+God had to intend to create the world, then a similar "had to be" must also characterize the existence of the world (assuming that God's intentions cannot be frustrated!).
+
+Finally, personalistic imagery for God's creating might suggest that the world
+is not equally the creation of God over its whole course, in much the way a house
+gains independence from its builder once built. Here again a better analogue
+might be found among natural causes, specifically in the relationship between a
+natural cause and those of its effects that lack the capacity to retain the propercommunicated to them. Air, for example, does not have the ability to remain
+illuminated apart from the constant shining of a light source.
+
+Other theologians prefer naturalistic imagery. We have already seen some of
+the positive reasons for its appeal: the way it helps avoid the ideas of creation
+out of preexisting stuff, of mediating process, temporal change, and narrow
+associations with the first moment of something's existence. These theologians
+think the deficits of such language are not very serious and can be remedied
+through the use, for example, of personal imagery. Thus, images of fire and light
+need not imply that God's substance is parceled out to created things, or somehow thinned out to make them, like a thin stream from an overflowing basin of
+water or like a wave of heat from a much hotter stove, It can instead be thought
+of as a materially discontinuous imitation of the whole in an entirely different
+medium--less like the rays from the sun and more like a painted picture or phocographic image of the sun itself. The world is not, then, quasi-divine; it is the
+distinctly nondivine reflection of God's own being and beauty. One could argue
+moreover, that natural causes are no more limited in the range of their effects
+than intentional agents are. Fire, for example, can melt bronze or harden mud
+or make water evaporate.
+
+Finally, natural causes are such because of their superabundance, and this
+suggests a kind of freedom to their working despite the fact that they must do
+what they do: Fire must give off heat, and the sun must shine. They do not act
+out of needs they have in a more perfect form anything that they might achieve
+by giving rise to light or heat outside themselves. So the triune God has in the
+divine superabundant life the perfect form of communicated good in the way
+the three persons of the Trinity give of their own good to one another in perfect equality. God must communicate the goodness of God's own nature outside God in creating a world that is not God; to do so is God's very nature in
+the way it is fire's nature to give off heat into its surroundings. But this is a free
+act, since God already has in God's own intra-Trinitarian life the perfect form
+of self-diffusing good, the perfect form of anything that God might hope to
+achieve in creating a good but nondivine world. One can talk then of this natural act of creating in personal terms; it is an act of generosity, an unforced
+demonstration of regard for the other, a gracious exhibition of concern for the
+good of others.
+
+### GOD, PROVIDENCE, AND THE WORLD
+
+With this understanding of creation in hand, one can see how providence is
+implied by it. Talk of God's providence is just a way of singling out certain features of the world that God creates. If the world is created by God in all its
+respects, the world is being created by God as things within it act and form
+arrangements and move toward new ones, by way of natural and human causes.
+The activity, organization, and historical directionality of the world are all aspects
+of the world God creates; God gives rise to those aspects of the world as to every
+other, Since creation is not identified with the beginning of the world (should it
+have one) but means that the world is being held up into being at all times, the
+world's processes, and the arrangements of things they produce, are all included
+in what God creates. The world is the creation of God from start to finish,
+throughout the whole of natural and human history, and throughout each created cause's course, from its beginning to act through its achievement of effects.
+
+Providence refers to God's plan for the world but also to the way it is executed
+ina world that has its own powers of activity. By bringing into being a world with
+such powers, God gives the world a hand in the execution of God's plan; the
+world is made the partner of that plan, in
+stronger and weaker senses across the
+world's history--whether the world's
+creatures do so by natural instinct or by
+choice, and whether we do so as Christ
+does by a will aligned with God or as sinners and those ignorant of God's plans.
+
+The doctrines of God and creation reveal
+certain general features about how the
+plan is being executed--as that plan comes to fruition in Christ and elsewhere.
+
+For example, because God is the creator of the world in all its respects, God
+does not need to replace the activities of creatures with God's own in order to
+achieve God's ends, God can instead give rise to the very powers and acts of creatures that further those ends. Nor do those actions of creatures replace the need
+for God's activity as creator; without God's holding of them into existence, such
+acts would not exist. As everywhere, so in a special way in Christ: God does not
+save us by replacing the human capacities of Jesus with God's own; God saves in
+and through the very human acts by which Jesus lives and dies. God works everywhere in and through creatures, while their activities remain their own (for better or worse)--fully finite and fully fallible.
+
+Because God is beyond kinds, God does not carry out God's plans by entering into the world, as one kind of force among others, whether regularly or by
+spasmodic intervention. God is not the name of one kind of force or principle--
+say, creativity or a principle of novelty--operating within the world. God is not
+working alongside us, doing one part of the work that needs to be done while the
+world does another. Instead, God, as creator, is responsible for the working of the
+whole. Nor does God enter into the world after the fact, after the workings of the
+world are done, to coerce or redirect it. Because God brings them to be and holds
+them up into existence, God doesn't work on or from the outside of causes operating independently of God, in imitation of the way limited creatures have to
+coerce or redirect matters that preexist their activity.
+
+Nor does God need creatures of any particular sort to achieve God's ends
+within the world. Remembering the complexities of language of intentional
+agency helps us to see how the characteristics of God's own planning imply nothing, one way or another, about the world God brings about to execute it. God's
+plans, for example, are by definition purposeful, but that need not mean that the
+contents of God's plans for the world include the creation of purposeful agents
+any more than my plan to hit a bull's-eye requires execution by an arrow with the
+same end in mind. God may be working in the world for our good out of the
+goodness of God's heart, but that does not mean that the world is.
+
+The same loose relation with created causes of any particular sort follows from
+the immediacy of God's agency. Because God's creative powers extend to everything that happens in an equally direct fashion, what God wants to happen is not
+mediated by the activities of the creatures that carry it out in the strong way that,
+say, my wanting a submarine to be raised from the ocean bottom is mediated by
+the workings of heavy lifting equipment. (If that equipment is faulty or its operator has other plans, I'm in trouble!) Unlike the case of creatures bringing about
+effects through the workings of others, God's creative activity extends directly to
+everything and not indirectly to some things by way only of their causes. Created
+causes are not the means by which God brings into existence the effects of those
+causes, since the whole of those causes, their workings, and effects are the result
+of God's creative activity. Picture the whole world, in all its complexity of causal
+process, as a horizontal plane, suspended into existence, at each and every point,
+by the vertical threads (invisible and infinitesimal) of God's own working, and
+you will begin to see the sense this all makes.
+
+God's creative activity extends directly
+to everything that happens, whether or
+not, therefore, sufficient created causes
+exist for those happenings or whatever 
+the character of the causes that exist--
+whether they work purposely or blindly,
+accidentally or necessarily, and so forth.
+God can bring about what creatures, of
+their own powers, cannot, just as,
+beyond all human capacity, Christ's
+human powers for living and dying save
+us from sin and death. God does not
+have to make creatures the partners of God's plans; God might do without their
+powers altogether. God does not have to save us, for example, by becoming
+incarnate--God could, one supposes, simply destroy sin and death by fiat--but
+freely chooses to make human nature in Christ the partner of the process. God
+can make do with partners in only the weakest sense of that term--with creatures who work not at all, or blindly and without foresight, or with malice of
+intention. But as shown in Christ, God can also work with the full gamut of created causes, such as with the natural process of dying, willingly entered into by
+a man whose acts were in knowing conformity with God's, violently achieved
+through the ignorance and sin of everyone around him--Romans, his own
+people, and his chosen apostles.
+
+Understanding God's providence in these ways--in light of Christian teachings about God and creation--protects against the idea of a God whose concerns
+ate limited, a God who demands that creatures bend in submission to a tyrannical, inescapable will, a God who must fear frustration by the failure of creatures
+to match the characteristics of God's own will. But only in Christ is any of this
+known for sure. In Christ it becomes clear: The plan is one of steadfast, unbreakable love for the whole of what God has created, a plan executed in and through
+the throes of a life like any other in its humanity, a life that sees the death to which
+all creatures come, hastened by violent sufferings wrought by the misguided,
+shortsighted acts of even those closest to him--the self-chosen disciples of his
+own mission of love. It is by that death, worked in that way, that Jesus saves. If,
+then, this same God holds up into existence a whole world with these flaws of
+both finitude and deliberate failing, it must be as an act of beneficent mercy, in
+which we may trust.
+
+## QUESTIONS FOR REFLECTION AND DISCUSSION
+
+1. What do the creation stories in Genesis imply about God's relation to the
+world? About our relation to the environment?
+
+2. What is the "problem of evil" in theology? What are some traditional
+responses to it? What are strengths and weaknesses of each?
+
+3. What problems does McFague identify in the traditional creation myth?
+
+4. McFague offers a number of models of the relation of God and world. What
+are strengths and weaknesses of each?
+
+5. Tanner proposes that God is not a kind of thing at all, What does that
+mean? What implications does it have for the relation of God and the world?
+
+6. Tanner contrasts personal agency and naturalistic emanation as models, of
+creation. What are strengths and weaknesses of each?
+
+7. How does each of these authors relate creation to Christology?
+
+## FOR FURTHER READING
+
+* Gilkey, Langdon. Maker of Heaven and Earth, Garden City, N.Y.: Doubleday and Co., 1959.
+* Griffin, David Ray. _God, Power, and Evil: A Process Theodicy_. Philadelphia: Westminster Press, 1976
+* Helm, Paul. _The Providence of God_. Leicester: Inter-Varsity, 1993.
+* Kaiser, Christopher B. _Creation and the History of Science_. Grand Rapids: Wm. B. Eerdmans Publishing Co. 1991.
+* McFague, Sallie, _The Body of God: An Ecological Theology_. Minneapolis: Fortress Press, 1993
+* Moltmann, Jiirgen. _God in Creation_, Trans, Margaret Kohl. San Francisco: Harper and Row, 1985.
+* Overman, Richard. _Evolution and the Christian Doctrine of Creation_, Philadelphia: Westminster Press, 1967
+* Soelle, Dorothee. _To Work and to Love_, Philadelphiphia: Fortress Press, 1984.
+* Tanner, Kathryn. _God and Creation in Christian Theology_. Oxford: Basil Blackwell, 1988.
+* Teilhard de Chardin, Pierre. _The Phenomenon of Man_. Trans. Bernard Wall. New York: Harper & Row, 1959
+* Ward, Keith. _God, Chance and Necessity_. Oxford: One World, 1996.
+
