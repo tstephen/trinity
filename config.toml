@@ -3,8 +3,9 @@ languageCode = "en-gb"
 title = "Resources for ministry"
 theme = "ananke"
 
+DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -14,24 +15,17 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  body_classes = "sans-serif bg-dark-gray"
+  body_classes = "sans-serif"
   post_content_classes = "sans-serif"
-  text_color = "near-white"
-  secondary_text_color = "light-silver"
   cover_dimming_class = 40
   author = "Tim Stephenson"
   favicon = "favicon.svg"
   site_logo = "/ministry-logo.png"
-  description = "The last theme you'll ever need. Maybe."
+  description = "Resources for theology, ministry and mission"
   show_reading_time = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-dark-blue"
-  secondary_background_color_class = "bg-mid-gray"
-  # same color as background_color_class above, required for favicon use
-  theme_color = "00449E"
-  # https://pixabay.com/photos/men-mentor-help-climbing-mountain-3610255/ (Pixabay license)
-  featured_image = "/images/ministry-g35ac48216_1920.jpg"
-  recent_posts_number = 5
+  background_color_class = "bg-navy"
+  recent_posts_number = 6
 
 [[params.ananke_socials]]
 #name = "twitter"
