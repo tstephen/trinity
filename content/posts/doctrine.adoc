@@ -1,0 +1,38 @@
+---
+title: "Doctrine essay questions"
+date: 2022-06-20T09:18:17+01:00
+draft: true
+---
+
+## Q4 Tradition
+
+### Perlego
+
+* Vanhoozer, Kevin J., The Drama of Doctrine, ch.7 (‘Jesus, Spirit,
+Church’) and ch.8 (esp. pp.231ff., ‘The Practice of Sola Scriptura and
+the Role of Tradition’).
+* Franke, John R., ‘Scripture, Tradition and Authority’ in Evangelicals
+and Scripture, ed. Vincent Bacote et al.
+* Migliore, Daniel, Faith Seeking Understanding, ch.2 (esp. the section ‘Revelation, Scripture, and Church’)
+
+### Library
+
+* Berkhof, Hendrikus, Christian Faith, ch.17
+  -	BT75.2 BER
+* Williams, A.N. ‘Tradition’ in The Oxford Handbook of Systematic Theology
+  -	BT75.3 OXF
+* Barth, Karl, Protestant Theology in the Nineteenth Century, ch.1 (‘The Task of a History of Modern Protestant Theology’)
+ 	- BT28 BAR
+* Longenecker, Richard, New Wine into Fresh Wineskins: Contextualizing the Early Christian Confessions
+  - BS2545.1374 LON`
+* Lohse, Bernard, A Short History of Christian Doctrine, intro + ch.1.
+  - BT21.2 LOH
+* Migliore, Daniel, Faith Seeking Understanding, ch.2 (esp. the section ‘Revelation, Scripture, and Church’)
+  - BT65 MIG
+
+### Neither
+
+* Vanhoozer, Kevin J., ‘Scripture and Tradition,’ in The Cambridge Companion to Postmodern Theology
+* Lindbeck, George A. The Nature of Doctrine (esp. ch.5)
+
+* Calvin, John, Institutes of the Christian Religion, Book IV, chapter ix (‘Councils and their Authority’)
