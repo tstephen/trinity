@@ -1,0 +1,173 @@
+---
+title: Hebrews
+author: "Tim Stephenson"
+date: 2021-11-07T19:24:58Z
+draft: true
+toc: true
+categories:
+ - Introduction to the New Testament
+tags:
+ - Hebrews
+---
+:toc:
+// Set toclevels to be at least your hugo [markup.tableOfContents.endLevel] config key
+:toclevels: 4
+
+= Hebrews
+
+== Intro
+
+=== What is Hebrews?
+
+ * a letter?
+ * a sermon?
+ ** exhortation implies yes
+ ** a sermon sent from one place to another
+
+=== Profile of author
+
+ * Jewish
+ ** references to OT
+ ** care for the audience
+ * Highly educated, best greek in NT; steeped in Greek thought (alexandria?)
+ * Brill expositor of Greek scriptures
+ * Male (cf Priscillla)
+ ** Paul
+ *** All his letters bear his name
+ ** Barnabus
+ *** Levite hence priestly interests
+ *** In Paul's circle
+ ** Priscilla / Aquila
+ *** Heb 11:32 (male participle)
+ ** Apollos
+ *** Jew of alexandria
+ *** Reputation for eloquence and rhetoric
+ * Within Pauline circle (ref Tim)
+ * Not an eyewitness - Heb 2:3
+ * Known to readers - wants to return
+ * Anthony Thistleton : greatest theologian alongside John (gospel writer) and Paul
+ ** Also wrote that its too good to be kept out despite lacking apostolic credentials
+ * Origen says 'only God knows'
+ * Earliest church fathers didn't attribute to Paul but arising by 4th C
+
+=== Profile of readers
+
+ * Jews
+ * Backsliding; tempted to return to Judaism
+ ** Judaism tolerated (religio licta)
+ * Weary
+
+=== Date
+
+ * Heb 8:13 temple could be referred in present even if destroyed
+
+=== Literary
+
+ * Alternating teaching and exhortation
+ * 'Hook words'Hook words'
+ * inverted topic introduction
+ ** see slides
+ * Lane, 1991: no consensus on structure
+
+== Structure
+
+ ** 1:1-4 prolog
+ ** ch 1-12 central thesis
+ *** J greater than ...
+ *** ....
+ ** ch 13 start final exhortations
+ ** ch 13 part b concluding comments
+
+== Prolog
+
+ * Introduces topic: supremacy of Christ
+ ** royality (heir) as well as supreme
+ * Basic claims
+
+== Commentary
+
+ * 1:5-14 J as son, lord, God, creator
+ * 2:1-4 Therefore....
+ ** If neglected the law and reaped judgement, mow much worse to ignore the son
+ ** Three fold evidence
+ * Compare Philipians 2:5-11
+ * Heb 2:10-12 'pioneer' same word used to describe Olympians coming dow from throne for some purpose
+ * Heb 2:14-18
+ ** J Must be fully human to withstand and thus destroy devil
+
+=== J superior to ... ch 3-10
+
+ ** priests
+ ** covenant
+ ** cult (in Judaism refers to priestly service)
+ *** tent
+ *** sacrifice
+ ** Superior to Moses - Heb 3:1-6
+ ** exhortation not to waver (like Israel after exodus)
+ ** cf John which has security, here a real chance they will give up
+ ** Disobedience = failing to endure rather than general sinfulness
+ *** Heb 4:5-11
+
+==== Heb 6
+ 
+ ** 6:9 'we are confident' (NRSV) is perfect tense in Greek
+ ** 6:19-20 Assurance of J priestly role
+ ** Melchizadek Heb 7:1-3
+ *** Gen 20; Psalm 110; ... and Hebrews
+ *** Does feature in dead sea scrolls
+ *** expected to return
+ *** analogy to J
+ *** why need more if what we have is sifficient? It's not sufficient e need more Heb 7:1-14
+ ** Better covenant, better ministry
+ *** Moses' tabernacle a pale imitation of [platonic] ideal Heb 8:5
+ *** Also Heb 10:1-4
+ *** 'Once for all'
+ *** Since priests continually sacrificing clearly something still to come Heb 9:1,6-10
+ *** Compare Paul (esp. Romans) continue w Law or not? Both
+ *** "Not replacement theology but fulfillment theology" Peter
+ *** "too hard to do it alone" - Heb 10:19-25
+ *** compare to current risk of continuing via Zoom
+ *** "how much more": 'a fearful thing to fall into the hands of the living God' Heb 10:26-31
+
+==== Heb 8:1-10:18 _How_ J carries out duties of High Priest
+
+ * 8:1 'the main point: we have such a priest [as Melchizedek]'
+   - 'Seated': completed in a way Levitical priests never are and more honoured as they may only stand in the presence 
+ * 8:2 'true tent': again contrasting the human with the divine
+ * 8:6-7 J has a better ministry, if the Mosaic covenant was sufficient there would be no need for a second one.
+   - Not implying the first covenant was defective, people's inability to keep it is the problem.
+ * 8:8b-12 Quote from Jeremiah 31:31–34
+   - Author does not name the prophet because Jeremiah is just the mouthpiece, the authority is divine.
+ * 8:8b 'new' is here _kainos_ meaning 'novel' compared to _neos_ in 12:24 meaning 'fresh' 
+ * 8:10 '...my law in their minds and ... on their hearts' - Hebraic parallelism - poetic and emphasis. No longer mediatd by priests.
+
+==== ch 9--The limits of the old covenant & Jesus' achievement
+
+ * The first half (vv1-10) covers the _earthly sanctuary_ and rules for worship there
+ * The second half (vv11-28) contrasts the _heavenly sanctury_ and worship there
+
+==== ch 10--The new covenant--Christ's sacrifice once for all
+
+ * vv1-18: The perfect sufficiency of J's sacrifice
+   - v14: one sacrifice _has been made_ (perfect) but the beneficiaries _are being made_ holy (continuous present)
+ * v26: further warning against apostasy (triggered by the reminder v25 that 'the Day is coming'?)--see ch 6; and yet
+ * v39: confidence that apostasy will be avoided--a demonstration of 'spurring one another on' as in v24
+
+==== ch 11 By faith, by faith, by faith
+
+==== ch 12 therefore
+
+ *** run with perseverance
+ *** looking to Jesus the pioneer and perfecter of our faith
+
+== Summary
+
+ * a sermon to Christians who are tired, failing and looking with longing back to Judaism (compare Israelites in desert longing for Egypt)
+ * Towering theology
+ * Jesus in every way superior to Judaism
+ * not replacement but fulfilment (law pointed the way but insufficient)
+ * J ultimat eHigh Priest, eternal order of M
+ * enters true, heavenly sanctuary with Hisown blood
+ * pays for sin once, not continually
+ * full assurance to approach God
+ * don't give up!
